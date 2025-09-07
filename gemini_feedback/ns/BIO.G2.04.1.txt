@@ -1,0 +1,47 @@
+Okay, I can provide some feedback on the paper based on the OCR text you've provided.  Keep in mind that I'm limited by the text I have – I can't see figures, tables, or the overall formatting, which are also important aspects of a research paper.
+
+**Overall Impression (based on the limited text):**
+
+The paper seems to be a fairly standard phylogenetic analysis focused on resolving the relationships of Old World vultures, with a particular emphasis on the placement of *Gypohierax angolensis*. It outlines a problem, describes the methods used to address it, presents results, and discusses the implications of those results in light of previous work.
+
+**Areas for Potential Improvement (based on the text):**
+
+1.  **Clarity and Specificity in the Introduction:**
+
+    *   While the introduction sets up the problem, it could be more focused.  Specifically, it could benefit from a clearer statement of the *specific hypotheses* being tested.  What are the competing hypotheses about the placement of *Gypohierax* and the relationships of Old World vultures in general? Make this very explicit.
+    *   Elaborate on why resolving these relationships is important.  Does it have implications for understanding the evolution of scavenging behavior, geographic distribution, or conservation efforts?
+
+2.  **Methods Section - More Detail and Justification:**
+
+    *   *Primer sequences*:  While you mention the primers used (cytochrome B), actually provide the primer sequences. This makes the methods reproducible.
+    *   *Software and parameters*: You mention software like Winclada and MrBayes, but provide more detail on the specific models used for Bayesian inference (e.g., GTR+G+I, etc.) and any specific settings.
+    *   *Outgroup selection*: Explain the rationale for choosing the outgroups used in the analysis.
+    *   *Justification for analysis choices:* Briefly justify why you chose parsimony, maximum likelihood, and Bayesian inference. What are the strengths and weaknesses of each approach in the context of this dataset?
+
+3.  **Results Section:**
+
+    *   *Quantify support values:* You mention "strong support" and "weak support," but be more specific. Provide bootstrap values for parsimony and posterior probabilities for Bayesian inference in the text when discussing specific clades.
+    *   *Mention conflicting signals:*  If there are areas where the parsimony and Bayesian analyses disagree, explicitly point them out.
+
+4.  **Discussion Section - Synthesis and Broader Implications:**
+
+    *   *Compare and contrast with previous studies:* You do some of this, but make it even more explicit how your results support, contradict, or expand upon the findings of Seibold and Helbig, Mundy et al., and other relevant studies.
+    *   *Address limitations*: Acknowledge any limitations of your study. For example, are the results based on a single gene? Would including more genes or morphological data potentially change the conclusions?
+    *   *Broader implications:* Return to the "why" question. What do your findings tell us about the evolution of Old World vultures? What are the broader implications of your findings for understanding avian evolution or conservation?
+
+5.  **Language and Clarity:**
+
+    *   The text is generally clear, but there are a few awkward phrases. For example, "Cosdon usage patterns" should likely be "Codon usage patterns." Proofread carefully to catch any typos and grammatical errors.
+
+**Specific comments on excerpts:**
+
+*   **"To sequence: Cyt b and ND2"**: Good that you are acknowledging work to be done, but make sure that you actually DO it.
+*   **"The sequence data set of 1017 nucleotides from 27 species aligned with no indels or stop codons"**: This is good information to include in the results section.
+*   **"The Bayesian analysis suggests that Gypohierax, Neophron and Gypaetus form a monophyletic clade of early diverging vultures sister to a species long-supposed to be early diverging: Pernis."**: This is a key finding! Make sure it's emphasized in the abstract and introduction.
+
+**General advice:**
+
+*   **Consult the literature:** Read recent papers on avian phylogenetics to see how they structure their methods, present their results, and discuss their findings.
+*   **Seek feedback:** Share your paper with your advisor, colleagues, or other experts in the field for additional feedback.
+
+**In summary,** the paper appears to be a solid starting point, but could be strengthened by providing more detail in the methods section, quantifying support values in the results section, and synthesizing the findings in the discussion section to highlight their broader implications. Good luck!

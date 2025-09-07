@@ -1,0 +1,66 @@
+Certainly! Here’s some detailed feedback on your paper, focusing on **strengths**, **areas for improvement**, and **suggestions** for clarifying your arguments and improving structure and style.
+
+---
+
+## Strengths
+
+### 1. **Clear Theoretical Understanding**
+- You accurately describe the developmental theories of Marcia and Piaget and apply their concepts clearly to the children in the "7 Up" documentary.
+- You use relevant examples from the documentary to illustrate key points (e.g., Andrew’s changing interests, John’s response to hypothetical situations).
+
+### 2. **Good Use of Evidence**
+- You support your claims with direct references to the children’s words/actions from the film.
+- There's a logical progression in showing how each child's development fits into the cited theories.
+
+### 3. **Balanced Structure**
+- The paper maintains a balance between **summary of theory** and **application to cases**, which strengthens your analysis.
+- Each theory (social and cognitive development) is given a thorough explanation.
+
+---
+
+## Areas for Improvement
+
+### 1. **Thesis & Introduction**
+- The introduction is a bit general and doesn't clearly state your thesis. Consider adding a sentence explicitly stating what your analysis will accomplish (e.g., "This paper analyzes the social and cognitive development of Andrew and John from the '7 Up' documentary, using Marcia's and Piaget's developmental theories.").
+
+### 2. **Organization & Section Headings**
+- While the flow is generally logical, your transitions between theorists and examples could be smoother. Explicit headings (e.g., “Social Development: Andrew,” “Cognitive Development: John”) could help clarify structure.
+
+### 3. **Depth of Analysis**
+- At times, the application of theory is a bit superficial. For example, you note Andrew is in “foreclosure or diffusion” but could expand more on the implications and what might cause him to shift stages.
+- The discussion of John’s “egocentrism” is interesting, but you could further elaborate on how this fits into Piaget’s later stages (e.g., do all adolescents remain somewhat egocentric, or is this a unique weakness for John?).
+
+### 4. **Conclusion**
+- The conclusion reiterates the importance of theory but does not fully recap your findings or the significance of your analysis. Summarize your main points and comment on the broader implications (Why does it matter to understand these children’s development in this way?).
+
+### 5. **Clarity and Style**
+- There are minor grammatical and style issues (“he” for the generic child rather than “they,” a few long/wordy sentences). Edit for conciseness and clarity.
+- Make sure each paragraph has a clear topic sentence and focus.
+
+---
+
+## Suggestions for Improvement
+
+1. **Explicit Thesis**: Refine your introduction to state your main aim.
+2. **Section Headers**: Consider adding headers to guide the reader.
+3. **Critical Evaluation**: Add more critical reflection—do you see limitations in these theories when applied to Andrew and John? Any aspects the theories don't explain well?
+4. **Greater Integration**: Sometimes the application of theory and the description of examples feel separate. Try to more tightly weave theory and real-life example together.
+5. **Technical Accuracy and Format**: Ensure citations are clear (if this paper needs to meet citation/convention standards), and proofread to address minor typos or awkward phrases.
+
+---
+
+## Example Revision of a Paragraph
+
+**Original:**  
+"At age seven, Andrew attends an exclusive pre-prep school in Kensington. At this age, Andrew appears to be somewhere in between the identity foreclosure and diffusion stages. At this time, Andrew has not made any commitments to his career path; however, he does have an idea of his educational path, which is an identity mostly influenced by his parents."
+
+**Improved:**  
+"At age seven, Andrew is enrolled in an exclusive pre-prep school in Kensington. According to Marcia’s model, he appears to be located between the identity foreclosure and diffusion stages. While Andrew has not committed to a specific career, his educational trajectory is already shaped by his parents' expectations, indicating that significant aspects of his emerging identity are adopted without personal exploration."
+
+---
+
+## Overall Assessment
+
+This is a strong undergraduate analysis with clear understanding and application of developmental theory. With improvements in organization, depth, and clarity, your arguments would be even more compelling!
+
+**If you have any specific questions (e.g., about citations, structure, or theory), feel free to ask!**

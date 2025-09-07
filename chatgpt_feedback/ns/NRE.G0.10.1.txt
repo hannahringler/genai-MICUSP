@@ -1,0 +1,80 @@
+Certainly! Here’s detailed feedback on your paper, **“Acid Mine Drainage: Effects and Possible Solutions.”** The feedback covers organization, clarity, argument strength, use of sources, and areas for improvement.
+
+---
+
+## Overall Strengths
+
+### 1. **Clear Structure**
+- The paper follows a logical structure: Introduction, Literature Review, Discussion/Analysis, and Conclusion.
+- The inclusion of an **abstract** is helpful and outlines the paper’s focus well.
+- Each section has a defined purpose and addresses key aspects of AMD (Acid Mine Drainage).
+
+### 2. **Use of Examples**
+- Real-world cases (Berkeley Pit, Pennsylvania streams) give the paper depth and demonstrate the seriousness of AMD.
+- Specific chemical reactions and their effects are included and explained, demonstrating your understanding of the scientific basis.
+
+### 3. **Balanced Approach**
+- The paper discusses both the environmental effects and the economic considerations of AMD remediation.
+- Solutions for both old and new mines are considered and compared.
+
+### 4. **Use of Sources**
+- The paper references a mix of primary and secondary literature, including academic works and reputable websites.
+- Citation of direct examples, like Bucknell’s paint from yellowboy and the failed economic attempt at Berkeley Pit, illustrates points effectively.
+
+---
+
+## Areas for Improvement
+
+### 1. **Thesis Clarity and Purpose**
+- The thesis—that economic accountability and prevention are best for AMD—is clear, but could be stated more assertively in the introduction and reinforced throughout.
+- The abstract and introduction sometimes blend; consider keeping the abstract concise and using the introduction to more clearly frame your argument.
+
+### 2. **Transitions and Flow**
+- Some transitions between sections feel abrupt. For example, the switch from chemical processes to environmental effects and then to economic solutions could be made smoother.
+- Try summarizing the key findings of each section before moving to the next.
+
+### 3. **Depth of Analysis**
+- **Cleanup Solutions:** The discussion of cleanup methods could benefit from clearer comparison. A table or direct comparison (pros, cons, costs, effectiveness) would help.
+- **Profit Potential:** Expand on why profit-driven cleanup isn’t currently economical and what factors (technology, market, policy) could change that.
+- **Regulation & Prevention:** More detail on *how* governments can hold companies accountable (bonds, fines, monitoring) would strengthen your recommendations.
+
+### 4. **Use of Sources & Citations**
+- Reliance on Wikipedia is seen as less rigorous in academic writing; use it sparingly or to triangulate more reliable sources.
+- Ensure you consistently cite all facts and claims.
+- Update references where possible; some are quite dated (1994, 1996). This material may still be relevant, but referencing more recent studies would strengthen the work.
+
+### 5. **Grammar and Style**
+- Occasionally, sentences are long and could be more concise. Example:  
+  *“AMD is a naturally occuring process that is a byproduct of weathering of rock (Kesler, 1994).”*  
+  Consider: “AMD naturally occurs as rocks weather, but its effects are much more severe with mining activity (Kesler, 1994).”
+- Proofread for typos (“occurring” not “occuring”; “arsenic” not “aresenic”; “Clark Fork River” not “Clark Ford River”).
+
+### 6. **Conclusion**
+- The conclusion reiterates main points but could more strongly advocate your preferred solution.
+- Consider a “call to action” or a statement about the implications of inaction/policy inertia.
+
+---
+
+## Summary Table
+
+| Aspect                  | Strengths                                              | Areas to Improve                                              |
+|-------------------------|-------------------------------------------------------|--------------------------------------------------------------|
+| Structure               | Clear organization, logical flow                      | Smoother transitions, more assertive thesis                  |
+| Examples & Evidence     | Real-world cases, good use of reactions               | More direct comparison of solutions, more recent examples    |
+| Analysis                | Considers both environmental and economic perspectives| More depth on economics and regulations                      |
+| Sources/Citations       | Variety of sources, specific references               | Minimize Wikipedia, cite more recent primary literature      |
+| Grammar & Clarity       | Generally clear and readable                          | Check for typos, use concise sentences                       |
+| Conclusion              | Summarizes arguments                                 | Stronger final statement, actionable recommendations         |
+
+---
+
+## Final Recommendations
+
+- **Sharpen your thesis and make it a through-line for your entire argument.**
+- **Expand the analysis**—especially on why certain methods are not economically feasible and how governance can drive better outcomes.
+- **Polish language** for conciseness and correct typos.
+- **Update references** and minimize reliance on Wikipedia.
+
+Overall, you display good understanding of the issues and possible solutions regarding AMD. With some focused revisions, you can make your paper more authoritative and impactful!
+
+If you’d like, I can help revise specific paragraphs or help create a more assertive thesis/conclusion. Let me know!

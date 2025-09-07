@@ -1,0 +1,69 @@
+Okay, I can provide some feedback on this research paper based on the OCR text you've provided.  I'll focus on aspects related to clarity, structure, scientific rigor, and overall impact.
+
+**Overall Impression:**
+
+The paper investigates an interesting ecological question: how two similar bat species (Myotis lucifugus and M. septentrionalis) coexist in northern Michigan.  The study aims to determine if spatial or temporal segregation reduces interspecific competition. The paper presents a decent attempt to answer this question, but it has several areas that need improvement to enhance its clarity, rigor, and persuasiveness.
+
+**Specific Feedback by Section:**
+
+*   **Abstract:**
+    *   The abstract is a good start. It summarizes the main points. However, it could be more concise and impactful.
+    *   Consider quantifying the preference for wooded sites by *M. septentrionalis*. Instead of just saying "preferred," provide the specific difference in activity levels between habitats.
+    *   Mentioning the limitations and/or the need for further research in the abstract can add a more balanced perspective.
+
+*   **Introduction:**
+    *   The introduction sets the stage well by describing the two species and their potential for competition.
+    *   The hypotheses are clearly stated.
+    *   The last paragraph is a concise statement of the study's purpose.
+
+*   **Methods:**
+    *   The site descriptions are reasonably detailed. A map (as mentioned) would be very helpful.
+    *   **Call Identification:** This section needs considerable clarification. The methods for classifying calls are crucial, and the description is confusing.
+        *   What is "modal quality"?
+        *   The criteria for classifying calls seem overly simplistic. Relying solely on average frequency and end slope might not be sufficient.  Were other parameters considered?
+        *   The use of a discriminant function analysis is appropriate, but it needs more detail:
+            *   What variables were included in the analysis?
+            *   How was the training dataset (calls from Mr. Wund) validated?
+            *   How was the performance of the discriminant function assessed (e.g., classification accuracy)?
+    *   **Missing Information:** Several important methodological details are missing:
+        *   How many calls were recorded at each site?  This is essential for interpreting the statistical analyses.
+        *   What was the sampling effort at each site (e.g., how many nights, how many hours)?
+        *   What were the criteria used to define a "call sequence"?
+        *   How were the Anabat recordings processed (e.g., filter settings, gain)?
+        *   Why choose the cutoff frequency for species ID as 50Khz and 45Khz?
+
+*   **Results:**
+    *   The habitat selection results are clearly stated.
+    *   Figure 2 and the related text in the result section indicate that both spatial segregation (wooded vs lake) is exhibited, and temporal segregation is also exhibited later in the night. This might be interesting to include in the introduction.
+    *   Figure 2:  The figure is clear and effectively presents the habitat selection data.
+    *   Figures 3 and 4 could be more informative. Showing error bars on the graphs would show the variance within the dataset.
+    *   The reporting of the Kolmogorov-Smirnov test results is a little unusual (D = 0.251 and P < 0.05). Typically, the Kolmogorov-Smirnov test is used to compare two different distributions. What distributions are being compared?
+    *   The negative results regarding temperature and rainfall are important to report.
+
+*   **Discussion:**
+    *   The discussion generally interprets the results in a reasonable way.
+    *   The limitations of the study (e.g., Anabat detector limitations) are acknowledged, which is good.
+    *   The suggestion for future research (examining allopatric populations) is a good one.
+
+**Suggestions for Improvement:**
+
+1.  **Clarify Call Identification Methods:** This is the most critical area for improvement. Provide a detailed and justified explanation of how calls were classified. Explain how you attempted to control for potential errors in call identification.
+2.  **Provide Missing Methodological Details:** Include the information about sampling effort, call sequence definition, Anabat settings, and number of calls recorded per site.
+3.  **Strengthen Statistical Analyses:**
+    *   Justify the use of the Kruskal-Wallis test and Kolmogorov-Smirnov test. Check for assumptions.  Consider alternative statistical methods if necessary.
+    *   Calculate effect sizes (e.g., Cohen's d) to quantify the magnitude of the observed effects.
+4.  **Improve Figures:** Ensure that all figures are clear, well-labeled, and informative. Add error bars to Figures 3 and 4.
+5.  **Address Limitations More Directly:** Discuss in more detail how the limitations of the Anabat detector might have influenced the results.
+6.  **Conciseness:** Review the paper for opportunities to be more concise. Avoid unnecessary words and phrases.
+7.  **Broader Context:**
+    *   Relate the findings to broader ecological principles. How do these results contribute to our understanding of species coexistence, niche partitioning, or community ecology?
+    *   Discuss the conservation implications of the findings. Are there any management recommendations that could be made based on the results of this study?
+
+**Specific Grammatical and Style Points:**
+
+*   There are a few inconsistencies in formatting (e.g., use of "M." vs. "Myotis"). Be consistent throughout the paper.
+*   Proofread carefully for grammatical errors and typos.
+
+**Overall:**
+
+This research paper has the potential to be a valuable contribution to the field of bat ecology. By addressing the issues outlined above, you can significantly strengthen the paper and increase its impact. Good luck!

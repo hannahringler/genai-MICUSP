@@ -1,0 +1,63 @@
+Certainly! Here’s some detailed feedback on your paper, **“Plum Creek’s Moosehead Region Concept Plan: A Conflict Management Case Study.”**
+
+---
+
+### **Strengths:**
+
+#### **1. Clear Organization and Structure**
+- The paper follows a logical progression: introduction, context, description of the plan, stakeholder analysis, conflict assessment, suggestions for improvement, and conclusion. Headings and subheadings help readers follow the argument.
+- Appendices are used well to separate supporting material (interview details, process descriptions, timeline, references).
+
+#### **2. Depth of Stakeholder Analysis**
+- The discussion of stakeholders is nuanced and detailed, going far beyond naming groups to describe their interests, histories, motivations, and relationships. This is a major strength and helps illuminate the complexity of resource conflicts.
+- You recognize the subtleties in positions (e.g., TNC’s challenging situation, divides among conservation groups, regional differences in Maine).
+
+#### **3. Integration of Conflict Management Concepts**
+- The use of conflict management theory is strong, referencing relevant literature and concepts (e.g., “black box” process, collaborative learning).
+- The transition from describing the conflict to proposing conflict management/improvement strategies is well-justified and demonstrates higher-level thinking.
+
+#### **4. Evidence-Based and Well-Researched**
+- The paper is thoroughly referenced, and the use of interviews adds direct evidence and varied perspectives. Citations are appropriate and add credibility.
+- Timeline and background section are clearly based on careful research.
+
+#### **5. Balanced, Analytical Tone**
+- The analysis is even-handed; you clearly present multiple sides and acknowledge both the positive and negative aspects of conflict in this context.
+- Complexities and trade-offs are acknowledged rather than oversimplified.
+
+---
+
+### **Areas for Improvement:**
+
+#### **1. Thesis and Framing**
+- **Clarity of Main Argument:** The introduction could more explicitly state **your thesis**—not just that you’re providing an analysis, but what your primary analytical point or insight is about this case as a conflict management problem. Consider adding a clear thesis sentence early on.  
+- **Repetitiveness:** The opening paragraph restates anticipated disagreements several times; try to streamline for brevity and clarity.
+
+#### **2. Critical Assessment**
+- The paper does an excellent job describing events and positions, but at times reads a little **detached**. Occasionally, it stops short of critical assessment—e.g., how effective ARE the proposed conflict management strategies in similar contexts?  
+- When describing collaborative learning, you could briefly discuss any challenges/drawbacks or examples from elsewhere that illustrate how this might or might not work.
+
+#### **3. More Comparative/Generalizable Insights**
+- The conclusion would be stronger if you zoom out just slightly to note the **broader implications**. For example, what lessons from this case could be applied to other large-scale land use conflicts, or what does this suggest about the current state of stakeholder engagement in American conservation planning?
+
+#### **4. Use of Interviews**
+- Great to include interviews, but it’s not always clear **how many people were interviewed** and how representative their views are—do they skew in a certain way?
+- When quoting interviews (e.g., “Plum Creek couldn’t have done a better job at dividing and conquering...”), consider attributing quotes more specifically if possible (even if just “one conservation group leader said…”).
+
+#### **5. Acknowledgement of Limitations**
+- Briefly acknowledge **limitations** of your analysis (scope, time, availability of interviewees, possible bias, etc.).
+
+#### **6. Visual Aids**
+- Since maps are referenced (Appendix C), if this were a submission for wider readership, consider including a relevant map or two in the main text to help orient non-local readers more quickly.
+
+#### **7. Minor Style/Grammar**
+- The writing is generally clear, but some sentences are long and could be tightened for clarity. Occasional typos (“where those the right organizations?” should be “were those…”).
+
+---
+
+### **Summary Statement**
+
+**Overall, this is a well-structured, extensively researched, and analytically sophisticated case study. Your strengths are in detailed stakeholder description and effective use of conflict management literature. To make it stronger, clarify your thesis, push your analysis a little further in places, and end with a more generalizable takeaway. With a bit more critical edge and synthesis, this could serve as an excellent model for conflict management analysis in graduate-level resource management courses.**
+
+---
+
+**If you’d like more focused feedback on a particular section, or specific help with revision, let me know!**

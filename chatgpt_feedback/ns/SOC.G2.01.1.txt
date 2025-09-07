@@ -1,0 +1,64 @@
+Absolutely! Here is detailed feedback on the paper, organized by **strengths**, **areas for improvement**, and **overall comments**:
+
+---
+
+## Strengths
+
+**1. Depth of Analysis**  
+You demonstrate a strong understanding of sociological perspectives and the complexities involved in the construction of teenage pregnancy as a social problem. You skillfully compare different methodological approaches and draw on empirical research, such as Geronimus & Korenman (1993) and Hotz et al. (2005), to challenge simplistic policy narratives.
+
+**2. Cultural Sensitivity and Comparative Insight**  
+You bring in excellent cross-cultural comparison with the Tiriki to highlight the social construction of norms around childbearing. This anthropological lens enriches your critique and demonstrates awareness of cultural relativism.
+
+**3. Use of Evidence**  
+You make good use of both quantitative and qualitative examples to support your arguments. For instance, you point out how statistics in policy discourse often conflate unmarried births and teenage births, leading to misleading associations.
+
+**4. Engagement with Policy and Discourse**  
+You thoughtfully address how policy is shaped to be appealing to dominant cultural norms and values, touching on issues of race, class, and gender. The roles of different stakeholders (e.g., Congress, media, churches) are well-articulated.
+
+**5. Logical Flow/Organization**  
+Your argument builds logically, moves from critique of policy and discourse to cross-cultural example, and then discusses the implications of such constructions. The transitions are generally smooth.
+
+---
+
+## Areas for Improvement
+
+**1. Clarity and Conciseness**  
+Some sections are quite dense, with long paragraphs that pack in multiple complex ideas. Consider breaking these into shorter paragraphs and clarifying your key points earlier on. For example, the paragraphs discussing statistical misinterpretations could be more succinct, clearly stating why correlation does not imply causation before unpacking the nuance.
+
+**2. Thesis Statement/Introduction**  
+Since we do not see your introduction here, it's unclear if you have a roadmap or thesis statement at the outset. Ensure that your main argument is clearly stated early, so the reader knows what to expect. If this is only an excerpt, disregard this point.
+
+**3. Use of Jargon**  
+While your paper is targeted at an upper-level audience, some jargon could be explained more clearly or simplified. For example, terms like "unobserved heterogeneity" or "selection effects" could briefly be clarified for the reader, ensuring accessibility.
+
+**4. More Nuanced Representation of Policy Stakeholders**  
+You rightly critique both Republican and Democratic party strategies, but some claims (e.g., "the general public does not condone teenage sexuality") might benefit from a bit more nuance or attribution to specific surveys or studies, rather than being stated as fact.
+
+**5. Proofreading for Minor Issues**  
+There are a handful of wordiness and small grammatical issues (e.g., sentence fragments, overuse of passive voice, etc.). For example:  
+- "The latter is not a viable solution because it is not politically or socially acceptable to many people.” → This could simply be “This is politically and socially unpopular,” unless you expand on why.
+- “It would not be logical for them to develop the behavior of the Tiriki who live a totally different experience.” → Consider rephrasing for clarity.
+
+---
+
+## Additional Recommendations
+
+**• Conclusion:**  
+If not present, add a conclusion that succinctly summarizes your main findings and theoretical implications.  
+
+**• Citations:**  
+Ensure all empirical claims are appropriately cited. You reference some authors well, but occasionally make sweeping claims without evidence.
+
+**• Paragraph Structure:**  
+Remember: One idea per paragraph. Start with a clear topic sentence, and use supporting evidence or analysis.
+
+---
+
+## Overall Comments
+
+This is a thoughtful, well-argued piece that blends sociological theory, empirical research, and cultural comparison to challenge mainstream narratives about teenage pregnancy. It reflects advanced engagement with literature and sociocultural theory, and you successfully critique how social problems are “constructed” for policy purposes. By tightening the prose, clarifying key terms, and providing a clear thesis statement, this paper could reach an even higher standard.
+
+**Grade estimate (if helpful):** A- to A (very strong; just needs minor organizational/presentation tweaks)
+
+Let me know if you want line-by-line edits or help with a specific section!

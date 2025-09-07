@@ -1,0 +1,72 @@
+Absolutely! Here’s a thorough feedback on the paper: **“Investigation of MP3 Compression Quality”**. I’ll focus on strengths, areas for improvement, and overall comments.
+
+---
+
+## **Strengths**
+
+### 1. **Clear Structure**
+- The paper follows a logical, structured approach with sections reminiscent of a Six Sigma DMAIC process (Define, Measure, Analyze, Improve).
+- Use of executive summary and clear headings helps the reader follow your experimental reasoning and methodology.
+
+### 2. **Rationale & Relevance**
+- The motivation for studying MP3 compression—linking technical analysis to user experience and hardware limitations—is clearly articulated.
+- The discussion on subjective vs. objective analysis highlights a thoughtful assessment of experimental approaches in audio quality research.
+
+### 3. **Experimental Design**
+- Full factorial design is well-chosen for investigating interactions between multiple factors (encoder, decoder, bitrate, sampling rate).
+- The blocking on musical selections acknowledges natural variation in different music types, improving the reliability of conclusions.
+
+### 4. **Analytical Rigor**
+- Appropriately considers data transformation (Box-Cox) and checks for normality before running ANOVA.
+- Comprehensive statistical analysis, with main effects and interactions investigated, is commendable.
+
+### 5. **Critical Perspective**
+- The discussion of the limitations of your objective measure (lack of perceptual weighting) shows critical thinking.
+- Recommendations address practical trade-offs and acknowledge where subjective measures still matter.
+
+---
+
+## **Areas for Improvement**
+
+### 1. **Clarity and Audience**
+- While the technical approach is sound, some sections (especially on the statistical techniques) are dense. Consider clarifying complex terms (like RMS, dBr, and Box-Cox) for readers less familiar with statistics or signal processing.
+- Spell-check for minor typographical errors (e.g. “carred out” instead of “carried out”).
+
+### 2. **Graphical Presentation**
+- Figures and tables are good, but some readers may benefit from brief, plain-language captions explaining the significance of what’s shown (not just “see Figure 5” but what Figure 5 demonstrates).
+- Some figures, like the frequency spectrum and main effects plots, could use a more detailed description in the text and readable axis labels if possible.
+
+### 3. **Interpretation and Context**
+- The result that 32kHz sampling appeared better than 44.1kHz is addressed, but it’s still a surprising finding. Clarifying more about why this happens and what it means in real-world usage would strengthen the discussion.
+- The paper mentions that subjective effects were still audible at low bitrates, despite objective metrics; providing an explicit example or suggestion for hybrid objective/subjective evaluation would improve practical recommendations.
+
+### 4. **References and Citations**
+- References are adequate but slightly dated. If this were a current study, a search for more recent evaluations of MP3 quality or comparisons to new codecs (AAC, Opus) might be warranted, even if only briefly mentioned.
+- When mentioning software rather than citing web pages, include brief notes on what each software is/does to clarify for less technical readers.
+
+### 5. **Expansion**
+- The paper’s findings are limited to mono files at certain bitrates and brief samples. No criticism here since this is a student paper, but mentioning this caveat one more time in conclusions would clarify generalizability.
+- Future work could also consider more “real-world” subjective listening panels in tandem with spectrum analysis.
+
+---
+
+## **Summary**
+
+### **What Works Well**
+- Systematic approach, robust experimental design, and use of objective measurements.
+- Critical recognition of method limitations and the role of subjectivity.
+- The recommendations are practical and grounded.
+
+### **How to Improve**
+- Further clarify statistical concepts and provide more discussion around surprising or counter-intuitive findings.
+- Enhance captions, axis labeling, and accessibility of graphical/technical details.
+- Expand a bit on the limits of generalization and the need for perceptual weighting.
+
+---
+
+**Overall:**  
+This is an excellent, well-organized technical report with high analytical rigor. The detailed ANOVA and recognition of design/blocking show strong experimental and engineering judgment. Addressing communication (for a broader audience) and contextualizing your findings can make this an even more effective research paper.
+
+**Grade suggestion (if required):** Low A or high B+, largely depending on target audience and minor polish.
+
+Let me know if you’d like specific feedback on one section, or tips for publishing/revising further!

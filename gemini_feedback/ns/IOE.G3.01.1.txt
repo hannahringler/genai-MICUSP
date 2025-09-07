@@ -1,0 +1,61 @@
+Okay, I've reviewed the paper and have feedback for you. Here's a breakdown of my comments, focusing on strengths, weaknesses, and areas for improvement:
+
+**Overall Impression:**
+
+The paper presents a solid and well-structured analysis of water utility efficiency using Data Envelopment Analysis (DEA). The research question is relevant, the methodology is appropriate, and the results provide valuable insights into the factors influencing water utility performance. The paper is generally well-written, although some areas could benefit from clearer language and more concise explanations.
+
+**Strengths:**
+
+*   **Clear Research Question and Objectives:** The paper clearly states its research question and objectives, providing a focused direction for the analysis.
+*   **Relevant Literature Review:** The literature review is comprehensive and demonstrates a good understanding of previous work in the field. It effectively positions the current study within the existing body of knowledge.
+*   **Appropriate Methodology:** The use of DEA is well-justified, and the methodology is explained in sufficient detail. The choice of input and output variables is also well-reasoned.
+*   **Data Analysis and Results:** The data analysis is thorough, and the results are presented clearly and concisely. The use of the Wilcoxon-Mann-Whitney test to compare efficiency scores is appropriate.
+*   **Valuable Insights:** The paper provides valuable insights into the relative efficiencies of different water utility ownership types and water sources. The findings have implications for policy and decision-making in the water sector.
+*   **Structure and Organization:** The paper is well-organized and follows a logical structure, making it easy to follow the arguments and findings.
+*   **Abstract:** The abstract is well-written and accurately summarizes the key findings of the paper.
+
+**Weaknesses and Areas for Improvement:**
+
+*   **Clarity and Conciseness:** Some sections of the paper could benefit from improved clarity and conciseness. Complex sentences and technical jargon should be simplified where possible to enhance readability.
+*   **Justification of Variable Selection:** While the methodology mentions how variables were selected based on four different categories, it could be more effective to elaborate on the *reason* that those four categories were selected. It would also strengthen the paper to include a description of how the data was pre-processed for outliers, which could have a significant impact on the calculations.
+*   **Figure Presentation and Discussion:** The figures are difficult to view without zooming in, and some of them are mentioned but not shown.
+*   **Robustness Checks:** It would be beneficial to include some robustness checks to assess the sensitivity of the results to different assumptions or data specifications. For example, the authors could conduct a sensitivity analysis to examine how the efficiency scores change when different input or output variables are used.
+*   **Limitations:** Acknowledge limitations in the study. (limited dataset, assumptions in variable selection)
+
+**Specific Suggestions:**
+
+*   **Abstract:**
+    *   Consider adding a sentence about the limitations of the study.
+*   **Introduction:**
+    *   Briefly mention the limitations of previous studies and how the current study addresses those limitations.
+*   **Methodology:**
+    *   Provide more details on the data collection and cleaning process.
+    *   Justify the choice of input and output variables more explicitly.
+    *   Explain the assumptions underlying the DEA model in more detail.
+*   **Results:**
+    *   Use more descriptive headings and subheadings to guide the reader through the results.
+    *   Provide more context for the t-statistic values and significance levels.
+    *   Discuss the implications of the findings in more detail.
+*   **Discussion:**
+    *   Summarize the key findings of the study in a clear and concise manner.
+    *   Discuss the policy implications of the findings.
+    *   Suggest directions for future research.
+*   **Variable Selection**
+    *   I would suggest rewriting it to be a bit more easy to understand.
+*   **Figures:**
+    *   Ensure that all figures are properly labeled and captioned.
+    *   Improve the readability of the figures by increasing the font size and using clear and concise labels.
+    *   Consider adding error bars to the graphs to show the uncertainty in the efficiency scores.
+*   **Overall:**
+    *   Proofread the paper carefully to correct any grammatical errors or typos.
+    *   Ensure that all references are properly cited.
+
+**Detailed points to consider:**
+
+*   **Non-discretionary Variables:** Expand on the explanation of non-discretionary variables and why their inclusion is important for a more accurate assessment of utility efficiency.
+*   **Practical Implications:** While the paper mentions implications for policy, consider elaborating on the *practical* steps that water utilities can take based on these findings.  For example, what specific operational changes might be recommended for private for-profit utilities to improve their efficiency?
+*   **Alternative Methodologies:** Briefly acknowledge alternative methodologies for assessing water utility efficiency (e.g., stochastic frontier analysis) and explain why DEA was chosen for this particular study.
+
+**In conclusion:**
+
+This is a strong research paper with the potential to make a significant contribution to the field of water utility management. By addressing the weaknesses and implementing the suggestions outlined above, you can further enhance the clarity, rigor, and impact of your work. Good luck!

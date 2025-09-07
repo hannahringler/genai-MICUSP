@@ -1,0 +1,73 @@
+Certainly! Here’s a detailed feedback review of the paper “Effect on Legibility of Surround Luminance and Background/Character Color.”
+
+---
+
+## Strengths
+
+### 1. **Clarity of Purpose**
+- The introduction clearly defines the practical problem: legibility issues on displays under different lighting/surround conditions.
+- The rationale connects well with real-life contexts (presentations, computer work).
+
+### 2. **Thorough Methodology**
+- The experimental setup is described in good detail, including equipment, measurement units (ft-L), participant characteristics, and procedures.
+- Variation of both background/character color schemes and surround luminance is appropriate and logical, enabling a systematic investigation.
+
+### 3. **References to Previous Work**
+- The grounding in Ireland et al. (1967) shows integration with prior research and gives context to the novel findings.
+
+### 4. **Interpretation of Results**
+- Results are linked to physiological explanations (e.g., pupil size, spherical aberration).
+- Comparison with literature is made; both similarities and deviations are noted.
+
+---
+
+## Areas for Improvement
+
+### 1. **Sample Size and Generalizability**
+- The **sample size** (5 participants) is very small, limiting broader applicability.
+  - **Suggestion:** Address this limitation more explicitly in the conclusion and suggest replication with a larger, more diverse sample.
+
+### 2. **Figures/Visuals**
+- Figure 2 is cited but not described in detail for the reader.
+  - **Suggestion:** Provide clearer, more descriptive figure captions and refer to key trends/numbers in the text.
+
+### 3. **Flow and Readability**
+- Some sentences are long and dense, which may hinder comprehension.
+  - **Suggestion:** Shorten sentences or break into smaller parts to enhance readability.
+    - E.g., instead of "The minimum font size was smallest at the surround luminance..." try "The minimum font size required was lowest when the surround luminance matched the background luminance."
+
+### 4. **Clarity on Experimental Variables**
+- There’s a lot of information on luminance levels and backgrounds, but it could be clearer how the order of conditions was counterbalanced (especially as the order was reversed for White BG).
+  - **Suggestion:** Provide a table or clearer listing of all conditions and sequences used.
+
+### 5. **Results Presentation**
+- The description of key findings could use more statistical support.
+  - **Suggestion:** Even with a small sample, report mean values and any ranges or notable individual differences; consider basic statistics (means, SDs, etc.). If not possible, make this limitation explicit.
+
+### 6. **Conclusion**
+- The practical recommendations are good, but they can be more assertive about implications for interface design.
+  - **Suggestion:** Consider a closing sentence about what computer users or presenters can do based on this research.
+
+### 7. **English Usage**
+- There are minor grammatical errors (“an each session” should be “each session,” etc.).
+  - **Suggestion:** Proofread to polish grammar and remove small inconsistencies.
+
+---
+
+## Example Revision (Selected Paragraph)
+
+> **Original**:  
+> The minimum font sizes for distinguishing a character “E” under various surround luminance conditions and Black BG/White BG are shown in Figure 2. Since different displays would have different characteristics, the minimum font sizes cannot be absolute. Minimum font sizes were consistently smaller for White BG than Black BG.
+
+> **Revised**:  
+> Figure 2 shows the minimum font size required to distinguish the letter “E” under different surround luminance conditions, for both Black BG and White BG. Since each display may have unique characteristics, these minimum font sizes are not absolute. However, across all conditions, White BG consistently allowed for smaller minimum font sizes than Black BG.
+
+---
+
+## Overall Assessment
+
+This study addresses an important ergonomic problem with a well-structured experiment and draws meaningful conclusions. With improvements to writing clarity, visual aids, and more explicit discussion of limitations, it could serve as an excellent contribution to human-computer interaction research at the graduate level.
+
+**Rating: Good, with room for enhancement in writing, data presentation, and sample size.**
+
+If you have specific requests (grammar, formatting, argumentation), let me know!

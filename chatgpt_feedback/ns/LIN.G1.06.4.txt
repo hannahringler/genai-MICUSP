@@ -1,0 +1,91 @@
+Absolutely! Here’s detailed, constructive feedback on your paper, covering **content**, **structure**, **argumentation/analysis**, and **writing style**. Strengths and areas for improvement are highlighted to help guide any future revisions or similar work.
+
+---
+
+### **Overall summary**
+
+Your paper offers a comprehensive and critical evaluation of Landau (2001) on control and extraposition, especially focusing on the so-called "Super-Equi" paradigm. You successfully summarize Landau's main points, break down the technical apparatus he proposes, and offer a series of thoughtful criticisms regarding syntactic motivation, theoretical clarity, and broader implications. The paper is ambitious, reflects strong familiarity with syntactic theory, and includes well-chosen examples and diagrams. Your critique goes beyond surface-level objections and grapples with the core mechanics of Landau’s claims.
+
+---
+
+## **Strengths**
+
+### **1. Detailed, Accurate Summary**
+
+- You present an excellent, stepwise summary of Landau’s argument and supporting examples, which is very useful for readers not intimately familiar with the article.
+- The clear distinction between extraposition/intraposition and the interaction with psychological vs non-psychological predicates is well-articulated, with not only the relevant data reproduced but also the theoretical points each example illustrates.
+
+### **2. Depth of Critique**
+
+- Your critique is sophisticated and theoretical, targeting exactly where Landau’s argument may be stipulative or rests on unproven assumptions.
+- The discussion of VP-peripherality, EPP, chain interpretation, and the difficulties in motivating movement vs. adjunction is nuanced and well-argued.
+- You raise awareness of issues like the possible redundancy between VP-peripherality and EPP, questions about Case-marking, theta assignment, and interpretation at different derivational stages (LF, PF), showing strong theoretical control.
+- Your suggestions point toward alternate explanations (such as the broader significance of psychological vs. non-psychological predicates, or the implications of the chain interpretation), demonstrating independent, creative thinking.
+
+### **3. Structural Clarity**
+
+- The paper has a logical progression: introduction, presentation of Landau, data, theoretical tools, analysis, critique, and conclusion.
+- Sectioning (with numbered headings) gives clear orientation.
+
+### **4. Academic Tone and Style**
+
+- The writing is largely clear, concise, and maintains an appropriately formal, analytic style.
+- You provide citations and refer directly to Landau and other relevant literature.
+- The diagrams and trees are well-placed and referenced in the body text, facilitating understanding.
+
+---
+
+## **Areas for Improvement**
+
+### **1. Further Thematic Organization in the Critique**
+
+- **Focus**: The critique section is rich but can feel dense, covering many issues in quick succession (motivation for movement, redundancy between EPP and VP-peripherality, LF vs PF issues, interpretation, c/m-command, binding, Case, theta theory).
+- **Suggestion**: Break the critique into sub-sections (e.g., *Motivational Issues*, *Interpretive Issues*, *Theoretical Consistency*, etc.) and signal transitions more explicitly. This will help readers track which problem you're tackling at each point and clarify the stakes.
+
+### **2. Even More Precision on Alternative Analyses**
+
+- At times, you suggest alternatives (“it is perhaps simply a contrast between predicate types, not between positions per se”) but don’t develop these as much as possible.
+- **Suggestion**: Consider, within a brief paragraph, how you would remodel the analysis. For example: “If we dispense with VP-peripherality and focus on base-position differences tied to argument structure as the crucial variable, then… [sketch what the predictions would be, relate to data]”.
+
+### **3. Handling of Counterarguments**
+
+- Occasionally, you mention gaps in Landau’s account (“Landau does not discuss expletive replacement at LF,” “Landau does not address Case in this position”) but these could be more forcefully marshaled—are these fatal flaws, or are they areas where the existing theory could be readjusted?
+- **Suggestion**: Highlight which problems can be patched with slight modification and which challenge the core of the analysis.
+
+### **4. More Explicit Summary of Your Main Criticisms**
+
+- Your conclusion could be stronger by succinctly summarizing your central objections and the implications for theory-building more forcefully.
+- **Suggestion**: Consider a bullet-point or short-list recap in your conclusion: “In sum, Landau’s approach is vulnerable in that…”, then specify the top 2–3 theoretical sticking points.
+
+### **5. Minor Writing/Formatting Points**
+
+- **Typos and Flow**: A few sentences are long/complex (par for this domain!), but could use rephrasing for easier digestion. Use shorter sentences where possible.
+- **References/Citations**: If this were for publication, you'd want a references section. For class, it may not be required if the assignment format is a "critique" only of Landau (with Grinder as secondary).
+- **Tree Diagrams**: Your text representations are effective! If time and formatting allow, converting these to actual tree graphics clarifies the syntax, but this is a minor point.
+
+---
+
+## **Sample Edits/Improvements**
+
+Here’s an example of how you might tighten one of your critique paragraphs for clarity and punch:
+
+**Original:**  
+> “Furthermore, Landau does not explain why VP-peripherality should obtain at PF rather than LF, and why VP-internal clauses ought to be treated differently from VP-internal arguments that aren’t clausal in structure. This seems to be just a stipulation, not unlike the EPP, meant to explain why PRO-S never occurs at PF in its base-generated position for non-psychological predicates: (20) *It would [PRO to go] help John…”
+
+**Suggested Edit:**  
+> “Furthermore, Landau does not motivate why the VP-peripherality condition should apply specifically at PF rather than LF, nor does he provide a principled reason for treating VP-internal clauses differently from other VP-internal arguments. This parallels the EPP: both function as stipulations introduced to yield the correct surface forms, rather than principles derived from independent syntactic necessity. For instance, the ungrammaticality of (20) (*It would [PRO to go] help John) is cited as evidence, but remains unexplained under the current framework.”
+
+---
+
+## **Final Remarks**
+
+**In summary:**  
+This is a strong, well-researched, and perceptive critique. It displays both an impressive command of technical details and a willingness to question the theoretical apparatus. The primary opportunity for improvement lies in increasing thematic clarity and more systematically distinguishing between patchable weaknesses and deeper problems in Landau’s account. Refining some of your main points, and “staging” the discussion a bit more, would sharpen the impact.
+
+**Summary Score (if applicable):**  
+- Content: 9/10
+- Structure/Organization: 8/10
+- Critique and Insight: 9/10
+- Writing/Clarity: 8/10
+
+If you have a specific aspect you’d like more focused advice on (e.g., clarifying a certain argument, or expanding on the alternatives), let me know!

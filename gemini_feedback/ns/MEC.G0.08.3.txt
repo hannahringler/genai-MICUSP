@@ -1,0 +1,75 @@
+Okay, here's some feedback on the paper, covering aspects like clarity, technical accuracy, organization, and suggestions for improvement.
+
+**Overall Impression:**
+
+The paper demonstrates a good understanding of fluid mechanics principles and their application to the TYR swimsuit problem.  The computational methodology using Gambit and Fluent is well described. However, there are areas where the writing can be improved for clarity and conciseness.  The paper also could benefit from a more critical analysis of the results and a stronger connection to the TYR claims.
+
+**Strengths:**
+
+*   **Clear Problem Definition:** The introduction clearly states the problem and objectives.
+*   **Detailed Methodology:** The description of the Gambit meshing and Fluent setup is thorough, including parameters and boundary conditions.
+*   **Use of Equations:** Appropriate equations are presented and referenced.
+*   **Visualizations:** The figures (velocity fields, pressure contours, streamlines, meshes) are helpful in visualizing the flow phenomena.
+*   **Comparison with Literature:** Comparing the results with established data for drag coefficients on spheres provides validation.
+*   **Recommendations:** The recommendations for TYR are well-reasoned and address potential improvements.
+
+**Areas for Improvement:**
+
+1.  **Clarity and Writing Style:**
+
+    *   **Conciseness:** The writing can be more concise in many places. Avoid unnecessary phrases and redundancy.
+    *   **Sentence Structure:** Some sentences are a bit long and could be broken down for better readability.
+    *   **Technical Jargon:** While technical terms are necessary, ensure they are properly introduced and explained, especially for a broader audience. Define `B.L.` when introduced.
+    *   **Proofread Carefully:** There are a few typos (e.g., "weak region" should probably be "wake region" in several figure captions) and grammatical errors throughout the paper. A thorough proofread is essential.
+
+2.  **Analysis and Discussion:**
+
+    *   **Deeper Analysis of Discrepancies:** While you compare results with established data, explore *why* there might be discrepancies. What are the limitations of your model? What factors are you not accounting for?
+    *   **Quantify the Impact of Turbulence:** Emphasize and quantify the impact of tripping the flow to turbulence on the drag coefficient (e.g., "Tripping the flow reduced the drag coefficient by X%"). This is a key finding.
+    *   **Justify Modeling Choices:** Elaborate on the justification of the boundary layer mesh.
+    *   **Addressing Assumptions:** State clearly all assumptions made in the simulation (e.g., symmetry, incompressible flow, Newtonian fluid, neglecting buoyancy). Discuss how these assumptions might affect the results.
+
+3.  **Organization and Structure:**
+
+    *   **Table and Figure Referencing:** Be more explicit about referring to figures and tables in the text. Instead of "shown in figure...", say "As shown in Figure 4..."
+    *   **Consistently using SI Units:** You use both meters and inches, it is best to just stick to meters.
+
+4.  **Connection to TYR Claims:**
+
+    *   **Stronger Evaluation of TYR Claims:** Be more critical in your assessment of TYR's 18% drag reduction claim. Do your results support this claim? Can you extrapolate your findings to a full-body swimsuit scenario?
+    *   **Specificity:** TYR claims that the swimsuit material's surface texture reduces drag. While you have given some general recommendations, you should also specify how this could be implemented into your work. How did you factor in surface textures for this model?
+    *   **Address Material Properties:** Consider discussing how different swimsuit materials (e.g., varying roughness) might impact the flow.
+
+5.  **Figures:**
+
+    *   **Resolution:** Some of the figures look a bit low-resolution. If possible, use higher-resolution versions.
+    *   **Figure Captions:** Ensure captions are descriptive and concise. They should explain what the figure shows and its significance.
+    *   **Color Choice:** Select colors that are easy to distinguish in the velocity fields and contour plots.
+
+6.  **Recommendations:**
+
+    *   **More Specific Recommendations:** Instead of just saying the suit should be porous, suggest how TYR could achieve this in practice (e.g., using a specific weave or material). How large should the pores be, and how should they be distributed?
+    *   **Elaborate on Shape Changes:** Be more specific about the shape changes that could be made to the swimsuit. Provide examples.
+    *   **Cost Analysis:** Briefly consider feasibility from a cost or practical perspective.
+
+**Detailed Comments by Section:**
+
+*   **Introduction:** Good start, but you can condense it.
+*   **Gambit:** Good explanation of the meshing process.
+*   **Sphere with Laminar Flow:** Good discussion of the Reynolds number and drag coefficient. State why Re = 1584 was chosen.
+*   **Sphere with Turbulent Flow:** Good use of the k-epsilon model.
+*   **Body with Laminar/Turbulent Flow:** Same comments as the sphere case.
+*   **Recommendations and Conclusions:** Good overall, but could be more specific and actionable.
+
+**Example Improvements:**
+
+*   **Original:** "For the turbulent sphere case, unsteady 2nd order implicit time was used and for the turbulent body case, steady time was used because it resulted in the most accurate data."
+*   **Revised:** "For the turbulent sphere simulation, an unsteady, second-order implicit time scheme was used. For the turbulent body simulation, a steady-state solver was found to yield the most accurate results."
+
+**Revised Conclusion Snippet:**
+
+"In conclusion, our drag coefficient results for the sphere agreed reasonably well with established data [1], and the simulations showed that tripping the flow from laminar to turbulent reduced the overall drag coefficient. The reduction in the separation and backflow region was in agreement with TYR's claims [2]. However, our findings are inconclusive on TYR's 18% pressure reduction claim due to limited precision of the model, the impact of unverified model assumptions, and a lack of surface textures on our simulation. Further study involving a larger sample size with different values may be conducted to verify this."
+
+**In Summary:**
+
+This is a solid paper that demonstrates a good understanding of the underlying principles. By focusing on clarity, strengthening the analysis, and connecting the results more directly to the TYR claims, you can significantly enhance the quality and impact of your work. Remember to proofread carefully!

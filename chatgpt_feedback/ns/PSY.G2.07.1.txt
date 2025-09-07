@@ -1,0 +1,66 @@
+Certainly! Here is a comprehensive feedback on your paper, “Emotional EPIC: Incorporating emotion into a unified theory of cognition,” focusing on strengths, areas for improvement, and some suggestions:
+
+---
+
+## Strengths
+
+### 1. **Clear Structure and Organization**
+- The paper is very well organized, with clear sections that logically build upon one another: introduction, background on unified theories of cognition (UTCs), the role of emotion, computational modeling efforts, a description of EPIC, and considerations for integrating emotion.
+
+### 2. **Comprehensive Literature Review**
+- Your literature review is thorough and well-cited. You discuss foundational and recent works (e.g., Simon, Oatley & Johnson-Laird, Damasio, Gray, etc.), giving the reader a solid understanding of why emotion has been historically neglected yet is crucial to incorporate.
+
+### 3. **Clear Motivation and Relevance**
+- You make a strong case for why emotion should be included in UTCs: both theoretical necessity and practical utility (especially in “mission-critical” situations).
+
+### 4. **Technical Understanding**
+- The explanation of architectures like SOAR, ACT-R, and especially EPIC is clear and accurate, showing strong grasp of technical details relevant to cognitive modeling.
+
+### 5. **Insightful Integration Proposals**
+- Your discussion on concrete ways to incorporate emotion into EPIC (emotional processor vs. distributed effects) is insightful, demonstrating good critical analysis of possible approaches.
+
+---
+
+## Areas for Improvement & Suggestions
+
+### 1. **Depth of Integration Suggestions**
+- **What you do well:** You offer two plausible ways of incorporating emotions in EPIC.
+- **What could be better:** This section can be expanded. For example:  
+  - Provide specific examples of production rules or processor parameters that could be modulated by emotional states.
+  - Are there case studies or preliminary simulations that could ground your suggestions more concretely?
+  - How would you validate or test these modifications? What would count as success?
+
+### 2. **Clarity and Flow**
+- While your technical explanations are accurate, at times sentences become a bit dense, especially when describing how various theories relate to control structures. Consider shorter sentences and transitioning phrases to guide the reader.
+  - For example, when moving from Simon’s “interrupt system” to Oatley & Johnson-Laird’s modes, make the contrasts and advances even more explicit.
+
+### 3. **More on Potential Challenges**
+- What are the main obstacles in integrating emotion into these architectures? Computational complexity? Lack of consensus on emotion theory? Limited empirical data?
+  - Briefly discussing limitations and challenges would enrich the discussion and demonstrate critical reflection.
+
+### 4. **Language and Style**
+- Generally, your academic style is strong. Watch for very occasional awkward constructions (e.g., “A major emphasis within EPIC is on the variety of executive control strategies available to subjects.” could be “EPIC places major emphasis on the availability of multiple executive control strategies.”).
+- Proofread for minor typos (e.g., in the references, “Pfeiffer” should be “Pfeifer” to match the citation).
+
+### 5. **Practical Example/Case Study**
+- Consider incorporating a brief worked example: what would an “emotional” EPIC model look like in a standard dual-task setting, or how would “anxiety” modulate its components? Even a hypothetical scenario would make your proposal more concrete.
+
+### 6. **Summary/Conclusion**
+- Your conclusion is solid but could be a little more forward-looking. Suggest specific directions for future research, or applications where such a model could be especially impactful (e.g., training simulations, AI interfaces, neuropsychological assessments).
+
+---
+
+## Minor Suggestions
+
+- **Figures:** The integration of the EPIC architecture diagram is helpful; consider referencing it directly in your discussion.
+- **References:** Double-check formatting and consistency.
+- **Balance:** While the technical detail suits a graduate-level report, take care not to lose the “big picture” for readers less familiar with the field.
+
+---
+
+## Overall Assessment
+
+**Excellent work!**  
+This paper shows a deep understanding of both cognitive modeling and emotion research. The proposal to extend EPIC is sophisticated and perceptive. With slightly more detail on practical integration and explicit challenges, as well as a polished flow, it is well positioned to contribute to ongoing discussions in computational cognitive science.
+
+*Great job! If you’d like, I can help further by suggesting ways to rephrase specific passages, or help outline an “experimental” design for testing your proposed EPIC extensions.*

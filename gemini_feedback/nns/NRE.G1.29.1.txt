@@ -1,0 +1,58 @@
+Here's some feedback on the paper "Local people mobilization for China's reforestation project," covering strengths, weaknesses, and suggestions for improvement:
+
+**Overall Impression:**
+
+The paper tackles an important and complex issue: the effectiveness of China's reforestation project and the role of local people's participation. It uses relevant theoretical frameworks (resource mobilization, social movement theory) to analyze the problem, which provides a structured approach. The survey data offers insights into the attitudes and awareness of farmers and urban residents.
+
+**Strengths:**
+
+*   **Relevant Topic:** Reforestation and community participation in environmental projects are crucial issues, particularly in a country like China.
+*   **Theoretical Framework:** The application of social movement and resource mobilization theories provides a useful lens for analysis.
+*   **Empirical Data:** The survey data from Ningxia and Beijing provides empirical evidence to support arguments. The attempt to compare urban and rural perspectives is valuable.
+*   **Clear Structure:** The paper generally follows a logical structure (introduction, theoretical background, data collection methods, findings, and conclusion).
+*   **Policy Recommendations:** The paper provides practical policy recommendations based on the findings.
+
+**Weaknesses and Suggestions:**
+
+1.  **Clarity and Writing Style:**
+
+    *   **Language Issues:** The writing style is not always clear and grammatically correct. There are instances where the word choice is awkward, and sentence structure is confusing. A thorough editing and proofreading is essential.
+    *   **Specificity:** At times, the paper makes general statements without sufficient evidence or elaboration. For example, when discussing environmental problems, specific examples would strengthen the argument.
+    *   **Flow:** Paragraph transitions can be abrupt. Improve the flow by explicitly linking ideas between paragraphs.
+
+2.  **Theoretical Application:**
+
+    *   **Depth of Analysis:** While the paper mentions resource mobilization and social movement theories, the application could be deeper.
+    *   **Nuance:** It says the perspectives differ radically, but also "some significant inference can be derived." What exactly is the integration or conflict of these perspectives? This needs to be clearly stated, otherwise there is no point to talk about the two theories together.
+    *   **Alternative Theories:** What other theories are considered, and how do they compare?
+
+3.  **Data and Methodology:**
+
+    *   **Sample Size and Representativeness:** The sample size (30 participants in total, 15 in each location) is quite small. Address this limitation and discuss how it affects the generalizability of the findings. Are these people supposed to be representative of the average urban and rural residents?
+    *   **Sampling Method:** Explain the "random" sampling method in Beijing more clearly. Was it truly random, or were there constraints?
+    *   **Survey Questions:** Briefly describe some key questions to give the reader a better sense of the survey's scope.
+    *   **Statistical Analysis:** What specific statistical techniques were used to analyze the data? Describe them or cite them.
+    *   **Justification:** Explain why this specific study area was chosen to be surveyed. What are their unique characteristics?
+    *   **Data Presentation:** Some figures lack clear titles or axis labels in the appendix.
+
+4.  **Discussion and Conclusions:**
+
+    *   **Causality vs. Correlation:** Be cautious about implying causal relationships based on the survey data. Focus on correlations and potential explanations.
+    *   **Limitations:** Explicitly acknowledge the limitations of the study, such as the small sample size, potential biases in the survey responses, and the focus on only two locations.
+    *   **Specific Recommendations:** The policy recommendations are somewhat general. Make them more specific and actionable. What precise steps should policymakers take?
+
+5.  **References:**
+
+    *   **Completeness:** Double-check that all references are complete and accurately formatted according to a consistent style.
+
+**Specific Examples:**
+
+*   "While this policy brings a sound beginning of China's soil conservation and environmental improvement, its sustainability still remains a problem." --> *Revised:* "While this policy represents a positive step toward soil conservation and environmental improvement in China, its long-term sustainability remains uncertain."
+*   "How can the farmers be mobilized rather than be incented?" --> *Revised:* "What methods, beyond economic incentives, can effectively mobilize farmers to participate in reforestation efforts?"
+*   "Internet resource." This label is confusing, and it is not clear where the image came from. It would be clearer to simply cite the source if possible, or remove this label altogether.
+
+**Overall Recommendation:**
+
+The paper has the potential to make a valuable contribution to the understanding of community participation in China's reforestation project. However, significant revisions are needed to improve the clarity, depth of analysis, and rigor of the research. Prioritize improving writing clarity, strengthening the theoretical analysis, and addressing the methodological limitations.
+
+Good luck with revising the paper!

@@ -1,0 +1,44 @@
+Okay, here's some feedback on your philosophy paper. This feedback focuses on clarity, argumentation, and philosophical rigor.
+
+**Overall Impression:**
+
+The paper tackles an interesting and potentially complex issue within metaethics.  The core argument, that emotivism can potentially survive the "emotions are judgments" objection by distinguishing between the expression and assertion of judgments, is a clever one. However, the paper needs more development, clarification, and argumentation to be fully convincing.
+
+**Strengths:**
+
+*   **Clear Problem Statement:** You clearly identify the problem: Solomon's theory of emotions as judgments seems to undermine emotivism.
+*   **Concise Explanation of Emotivism:**  Your summary of Ayer's emotivism is accurate and well-expressed.
+*   **Interesting Thesis:** The idea of distinguishing between the expression and assertion of judgments is a promising way to defend emotivism.
+*   **Good Use of Examples:** Employing the cry of pain example is a solid way to illustrate Ayer's position.
+
+**Areas for Improvement:**
+
+*   **Clarify the Key Distinction (Expression vs. Assertion of Judgments):** This is the crux of your argument, and it needs *much* more development. What exactly *does* it mean to express a judgment without asserting it? Give more concrete examples. The reader needs a much clearer understanding of this distinction to be persuaded.
+    *  Consider the difference between implicitly expressing an opinion (e.g., via tone of voice, choice of words) and explicitly stating it. Is that what you're getting at?
+    *  Explore potential counterexamples: In what contexts would expression and assertion be indistinguishable?
+*   **Address Potential Objections:** A good philosophy paper anticipates and addresses potential counterarguments. Some questions to consider:
+    *   **What does Solomon or his advocates say that would defeat this argument?**
+    *   **Is your distinction ad hoc?** Does it seem artificially constructed to rescue emotivism, or is there independent reason to accept it?
+    *   **Does it lead to undesirable consequences?** What are the implications of embracing such a distinction for how we understand moral language?
+*   **Engage More Deeply with Solomon's Theory:** You mention Solomon's theory, but you could expand on how judgements are more that "primitive feelings" and then address how this might affect the distinction you make.
+
+*   **Strengthen the Argumentation:** The paper currently presents the distinction between expression and assertion as a possible "way out" for emotivism.  You need to make a stronger case that it *actually* works, or at least has a strong probability of working.
+*   **Rigor and Precision:** In philosophy, precise language is critical. Be mindful of potential ambiguities and clarify your terms as needed.
+*   **Conclusion:** The paper ends somewhat abruptly. A brief conclusion summarizing your argument and highlighting its significance would improve the paper's overall impact.
+
+**Specific Suggestions:**
+
+*   **Expand on the Cry of Pain Analogy:** The cry of pain is helpful, but you need to delve deeper into why it *doesn't* quite work for judgments. Why is expressing a judgment different? What are the key features of judgments that distinguish them from mere feelings?
+*   **Consider Alternatives to the Cry of Pain Analogy:** If the cry of pain isn't a good model, what *is*? Are there other ways to express a judgment without asserting it?
+*   **Acknowledge the Complexity of Emotions:** Even if emotions *are* judgments, they're often complex and multifaceted. How does this affect your analysis? Does it make the distinction between expression and assertion more or less plausible?
+
+**Revised structure suggestion:**
+
+1.  **Introduction:** State the problem of Solomon's theory for emotivism, and give a brief summary of the argument in the paper.
+2.  **Explain Ayer's emotivism** - as you have already done in your essay.
+3.  **Explain the basis of Solomon's view**. Briefly summarize what it is that Solomon says is important about judgments.
+4.  **Explain the distinction between the expression of judgments and the assertion of judgments**.
+5.  **Anticipate objections and rebuttals**. Are there potential criticisms of this distinction?
+6.  **Conclusion:** Provide a summary of the arguments.
+
+**In summary,** you have a promising idea, but the paper requires more development, clarification, and argumentation to be fully convincing. Focus on elaborating the key distinction between expression and assertion, addressing potential objections, and strengthening the overall argument. This extra layer of effort will make this essay more convincing!

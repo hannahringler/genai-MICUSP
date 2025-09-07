@@ -1,0 +1,76 @@
+Certainly! Here’s detailed feedback on the paper, **“Better Late than Never: Social Stratification and Higher Education through the Life Course”** (by a third-year graduate sociology student, per the header):
+
+---
+
+## **Strengths**
+
+### 1. **Timeliness and Relevance**
+- The topic is highly relevant to the study of educational stratification, particularly in rapidly changing societies like China.
+- Emphasizing the *life course* perspective adds analytical depth, and the focus on timing is valuable and somewhat neglected in existing literature.
+
+### 2. **Literature Engagement**
+- The paper is well-grounded in relevant literature, with thorough referencing of both Chinese and Western sources (e.g., Breen & Goldthorpe, Elman & O’Rand, Meng & Gregory).
+- It clearly situates itself in relation to existing research, identifying what is missing (especially regarding adult/late education beyond the Cultural Revolution).
+
+### 3. **Empirical Evidence**
+- The use of multiple data sources (Chinese census data, the Study of Urban Residents’ Family Life) adds empirical rigor.
+- The visualizations (graphs and tables) are valuable and help the reader understand trends in educational attainment over time and by cohort.
+
+### 4. **Statistical Methods**
+- The use of discrete-time hazard modeling is appropriate and the step-by-step explanation is clear for an academic reader.
+- Reporting of coefficients, standard errors, and significance is thorough.
+
+### 5. **Critical Insight**
+- The analysis considers not just individual, but institutional and policy-level changes (e.g., changing party policies, the reform period, the Cultural Revolution).
+- The paper takes care to address selection bias and regional sampling issues, which increases its credibility.
+
+---
+
+## **Areas for Improvement**
+
+### 1. **Organization and Flow**
+- **Transitions:** The narrative can sometimes jump quickly between themes (history, methodology, results) without clear transitions. For example, background information on policy and the exposition of the models/readouts could be better linked.
+- **Sectioning:** The paper could benefit from clearer sectioning with more explicit subheadings (e.g., *Introduction*, *Data & Methods*, *Results*, *Discussion*, *Conclusion*). This would improve navigation and focus.
+
+### 2. **Clarity/Readability**
+- Some sentences are long and complex, which can obscure meaning. Example: “Disruptions at earlier levels are substantial, so party-sponsored mobility cannot fully explain the variation in college timing either.” Consider shorter sentences for complex ideas.
+- A brief summary at the end of each major section would help reinforce the main findings or arguments.
+
+### 3. **Framing and Argument**
+- **Research Questions:** The paper’s main questions are woven into the narrative but could be more explicitly stated at the end of the introduction.
+- **Contribution:** While literature gaps are identified, more emphasis could be placed on what *new* contributions this paper makes, especially in the context of China’s rapid modernization.
+
+### 4. **Interpretation of Results**
+- The discussion of statistical findings, while technically sound, could be more interpretive. What do these results *mean* for Chinese society, higher education, or for life course theory in general?
+- Are there any surprising findings that deserve special attention in the discussion?
+
+### 5. **Visualizations**
+- While there are many helpful figures, some lack full descriptive captions or are not deeply discussed in the main text. Make sure every figure is clearly introduced and its main message interpreted for the reader.
+
+### 6. **Policy Implications and Future Research**
+- The conclusion outlines practical next steps (e.g., better survey measurement, over-sampling, more nuanced models), but is there space to speculate on real-world/policy implications?
+- How might institutions respond to the findings? What recommendations can be made for future cohorts or for global/comparative contexts?
+
+### 7. **Technical Details**
+- Narrow down and address the issue of missing data, especially regarding fathers’ occupation, more systematically.
+- Table/figure formatting could be improved for publication or formal submission.
+
+--- 
+
+## **Summary Feedback**
+
+### **Overall Evaluation:**  
+This paper provides a strong, empirically rich, and sociologically thoughtful look at a neglected issue in Chinese educational stratification: the timing of higher education. Its greatest strengths are in data use and engagement with the literature. 
+
+With some tightening of structure and a stronger framing of research questions, clearer transitions, and deeper discussion of implications, the paper could be suitable for submission to a peer-reviewed journal or used as a strong dissertation chapter.
+
+---
+
+**Concrete Suggestions:**
+1. Add explicit research questions or hypotheses to the introduction.
+2. Use subheadings to clarify empirical sections and transitions.
+3. After each results section, briefly interpret what the numbers or patterns mean.
+4. Deepen the conclusion to explore broader implications and connect explicitly to theory and/or policy.
+5. Carefully proofread for sentence complexity and repetition.
+
+If you want more pointed feedback on a particular section (the literature review, methods, or results), feel free to specify!

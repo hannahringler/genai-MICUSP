@@ -1,0 +1,76 @@
+Certainly! Here’s a detailed feedback on your paper “English Existential Constructions: Case, (Non)Agreement, and Variation.” I will comment on **structure, content, argumentation, use of sources, clarity, strengths, and areas for improvement.**
+
+---
+
+## **Overall Impression**
+This is an impressive and ambitious paper that covers a complex area of English syntax and morphosyntax, bringing together generative syntactic theory and sociolinguistic variationist research. You show familiarity with sophisticated theoretical models as well as empirical findings from dialectal studies. Your writing is generally clear and focused, and you engage deeply with both primary literature and key debates.
+
+---
+
+### **Strengths**
+
+1. **Engagement with Theory and Data:**  
+   - You do an excellent job linking theoretical syntax (Lasnik, Chomsky, Rizzi, etc.) to variationist findings, reflecting real linguistic usage.
+   - The comparison and critique of Lasnik’s and Rupp’s analyses are insightful and demonstrate critical engagement.
+
+2. **Organization and Structure:**  
+   - The paper is logically organized, moving from introduction to theoretical background, detailed analyses, discussion, and conclusion.
+   - Your section headings are helpful for guiding the reader.
+
+3. **Comprehensiveness:**  
+   - You reference a wide array of literature, both theoretical and empirical, including very recent work at the time of writing.
+   - The reference list is extensive and appropriate.
+
+4. **Critical Thinking:**  
+   - You do not simply recap theories but actively critique them, identify conceptual and empirical gaps, and raise thoughtful questions about the relationship between syntax and variation.
+   - The consideration of language variation as central to syntactic theory is modern and appealing.
+
+5. **Technical Accuracy:**  
+   - Your explanations of Case theory, agreement, and functional projections (AgrP, TP) are technically accurate.
+   - Structural representations are generally clear and demonstrate your understanding of constituent structure.
+
+---
+
+### **Areas for Improvement**
+
+1. **Expository Clarity:**
+   - At times, your explanations get bogged down in technical detail and could be clarified for readers who may not be as familiar with the theory (e.g., the detailed distinctions between T, AgrP, movement at LF, etc.).
+   - When presenting complex phrase markers or tree diagrams, a brief prose explanation of “what’s at stake” in a particular analysis would help less advanced readers.
+
+2. **Transitions and Roadmapping:**
+   - Sometimes, you move quickly from one analysis to another without sufficient transition (“Now I turn to…” or “On the other hand…”). A few more roadmap sentences at the start of your subsections could clarify how each new point fits into your overall narrative.
+   - Clarify your main research questions/hypotheses at the end of the Introduction.
+
+3. **Development of Critique:**
+   - You raise good empirical and theoretical issues with Rupp’s analysis, but sometimes these critiques could be more fully explored. For example:
+     - When you ask why, on Rupp’s analysis, agreement is sometimes present and sometimes not, try to propose a hypothesis or offer alternatives.
+   - In places, your critique trails off rather than reaching a strong conclusion about what’s problematic and how it could be fixed or reapproached.
+
+4. **Empirical Data and Examples:**
+   - You reference data and acceptability judgments but could include a few more explicit examples from corpora or dialectal studies to bolster your claims.
+   - When discussing sociolinguistic variation (e.g., Meechan & Foley vs. Rupp vs. Henry), a summary table or bullets of key dialect patterns would bring this variation into focus for the reader.
+
+5. **Conclusion and Implications:**
+   - The conclusion could be stronger by summarizing your key findings and stating what they imply for both syntactic theory and variationist linguistics.
+   - Consider suggesting avenues for future research (e.g., cross-linguistic comparison, experimental work, further corpus studies).
+
+6. **Presentation/Formatting:**
+   - At a couple of points, trees and formulas are a bit hard to parse when rendered in prose. Using true labeled diagrams or clearer formatting where possible would help.
+   - Minor flows in paragraphing (some are a bit too long—break up for readability).
+
+---
+
+## **Minor Comments and Suggestions**
+- **Terminology:** You do correctly point out that labels like “nonagreement,” “variable concord,” “default agreement,” etc. are theory-laden. You could make a more explicit point that the choice of terminology can shape analysis.
+- **Neutrality:** When discussing dialectal “nonstandard” forms, be cautious about implicit value judgments—though you mostly avoid this.
+- **Citations:** If space allows, it would be helpful to briefly summarize the main findings (not just cite) some of the key variationist works you reference.
+
+---
+
+## **Summary**
+
+**In Short:**  
+This is a very strong, well-researched, and conceptually rich first-year graduate paper. With minor improvements in clarity, more explicit summarizing of arguments, and expanded discussion of empirical challenges, it would be an excellent candidate for a revised research paper or MA-level work. Your balanced approach, synthesizing theory and data, is exactly what is needed in contemporary linguistics.
+
+**Keep up the excellent work!**  
+If you want help tightening specific sections or working through particular technical points or diagrams, feel free to ask!

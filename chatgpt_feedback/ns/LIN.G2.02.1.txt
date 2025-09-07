@@ -1,0 +1,69 @@
+Absolutely! Here is detailed feedback on the paper, "Meng- and Wh-Movement in Malay/Indonesian: Review of Cole & Hermon 1998." This feedback is detailed and structured into sections commonly used in academic peer review, with specific points and suggestions for improvement.
+
+---
+
+## 1. **Summary and Strengths**
+
+**Summary:**  
+This paper provides a detailed critical review of Cole & Hermon (1998) concerning wh-movement in Malay/Indonesian and the role of the morpheme *meng-*. The author meticulously summarizes the target article, evaluates its main theoretical assumptions and empirical arguments, notably regarding the strength of the Q-feature and the Principle of Unselective Binding, and then investigates the nature and distribution of *meng-* within broader analyses of Malay/Indonesian clause structure. Alternative approaches and descriptive facts are weighed, culminating in a thoughtful assessment of the strengths and challenges of Cole & Hermon’s proposal.
+
+**Strengths:**
+- **Comprehensive Coverage:** The author covers both theoretical and empirical aspects, giving a nuanced and thorough summary of Cole & Hermon’s (1998) main points.
+- **Critical Engagement:** The critique is sophisticated; the author is not afraid to challenge central assumptions and provides alternative perspectives, citing relevant literature (e.g., Pesetsky, Postman, Voskuil).
+- **Clear Organization:** The paper is well-organized, moving logically from introduction, through summary, critique, discussion of *meng-*, and finally to conclusions.
+- **Use of Data:** Good use of examples in both English and Malay/Indonesian supports the arguments convincingly.
+- **Awareness of Broader Literature:** The review demonstrates awareness of both syntactic theory (Minimalism) and the descriptive and comparative literature on Malay/Indonesian grammar.
+
+---
+
+## 2. **Critical Feedback and Areas for Improvement**
+
+### **A. Introduction and Framing**
+- **Clarity of Research Question:** The introduction could be more explicit about what the reviewer aims to accomplish beyond reviewing Cole & Hermon—i.e., is the main goal to challenge their account of *meng-*, question their claims about universal Q, or both?
+- **Roadmap:** While the structure is signposted, a brief roadmap (summarizing Section 2-6 in a single paragraph) would help the reader anticipate the paper’s trajectory.
+
+### **B. Analytical Depth and Theoretical Engagement**
+- **Analytical Clarity:** At times, the critique weaves between discussing empirical data, previous analyses, and theoretical assumptions in ways that may be confusing for readers not familiar with the broader literature.
+    - **Suggestion:** Consider a sharp division between the summary of Cole & Hermon’s proposal and your critical evaluation. This could involve sub-subheadings or summary tables.
+- **Engagement with Counterarguments:** The paper is generally strong in this area, but occasionally, alternative explanations (e.g., Voskuil's proposal) are mentioned but not fully weighed or critiqued.
+    - **Suggestion:** Situate alternatives more forcefully. For instance, could Voskuil’s proposal solve all the challenges to Cole & Hermon’s account, or does it introduce new problems?
+
+### **C. Discussion of Meng-**
+- **Focus and Repetition:** The discussion of *meng-* is detailed, but there is some repetition about its status as a marker of transitivity/voice and its optionality.
+    - **Suggestion:** Streamline this discussion by summarizing the main views, then focusing tightly on why Cole & Hermon’s use of *meng-* as a diagnostic is problematic in light of those analyses.
+- **Empirical Breadth:** While the data provided are relevant, there might be more recent research or more dialectal variation to consider (though you do note the absence of some literature).
+    - **Suggestion:** If space allows, flag where future research or more varied data could be particularly illuminating.
+
+### **D. Use of Theoretical Literature**
+- **Application of Minimalism:** The critique of the universal Q-feature assumption is on point, but at times the discussion is reliant on citing Chomsky “1995 says the opposite.” Instead, make your own claim: Does current minimalist theory *require* Q variation? What are the empirical consequences if we adopt Cole & Hermon's proposal versus the alternative?
+    - **Suggestion:** Ground your argument about feature strength in the predictions it makes for wh-movement typology more broadly.
+- **Derivational Issues:** When discussing whether *meng-* is “deleted” or never generated, more explicit theoretical modeling would be helpful. For instance, sketch what a minimalist derivation would look like for an example with/without *meng-*, showing the point of divergence.
+
+### **E. General Structure and Readability**
+- **Length and Conciseness:** The paper is quite long and, at times, densely written. Some sub-sections could be made more concise, and explanatory footnotes could be integrated into the main text for flow.
+- **Transitions:** Some sections jump abruptly (e.g., the switch from arguing about clause structure to testing V-to-I raising). Smooth transitions will help readability.
+
+### **F. Conclusion and Implications**
+- **Concluding Section:** The conclusion accurately summarizes the critique and points out the need for a better understanding of the status of *meng-*, but it could go further in drawing general implications for Austronesian syntax or minimalist theory.
+    - **Suggestion:** End with a broader statement—e.g., on what this case study tells us about diagnostics for movement, or the role of morphology in syntactic analysis.
+
+---
+
+## 3. **Minor and Technical Issues**
+
+- **Proofreading:** Minor typographical, formatting, and spelling inconsistencies (e.g., “comports” instead of “compares,” etc.)—these are inconsequential but should be tidied.
+- **References:** Reference list is thorough, but consider checking for any even more recent or directly relevant literature (especially on Indonesian/Malay syntax post-2002).
+- **Glossing:** Your glosses are consistently clear and follow standards.
+- **Footnotes:** Some notes are lengthy or contain secondary arguments—consider integrating these more fully into the text.
+
+---
+
+## 4. **Overall Assessment**
+
+This is an excellent graduate-level critique—ambitious, theoretically informed, and empirically grounded. It would be an even stronger piece with a tighter focus in sections, more explicit comparative analysis of alternatives, a clear modeling of the most problematic facts, and a conclusion that highlights implications for syntactic theory or the study of Austronesian languages more broadly.
+
+**Keep up the strong analytical work, and consider sharpening the argumentation and organization for publication or presentation!**
+
+---
+
+**If you’d like specific feedback on any section, or example rewrites, let me know!**

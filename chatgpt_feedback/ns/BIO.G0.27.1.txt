@@ -1,0 +1,82 @@
+Certainly! Here’s a detailed feedback on your paper, “Small Mammal Response to Post-fire Forest Succession in Northern Lower Michigan.” I’ll address strengths as well as specific areas for improvement in structure, content, analysis, and clarity.
+
+---
+
+## **Strengths**
+
+1. **Clear Abstract and Introduction**
+   - The abstract efficiently summarizes the goals, methods, major findings, and implications. The introduction sets up the context by discussing local history, previous research, and ecological importance.
+
+2. **Logical Structure**
+   - The sequence moves smoothly from introduction, methods, results (with appropriate subsections), to discussion, literature, and an appendix. Headings make navigation easy.
+
+3. **Strong Use of Primary Literature**
+   - You rely on appropriate and credible sources throughout, anchoring your work in established studies. Good job citing both older and more recent works.
+
+4. **Detailed Methodology**
+   - Sampling methods, study site descriptions, and statistical procedures are clearly described, which aids reproducibility.
+
+5. **Thoughtful Discussion**
+   - You critically interpret your findings, discuss possible explanations, and suggest future research. There’s good self-awareness regarding limitations.
+
+6. **Useful Figures and Tables**
+   - The inclusion of figures and tables enhances the clarity of your results. The summary table in the appendix is especially helpful.
+
+---
+
+## **Areas for Improvement**
+
+### **Clarity and Style**
+
+- **Technical Terminology**
+  - Occasionally, terms are not defined when first used (e.g. “source-sink scenario” is cited but not briefly explained in your own words in the introduction).
+- **Complex Sentences**
+  - Some sentences are long and could be broken up for readability (see Introduction and Results).
+
+### **Depth and Breadth of Analysis**
+
+- **Species Diversity**
+  - You note that only three species were captured, limiting diversity analysis. This should be discussed as a limitation earlier in Results or Methods.
+- **Statistical Rigor**
+  - The choice of significance levels and statistical tests (e.g., why only non-recapture data is included) should be justified more thoroughly.
+  - Were assumptions for using Chi-square always met (e.g., expected frequency thresholds)?
+- **Environmental Variables**
+  - You focus on vegetation and coarse woody debris (CWD). Consider including more about ground cover, food resource availability, or microclimate variables, even if just as limitations or suggestions for future studies.
+
+### **Visualization and Data Presentation**
+
+- **Figure Legends**
+  - The figure captions could be more descriptive. Explain what the reader should take away from each graph.
+- **Table Readability**
+  - Appendix I contains valuable information but is a bit hard to skim; it would be clearer with borders between rows/columns and explanation of abbreviations (e.g., “NENL”, “NTNL”) in the caption.
+
+### **Results Interpretation**
+
+- **Recaptures and Movement**
+  - The discussion of animal movement is interesting but a bit brief; explain why males would be more likely to move, and what that might mean ecologically.
+- **Predator Activity**
+  - The impact of predators on disturbance rates is noted, but could be further discussed regarding potential bias or effects on small mammal abundance and behavior.
+
+### **Discussion and Conclusions**
+
+- **Causal Inference**
+  - Be careful to distinguish between correlation and causation, especially regarding CWD’s impact on reproductive status. Acknowledge potential confounding factors.
+- **Future Directions**
+  - A dedicated paragraph outlining concrete, testable hypotheses for future work would be helpful.
+
+### **Formatting and Minor Points**
+
+- **References Formatting**
+  - Standardize the format (italics, punctuation, etc.) for all references.
+- **Typos**
+  - Occasional typographical or formatting glitches (e.g., line breaks in words) should be fixed for professionalism.
+- **Abbreviations**
+  - Clearly define abbreviations (e.g., CWD, ABD, NTNL, NENL) at first use and/or in all tables.
+
+---
+
+## **Summary Statement**
+
+**Overall, this is a well-conceived and executed undergraduate research paper.** It successfully integrates field data with ecological context and statistical analysis. With more attention to clarity, deeper analysis (especially about limitations and alternative hypotheses), and improved graphics/table clarity, it can reach an even higher standard suitable for publication or presentation.
+
+**Great work! Let me know if you’d like specific line-edits, or help revising particular sections.**

@@ -1,0 +1,58 @@
+Okay, I've reviewed the document and can provide feedback.  To give you the *most* helpful feedback, though, it's good to know:
+
+*   **What kind of feedback are you looking for?** (e.g., overall argument, clarity, technical correctness, writing style, formatting).
+*   **What is the target audience for this paper?** (This helps to gauge the appropriate level of detail and technicality.)
+*   **What kind of assignment is this?** (e.g., a class assignment, a conference submission, a journal article).
+
+**Overall Impression**
+
+The paper appears to be a well-structured and thoughtful exploration of college choice as a signaling mechanism. It builds a theoretical model to analyze how competitive admissions processes and post-graduation wages affect student decisions and college reputations. The extensions to dynamic settings and race-based admissions policies are interesting and provide valuable insights.
+The paper addresses a relevant question in economics, and it constructs a novel theoretical framework to analyze the problem of college choice as a signal.
+
+**Strengths**
+
+*   **Clear Problem Statement:** The introduction clearly lays out the research question and its relevance. It connects the paper to existing literature (Spence, Arrow) and highlights the specific contribution of this work.
+*   **Logical Structure:** The paper follows a logical progression, starting with a static model, extending it to a dynamic setting, and then applying it to a specific policy issue (race-based admissions).
+*   **Well-Defined Model:** The model is clearly defined, with explicit assumptions about agents, colleges, and firms. The mathematical notation is generally well-used.
+*   **Interesting Results:** The paper derives interesting results, such as the existence and uniqueness of separating equilibria and the potential for initially identical colleges to become differentiated over time. The simulation results provide support for these theoretical findings.
+*   **Policy Relevance:** The application to race-based admissions policies is timely and relevant. The analysis provides insights into the potential effects of these policies on different groups of students.
+*   **Good use of Simulation:** The simulation section strengthens the paper.
+
+**Areas for Improvement and Specific Suggestions**
+
+Here's a breakdown of areas that could benefit from improvement, along with specific suggestions:
+
+*   **Clarity and Accessibility:**
+    *   **Target Audience:**  Consider the target audience and tailor the language and level of detail accordingly.  Some parts of the paper are quite technical and might be difficult for a non-specialist to follow.
+    *   **Intuition:** While the mathematical derivations are important, it's crucial to provide clear intuition behind the results.  Explain *why* the results hold in plain English.  Strengthen the intuitive explanations, especially after presenting key propositions.
+    *   **Connect Theory to Reality:** Provide more real-world examples to illustrate the concepts and results. This will make the paper more engaging and accessible.
+*   **Literature Review:**
+    *   **Expand and Deepen:** The literature review could be more comprehensive. Explore related work in areas such as signaling theory, education economics, and behavioral economics. In particular, you may want to examine literature in behavioural economics that explores how students make a decision about which colleges to attend.
+    *   **Positioning:** Clearly position your paper within the existing literature. Explain how your model builds upon, extends, or challenges previous work.
+*   **Model Assumptions:**
+    *   **Justification:** Provide more justification for the key assumptions of the model. Why are agents assumed to be risk-neutral? Why are colleges assumed to have a fixed capacity? Discuss the potential implications of relaxing these assumptions.
+    *   **Realism:** In the static model, what is the time horizon in which this interaction occurs?
+*   **Dynamic Model:**
+    *   **Firm's Information:** Explain the firm's productivity signal more carefully.
+    *   **Equilibrium Selection:** The potential multiplicity of subgame perfect equilibria is a concern in the static model. Try to deal with this in the dynamic model.
+*   **Race-Based Admissions:**
+    *   **More nuanced discussion:** This section would benefit from a more nuanced discussion of the complexities of race-based admissions policies.
+    *   **Policy Discussion:** Explore alternative policy approaches and their potential effects.
+    *   **Limitations:** Acknowledge the limitations of your simulation and the potential for different results under different parameter values.
+*   **Writing and Style:**
+    *   **Conciseness:**  In some places, the writing could be more concise and direct.
+    *   **Proofread Carefully:** Proofread the paper carefully for typos and grammatical errors.
+*   **Formatting and Presentation:**
+    *   **Figures:** Ensure that figures are clearly labeled and easily readable. Consider using color to enhance the presentation.
+    *   **Equations:** Number the equations for easy reference.
+
+**Specific Examples**
+
+*   **Introduction:** The last paragraph of the introduction does not flow from the ideas presented previously.
+*   **College Choice:** It may be useful to discuss literature in behavioral economics that analyzes how students make the decision to apply to colleges.
+*   **Proposition 2:** Consider the case where the cutoff level, 0*, is arbitrarily close to zero. In this case the result is somewhat trivial. Spend some time trying to show a result that will hold with a reasonable value for 0*.
+*   **College Choice:** You may want to discuss how a university may change tuition, or create new programs in order to attract better students. You can then discuss how this relates to your model.
+
+**In summary,** this is a promising paper with a solid foundation. Addressing the points above will enhance its clarity, rigor, and impact. Good luck!
+
+To give you more specific feedback, it would be helpful to know the context of the paper.

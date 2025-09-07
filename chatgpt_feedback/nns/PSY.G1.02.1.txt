@@ -1,0 +1,77 @@
+Absolutely! Here is detailed feedback on your paper “Is Trauma Research Unethical?”:
+
+---
+
+## Strengths
+
+### 1. **Clear Structure**
+- **Introduction:** The paper effectively introduces the ethical dilemma in trauma research, setting up the “greater good” versus “no harm” debate.
+- **Main Issues:** The segmentation of the core issues (Are trauma subjects being harmed? Are trauma subjects a vulnerable population?) is clear and logical.
+- **Application:** You contextualize the literature by applying findings to your own research setting, which shows good critical engagement.
+- **Conclusion/Implications:** You summarize the implications and propose reasonable directions for future research.
+
+### 2. **Thorough Literature Review**
+- You cite a wide range of relevant sources from both the 1990s and early 2000s, demonstrating knowledge of empirical studies and ethical debates.
+
+### 3. **Balanced Perspective**
+- The paper acknowledges both the risks and benefits of trauma research, rather than adopting a one-sided position.
+- You mention empirical evidence that challenges assumptions about harm, but remain sensitive to ethical gray areas.
+
+### 4. **Integration of Research and Practice**
+- You do an excellent job explaining how published findings inform your lab’s research protocol, thus grounding theory in practice.
+
+### 5. **Critical Questions for the Field**
+- Your recommendations for future research and development of field-specific ethics codes are timely and constructive.
+
+---
+
+## Areas for Improvement
+
+### 1. **Flow and Transitions**
+- Some paragraph transitions could be smoother. For example, moving between the literature review and the application section feels abrupt. Consider using transition sentences to guide the reader.
+
+    **Example:**  
+    Before: “Applicability to our study. We are studying retired Michigan law enforcement officers…”  
+    Suggestion: “Given these findings from the literature, it’s worth examining how they shape the protocols and ethical considerations in our own study of retired Michigan law enforcement officers.”
+
+### 2. **Clarity and Conciseness**
+- Some sentences are lengthy and contain multiple ideas that can make comprehension difficult.
+
+    **Example:**  
+    Original: “Because exposure to a traumatic event is a selection criterion, we are prepared to encounter Post-Traumatic Stress Disorder (PTSD) among our participants.”  
+    Suggestion: “Because all participants have experienced traumatic events, some may have PTSD. Our protocol is designed to address this.”
+
+- Watch for passive voice and unnecessary qualifiers.
+
+### 3. **Depth of Analysis**
+- The section on “vulnerable populations” could be expanded. Right now, you primarily cite literature that argues against special vulnerability; however, you might briefly discuss counterexamples or circumstances where vulnerability may be heightened (e.g., during acute distress).
+
+### 4. **Integration of Citations**
+- Some paragraphs start or end with several citations without much integration into your own analysis. Consider explaining why each study is relevant, or what it adds to your argument.
+
+    **Example:** From Issue 1, after discussing study results, you could add:  
+    “These findings suggest not only that most participants would choose to participate again, but that the research experience can be positively transformative for some individuals (Walker et al., 1997).”
+
+### 5. **Minor Stylistic/Syntactic Issues**
+- There are minor grammatical errors (e.g., “participants were also often asked if they experienced un-expected distress”—should be “unexpected”).
+- Check for correct use of semicolons versus periods.
+- Ensure subject/verb agreement and parallel structure in lists.
+
+### 6. **Expanded Discussion**
+- The “Implications for field” section is somewhat brief. You might discuss specific ways a field-specific ethics code could differ from the general APA code, or give examples of best practices (like those in your lab) that could become industry standards.
+
+---
+
+## Overall Assessment
+
+**This is a well-researched, organized, and reflective paper that provides a nuanced perspective on the ethics of trauma research.** You demonstrate familiarity with the contemporary scholarly debate and are able to apply this knowledge to your research context. With some minor editing (clarity, conciseness, transitions), and a richer discussion of the “vulnerable population” debate, your paper would be even stronger.
+
+**Suggestions in summary:**
+- Use clearer transitions between sections.
+- Simplify and clarify your writing where possible.
+- Expand and deepen the critical analysis, especially on “vulnerable populations.”
+- Integrate citations with your own interpretation.
+- Address minor grammar/style issues.
+- Enrich the implications and recommendations section.
+
+**Great work overall! Let me know if you need help implementing any of these suggestions or want examples of edits.**

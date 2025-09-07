@@ -1,0 +1,76 @@
+Okay, I've read through the essay and can offer some feedback.  Here's a breakdown of strengths, weaknesses, and areas for potential improvement, focusing on argumentation, analysis, organization, and clarity:
+
+**Overall Impression**
+
+This is a very ambitious and insightful essay that grapples with complex themes in significant works of African American literature. The central argument—that Motley and Petry both critique and exploit sensational narratives of racial and sexual minorities while also revealing the violence of state-sponsored reform movements—is compelling. The essay demonstrates a strong command of the texts and relevant secondary scholarship. However, at times the complexity overwhelms the clarity, and the argument could be sharpened and focused.
+
+**Strengths**
+
+*   **Strong Argument:** The essay presents a well-defined and thought-provoking argument about the portrayal of sexuality, race, and domesticity in Motley's *Knock on Any Door* and Petry's *The Narrows*.
+*   **Solid Textual Analysis:** You provide ample textual evidence to support your claims, offering close readings of specific scenes and passages.
+*   **Engaging with Scholarship:** You effectively integrate relevant secondary sources to contextualize your analysis and demonstrate a familiarity with existing critical conversations (Ferguson, Sommerville, Lubin, Rooks, etc.).
+*   **Thematic Depth:** You explore a wide range of relevant themes, including the sexualization of geography, the critique of heteropatriarchy, the commodification of domesticity, and the impact of state-sponsored reform movements.
+*   **Ambitious Scope:** The essay attempts a complex comparative analysis, drawing connections between two distinct novels and broader social and cultural contexts.
+
+**Weaknesses and Areas for Improvement**
+
+*   **Clarity and Focus:** The essay can be dense and difficult to follow at times. The sheer number of ideas and connections can feel overwhelming. A more streamlined approach would strengthen the impact. Consider clarifying the central claim in the introduction and returning to it consistently throughout the essay.
+*   **Organization:** The structure sometimes feels somewhat meandering. Transitions between paragraphs could be smoother and more explicit. Ensure each paragraph has a clear topic sentence that relates directly to the main argument.
+*   **Overly Broad Scope:** The attempt to cover so many themes can lead to a lack of depth in certain areas. Consider narrowing the focus to a few key arguments that you can develop more fully.
+*   **Jargon and Abstract Language:** While the sophisticated vocabulary is impressive, the essay sometimes relies too heavily on jargon and abstract language. Strive for greater clarity and accessibility without sacrificing intellectual rigor.
+*   **Uneven Development:** Some sections are more fully developed than others. For instance, the analysis of Motley seems less sustained than the analysis of Petry. Ensure a more balanced treatment of both authors.
+*   **Conclusion:** The conclusion could be stronger. It summarizes the main points but doesn't offer a particularly compelling final thought or a broader implication of your analysis.
+
+**Specific Suggestions**
+
+1.  **Refine the Thesis Statement:**
+    *   Ensure it's concise, clear, and arguable.
+    *   It should preview the main points you will discuss.
+    *   Consider making it more specific – what *specific* aspects of state violence are being revealed? What *specific* sensational narratives are you talking about?
+
+2.  **Improve Organization:**
+    *   Use topic sentences to clearly signal the purpose of each paragraph.
+    *   Use transitional phrases to connect ideas between paragraphs (e.g., "Building on this point," "In contrast to Motley," "Similarly,").
+    *   Consider outlining the essay to ensure a logical flow of ideas.
+    *   You have a lot of ideas in this paper and connections that are really interesting, but they don't necessarily contribute directly to your thesis. So, it's a good thing to cut out.
+
+3.  **Narrow the Scope:**
+    *   Identify the most compelling aspects of your argument.
+    *   Focus on those aspects and develop them more fully.
+    *   Consider eliminating or downplaying less central themes.
+
+4.  **Clarify Language:**
+    *   Define any specialized terms or concepts that may be unfamiliar to your reader.
+    *   Avoid unnecessary jargon and abstract language.
+    *   Use concrete examples to illustrate your points.
+    *   Maybe you can give a couple more concrete examples to support your ideas.
+
+5.  **Strengthen the Conclusion:**
+    *   Offer a final thought that goes beyond a simple summary.
+    *   Consider the broader implications of your analysis.
+    *   Suggest areas for future research.
+
+6.  **Balance Analysis:**
+    *   Ensure a more balanced treatment of Motley and Petry.
+    *   Provide more sustained analysis of *Knock on Any Door* to complement the analysis of *The Narrows*.
+
+7.  **Proofread Carefully:**
+    *   Pay close attention to grammar, spelling, and punctuation.
+    *   Ensure that all citations are accurate and consistent.
+    *   (I didn't specifically proofread, but it's always a good idea.)
+
+**Example of Potential Revision (Introduction)**
+
+**Original:**
+
+"Who knows the lives and minds of the people who live in the alley?" asks the opening page of Willard Motley's 1947 novel, Knock on Any Door. Is Motley using the contemporary fixation on documenting the “abberant” lives of racial minorities in Chicago's South Side? Or is he making fun of this same trend, implying that nobody can ever know the lives of the poor? Or is he critiqueing readers of African American biography as ethnography, readers who engage in projects of both pathologizing and celebrating Blacks for nonnormative sexual practices? All three attitudes – critique, exploitation, and mocking irony – persist in the tone of Motley's portraits of racial and sexual minorities and their relationship to the city. Anne Petry's 1953 novel The Narrows also simultaneously exploits and critiques sensational narratives of the “perverse” sexual practices of the African American urban poor, focusing on an interracial affair between a Black bartender, Link Williams, and a married white Heiress, Camilo Treadway. Both Petry and Motley take the physical places of both normative and nonnormative sexuality very seriously, placing their characters in conflicts with their neighborhoods, domestic spaces, and even their bedroom furniture. In Chicago and New York, between 1920 and 1930, as waves of African American migrants moved to urban centers, these impoverished communities became a key area of societal investigation (by social workers, “Bureaus of Social Hygeine," and urban planners).¹ In both cities, “vice” districts of the outlaw sexualities migrated into African American neighborhoods and brought new communities into being around nonnormative gender, racial and sexual practices. "Vice districts” were areas where the usual codes of erotic object choice
+
+**Revised:**
+
+Willard Motley's 1947 novel, *Knock on Any Door*, opens with the question, "Who knows the lives and minds of the people who live in the alley?"  This question encapsulates the complex dynamic between observing, exploiting, and critiquing narratives that sensationalize the lives of racial and sexual minorities, a dynamic that both Motley and Anne Petry engage with in their work.  While appearing to document the "aberrant" lives of marginalized communities, Motley and Petry’s novels simultaneously critique the voyeuristic tendencies of readers and expose the insidious ways in which state-sponsored reform movements attempt to police and control Black sexuality.  Through their portrayals of characters struggling against the constraints of heteropatriarchal domesticity in *Knock on Any Door* and *The Narrows*, respectively, Motley and Petry reveal the violence inherent in these attempts to regulate race and sexuality within the confines of the urban landscape. *Knock on Any Door* uses the homosociality of the streets as a space for homosocial bonding, where as *The Narrows* reclaims housework as a space of connection between women. This essay will examine how these novels, through their critiques of normative domesticity, illuminate the intertwined struggles against racial and sexual oppression in mid-20th century America.
+
+*(This revision is just a suggestion, of course. You may have different ideas about what to emphasize.)*
+
+**In Conclusion**
+
+This essay demonstrates a high level of intellectual engagement and critical thinking. By addressing the weaknesses outlined above, you can further refine your argument, enhance the clarity of your writing, and create a more compelling and impactful analysis. Good luck!

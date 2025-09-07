@@ -1,0 +1,46 @@
+Okay, here's some feedback on the paper, covering strengths, weaknesses, and suggestions for improvement.
+
+**Overall Impression**
+
+This paper demonstrates a good understanding of the complex ideas of Polanyi, Arendt, and Alexander. You successfully synthesize their arguments and identify common threads in their approaches to state, market, and civil society.  The paper is ambitious in its scope, attempting to compare and contrast three sophisticated thinkers.
+
+**Strengths**
+
+*   **Understanding of Source Material:** You demonstrate a strong grasp of the core concepts of each theorist. You accurately represent their arguments about institutions, human nature, rights, solidarity, and the relationship between state, market, and civil society.
+*   **Comparative Analysis:** The paper successfully compares and contrasts the perspectives of the three theorists, highlighting their similarities and differences.  The focus on their shared opposition to biological determinism and their process-oriented approaches is insightful.
+*   **Thematic Focus:** The paper is organized around a clear theme: how each theorist re-conceptualizes the relationships between state, market, and civil society.
+*   **Use of Quotations:** You effectively use quotations from the theorists and secondary sources to support your claims.
+*   **Critical Thinking:** You show an ability to analyze and synthesize the ideas of the theorists, and to draw your own conclusions.
+
+**Areas for Improvement**
+
+*   **Clarity and Flow:** This is the most significant area for improvement. The writing can be dense and difficult to follow at times. Sentences are often long and complex, making it hard for the reader to grasp the main point. Improve sentence structure, vary sentence length, and consider using shorter paragraphs to enhance readability. Transitions between ideas are sometimes abrupt.
+*   **Specificity and Examples:** While the paper effectively explains the theoretical concepts, it could benefit from more concrete examples to illustrate these ideas. How do these theories apply to real-world situations? Providing examples would make the arguments more accessible and persuasive.
+*   **Deepen the Critique:** The paper primarily focuses on summarizing and comparing the theorists' views. To elevate the analysis, consider including a more critical assessment. What are the limitations of each theory? Are there any contradictions or inconsistencies in their arguments? How do their theories hold up in light of contemporary challenges?
+*   **Structure and Organization:** The overall structure is sound, but the organization within paragraphs could be improved. Make sure each paragraph has a clear topic sentence that introduces the main point. Each sentence should then contribute to developing that point.
+*   **Language and Grammar:** While the paper is generally well-written, there are some instances of awkward phrasing, grammatical errors, and non-idiomatic English.  Careful proofreading is essential.
+*   **Conclusion:** The conclusion could be strengthened. Instead of simply summarizing what has been discussed, consider using the conclusion to offer a final synthesis or to suggest avenues for future research.
+
+**Specific Suggestions**
+
+*   **Example:** Instead of stating that "For Polanyi, market is the key and intermediate parts of the relationship," you could illustrate this with a brief example of how Polanyi's analysis of 19th-century England demonstrates the dominance of the market and its impact on state and civil society.
+*   **Simplify Sentence Structure:** Break down long sentences into shorter, more manageable ones. For example, instead of: "In Polanyi's eyes, there is no human nature as utilitarians believe, or to be more precise, there is no biological human nature, instead, human can only be social being or relational self – they are shaped by social aspects, they are involved in various human relations and the interdependence is the most valued," try something like: "Polanyi rejects the utilitarian view of fixed human nature.  He argues that human beings are not inherently self-interested. Instead, they are shaped by social forces, embedded in relationships, and value interdependence."
+*   **Transitions:** Use transitional words and phrases to connect ideas and paragraphs. For example, "Similarly," "In contrast," "However," "Therefore," "Furthermore," etc.
+*   **Define Key Terms:** Explicitly define key terms that may be unfamiliar to the reader, such as "embeddedness," "double movement," and "solidarity." Although you use these terms within the context of their respective authors, it would be helpful to provide concise definitions early on.
+*   **Proofread Carefully:** Proofread for grammatical errors, typos, and awkward phrasing.
+
+**Revised Example**
+
+Here's an example of how you could revise a section to improve clarity and flow:
+
+**Original:**
+
+"Arendt used the pair of "rights” – human rights (or the rights of humanity/man) and "the right to have rights" (or the rights of the citizenship) to redefine the relationship between the three parts. It is said that Arendt has always refused to be labeled as a philosopher since she thought philosophy is concerned with “man in the singular", but what she really concerned about were “men, not Man, live on the earth and inhabit the world.” It is obvious that what she focused on are the human people, instead of the biological body."
+
+**Revised:**
+
+"Arendt sought to redefine the relationship between the individual, the state, and humanity by distinguishing between "human rights" (or the rights of humanity) and "the right to have rights" (or the rights of citizenship). Arendt resisted being labeled a philosopher because she believed traditional philosophy focused on abstract concepts of "Man," rather than the concrete realities of individual human beings. Her concern was with "men, not Man, live on the earth and inhabit the world," emphasizing her focus on human beings and their political existence, not just their biological existence."
+
+**In Summary**
+
+This is a thoughtful and insightful paper that demonstrates a solid understanding of complex theoretical concepts. By focusing on improving clarity, providing concrete examples, deepening the critique, and refining the language, you can significantly enhance the paper's impact and persuasiveness. Good luck!

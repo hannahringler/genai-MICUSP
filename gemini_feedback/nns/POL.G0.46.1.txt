@@ -1,0 +1,63 @@
+Okay, here's some feedback on the paper "The Difficulty With International Law During the War on Terror," focusing on strengths, weaknesses, and suggestions for improvement:
+
+**Overall Impression:**
+
+The paper presents a good overview of the challenges international law faces in the context of the "War on Terror." You effectively summarize the arguments of Sofaer and Roth, highlighting their differing perspectives on the issue. The conclusion effectively summarizes the main points and emphasizes the need for clear, internationally agreed-upon definitions.
+
+**Strengths:**
+
+*   **Clear Thesis:** The paper clearly establishes the central argument that the ambiguity of language in international law hinders effective action against terrorism.
+*   **Effective Summary of Sources:** You accurately capture the main arguments of Sofaer and Roth.
+*   **Comparative Analysis:** The paper does a good job of contrasting Sofaer's and Roth's viewpoints.
+*   **Well-Structured:** The paper follows a logical structure, with a clear introduction, body paragraphs focusing on specific arguments, and a concluding section.
+*   **Relevance:** The topic is timely and relevant.
+*   **Appropriate Use of Citations:** You've correctly cited your sources.
+
+**Weaknesses:**
+
+*   **Depth of Analysis:** While you summarize the authors' arguments effectively, there could be more in-depth analysis of the underlying reasons for their viewpoints. Exploring the motivations and assumptions behind their claims could strengthen the paper.
+*   **Limited Original Argumentation:** The paper relies heavily on summarizing existing arguments. While this is a valid approach for a report, incorporating more of your own critical thinking and analysis would elevate the quality.
+*   **Lack of Contextual Background:** More background information about the historical context of international law and the development of counter-terrorism policies could enrich the paper.
+*   **Argumentative Strength:** The argumentative core of the paper, such as supporting details, and explanations, is not as strong as it could be.
+*   **Grammar and Style:** Some sentences are awkward or could be expressed more clearly. A thorough review of grammar and style would improve readability.
+
+**Specific Suggestions for Improvement:**
+
+1.  **Develop Original Analysis:**
+
+    *   Don't just summarize *what* Sofaer and Roth say, but analyze *why* they say it. What are their underlying assumptions? What are the potential consequences of their arguments?
+    *   Consider the broader implications of the differing viewpoints. For example, how might Sofaer's focus on the law itself versus Roth's focus on the abuse of law affect policy decisions?
+    *   Develop your own argument beyond summarizing the sources. What is your *own* perspective on the issue? Do you agree with one author more than the other? What are the limitations of their arguments?
+
+2.  **Provide More Context:**
+
+    *   Expand on the historical context of international law. Discuss the evolution of international laws related to warfare and terrorism.
+    *   Provide more background on the Bush administration's policies and the controversies surrounding them.
+    *   Elaborate on the specific examples you provide. For example, when discussing the cases of Jose Padilla and Ali Saleh Kahlah al-Marri, briefly explain the circumstances of their cases and why they are relevant to the argument.
+
+3.  **Strengthen the Argumentative Core:**
+
+    *   Make stronger connections between your evidence (the authors' arguments) and your claims. Explain how the evidence supports your claims more explicitly.
+    *   Anticipate and address counterarguments. What are the potential objections to your thesis?
+
+4.  **Refine Grammar and Style:**
+
+    *   Proofread carefully for grammatical errors and typos.
+    *   Vary your sentence structure to improve readability.
+    *   Use more precise language to avoid ambiguity.
+
+5.  **Consider Additional Sources:**
+
+    *   While Sofaer and Roth provide valuable perspectives, consider incorporating additional sources to broaden your understanding of the issue.
+    *   Look for sources that offer different perspectives or challenge the arguments of Sofaer and Roth.
+    *   Include official documents such as the Geneva Convention.
+
+**Example Revisions:**
+
+*   **Original:** "The vagueness of the word “terrorism' and other such language in international law lead to different interpretations and therefore disagreement on a standard rule."
+*   **Revised:** "The inherent ambiguity of the term 'terrorism' within international law, stemming from its lack of a universally accepted definition, inevitably leads to divergent interpretations and, consequently, hinders the establishment of a cohesive global standard for addressing it."
+
+*   **Original:** "On the other hand, Roth condemns the abuse of international law by states, specifically the United States. He is troubled by Washington's excessive use of war rules to serve its interest."
+*   **Revised:** "In contrast, Roth criticizes the potential for states, particularly the United States, to abuse international law by selectively applying 'war rules' in situations where law enforcement standards would be more appropriate, thus prioritizing their own strategic interests over adherence to established legal norms."
+
+**In summary:** This is a solid paper with a clear focus. By adding depth of analysis, developing your original argumentation, providing more context, and refining your writing style, you can significantly improve the quality of the paper and make it a more compelling contribution to the discussion on international law and the "War on Terror."

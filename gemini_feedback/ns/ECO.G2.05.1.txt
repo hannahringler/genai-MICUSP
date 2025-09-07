@@ -1,0 +1,65 @@
+Okay, I can provide feedback on this paper. To give you the best feedback, it would be helpful to know:
+
+*   **What kind of feedback are you looking for?** Are you concerned about the economic theory, the statistical methods, the writing style, the overall argument, or something else?
+*   **What is the goal of the paper?** Is it a course assignment, a conference submission, a draft for a publication, or something else?
+
+However, I can provide general feedback based on the text provided. Here's a breakdown of strengths and areas for improvement:
+
+**Strengths:**
+
+*   **Relevant and Timely Topic:** Outsourcing and its impact on the workforce is a significant and current issue.
+*   **Clearly Defined Research Question:** The paper clearly states the central question: whether outsourcing clerical jobs impacts clerical workers' compensation.
+*   **Good Literature Review:** The paper cites a variety of sources and engages with the existing literature on outsourcing, its motivations, and its consequences.
+*   **Multifaceted Approach:** The paper explores several dimensions of the problem, including the firm's perspective, spatial considerations, and worker compensation.
+*   **Statistical Analysis:** The paper uses econometric analysis to examine the impact of outsourcing on wages and benefits.
+*   **Spatial Analysis:** This is a more advanced area and good to see this attempted.
+*   **Well-Organized:** The paper is logically structured with a clear introduction, literature review, analysis, and conclusion.
+*   **Clear Writing Style:** The writing is generally clear and easy to understand, although some sections are more technical than others.
+*   **Identification of Limitations:** The paper acknowledges the limitations of the data and methodology used.
+*   **Forward Looking:** The appendix identifies future research directions.
+
+**Areas for Improvement:**
+
+*   **Inconclusive Findings:** The paper acknowledges that the findings are not conclusive. While honesty is good, the paper needs to do a better job of extracting meaningful results and insights from the data. Try to see the analysis as a puzzle, what does the data show and what doesn't it?
+
+*   **Theoretical Framework:** The paper could benefit from a more clearly articulated theoretical framework.
+    *   What are the key economic mechanisms at play?
+    *   What are the competing theories about the impact of outsourcing?
+    *   How does the analysis contribute to the theoretical understanding of the topic?
+
+*   **Endogeneity:** The endogeneity of outsourcing is a serious concern.
+    *   Does the paper address this issue adequately?
+    *   Are there potential instrumental variables that could be used to address endogeneity?
+
+*   **Data Limitations:** Acknowledge limitations and explain their impact.
+    *   Lack of controls for labor force attachment.
+    *   The definition of "contractor accessibility" needs to be more fully flushed out.
+
+*   **Spatial Analysis:**
+    *   The description of the kriging and cokriging methods could be clearer and more concise.
+    *   How can the spatial analysis be linked more directly to the economic analysis of worker compensation?
+
+*   **Robustness Checks:** It would strengthen the paper to include more robustness checks. For example:
+    *   Are the results sensitive to different specifications of the regression model?
+    *   Do the results hold up when using different subsets of the data?
+
+*   **Statistical Significance vs. Economic Significance:** Be very careful to make the distinction between statistical significance and economic significance.
+    *   Are the estimated effects of outsourcing on wages and benefits large enough to be meaningful in practice?
+
+*   **Conciseness:** Some sections could be more concise and focused. For example, the introduction could be streamlined to present the research question and main arguments more directly.
+
+*   **Proofreading:** There are minor grammatical errors and typos throughout the paper. Proofread carefully before submitting the final version.
+
+**Specific Suggestions:**
+
+*   **Introduction:** Clearly state the research question, summarize the main findings, and outline the structure of the paper.
+*   **Literature Review:** Organize the literature review around key themes and arguments. Identify the gaps in the literature that the paper aims to fill.
+*   **Spatial Analysis:**
+    *   State explicitly the purpose of the spatial analysis.
+    *   Interpret the results of the kriging and cokriging analyses in terms of their implications for the labor market.
+    *   Consider using more sophisticated spatial econometric techniques to analyze the relationship between contractor density and worker compensation.
+*   **Conclusion:** Summarize the main findings, discuss the limitations of the study, and suggest directions for future research. Emphasize the policy implications of the findings.
+
+**Overall Impression:**
+
+This is a well-written and interesting paper that addresses an important topic. With some revisions and extensions, it has the potential to make a significant contribution to the literature on outsourcing and the labor market. Good luck!

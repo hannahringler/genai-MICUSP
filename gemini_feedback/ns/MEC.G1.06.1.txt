@@ -1,0 +1,58 @@
+Okay, here's a breakdown of feedback on the paper, focusing on clarity, technical rigor, and overall presentation.
+
+**Overall Impression:**
+
+This is a well-structured and technically sound report. It clearly states the objectives, methods, results, and conclusions. The writing is generally clear and concise. However, there are areas where the explanation could be improved to make it more accessible to a wider audience and to strengthen the technical arguments.
+
+**Strengths:**
+
+*   **Clear Objective and Scope:** The introduction clearly outlines the problem, the requested analysis, and the purpose of the report.
+*   **Logical Structure:** The report follows a standard engineering format (Foreword, Summary, Procedure, Findings, Conclusions/Recommendations, References), making it easy to follow.
+*   **Detailed Procedure:** The experimental procedure is described with sufficient detail, allowing someone with similar equipment to reproduce the experiment.  The mention of calibration is excellent.
+*   **Quantitative Results:** The report presents quantitative results with uncertainties, which is crucial for engineering analysis.
+*   **Comparison to Reference Values:**  Comparing the measured properties to reference values adds credibility and helps to identify discrepancies.
+*   **Acknowledges Limitations:** The report honestly acknowledges the limitations of the fracture toughness testing and explains why valid K1c values could not be obtained.
+*   **Appropriate Use of Figures and Tables:** The table and figures are well-integrated into the text and support the findings.
+
+**Areas for Improvement:**
+
+*   **Summary Clarity:** While the summary is concise, it could benefit from briefly mentioning *why* the material not being 7075-T651 is significant. Does this lower the strength, increase the corrosion risk, etc.? Adding this context would make the summary more impactful.
+
+*   **Technical Explanations:**
+
+    *   **Fracture Toughness:**  The explanation of why valid K1c values weren't obtained could be expanded slightly.  Instead of just saying "conditions set forth by the ASTM E 399 [2] standard for fracture toughness testing," briefly mention the specific conditions that were violated (e.g., excessive yielding, specimen size requirements).  This reinforces the technical rigor.
+    *   **Stress Intensity Factors (Ko):** Elaborate on what *Kq* represents physically, even if it's not a valid K1c. Is this value useful at all, or is it entirely meaningless given the failure of the K1c test? If it has some limited use, explain it.
+    *   **Equations:** While including equations is good, briefly explaining what each term *represents* in the context of the experiment is beneficial.  For example, in Equation 1, mention that *P* is the applied load, *Ao* is the original cross-sectional area, and *σn* is the calculated nominal stress.
+
+*   **Discussion of Discrepancies:**
+
+    *   The report notes that the measured material properties don't agree with the reference values for 7075-T651 aluminum.  While this is stated, there's no discussion of *possible reasons* for these discrepancies.  Consider adding a sentence or two speculating on the causes:
+        *   "These discrepancies could be due to variations in the manufacturing process, differences in heat treatment, or the presence of other alloying elements."
+        *   "It's also possible that the reference values from Dowling [1] are for a slightly different temper of 7075 aluminum."
+
+*   **Figure Quality & Information:**
+    *   Figure 2: It needs a title, and the axes should have units. I would also increase the font size, as it is very difficult to read.
+    *   Figure 3: Needs a title, and units for the x axis
+    *   Figure 4: Same as above.
+
+*   **Formatting and Style:**
+
+    *   **Units:** Ensure consistent use of units (e.g., MPa instead of N/mm²).
+    *   **Significant Figures:** Pay attention to significant figures in calculations and reported values. The uncertainty should dictate the number of significant figures.
+    *   **Grammar and Typos:** Proofread carefully to eliminate any grammatical errors or typos.
+
+**Specific Suggestions/Edits:**
+
+*   **Summary:** "...by comparing them to reference values, we have concluded the samples we received are not 7075-T651 aluminum, which may affect the grilles' ability to withstand stress/corrosion in their intended environment."
+*   **Procedure (Fracture Test):**  "...We set up the fracture test according to the ASTM E 399 [2] standard for plane-strain fracture toughness (K1c) testing. However, due to excessive yielding in the specimens, the conditions for a valid K1c test could not be met."
+*   **Findings (Fracture Toughness):** "While we were able to find Ko (stress intensity factor associated with critical load Po) values for each individual fracture specimen, those values did not meet the plane-strain conditions required by the 399 standard [2] for K₁c calculations..."  (Add a brief sentence explaining the conditions).
+*   **Discussion:**  "The measured material properties do not match the reference values for 7075-T651 aluminum, potentially due to variations in manufacturing, heat treatment, or alloy composition."
+*   Add units to Figure 2.
+
+**Revised Recommendations (Combining with existing):**
+
+"Our team found values for density, elastic modulus, yield strength, ultimate tensile strength, and elongation at fracture of the samples GG provided, and since none of them agreed with reference values from Dowling [1] I concluded the specimens provided were not 7075-T651 aluminum. Our calculated material properties are displayed on Figure 2 on page 3. The elastic modulus was determined to be 68 ± 2 GPa, characterized by the slope of the linear-elastic region of the stress-strain curve. The yield strength is 546 ± 6 MPa and is shown where the curve diverges from the linear path, which indicates permanent deformation. The ultimate tensile strength of the specimen is 590 ± 5 MPa, and is the maximum stress attained in the experiment before the onset of necking. The elongation at fracture is 17 ± 1%. We were able to calculate Ko values for the four fracture specimens provided by GG, but they were determined to not be K₁c. The standard specifies that the linear elastic fracture mechanics requirements (Eq.5 on page 4) be satisfied for Ko to be K₁c, but they were not.  Further Analysis should be made to understand Ko values.  I recommend that GG further investigate the material actually used to make the grilles for the fluorescent lights, and either remanufacture the grilles using 7075-T651 aluminum or analyze whether the material being different gives rise to a redesign of the grilles."
+
+**In Summary:**
+
+By addressing these points, you can enhance the clarity, technical depth, and overall impact of your report. Good luck!

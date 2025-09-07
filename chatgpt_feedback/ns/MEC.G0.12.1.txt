@@ -1,0 +1,75 @@
+Absolutely! Here’s a structured feedback on your paper, focusing on **strengths**, **areas for improvement**, and some **specific suggestions**.
+
+---
+
+## Strengths
+
+1. **Clear Structure and Scope**:  
+   - The paper has a logical flow, starting from background and definitions, moving into specifics of the control problem, then discussing algorithm choices and summarizing recommendations.
+   - You clearly state the scope: proposing control algorithms for specific pointing applications on a CubeSat-class satellite.
+
+2. **Technical Depth**:  
+   - The discussion demonstrates a solid understanding of satellite attitude control, distinguishing between different kinds of pointing (nadir, inertial).
+   - Concepts like B-dot control and linear quadratic regulators are well-introduced and tied to their practical use in the field.
+
+3. **Relevance and Justification**:
+   - You justify the choice of actuators (magnetic torque coils) based on CubeSat constraints (weight, power).
+   - The reasons for choosing particular algorithms (B-dot for detumbling, constant gain/integral action for nadir pointing) are outlined clearly and with reference to literature and real missions.
+
+4. **Literature Awareness**:  
+   - The reference to flown missions (e.g., NCUBE, AAU cubesat) grounds your recommendations in practical, tested examples.
+
+---
+
+## Areas for Improvement
+
+1. **Clarity and Readability**:  
+   - Some sentences are long and complex, which can make understanding difficult for readers not deeply familiar with the topic.
+   - Occasional typographical or grammatical mistakes (e.g., “trade of” instead of “trade-off,” “in with the simultaneous introduction…”).
+
+2. **Figures**:  
+   - Reference to figures (e.g., figure-1a, figure-3) is made, but the content and usefulness of the figures are not explained in the text. Make sure the figures are referenced meaningfully; describe briefly what they illustrate and why they’re important.
+
+3. **Comparison Table/Tables**:  
+   - Table-1 is mentioned in the text, but there is no actual table shown. If a table is referenced, it should be included.
+
+4. **Details on Controller Design**:  
+   - When discussing controllers (especially constant gain + integral action), it would be beneficial to add a bit more explanation about what the “integral action” accomplishes and why it’s important for stability about the reference.
+
+5. **Recommendations Section**:  
+   - The recommendations could be strengthened by being more specific about simulation parameters or performance metrics. 
+   - There’s a small typo: "the evaluate" should be "then evaluate".
+
+6. **Referencing**:  
+   - While you mention other satellites and literature, explicit citations or a references section would help readers track down your sources.
+
+---
+
+## Specific Suggestions
+
+- **Abstract/Summary**:  
+  Consider adding an abstract at the start to summarize your intent and findings for quick review.
+
+- **Language Edits**:  
+  - Re-read the text for minor errors and sentence clarity.
+  - For example, instead of:  
+    “This selection is made as a trade of between weight, power consumption and available power.”  
+    Try:  
+    “This selection represents a trade-off between weight, power consumption, and the available onboard power.”
+  - “It was also found that the system has a large range of stable gains which give some leeway for incorrect moment of inertia determination and decreases in available power.”
+    might flow better as:  
+    “Additionally, the system exhibits a large range of stable gains, which allows tolerance to errors in moment of inertia estimation and fluctuations in available power.”
+
+- **Expand on Results**:  
+  - Where possible, include table(s) or figures comparing the performance of the algorithms you mention, either from simulations or literature.
+
+- **Future Work**:  
+  - Consider adding a one-line “future work” section or comment (e.g., “Future work could involve hardware-in-the-loop testing or flight validation of the chosen algorithm”).
+
+---
+
+## Overall Impression
+
+You have a strong draft that covers both the theoretical and practical aspects of small satellite attitude control very well. Focus on tightening your writing, clarifying your figures and tables, and strengthening your recommendations, and you’ll have a highly effective and professional report!
+
+If you’d like, I can suggest specific rewrites for passages that you find unclear. Let me know if you want that!

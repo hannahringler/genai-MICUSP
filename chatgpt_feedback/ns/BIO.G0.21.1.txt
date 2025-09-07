@@ -1,0 +1,66 @@
+Certainly! Below is detailed feedback on the paper “Prevalence of Haemosporidians in birds of Northern Michigan.” The feedback is organized by general comments and then section-by-section analysis, based on the full text provided.
+
+---
+
+## **General Feedback**
+
+### **Strengths**
+- **Topic Relevance:** The study addresses an important issue in wildlife epidemiology with implications for both avian and human health.
+- **Structure:** The paper follows a clear scientific format (Abstract, Introduction, Methods, Results, Discussion, References).
+- **Data Presentation:** Tables and figures effectively summarize complex data and statistical findings.
+- **Use of Literature:** The introduction and discussion make appropriate references to previous studies, showing awareness of the broader scientific context.
+- **Statistical Analysis:** Application of Mann-Whitney and Kruskal-Wallis tests is appropriate for the data type and research questions.
+- **Clarity of Writing:** Most sections are well-written, with clear and grammatically correct prose.
+
+### **Areas for Improvement**
+- **Depth of Discussion:** At times, interpretations are brief; more depth and critical analysis would strengthen the manuscript.
+- **Sample Size:** The discussion should more explicitly address the limitations associated with small sample sizes for some groups (e.g., only one or two birds in certain categories).
+- **Inclusion of Limitations:** Although limitations (like sample size, difficulties sexing birds) are mentioned, a more explicit limitations section could add rigor.
+- **Link to Human Health:** The introduction hints at links with human malaria but this connection could be more clearly followed through in the discussion.
+- **Abstract Conciseness:** The abstract is somewhat long; consider trimming for conciseness and sharper focus on the most significant findings and implications.
+
+---
+
+## **Section-by-Section Feedback**
+
+### **Title**
+- **Strength:** Informative and clear.
+- **Improvement:** None needed.
+
+### **Abstract**
+- **Strength:** Summarizes the purpose, methods, results, and statistical outcomes well.
+- **Improvement:** Consider summarizing the key findings and omitting some of the detailed p-values to keep the abstract to the bare essentials.
+
+### **Introduction**
+- **Strength:** Provides a good rationale, shows the significance of studying avian malaria, and references historical and recent research.
+- **Improvement:** Tighten the narrative to flow more directly from avian to human health, clearly stating the hypothesis or questions at the close of the section.
+
+### **Methods**
+- **Strength:** Clearly describes study design, sampling locations, procedures, and analysis.
+- **Improvement:** Briefly justify the choice of nonparametric statistics; clarify the rationale for certain sampling periods or methods if possible. Mention any ethical considerations or permits obtained for animal sampling.
+
+### **Results**
+- **Strength:** Clearly organized, effective use of tables and figures, and strong reporting of statistical results.
+- **Improvement:** For tables/figures, ensure all axes are labeled, and consider providing brief interpretations below each one to enhance clarity. The prevalence reported for some tiny groups (e.g., 100% for singletons) should be caveated in the text/tables.
+
+### **Discussion**
+- **Strength:** Interprets main findings, relates to prior research, discusses implications for bird ecology and malaria prevalence.
+- **Improvement:** Spend more time critically analyzing why some trends appear (e.g., why second-year birds had lower prevalence or why habitat may play a role). More fully discuss the limitations presented by small or uneven group sizes. If possible, propose more specific directions for future research.
+
+### **Acknowledgements and References**
+- **Strength:** Proper credits are given; references are adequate and generally current for the field.
+- **Improvement:** Minor formatting updates to match journal or course guidelines (if required).
+
+---
+
+## **Minor/Technical Corrections**
+- Table and figure legends should be completely self-explanatory—readers should understand them without needing to refer to the main text.
+- There are a few typographical errors (e.g., a correction noted for Fringillidae/Emberizidae) that should be fixed before final submission.
+
+---
+
+## **Summary Statement**
+
+**Overall, this is a well-structured and scientifically sound undergraduate research paper. The research question is relevant, methods are appropriate, and results are clearly presented and interpreted. More attention to sample size limitations, a more thorough discussion, and a concise abstract would improve the paper further.** 
+
+If you’d like more specific line-by-line suggestions or need help with rewriting sections, feel free to ask!

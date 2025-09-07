@@ -1,0 +1,52 @@
+Okay, here's a breakdown of the paper's strengths, weaknesses, and areas for improvement:
+
+**Overall Impression**
+
+The paper addresses the question well and demonstrates a good understanding of the Emerald Ash Borer (EAB) problem in Michigan. The research is relatively thorough and cites credible sources. The structure is logical, and the writing is generally clear. However, there's room to enhance the depth of analysis, improve the organization in a few places, and refine the writing for greater conciseness and impact.
+
+**Strengths:**
+
+*   **Clear Introduction and Thesis:** The paper clearly states the topic and outlines the main questions it intends to answer.
+*   **Good Coverage of Background Information:**  The paper provides a good overview of the EAB, its host trees, its origins, and how it was introduced.
+*   **Research and Citation:** The paper uses a good range of sources and cites them appropriately. The literature cited section is comprehensive.
+*   **Logical Structure:** The paper progresses logically from introduction to discovery, spread, detection, control, and impacts.
+*   **Addresses the Question:** The paper directly addresses the question of how the EAB infested Michigan and potential control techniques.
+*   **Includes Visual Aid:** The map is helpful in illustrating the quarantine areas.
+
+**Weaknesses and Areas for Improvement:**
+
+*   **Depth of Analysis:** While the paper presents a good overview, it sometimes lacks in-depth analysis.
+    *   **Control Techniques:** The paper mentions girdled trap trees but could expand on other potential control techniques (biological control, insecticides, ash tree replacement, etc.) and their effectiveness/limitations.  A more detailed discussion of the "ongoing research into biological control" would be beneficial.
+    *   **Spread Mechanisms:** You could elaborate on the specific human activities that contributed to the spread beyond firewood and nursery stock (e.g., movement of logs for construction, etc.).
+*   **Specificity and Evidence:**
+    *   When discussing ecological and social impacts, provide specific examples. What key species are affected? How are industries specifically impacted? What are the economic losses associated with tree removal, replanting, or treatment?
+    *   In conclusion, "Scientists are working to create more effective lures and traps," what type of lures and traps? Include specific types of lure and trap.
+*   **Organization/Flow:**
+    *   The transition between the "Discovery of EAB" and "Detection and Control" sections could be smoother.  Consider adding a brief paragraph summarizing the spread of the EAB before moving into control measures. This would help create a stronger narrative flow.
+*   **Writing Style:**
+    *   **Conciseness:** Sentences can sometimes be wordy. Try to tighten up the language and remove unnecessary phrases. Example: "Because of the ecological and social importance of green ash and its high mortality from A. planipennis this paper will focus primary on the effects of A. Planipennis on green ash, however all ash species can be affected and are declining from the A. planipennis." Could be something like: "This paper primarily focuses on the impact of A. planipennis on green ash, given the ecological and social importance and high mortality rates associated with this species, though all ash species are vulnerable."
+    *   **Word Choice:**  Be precise in word choice. For example, instead of "it is easer for an invasive pest to dominate," try "it is easier for an invasive pest to dominate."
+
+**Specific Suggestions and Edits:**
+
+*   **Introduction:** Briefly mention the economic and ecological consequences of the infestation in the introduction to highlight the significance of the problem.
+*   **Discovery of EAB:**
+    *   After mentioning that infested wood packing was the source of the invasion, consider adding a sentence or two explaining why this was difficult to prevent (e.g., lack of regulation, difficulty in detecting infestation).
+*   **Detection and Control:**
+    *   Expand on the different control techniques available. Discuss the pros and cons of each (cost, effectiveness, environmental impact).
+    *   Mention the role of public awareness campaigns in preventing the spread of EAB.
+*   **Ecological Economic and Social Impacts:**
+    *   Provide specific examples of the impact on different industries.
+    *   Explain why the impacts on black ash ecosystems are hard to predict.
+*   **Conclusion:**
+    *   Reiterate the importance of continued research and public cooperation.
+    *   End with a strong statement about the future of ash trees in Michigan.
+
+**Example Edits**
+
+*   **Original:** "The Emerald Ash Borer, Agrilus planipennis, Fairmare (Coleoptera: buprestidae) is an invasive beetle that feeds and reproduces primarily in ash trees (Haack and Petrice 2004)."
+    *   **Revised:** "The Emerald Ash Borer (EAB), *Agrilus planipennis* Fairmare (Coleoptera: buprestidae), is an invasive beetle that primarily feeds and reproduces in ash trees (Haack & Petrice, 2004)."
+*   **Original:** "Furthermore large residential and business developments in urban areas are often composed of a single shade tree species, making it easer for an invasive pest to dominate the stand (Poland and McCullough 2006)."
+    *   **Revised:** "Moreover, large residential and business developments often feature monoculture plantings of shade trees, facilitating the dominance of invasive pests (Poland & McCullough, 2006)."
+
+**Overall, this is a solid paper that demonstrates a good understanding of the topic. By addressing the weaknesses outlined above, you can significantly improve its depth, clarity, and impact.**

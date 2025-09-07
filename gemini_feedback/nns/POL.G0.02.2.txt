@@ -1,0 +1,57 @@
+Okay, I've reviewed the paper. Here's some feedback, focusing on clarity, argumentation, structure, and areas for potential improvement:
+
+**Overall Impression**
+
+The paper is a well-structured literature review that explores the complex relationship between institutional reforms and electoral corruption, particularly focusing on the Philippines and drawing comparisons with Thailand. The topic is relevant and the review demonstrates a good understanding of the existing literature. However, there are areas where the argumentation could be sharpened, and the analysis could be deepened.
+
+**Strengths**
+
+*   **Clear Structure:** The paper follows a logical flow, starting with an introduction, defining key terms, reviewing relevant literature, presenting a case study (Thailand), and concluding with suggestions for future research.
+
+*   **Good Definition of Terms:** The paper begins with a clear definition of "corruption" which is essential for a focused analysis.
+
+*   **Engagement with Literature:** The paper effectively summarizes and synthesizes relevant academic literature on electoral systems, party competition, and corruption. Hicken's work is well-integrated and central to the argument.
+
+*   **Relevant Case Study:** The inclusion of the Thai case study provides valuable empirical context and allows for a comparative perspective.
+
+*   **Focus on Measurement:** The paper rightly highlights the challenges of measuring corruption, which is a crucial point in this type of analysis.
+
+*   **Clear Conclusion:** The concluding remarks aptly summarize the findings and suggest avenues for future research.
+
+**Areas for Improvement**
+
+1.  **Sharpen the Argument and Thesis:**
+
+    *   The paper is descriptive in many places. While it summarizes different perspectives, it could benefit from a stronger, more argumentative thesis statement that clearly outlines your specific stance or hypothesis on the impact of institutional reforms on corruption. For example, do you believe reforms *can* work, but only under certain conditions? Are you skeptical of their effectiveness in general?
+    *   The introduction could be more compelling by stating your argument clearly. Instead of just stating that you will explore the validity of their claim, give the reader your impression based on your research
+
+2.  **Deeper Analysis and Critical Evaluation:**
+
+    *   While the paper summarizes literature, it could benefit from deeper critical analysis. Instead of just presenting different perspectives, evaluate the strengths and weaknesses of each argument. What are the limitations of the studies you cite? Where are the gaps in the literature?
+    *   For example, when discussing Shugart's argument about mixed member systems, explain in more detail why you believe it's unsuitable for the Philippines. Provide specific reasons and evidence to support your counter-argument.
+    *   Be more explicit about the implications of your findings. What does the Thai case study tell us about the potential for electoral reform in the Philippines? What are the key factors that determine whether reforms will be successful or not?
+
+3.  **Strengthen the Connection between Theory and Evidence:**
+
+    *   The paper could better connect the theoretical concepts (e.g., intra-party competition, personal vote cultivation) to the specific evidence from the Philippines and Thailand. How do these concepts manifest themselves in these countries?
+    *   In the Thailand section, provide more detail on the specific reforms that were implemented and how they were intended to reduce corruption. This will help to strengthen the analysis of their impact.
+    *   Provide more reasoning for your new measures of corruption beyond schools (e.g. the use of healthcare).
+
+4.  **Address Potential Counterarguments/Limitations:**
+
+    *   Acknowledge potential counterarguments to your thesis. For example, what are the potential unintended consequences of closed-list PR systems? Are there other factors besides electoral systems that contribute to corruption?
+    *   Recognize the limitations of your analysis. For example, the Thai case study may not be perfectly applicable to the Philippines due to differences in political culture, history, and other factors.
+
+5.  **Refine Language and Style:**
+
+    *   While the writing is generally clear, there are some instances where the language could be more precise and concise.
+    *   Be careful about making overly broad generalizations. Qualify your statements with phrases like "may," "can," or "in some cases."
+    *   Vary your sentence structure to improve readability.
+
+**Specific Suggestions**
+
+*   **Introduction:** Reword the last sentence of the first paragraph to make your claim more apparent.
+*   **Thailand Case Study:** Elaborate on the specific elements of the 1997 Thai constitution to make its significance more clear.
+*   **Conclusion:** Provide an overall opinion on the success of these reforms.
+
+**In summary:** This is a solid literature review with a good foundation. By strengthening the thesis, deepening the analysis, and refining the argumentation, you can elevate this paper to a higher level. Good luck!

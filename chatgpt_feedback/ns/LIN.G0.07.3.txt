@@ -1,0 +1,62 @@
+Absolutely! Here is detailed feedback on the paper “Morphological Deficits in Children with Specific Language Impairment” based on what you shared:
+
+---
+
+## Overall Impression
+
+This is a well-structured and clearly written report that successfully summarizes and critiques the research by Leonard et al. (1992). The paper demonstrates a strong understanding of the topic, situates the study within the broader SLI literature, and carefully evaluates the experimental results and theoretical implications. The referencing is appropriate, and the writing is concise and organized.
+
+---
+
+## Strengths
+
+### 1. **Clarity and Organization**
+- The introduction clearly explains the concept of SLI, relevant background, and the motivation for the Leonard et al. study.
+- The report logically presents the competing theories/hypotheses, the study design, and the specific predictions of the missing feature hypothesis.
+- The structure is coherent, with smooth transitions between summary, analysis of methods, results, and final interpretation.
+
+### 2. **Depth and Critical Engagement**
+- You go beyond simply summarizing the study: the discussion includes critical evaluation (e.g., why certain results support or contradict the hypothesis, how findings compare cross-linguistically, and alternative explanations).
+- You note the limitations of the missing feature hypothesis and discuss how language-specific factors may influence SLI outcomes.
+- The synthesis of findings from other studies (including highlighting the issue of sample representativity and referencing prior research by Leonard) adds depth.
+
+### 3. **Language and Style**
+- The paper is written in a clear, academic tone, suitable for an undergraduate linguistics audience.
+- Jargon is explained as needed (e.g., obligatory contexts, inappropriate contexts, MLU), making the report accessible.
+
+---
+
+## Areas for Improvement / Suggestions
+
+### 1. **Thesis and Argumentation**
+- While the report is comprehensive, the thesis could be stated more explicitly at the outset. Right now, the introduction mainly summarizes what the paper will discuss, but an early statement of your main conclusion or critical perspective would frame the rest of the report.
+
+### 2. **Analysis of Study Design**
+- There is careful attention to experimental results, but a little more discussion of methodological strengths/weaknesses could strengthen your critique. For example, were the tasks (picture description, picture selection) equally valid across both languages? Was MLU an appropriate matching metric for the control groups?
+- Any specific limitations regarding sample size, age range, or other demographic factors could be briefly mentioned if space allows.
+
+### 3. **Broader Implications**
+- While you mention that SLI is heterogeneous and that multiple etiologies may exist, you could briefly discuss what the implications are for assessment or intervention (even in just a sentence or two).
+- Are these findings still relevant today, or have newer theories/hypotheses since contributed additional insights? A brief nod to the evolving nature of SLI research would contextualize the paper.
+
+### 4. **Formatting and Citation**
+- The referencing is appropriate, but the citation style is a bit inconsistent (sometimes SLI; sometimes ESLI/ISLI). Clarity about when you mean general SLI, English SLI, or Italian SLI would help.
+- The reference to the MICUSP Corpus at the end of each page is distracting in this context—you might want to remove this in a final draft, unless required for attribution.
+
+### 5. **Minor Notes**
+- In places, you repeat similar points (e.g., memorization of irregular past tense forms) – slightly condensing or combining comparative points could tighten the prose.
+- Double-check for minor typographical errors. Overall, grammar and spelling are very strong.
+
+---
+
+## Summary
+
+**Strengths:** Clear, comprehensive, and critical; strong structure and language.
+
+**Suggestions:** State your thesis more explicitly, add any brief methodological critiques, consolidate repeated points, and consider implications beyond theory.
+
+**Overall:** This is an excellent undergraduate report that demonstrates both subject mastery and critical engagement. With a few strategic enhancements, it would be even stronger.
+
+---
+
+If you need feedback on a specific section or want more targeted advice (e.g., how to critique methodology, how to create a stronger conclusion), please let me know!

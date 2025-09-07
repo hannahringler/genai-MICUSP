@@ -1,0 +1,47 @@
+Okay, I've read through your paper on Hempel's account of scientific explanations. Here's some feedback, focusing on strengths, areas for improvement, and specific suggestions:
+
+**Overall Impression:**
+
+This is a well-structured and thoughtful paper. You clearly understand Hempel's model and raise some compelling objections to it. Your writing is generally clear and concise, and you demonstrate a good grasp of the philosophical concepts involved. The arguments are clearly presented and followed by good examples. The length is appropriate as well.
+
+**Strengths:**
+
+*   **Clear Explanation of Hempel's Model:** You effectively summarize the deductive-nomological (D-N) and inductive-statistical (I-S) models of explanation. Your examples are helpful in illustrating these models.
+*   **Well-Defined Objections:** Your two main objections – concerning post-hoc explanations and the role of human cognition – are clearly articulated and well-supported with examples.
+*   **Thought-Provoking Examples:** The evolutionary explanation of moth tongues and the casino scenario are excellent examples that effectively highlight the limitations of Hempel's model. The neural network example is well thought out.
+*   **Good Structure:** The paper follows a logical progression, starting with an introduction to Hempel's model, followed by a clear presentation of your objections, and ending with a summary and conclusion.
+*   **Clear Writing:** The writing is generally clear and easy to follow. You use appropriate philosophical terminology and explain concepts effectively.
+*   **Engagement with Counterarguments:** You anticipate potential responses from Hempel (e.g., that the evolutionary explanation isn't a proper explanation) and address them.
+
+**Areas for Improvement:**
+
+*   **Deeper Engagement with the Literature:** While you cite Hempel and discuss McCloskey, consider expanding your engagement with other philosophers who have critiqued or defended Hempel's model. This will strengthen your arguments and demonstrate a broader understanding of the debate. Are there common arguments against Hempel or defenses?
+
+*   **Clarify the "Explanatory Relevance" Criterion:** Spend some more time unpacking the specific notion of "explanatory relevance" that Hempel employs. This is the key point of contention in your paper. What exactly *does* Hempel mean by it? Is it just predictability, or is there something more? If this is well understood, you can start to discuss what aspects of this definition makes for bad implications.
+
+*   **Address Potential Counterarguments More Fully:**
+    *   While you anticipate some responses from Hempel, consider developing these counterarguments more thoroughly. For example, how might a defender of Hempel argue that evolutionary explanations *can* be accommodated within his framework? What specific modifications or interpretations might they offer?
+    *   Regarding the neural network example, you could explore whether someone might argue that the *potential* for prediction (even with a computer) is sufficient to satisfy Hempel's requirement, even if humans cannot practically perform the prediction.
+    *   You could cite philosophers that would disagree or agree with the Hempel's criteria and/or implications of the definition.
+*   **Offer a More Constructive Conclusion:** While you effectively critique Hempel's model, consider offering some suggestions for how it might be modified or supplemented to address your concerns. What alternative criteria for scientific explanation might be more adequate? You don't need to develop a fully fleshed-out theory, but suggesting potential avenues for improvement would strengthen your conclusion.
+
+*   **Refine the Neural Network Example:**
+    *   Clarify the connection between the complexity of the neural network and the human ability to predict its behavior. Is it *inherently* impossible for a human to predict the output, or is it simply a matter of computational limitations?
+    *   Consider the role of abstraction and simplification in scientific explanation. Is it always necessary to understand every detail of a system to provide a meaningful explanation?
+    *   You say "So, should we consider the parameters of the network an explanation? Even more, should we by analogy take as some scientists do - the features of a human's neurons to be explanations of how the brain works?" The second part of this sentence is very vague. How *do* some scientists take the features of a human's neurons to be explanations of how the brain works?
+
+**Specific Suggestions:**
+
+*   **Introduction:** In the introduction, you state that you will discuss the role of post hoc explanations and the role of human psychology. You might rephrase this to be "the role of post hoc explanations and explanations where human cognition does not allow the prediction of the explanandum based on the explanans." It's too vague.
+*   **Page 2:** You could consider defining "inductive strength" when you bring up the I-S explanation model.
+*   **Page 3:** "Beyond this, we must ask, what is unique about Hempel's model in terms of description or prescription?" This sounds a little weird. I recommend rewriting this sentence.
+*   **Page 5:** "If Hempel's model of explanation bars this sort of post hoc reasoning (as it seems it should, since one should not be able to assume the conclusion in order to predict the conclusion)" This should be rewritten to emphasize why one cannot assume the conclusion in order to predict the conclusion.
+*   **Page 6:** You could mention what the word "explanandum" means when first brought up.
+*   **Page 7:** The paragraph about connectionist models and neural networks in cognitive psychology is very dense with detail and might require more context for readers unfamiliar with the field. Consider breaking it down or providing more introductory information.
+*   **Page 9:** To sum, Hempel's D-N and I-S models of explanation fail to explicitly address the two concerns raised: the role of post hoc explanations and the role of human cognition in explanation. This is a little vague. How about: To sum, Hempel's D-N and I-S models of explanation fail to explicitly address the two concerns raised: the role of post hoc explanations and explanations where human cognition does not allow the prediction of the explanandum based on the explanans.
+
+**Revised Conclusion (Example):**
+
+"In conclusion, while Hempel's D-N and I-S models offer a valuable framework for understanding scientific explanation, they appear to be overly restrictive in their requirement of explanatory relevance. The model's apparent stance gives us no explanation at all in situations where explanations not in accord with the model are typically given. This is a problem for the model and warrants further discussion, and fails to adequately account for post-hoc explanations and situations where human cognitive limitations impede prediction. One possible avenue for revising Hempel's model would be to weaken the requirement of predictability, focusing instead on the ability to provide a coherent and causally plausible account of the phenomenon in question. Another approach might involve incorporating a more nuanced understanding of the role of human understanding and cognitive limitations in the evaluation of scientific explanations. Future work might examine alternative theories of scientific explanation like causal-mechanical accounts or unificationist accounts, to see if they can better accommodate the examples discussed in this paper."
+
+By addressing these points, you can elevate your paper to an even higher level of philosophical analysis and argumentation. Good job!

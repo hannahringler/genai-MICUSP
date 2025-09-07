@@ -1,0 +1,84 @@
+Okay, here's some feedback on the paper "Search for SUSY signatures in the Dilepton Channel at CDF." This feedback is structured to address different aspects of the paper, including clarity, content, organization, and technical correctness.
+
+**Overall Impression:**
+
+The paper tackles a complex topic within particle physics (SUSY searches in the dilepton channel) and attempts to present it in a manner accessible to a reader presumably familiar with the basics of the field. The paper indicates that Run II might either present further opportunities for discovery of SUSY particles or lead to better limits.
+
+**Strengths:**
+
+*   **Clear Topic Introduction:** The introduction sets the stage by explaining the motivation for SUSY searches and the importance of the dilepton channel.
+*   **Well-Defined Scenarios:** The paper focuses on specific SUSY scenarios, such as stop squark production and chargino/neutralino decay. This provides a more concrete analysis.
+*   **Background Discussion:** The discussion of Standard Model backgrounds is crucial for understanding the challenges in SUSY searches.
+*   **Cut-Based Analysis:** The use of cuts to reduce backgrounds and isolate potential signals is a standard technique in experimental particle physics, and the paper outlines the specific cuts applied.
+*   **References:** The paper includes references to relevant CDF internal notes and publications, which is essential for transparency and credibility.
+*   **Attempts to Explain Concepts:** The paper tries to explain complex topics like mass eigenstates and the role of parton distribution functions.
+*   **Focus on Experimental Relevance:** The discussion is geared towards what can be observed at the CDF detector, making it relevant to experimentalists.
+*   **Includes a discussion on a data/theory discrepancy:** The paper is grounded in a search for new physics because of the tension between the expectation of tt events and the observed tt events in CDF.
+
+**Areas for Improvement:**
+
+*   **Clarity and Precision:** Some sections, especially those involving Lagrangian terms and cross-section calculations, could be more clearly explained. Consider providing more context and physical intuition behind the equations. While the reader should be familiar with the basics, additional explanation is beneficial for wider readability.
+*   **Organization and Flow:** The overall organization could be improved. For example, the transition between the general introduction and the specific stop squark analysis could be smoother.
+*   **Technical Depth vs. Accessibility:** The paper sometimes oscillates between technical details and simplified explanations. Consider better targeting the intended audience and adjusting the level of detail accordingly.
+*   **Justification of Choices:** Explain the reasoning behind specific cut choices. Why these values? How were they optimized?
+*   **Discussion of Uncertainties:** While some uncertainties are mentioned, a more thorough discussion of systematic uncertainties would strengthen the analysis.
+*   **Figures and Tables:** The paper refers to figures and tables, but the captions are not fully descriptive. Make sure the captions clearly explain what the reader should take away from each figure/table. Also consider adding a figure of the CDF detector.
+*   **Grammar and Proofreading:** Proofread carefully for grammatical errors and typos.
+
+**Specific Suggestions and Examples:**
+
+*   **Abstract:** Expand the abstract to briefly mention the results (limits on SUSY particle masses).
+*   **Introduction:**
+    *   "The major shortfall of Supersymmetry (SUSY), however, has been a complete lack of direct experimental measurements, to date." Consider rephrasing this to something like: "Despite its theoretical appeal, SUSY has yet to be directly observed experimentally."
+    *   Define acronyms (e.g., MSSM, EWK) when they are first used.
+*   **Stop Squark Analysis (Section 2):**
+    *   The explanation of mass eigenstates vs. weak eigenstates could be clearer.
+    *   Equation (1): Explain the meaning of the terms in the Lagrangian in more detail.
+    *   Equations (3) and (4): Explain the variables (e.g. βt). The use of leading order cross-sections should be discussed.
+    *   "As a result, cross section falls exponentially with the stop mass." Explain why this is the case.
+*   **Backgrounds (Section 2.2):**
+    *   Quantify the expected rates of each background where possible.
+*   **Cuts (Section 2.3):**
+    *   Explain the rationale behind the choice of each cut value.
+    *   "...the sneutrinos should tend to be back-to-back..." Explain why.
+*   **Chargino/Neutralino Analysis (Section 3):**
+    *   Explain why this particular decay chain is chosen.
+    *   "Since the neutral particles do not come in the same direction, the Er spectrum is broad." Explain why.
+*   **Top Dilepton Sample (Section 4):**
+    *   Explicitly state the tension between data and expectation
+    *   Connect the discrepancy in the data to the SUSY hypotheses being explored. Explain how chargino/neutralino decays or light stop decays could contribute to this.
+*   **General Comments:**
+    *   Consider using more visual aids (diagrams, plots) to illustrate the concepts.
+    *   Check for consistency in notation throughout the paper.
+    *   Use consistent formatting for equations and references.
+
+**Detailed Comments**
+
+*   **Page 1:** In the abstract the word dilepton should be two words: di-lepton.
+*   **Page 1:** In the introduction, "Supersymmetric theories have long provided a theoretical framework which can overcome many of the shortfalls of the Standard Model" can be revised to something like: "Supersymmetric theories have long provided a theoretical framework which attempts to overcome many of the shortfalls of the Standard Model."
+*   **Page 1:** In the introduction, the sentence "The dilepton sample is also an interesting sample to search for new phenomena due to several curiosities" can be rephrased as "The di-lepton sample is also an interesting sample to search for new phenomena due to several curiosities and the discrepancy between data and theory".
+*   **Page 2:** The sentence: "From an experimental point of view, writing the SUSY Lagrangian in terms of mass eigenstates rather than the more customary weak eigenstates (t1 and tR) is useful" can be re-written as "From an experimental point of view, writing the SUSY Lagrangian in terms of mass eigenstates rather than the more customary weak eigenstates (tL and tR) is more directly related to what the CDF detector measures.
+*   **Page 2:** Equation 1 contains L1 = -Mstop2 Ψ. There is a missing symbol. Does it read L1 = -Ψ† Mstop2 Ψ
+*   **Page 2:** In the paragraph which starts with "Since elementary particles (such as quarks or gluons) are not what are collided at hadron colliders, (3) does not give a complete picture of the production cross-section" please consider replacing the equation numbers (3) and equation number (4) with text.
+*   **Page 3:** R-parity is never formally defined. Perhaps insert the phrase R-parity into this part of the text "... Assuming R-parity (defined as Rp = (-1)^(3B + L + 2s) where B is the Baryon number, L is the lepton number, and s is the spin) ...."
+*   **Page 3:** Please define LSP.
+*   **Page 3:** The phrase "...to eliminate Drell-Yant decays" seems to be missing something. It should be to eliminate Drell-Yan decays.
+*   **Page 3:** Consider adding a few sentences on what the isolation cuts are and why they are useful.
+*   **Page 3:** The paragraph on "At least one tight electron" should probably be "At least one tight electron OR MUON".
+*   **Page 4:** The table refers to Figure 1 which should be relabelled as Table 2.
+*   **Page 4:** The sentence "After all cuts are made, no events are seen" would be better written as "After all cuts are made, no events from the CDF Run I data are seen".
+*   **Page 4:** The sentence "Since no events are seen, limits can be placed on the available parameter space (a particular point in parameter space is excluded if the predicted number of events exceeds the number of events expected at the 95% confidence limit given that zero events are observed)" can be rewritten as "Since no events are seen, limits can be placed on the available parameter space. Specifically, a particular point in parameter space is excluded if the predicted number of events exceeds the number of events expected at the 95% confidence limit given that zero events are observed".
+*   **Page 5:** In the table on page 5, the table refers to Figure 1 (should be table 2).
+*   **Page 6:** On page 6: the sentence "the Er cut (see Table 4)" should instead be table 3.
+*   **Page 6:** Please define (or provide more information) about a 100k monte carlo sample (if that information is available).
+*   **Page 7:** The sentence that reads: "The limits set by CDF for Run I are:" is probably best written as "The limits set by CDF from Run I data are:"
+*   **Page 7:** Check the equation for σx+x0. Is that mass of the neutralino and mass of the chargino?
+*   **Page 8:** Please define what μ means.
+*   **Page 9:** The sentence that reads: "These cuts yielded a total of 10 candidate, opposite-sign, dilepton events (2 ee, 3 μμ and 5 εμ)" should have the same formatting of the letters in dilepton: di-lepton.
+*   **Page 9:** It appears as though most of page 9 is speculative. Perhaps that should be indicated in the text.
+
+**In summary:**
+
+This paper shows promise and a solid understanding of the subject matter. By addressing the areas for improvement outlined above, you can significantly enhance its clarity, impact, and overall quality. Good luck!
+
+I hope this feedback is helpful!

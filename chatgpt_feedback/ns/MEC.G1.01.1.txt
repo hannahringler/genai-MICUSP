@@ -1,0 +1,71 @@
+Certainly! Here’s feedback on the paper **“Energy Harvesting Using an Embedded Piezoelectric in a Bicycle Tire: Proof of Concept”**. The comments below are divided into strengths, areas for improvement, and specific observations on technical content and style.
+
+---
+
+### **Strengths**
+
+**1. Clear Motivation and Context:**  
+The introduction provides an excellent overview of piezoelectricity, its applications, and the motivation for exploring energy harvesting in everyday activities. The references to prior work (Starner, Shenk, Paradiso, etc.) set the stage effectively.
+
+**2. Logical Structure:**  
+The paper flows in a logical order—from theoretical background and modeling, through experimental setup and validation, to product design and possible applications. Section numbering and headings help guide the reader.
+
+**3. Sound Technical Approach:**  
+The use of equations and mechanical modeling to predict output voltage demonstrates strong technical background. The static model and material properties are well-considered.
+
+**4. Experimental Validation:**  
+The link between the static model and experimental results is clear. The inclusion of oscilloscope readings and a practical test setup lends credibility to the investigation.
+
+**5. Practical Discussion:**  
+Product design considerations (e.g., sizing the PVDF element, circuit design) and real-world limitations (e.g., low power output, ambitious circuit challenges) are honest and instructive.
+
+**6. Applications and Future Work:**  
+The conclusion and recommendations realistically appraise the prospects for commercial or practical development. Limitations are acknowledged and sensible next steps are outlined.
+
+---
+
+### **Areas for Improvement**
+
+**1. Formatting and Equation Presentation:**  
+While the OCR representation is fine, be sure that the actual submitted or published paper uses consistent and clear equation formatting—especially subscripts, superscripts, and Greek symbols. Sometimes the equations and symbols are hard to parse.
+
+**2. Depth of Literature Review:**  
+More recent references could have been included if available, but the selection is reasonable for a proof-of-concept. Expanding briefly on recent advances in wearable electronics could strengthen the context.
+
+**3. Quantitative Analysis:**  
+- Power calculations show honesty about limitations, but consideration of energy per tire rotation, effect of different cycling conditions, or comparison with alternative harvesting technologies could expand impact.
+- Clarify the link between experimental peak voltages (e.g., 10V–20V) and the modeled steady-state outputs. Is the energy harvested under dynamic rolling comparable to the static shock tests?
+- The experiment uses impulse loading (shock by hand). How does this compare to regular tire deformation when riding?
+
+**4. Circuit/Test Details:**  
+- Block diagrams or additional circuits (even as appendices) would help clarify the electronic harvesting process and the attempted discharge mechanisms.
+- More details about the limitations with thyristor-based circuits and possible alternatives would be helpful.
+
+**5. Figures and Tables:**  
+- Some figures (e.g., Figure 2) are relatively simple. Additional diagrams comparing actual vs. modeled tire deformation, or showing placement of PVDF, would help.
+- Table 1 is excellent for listing parameters but would benefit from additional explanation or units for clarity.
+
+**6. Writing Style and Clarity:**  
+- The writing is generally clear, though occasionally formal and passive. Minor grammatical tightening could improve readability.
+- More direct statements about "so what"—i.e., what this work means in terms of practical implication—could strengthen the conclusion.
+
+---
+
+### **Technical Accuracy and Critical Thinking**
+
+- The paper acknowledges the low power generation is not sufficient for large batteries, but suggests creative applications (safety lighting, trickle charging).
+- Good self-awareness is shown in discussing why PVDF was chosen, its limitations, and alternatives for higher energy needs.
+- It would be helpful to briefly mention long-term cycling durability, environmental effects, or issues with embedding such patches in tires (wear, weatherproofing).
+
+---
+
+### **Overall Summary**
+
+This is a **well-researched, clearly written proof-of-concept paper** illustrating a clever method to generate energy from tire deformation using embedded piezoelectrics. The modeling is largely sound, experimental method is appropriate for a first exploration, and results are consistent with theory. The honest assessment of limitations and clear directions for future work add value and credibility.
+
+**To improve further:**
+- Deepen the quantitative analysis and compare static/dynamic cases.
+- Provide more visual aids for electronics and setup.
+- Tighten some sections for clarity and conciseness.
+
+**Excellent work overall!** The paper achieves its goal as a proof-of-concept and communicates its findings effectively to a technical audience.

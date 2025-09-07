@@ -1,0 +1,64 @@
+Certainly! Here is structured feedback on the paper “Perceptual Fluency Effects on Status-quo Response Styles,” based on academic writing conventions, clarity, scientific rigor, and presentation:
+
+---
+
+### Strengths
+
+#### 1. **Clear Research Context and Relevance**
+- The introduction provides a solid background by contextualizing the study within psychological research on decision-making heuristics. The references to foundational theories and studies (Tversky & Kahneman; Schwarz; Reber) are well-selected.
+- The paper explains well why understanding status-quo bias in moral decision-making is important.
+
+#### 2. **Well-Defined Research Problem**
+- The distinction between the processing-fluency model and ego-depletion model is articulated clearly.
+- The rationale for using the brow-manipulation paradigm is well-explained, as is the drive to test attribution of difficulty.
+
+#### 3. **Iterative Experimental Approach**
+- The effort to modify and refine the experimental design over three studies shows persistence and thoughtful engagement with methodological challenges.
+- Each study responds to limitations found in previous trials, demonstrating a reflective and scientific approach.
+
+#### 4. **Transparent Reporting and Caution in Interpretation**
+- Results that do not support the hypothesis are reported transparently, without overstating the findings.
+- The discussion honestly addresses experimental flaws and does not overclaim in the presence of null results.
+
+#### 5. **Engagement with Attribution and Context Issues**
+- The discussion of attribution effects (e.g., how subtle environmental cues can influence results) displays a nuanced understanding of psychological experimentation.
+
+---
+
+### Areas for Improvement
+
+#### 1. **Clarity and Organization**
+- **Section Headings:** The transitions between methods, results, and discussions for each study could be clearer by using more explicit subheadings to help guide the reader.
+- **Results Presentation:** Summarize main findings at the end of each study section, and clarify the implications for the overall hypothesis before moving to the next study.
+
+#### 2. **Statistical Reporting**
+- **Detail:** The reporting of statistical analyses (t-values, p-values, etc.) is good, but include effect sizes (e.g. Cohen’s d, odds ratios) for clarity on practical significance.
+- **Interpretation:** Expand on what the results mean in plain terms, especially for non-significant findings—why might the manipulation have failed?
+
+#### 3. **Experimental Methodology**
+- **Sample Size:** Acknowledge potential limitations due to small or uneven samples across conditions, especially when discussing null effects or gender comparisons.
+- **Manipulation Check:** The failure of the brow manipulation is a critical point; consider suggesting alternative manipulations or piloting manipulation checks separately before running the main experiment.
+
+#### 4. **Literature Integration**
+- **More Directly Address Counterarguments:** When null findings emerge, explicitly discuss alternative explanations (e.g., are there reasons status-quo bias might not be as sensitive to fluency manipulations in moral dilemmas?).
+- **Recent Literature:** If possible, integrate any more recent theoretical or empirical developments since the 2004 citations.
+
+#### 5. **Formatting and Writing Style**
+- **Paragraphing:** Some paragraphs are quite long; breaking them up to separate literature review, hypothesis, results, and interpretation will aid readability.
+- **Typographical and Stylistic Errors:** There are a few minor issues (e.g., stray hyphens or formatting artefacts—"processingfluency", "statusquo"), possibly from conversion. These should be edited for professionalism and clarity.
+
+#### 6. **Conclusions and Implications**
+- The final discussion could more strongly summarize the import of the findings (even if negative), suggest at least one concrete future study building on these results, and consider broader implications for real-world decision-making or policy.
+
+---
+
+### Overall Assessment
+
+- **Scientific Rigor:** This is a thoughtful and well-constructed research report, even if the manipulation did not succeed as planned.
+- **Writing Quality:** The writing quality is solid, though some sections could be organized for better flow.
+- **Contribution:** The paper makes a valuable contribution by iteratively testing an interesting hypothesis and discussing why an experiment may “fail” and what can be learned from that.
+- **Recommendation:** Refine section structuring, expand on methodological and interpretive detail, fix minor formatting, and end with a strong summary statement.
+
+---
+
+**Would you like feedback tailored for a particular purpose (e.g., class assignment, publication, revision)? Or do you want specific suggestions for rewriting/improving certain sections?**

@@ -1,0 +1,85 @@
+Okay, I've reviewed the paper and can provide some feedback. Here's a breakdown of the strengths, weaknesses, and suggestions for improvement, organized by category:
+
+**Overall Impression**
+
+The paper investigates an interesting and relevant topic, combining established psychological theories (framing effects, protected values) with environmental concerns.  The study attempts to explore the interaction between global and local perspectives, which is a potentially valuable contribution. However, the writing style and some aspects of the methodology and analysis could be significantly improved.
+
+**Strengths**
+
+*   **Interesting Topic:** The combination of psychology of choice and environmental values is a compelling area of study.
+*   **Relevant Theoretical Framework:** The paper correctly identifies and utilizes key theories (framing, protected values).
+*   **Clear Hypotheses (mostly):**  The predictions are generally clearly stated, although some could be more precise.
+*   **Attempt at Quantitative Analysis:** The effort to collect and analyze survey data is commendable.
+*   **Discussion of Refusal to Select:** The inclusion of reasons for refusal to answer is a good element of the study.
+*   **Bibliography:** Contains cited papers.
+
+**Weaknesses and Suggestions for Improvement**
+
+**A. Writing and Clarity**
+
+*   **General Writing Style:** The writing is often unclear, convoluted, and contains grammatical errors. It needs a thorough revision. Here's how to improve:
+    *   **Simplify Sentence Structure:** Break down long, complex sentences into shorter, more manageable ones.
+    *   **Use Active Voice:** Prefer active voice over passive voice for clearer expression.
+    *   **Eliminate Jargon:**  Avoid unnecessary jargon or psychological terminology. If you must use it, define it.
+    *   **Proofread Carefully:**  Thoroughly proofread for grammatical errors, typos, and punctuation mistakes. This is critical.
+*   **Organization:** The paper could benefit from a clearer structure. Consider using headings and subheadings more effectively to guide the reader.
+*   **Introduction:** The introduction needs to be more focused and engaging.
+    *   Clearly state the research question and its significance *early* in the introduction.
+    *   Provide a concise overview of the theoretical framework and how the study builds upon it.
+    *   Include a roadmap of the paper's structure.
+*   **Abstract:** A proper abstract is missing.  This should summarize the research question, methods, key findings, and conclusions.
+
+**B. Methodology**
+
+*   **Survey Instrument:** The descriptions of the scenarios are a bit vague. It would be helpful to have the entire survey instrument in an appendix (or at least representative examples).
+    *   **Clarity of Scenarios:** Ensure that the wording of the scenarios is neutral and doesn't inadvertently bias responses.
+    *   **Pilot Testing:** It would have been beneficial to pilot test the survey to identify any potential ambiguities or problems.
+*   **Participant Recruitment:** The description of participant recruitment is very limited ("people of various backgrounds and educational interests/career paths, and from across the United States").
+    *   **Sampling Method:** Specify the sampling method used (e.g., convenience sampling, snowball sampling).
+    *   **Demographic Information:** Collect and report basic demographic information about the participants (age, gender, education level, political affiliation, etc.). This will help to assess the generalizability of the findings.
+*   **Ethics:** Were there ethical considerations like informed consent and anonymity addressed?
+*   **Protected Values Questions:** How were the protected values questions validated? Were they based on established scales, or were they created specifically for this study? This information is crucial for assessing the reliability of the results.
+
+**C. Results and Analysis**
+
+*   **Statistical Analysis:** The paper presents descriptive statistics (percentages), but lacks more sophisticated statistical analysis (e.g., chi-square tests, t-tests, ANOVA).
+    *   **Justification for Statistical Methods:** If possible, justify the choice of statistical tests based on the type of data and research question.
+    *   **Significance Testing:** Conduct significance tests to determine whether the observed differences in choices are statistically significant.
+    *   **Effect Sizes:** Report effect sizes (e.g., Cohen's d, odds ratios) to quantify the magnitude of the effects.
+*   **Presentation of Results:** The tables are somewhat difficult to interpret.
+    *   **Clear Labeling:** Ensure that all tables and figures are clearly labeled and include a descriptive caption.
+    *   **Concise Summary:** Summarize the key findings from the tables in the text.
+*   **Interpretation of Results:** The interpretation of the results is sometimes speculative.
+    *   **Support with Evidence:** Ensure that all interpretations are supported by the data.
+    *   **Acknowledge Limitations:** Acknowledge the limitations of the study and the potential for alternative interpretations.
+
+**D. Discussion and Conclusion**
+
+*   **Relate to Existing Literature:** Discuss how the findings relate to the existing literature on framing effects and protected values. Do the results support or contradict previous research?
+*   **Limitations:**  Explicitly discuss the limitations of the study (e.g., sample size, sampling method, survey design).
+*   **Future Research:** Suggest avenues for future research based on the findings and limitations of the study.
+*   **Conclusion:** Provide a clear and concise conclusion that summarizes the key findings and their implications.
+
+**Specific Comments and Examples**
+
+*   **Page 1:**
+    *   "People should be more inclined to act locally more than globally, but what causes an individual to think globally?" Rephrase for clarity. What do you mean "think globally?" Is it about values? A sense of connection? The next sentence is better.
+    *   "Here, I test how international versus national environmental issues effect people's choices." -> "affect."
+*   **Page 2:**
+    *   "Tanner and Medin qualify their argument by suggesting that, at least in terms of environmental values and behavior, “prohibitions against action may be salient when the act can be seen as causing harm. In contrast, obligation to act may be more salient when the act can be seen as promoting something good" (in press: 4)." - This is a complicated sentence. Break it down. Consider rephrasing to make it clearer how this relates to your research.
+*   **Page 3:**
+    *   "The surveys were not anonymous, as respondents sent their responses to my e-mail address." - This is a significant limitation. Explain why anonymity wasn't possible and how this might have affected the results (e.g., social desirability bias).
+*   **Page 4-6:**
+    *   The survey scenario descriptions are good, but could be even more concise.
+    *   "(* majority choice b/c choices involving losses are often risk taking)" - These annotations are good for your own notes, but should be removed for the final paper. This conclusion should be part of the formal analysis.
+*   **Results Section (Pages 7-9):** Needs a thorough statistical review.
+
+**Actionable Steps**
+
+1.  **Rewrite and Simplify:** Revise the paper for clarity, grammar, and conciseness.
+2.  **Strengthen Methodology:** Provide more details about the survey instrument, participant recruitment, and data collection procedures.
+3.  **Conduct Statistical Analysis:** Perform appropriate statistical tests to analyze the data and determine the significance of the findings.
+4.  **Improve Results Presentation:** Present the results in a clear and organized manner, using tables and figures effectively.
+5.  **Strengthen Discussion:** Discuss the findings in relation to existing literature, acknowledge the limitations of the study, and suggest avenues for future research.
+
+By addressing these weaknesses and following the suggestions for improvement, you can significantly strengthen your paper and make a more valuable contribution to the field. Good luck!

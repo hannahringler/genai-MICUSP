@@ -1,0 +1,75 @@
+Absolutely, here is a detailed feedback breakdown on your paper, “Think Globally, Act Locally,” based on the text you provided.
+
+---
+
+## Strengths
+
+### 1. **Clear Research Question and Hypotheses**
+- Your research question is relevant and clearly stated: you want to test the influence of local versus global environmental scenarios on decision making.
+- The hypotheses and predictions (about framing effects and protected values) are well-articulated and logically stem from the existing literature.
+
+### 2. **Integration with Existing Literature**
+- You provide a solid theoretical framework, referencing Tversky & Kahneman’s work on framing, and Baron & Spranca and Tanner & Medin on protected values.
+- Your literature review properly contextualizes your study and shows you understand key concepts (rational choice, framing effects, protected values, omission bias).
+
+### 3. **Methodological Transparency**
+- The survey design is explained in detail. Scenario construction, random assignment to positive/negative framing, and measures of protected values are all clearly described, which bolsters replicability.
+- Your division of survey sections and explanation of scenario relevance (charismatic/noncharismatic species, etc.) support the clarity of your methodology.
+
+### 4. **Thorough Data Presentation**
+- You present results in tables, separating by framing type, protected value levels, and scenario type.
+- The statistical breakdown (percentages choosing options, etc.) allows for direct assessment of the effect sizes.
+
+### 5. **Critical Reflection**
+- The section on refusals and justifications for not answering adds a layer of qualitative analysis and shows insight.
+
+---
+
+## Areas for Improvement
+
+### 1. **Clarity and Structure**
+- **The Introduction Is Dense**: While comprehensive, the introduction could benefit from clearer topic sentences at the start of each paragraph to orient the reader.
+- **Results Section Organization**: The results move quickly between different factors (framing, protected values, scenario type) and refer to many tables without always clarifying what each table is demonstrating. Consider reorganizing the results by variable (e.g., first discuss framing, then protected values, etc.).
+- **Headings/Subheadings**: More distinct section headings in the Results and Discussion sections would help navigation (e.g., “Results: Framing Effects”, “Results: Protected Values”, “Discussion: Implications for Survey Design”).
+
+### 2. **Statistical Analysis**
+- **Deeper Statistical Testing**: While you report percentages and general trends, you don’t mention statistical significance. Using tests like chi-square for categorical data would strengthen your claims and allow you to say which effects are reliable.
+- **Sample Size Clarification**: You mention 236 respondents, but percentages are sometimes given without raw numbers or denominators for each subgroup. Clarify sample sizes per group where possible.
+
+### 3. **Interpretation**
+- **Unexpected Findings**: Sometimes the data didn’t fit your predictions (e.g., stronger framing effect for international scenarios, or resilience of positive framing to protected values). Discuss possible reasons for deviations in more depth: Could this be a sampling artifact, a cultural factor, or a property of your scenario wording?
+- **Cause vs Correlation**: Be careful making causal claims, as this is a cross-sectional survey study.
+
+### 4. **Survey Design Discussion**
+- **Scenario Realism**: Consider whether your scenarios are equally plausible, engaging, and realistic to participants from different backgrounds. Mention any pre-testing or piloting of scenarios for clarity.
+- **Protected Values Measurement**: Relying on single questions to determine a “protected value” is efficient but may not fully capture participants’ beliefs. Briefly address this as a limitation.
+- **Anonymous vs Non-anonymous Responses**: Since your surveys weren’t anonymous, discuss whether this could have biased respondents to answer in a more socially desirable way.
+
+### 5. **Stylistic/Grammar Notes**
+- There are minor typos and occasional awkward phrasings (“choices involving gains are often risk averse”). Proofreading would help polish this up.
+- When referring to studies—e.g., “Tanner and Medin (in press)”—be sure to provide the most up-to-date reference or clarify if it is now published.
+- Avoid switching between “affect” and “effect” unless intentional, as this can confuse the reader (e.g., “framing affect” should be “framing effect”).
+
+### 6. **Broader Context and Applications**
+- The implications section provides an important caution on survey design but could go further: how might these findings inform public policy/education campaigns in conservation? Do people with strong international protected values constitute an opportunity for global campaigns, or do they reflect “armchair environmentalism” as you hint?
+
+---
+
+## Summary Table
+
+| Area        | Strengths | Improvements Needed |
+|-------------|-----------|--------------------|
+| Introduction | Clear premise, good lit review | Slightly dense, could be organized better |
+| Methodology | Thoroughly described, structured | Discuss realism and limitations |
+| Results     | Well-tabulated, comprehensive | Use statistical tests, clarify sample sizes |
+| Interpretation | Reflective, acknowledges limits | Expand on unexpected results |
+| Writing     | Academic, referenced | Some typos & awkward phrases, needs polishing |
+| Implications | Notes survey bias | Could be further developed |
+
+---
+
+## Overall Evaluation
+
+This is a thoughtful, conceptually robust, and well-designed paper with a sound theoretical foundation. The main improvements necessary are in clarifying and structurally organizing information, using stronger statistical analyses, and offering an in-depth discussion of implications and surprises in your findings. With further polish and attention to the points above, it would make a strong empirical contribution to psychology of environmental decision making.
+
+**If you would like, I can help you draft a revised outline or rewrite sections for clarity—just let me know!**

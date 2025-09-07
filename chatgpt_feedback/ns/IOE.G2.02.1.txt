@@ -1,0 +1,68 @@
+Certainly! Here is detailed feedback on the paper, focusing on its strengths, weaknesses, and suggestions for improvement:
+
+---
+
+### **Strengths**
+
+1. **Clear Summary of Core Results**
+   - The paper succinctly explains the main contribution of Yu-Sheng Zheng’s proof—showing the optimality of the (S, s) policy for infinite-horizon inventory problems by relying on Markov decision process theory rather than finite-horizon arguments.
+   - The distinction between Zheng’s approach and prior work is well-stated, emphasizing why the new proof is conceptually simpler.
+
+2. **Explanation of (S, s) Policy**
+   - There is a strong, reader-friendly explanation of what an (S, s) policy is, how it operates, and why it matters in inventory control.
+
+3. **Personal Reflection**
+   - The reviewer is honest about their own background and how it affected their understanding, which adds a useful personal touch and helps contextualize the level of accessibility of the paper.
+
+4. **Critical Evaluation**
+   - The reviewer doesn’t take Zheng’s claim of simplicity at face value and thoughtfully discusses what made the proofs challenging to follow. This critical stance strengthens the review.
+
+5. **Recognition of Assumptions and Context**
+   - It’s noted that the paper assumes reader familiarity with certain prerequisite material (e.g., work by Wagner and Veinott), which is a helpful observation for future readers.
+
+---
+
+### **Areas for Improvement**
+
+1. **Structure and Organization**
+   - The review could benefit from clearer organization—perhaps with explicit sections such as "Summary," "Strengths," "Weaknesses," and "Suggestions."
+   - Some paragraphs are quite dense and could be split up for readability.
+
+2. **Depth of Technical Analysis**
+   - While the summary covers the high-level ideas well, it could be improved by discussing more technical details, such as:
+     - What are the key steps of Zheng’s Markov decision process proof?
+     - How, specifically, are S* and s* determined?
+     - What are "quasiconvex" costs, and why do they matter?
+
+3. **Illustrative Examples**
+   - Including a simple example of an (S, s) policy or a brief numerical case could help clarify how the policy works and why the infinite-horizon approach is advantageous.
+
+4. **Contextual Significance**
+   - While you mention the significance if Zheng’s claim is correct, elaborating on **why** the infinite-horizon approach is so important (e.g., in practical terms for businesses or for computational efficiency) would strengthen the analysis.
+
+5. **Reference Clarity**
+   - When referencing seminal or prerequisite work (e.g., Wagner and Veinott), it might be useful to offer a one-sentence description of their relevance or core results for readers less familiar with them.
+
+---
+
+### **Writing and Style**
+
+- The tone is appropriate and the writing is generally clear, though a few sentences are long and may benefit from simplification.
+- Proofreading for small errors (e.g., missing punctuation or unclear antecedents) would improve flow.
+
+---
+
+### **Suggestions for Revision**
+
+- **Add headings** such as "Introduction," "Summary of Zheng’s Results," "Strengths of the Paper," "Weaknesses and Accessibility," "Personal Reflection," and "Conclusion."
+- **Expand technical detail**: Briefly discuss how the Markov decision process is applied, and the significance of "stationary" policies.
+- **Clarify prior work** (e.g., Wagner and Veinott) for the benefit of less expert readers.
+- **Offer one or two practical implications** of Zheng’s results for practitioners in inventory management.
+
+---
+
+### **Overall Assessment**
+
+This is a solid, honest critical review that demonstrates a good grasp of the key ideas in Zheng’s paper and highlights the relevance of his approach. With some restructuring and additional detail, this review could be even more informative—especially for readers new to the topic.
+
+Let me know if you would like help with a specific section or want concrete suggestions for rewriting any part!

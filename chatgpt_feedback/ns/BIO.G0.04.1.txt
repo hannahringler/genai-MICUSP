@@ -1,0 +1,114 @@
+Absolutely! Here’s **detailed feedback** on the paper, organized by section (Abstract, Introduction, Body, Conclusion, References), with comments on strengths and suggested improvements:
+
+---
+
+### **Overall Impressions**
+
+**Strengths:**
+- The paper is well-organized with clear sections: abstract, introduction, evidence and discussion, and conclusion.
+- It provides a concise but informative synthesis of the current research on maternal nutrition, fetal endocrine programming (with special focus on leptin), and long-term health outcomes.
+- The use of animal models (sheep) is justified and explained well for relevance to human biology.
+- Arguments are generally well-supported by references to the scientific literature.
+- The discussion draws connections between basic science and public health significance.
+
+**Areas for Improvement:**
+- Occasional awkward phrasing or slightly unclear wording.
+- Some claims or findings could be explained or contextualized further for clarity.
+- More critical evaluation of evidence (e.g., conflicting findings, limitations of animal models) would strengthen the discussion.
+- Some redundancy, especially in re-stating points or referencing leptin’s role in multiple places.
+- Could benefit from more synthesis at the end of sections.
+- The referencing style is inconsistent in the text (sometimes just a number, sometimes as "in rats..." or "in sheep...").
+- Minor grammatical errors.
+
+---
+
+### **Section-by-Section Comments**
+
+#### **Abstract**
+
+**Strengths:**
+- Clearly summarizes the topic and the main conclusions.
+- Highlights both immediate and long-term consequences.
+
+**Suggestions:**
+- The sentence structure is a bit dense; consider breaking into shorter sentences for clarity.
+- "This field has the potential to be very beneficial to society" is vague; be more specific about the societal impact.
+
+---
+
+#### **Introduction**
+
+**Strengths:**
+- Effectively sets up the relevance of fetal endocrine adaptations.
+- Justifies the use of sheep as an animal model.
+
+**Suggestions:**
+- There is a long sentence: “Depending on the nature and duration of the stress, the fetal endocrine system and growth development may alter permanently and may be responsible for diseases such as hypertension, obesity, and insulin insensitivity in adulthood (1).” Consider breaking this up to improve readability.
+- Consider stating explicitly *why* the timing of nutritional changes (early vs late gestation) matters up front.
+- The transition to leptin’s role is logical, but could be smoother.
+
+---
+
+#### **Leptin Section**
+
+**Strengths:**
+- Provides a good overview of leptin’s function.
+- Explains molecular and physiological aspects.
+
+**Suggestions:**
+- There is some redundancy about leptin’s roles—consider condensing.
+- Clarify some technical terms for the intended audience, or briefly define (e.g., “adiposity signal”, “orexigenic peptide”).
+- The parenthetical about neuropeptide Y could be simplified.
+
+---
+
+#### **Maternal Overnutrition / Undernutrition Evidence**
+
+**Strengths:**
+- Discusses experimental evidence in a logical, chronological order.
+- Explains mechanisms and possible outcomes.
+
+**Suggestions:**
+- The explanations of experimental designs (e.g., “hyperglycemia with an insulin clamp”) are technical; a bit more explanation for non-expert readers could help.
+- When discussing the uncertainty of leptin’s consequences (“may have one of two opposing effects”), suggest referencing more directly how this ambiguity could be resolved ("future studies should...").
+- In the transition between overnutrition and undernutrition sections, include a summarizing sentence to tie both together.
+- When referencing studies where expected results were not observed (e.g., no observed drop in fetal leptin), discuss possible reasons or limitations.
+
+---
+
+#### **Conclusion**
+
+**Strengths:**
+- Links back to the societal impact and relevance.
+- Summarizes key findings.
+
+**Suggestions:**
+- The tone is slightly informal (“pre-natal course”; “vastly importance”)—edit for academic formality.
+- Be more specific about the implications for human health policy or future research needs.
+
+---
+
+#### **References**
+
+**Strengths:**
+- References are comprehensive and relevant.
+
+**Suggestions:**
+- In-text citation format should be conformed to a consistent style. Right now it uses only numbers, but with inconsistent placement. Consider aligning with a standard citation style (e.g., APA, Vancouver, etc.).
+- Make sure the reference list and in-text references match in order.
+
+---
+
+### **Additional Suggestions**
+
+- **Figures/Tables:** Consider adding a diagram or table summarizing the effects/timing of maternal nutrition on fetal and postnatal outcomes.
+- **Critical Analysis:** More critically assess limitations of animal studies or discuss differences expected in human populations.
+- **Consistent Terminology:** Sometimes “early,” “late,” and “mid” gestation are used somewhat loosely; define these time frames more precisely if possible.
+
+---
+
+### **Summary**
+
+**This is an effective and thoughtful review paper with clear organization and appropriate depth for an undergraduate-level report. It could be further improved by tightening the writing, clarifying technical concepts, and offering a more critical and reflective discussion of experimental limitations and implications.**
+
+Let me know if you'd like more detailed feedback on particular sections, or suggestions for rewording!

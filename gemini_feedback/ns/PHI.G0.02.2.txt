@@ -1,0 +1,70 @@
+Okay, here's a breakdown of feedback on the paper, covering its strengths and areas for improvement. I'll organize it into sections focusing on Argumentation, Clarity, Use of Sources, and Style/Mechanics.
+
+**Overall Impression:**
+
+The paper provides a generally solid overview of Locke's primary/secondary quality distinction and attempts a critical analysis. It demonstrates understanding of the core concepts and engages with some potential problems.  However, it could be strengthened by further developing arguments, addressing counterarguments more fully, and refining the prose for greater clarity and precision.
+
+**I. Argumentation and Analysis**
+
+*   **Strengths:**
+    *   Clear identification of Locke's distinction.
+    *   Presents Locke's arguments for the distinction.
+    *   Identifies potential problems with Locke's view (e.g., the heated wax example, the solidity problem).
+    *   Engages with possible solutions to these problems.
+    *   Acknowledges the limits of Locke's theory.
+
+*   **Areas for Improvement:**
+    *   **Deeper Engagement with Counterarguments:** While the paper identifies problems, it sometimes brushes over potential counterarguments too quickly. For example, the response to the "Colors Argument" regarding enabling conditions could be elaborated further. Why *specifically* does this response fail to save Locke's argument? What assumptions are being made?  Are there alternative ways Locke (or a defender of Locke) could respond?
+    *   **Developing the "Solidity" Problem:** The discussion of solidity as a potential SQ is a good starting point, but it could be developed more thoroughly.
+        *   Explore potential implications of the "messy" solution Locke chooses.
+        *   Consider if Locke's definition of primary qualities is sufficient or if it needs to be more strictly defined.
+    *   **Strengthening the Conclusion:** The conclusion is a bit weak. Instead of just stating that the distinction "has some good insights," it should offer a more definitive judgment about the overall success or failure of Locke's distinction, *based on the arguments and analysis presented in the paper.*
+
+**II. Clarity and Structure**
+
+*   **Strengths:**
+    *   Generally well-organized with clear section headings.
+    *   Presents Locke's views in a relatively easy-to-follow manner.
+    *   Uses examples to illustrate abstract concepts.
+
+*   **Areas for Improvement:**
+    *   **Precise Definitions:** Pay close attention to the language used. For example: "changing a primary quality *means* changing the object itself." Is this really what Locke *means*? Consider rewording.
+    *   **Connecting Ideas:** Make sure the connections between paragraphs and sections are always clear. Use transitional phrases to guide the reader.
+    *   **Avoid Vagueness:** The conclusion refers to immaterialists like Berkeley criticizing Locke. Briefly explain *what* kind of criticism they would offer. This adds depth and context.
+
+**III. Use of Sources and Citations**
+
+*   **Strengths:**
+    *   Provides citations.
+
+*   **Areas for Improvement:**
+    *   **Follow Citation Conventions Consistently:** Double-check that all citations are formatted correctly and consistently according to a specific style (MLA, Chicago, etc.).
+    *   **Consider using direct quotes more sparingly**: The essay would be stronger if you cited the source and paraphrased in your own words.
+
+**IV. Style and Mechanics**
+
+*   **Strengths:**
+    *   Generally readable prose.
+
+*   **Areas for Improvement:**
+    *   **Proofread Carefully:** Check for typos, grammatical errors, and awkward phrasing.
+    *   **Vary Sentence Structure:** Avoid overly repetitive sentence structures.
+    *   **Word Choice:** Be precise in word choice. For example, "accidents (or properties)" could be tightened up by clarifying what "accident" means in this context.
+    *   **Avoid Contractions:** Avoid using contractions (e.g., "doesn't," "it's") in formal academic writing.
+
+**Specific Suggestions/Questions:**
+
+*   **Page 1:** "He claims, problematically, they are 'utterly inseparable from the body, both physically and conceivably." What makes this problematic? Explain further.
+*   **Page 2:** "Locke's claim that PQ's are inseparable from their objects creates a problem, though, upon considering Descartes' heated piece of wax." This is a good connection! Develop this more fully. How does the wax example challenge the inseparability claim?
+*   **Page 3:** "Locke might respond to such an objection by making an ad hoc exception..." While noting that this is ad hoc is good, explain *why* it's problematic to invoke an ad hoc exception.
+*   **Page 4:** In the Pain Argument, you write, "This argument is dubious in that it assumes that pain is an intense form of heat, which is not a sound assumption."  This is a good critique. Perhaps support it with an example of something hot that doesn't cause pain.
+*   **Page 5:** "...the reader crush an almond." *An* almond is a bit confusing in this context. Say a representative almond.
+
+**Revised Grading Rubric Estimate:**
+
+Based on the information provided, here is the approximate scoring with the revision:
+
+*   **Before revision**: B
+*   **After revision**: B+/A-
+
+By addressing the areas for improvement, particularly by strengthening the argumentation and clarity, and by providing some specific elaborations, you can raise the quality of the paper significantly. Good luck!

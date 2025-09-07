@@ -1,0 +1,90 @@
+Absolutely! Here’s a detailed, constructive feedback on your paper on Vlach Affricates, Stops, and Fricatives. I’ll break it down by key areas: **structure, clarity, methodology, analysis, data handling, presentation, discussion, and overall impact**. I’ll also suggest a few areas for improvement and possible next steps.
+
+---
+
+## 1. Structure & Organization
+**Strengths:**
+- The paper is clearly structured, with sections for Introduction, Methods, Results, Difficulties, Conclusions, and an Appendix.
+- Each section follows logically from the previous one, and you provide section headings and subheadings that orient the reader.
+
+**Improvement:**
+- Consider adding a short abstract at the beginning to summarize your aims, methods, key findings, and conclusions, for easier navigation.
+- A brief "literature review" or reference to prior studies could provide more context for the research question.
+
+---
+
+## 2. Clarity & Writing
+**Strengths:**
+- The writing is generally very clear, with technical terms well-explained for an audience familiar with linguistics.
+- Complex experimental procedures, like the measurement of consonant durations, are described in enough detail to be (mostly) reproducible.
+
+**Improvement:**
+- Some sentences, especially those describing technical complications or procedural details, are long and could be split for greater clarity.
+- Try to minimize hedging language ("I suspect," "I think") in the methods/results sections; instead, use the discussion section to reflect on uncertainties.
+
+---
+
+## 3. Methodology
+**Strengths:**
+- You carefully control for variables such as vowel quality, word position, and stress.
+- Using both absolute and relative duration is a thoughtful, robust approach.
+- Detailing the Praat scripting and data extraction processes greatly adds to your transparency and replicability.
+
+**Improvement:**
+- The issue of speaker pausing and inter-word timing, especially for word-initial stops, is acknowledged—but more could be done to *control* for this, either in the initial design (e.g., repeated readings in context sentences) or in analysis (e.g., more aggressive trimming of outliers).
+- Clearly define any linguistic terms (such as “double burst”) at first use for readers outside your immediate field.
+
+---
+
+## 4. Data Handling & Analysis
+**Strengths:**
+- Quantitative data is well-presented in tables and charts, with means and standard deviations for transparency.
+- The use of graphs to visualize duration differences is effective.
+
+**Improvement:**
+- Tables and figures are helpful, but ensure that every figure’s axes and legends are clear and labeled (some are not easily interpretable without the context from the text).
+- Consider statistical testing: For example, are the differences between means for affricates and stops/fricatives *statistically significant*? If you have 10 tokens of each, a t-test or ANOVA could be appropriate.
+
+---
+
+## 5. Interpretation, Discussion & Conclusions
+**Strengths:**
+- Engages thoughtfully with unexpected findings, such as the “double burst” and inconsistent stop closure durations.
+- You honestly discuss limitations and possible sources of error (participant fatigue, wordlist issues, etc.), which is excellent scientific practice.
+- The conclusions clearly relate back to your original hypothesis and research questions.
+
+**Improvement:**
+- Reflect more on the *linguistic implications* of your findings. For example, what do your results suggest about Vlach phonology, or about affricate formation in general? Are there cross-linguistic parallels?
+- The impact of stress on frequency and duration is mentioned as needing further research; outline a more concrete plan for a follow-up experiment.
+
+---
+
+## 6. Technical Details
+**Strengths:**
+- Praat script is included, supporting reproducibility.
+- Wordlist and procedures are thoroughly documented.
+
+**Improvement:**
+- While raw data or supplementary files can’t always be included, consider summarizing with example spectrograms or including a sample of annotated data (if not too space-consuming).
+
+---
+
+## 7. Final Notes & Suggestions
+- Overall, this is a well-constructed, thoughtful research paper with a sound experimental basis and appropriate attention to both methodology and the realities of data collection.
+- Your self-critical approach regarding experimental difficulties is commendable, and you take good care to neither overstate nor understate your findings.
+
+### Areas to Strengthen
+- **Abstract and Literature Review:** Add a brief summary and more linkage to previous work.
+- **Statistical Analysis:** Where possible, add statistical tests of your comparisons.
+- **Figure Clarity:** Improve figure/legend labeling.
+- **Theoretical Discussion:** Expand on the broader phonological/phonetic implications.
+- **Streamlining:** Condense and clarify some technical/methods details for easier reading.
+
+---
+
+## Overall Assessment
+**A strong and promising piece of graduate-level research, demonstrating technical skill, methodological care, and intellectual honesty. With some polishing and deepening of the discussion, it would stand up well as a term paper or as a draft for a short research note.**
+
+---
+
+If you want more targeted feedback on a specific section, or would like copy-editing with track changes style markup, just let me know!

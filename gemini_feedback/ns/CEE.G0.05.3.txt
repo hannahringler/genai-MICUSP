@@ -1,0 +1,35 @@
+Here's a breakdown of feedback on the paper, focusing on both its strengths and areas for improvement, considering it's a student report:
+
+**Strengths:**
+
+*   **Clear and Concise:** The language used is straightforward and easy to understand.  It avoids unnecessary jargon.
+*   **Well-Organized:**  The report follows a logical structure with clear headings and subheadings.  The sections flow well, starting with the purpose, summarizing completed work, and then outlining preliminary conclusions and future actions.
+*   **Includes Key Information:** The report provides essential details regarding the project timeline, budget, LEED certification goals, and responsibilities.
+*   **Professional Tone:** The writing style is appropriate for a formal report, especially when communicating with an "Asset Developer."
+*   **Addresses Key Concerns:** The report acknowledges and addresses potential uncertainties in the budget, demonstrating foresight.
+*   **Proactive Approach:** Highlighting that the team will carefully monitor components with expected variability and working with other firms to minimize uncertainty shows initiative.
+
+**Areas for Improvement:**
+
+*   **Lack of Specificity:** The report could benefit from more concrete details and numerical data.
+    *   **Example:**  Instead of saying "two versions of a site plan," briefly describe the key differences between the versions.
+    *   **Example:** Instead of "37 possible attainable points," list a few key LEED credits that are being pursued.
+*   **Construction Management Plan - Lacks Detail:** The section on the construction management plan is very general. How will milestones be tracked? What regulatory compliance issues are anticipated? What's the packaging strategy?
+*   **Budget Justification:** While the report states the construction and overhead costs, it doesn't offer a brief justification or explanation. Were these estimates based on similar projects, square footage costs, etc.?
+*   **Quantify Uncertainty:** While acknowledging budget uncertainty is good, try to quantify it.  For example, state a possible range or contingency plan for the estimated costs.
+*   **LEED Certification Strategy:**  Expand slightly on the LEED certification strategy.  Mention which credits are being prioritized and why. How many more do you need?
+*   **Proofread Thoroughly:** Ensure there are no grammatical errors or typos.
+*   **Missing Author Information:**  Since this is a student report, including the student's name and student ID, along with the Professor's name would be suitable.
+*   **Signature & Title:** Replace the line "Project Manager" with the students signature and full name, below that include "Project Manager" or "Lead Consultant" to provide the audience a better understanding of your role in this particular project.
+
+**Specific Suggestions:**
+
+*   **1.0 Summary of Completed Work:** Change 'Wolverine Consultants has been working with...' to 'The Wolverine Consultants team has been working with...' This improves the structure of the opening sentence.
+*   **2.1 Construction Management Plan:** Elaborate on the strategies for managing scope, change orders, and the bidding process.
+*   **2.2 Budget:** Add a sentence or two explaining the basis for the cost estimates (e.g., historical data, square footage costs, preliminary material quotes). Consider adding a contingency amount for the uncertainty.
+*   **2.3 Schedule:**  Specify what the critical path is in the project schedule, and if there are any risks.
+*   **2.3 LEED Certification:** Name a couple of the key LEED credits being targeted and why they were chosen.
+
+**Overall:**
+
+The report is a good starting point, but adding more specific details and expanding on the key strategies will significantly improve its clarity, credibility, and usefulness to the recipient. Remember that the goal of a report is to provide clear, actionable information, and specific details help achieve that goal.

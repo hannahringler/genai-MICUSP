@@ -1,0 +1,76 @@
+Certainly! Here’s some detailed feedback on your paper **“Narrative Initiation in Personal versus Co-Constructed Narratives”**, focusing on strengths and suggestions for improvement across structure, content, argumentation, style, and clarity:
+
+---
+
+## Strengths
+
+### 1. **Clear Organization and Purpose**
+- Your introduction succinctly frames the research question and situates your study within the field, citing Ochs & Capps and defining key terminology (“personal,” “co-constructed,” “tellership”).
+- The structure is logical, moving from literature review, to methodology/data selection, then analysis, and finally conclusion.
+
+### 2. **Engagement with Existing Literature**
+- You provide a thorough literature review, integrating work by Cortazzi, Norrick, Schiffrin, and others.
+- References are well-chosen and relevant to the topic.
+
+### 3. **Focused Research Questions**
+- The focus on (a) proposal forms and (b) discourse marker (DM) usage at narrative initiation is both clear and manageable for a small corpus.
+- You work with defined operationalizations for key concepts (e.g., “intonation unit,” “proposal section”), which lends clarity.
+
+### 4. **Data-Driven and Empirical Approach**
+- You specify your data collection and selection procedures thoughtfully.
+- Table 1 is a clear and useful summary of DM distribution, helping readers grasp your findings at a glance.
+
+### 5. **Critical Reflexivity**
+- You recognize limitations in your data and delimit the scope of your claims, suggesting directions for future research.
+
+### 6. **Writing Style**
+- Your paper is generally clearly written, with academic yet readable language.
+- Complex concepts are explained, making the paper accessible even to those less familiar with sociolinguistics.
+
+---
+
+## Suggestions for Improvement
+
+### 1. **Depth of Analysis**
+- While your findings on proposal type (question vs. statement) and DM distribution are valuable, the analysis could delve deeper into **why** these patterns might exist. Can you expand on the interactional or social motivations underlying these linguistic choices?
+- Consider briefly discussing any “borderline” cases and why they were excluded—this helps illustrate the fuzzy edges of your categorization.
+
+### 2. **Theoretical Framing**
+- Bring your findings into conversation with broader theories about conversation, narrative, or social interaction. For example, what do your results say about speaker/audience relationships, or about how conversational norms are mutually constructed?
+- Consider the implication that “personal” narratives (with statements, no required response) might perpetuate certain kinds of social authority or roles—are there parallels in other discourse types?
+
+### 3. **Clarity and Conciseness**
+- Some sections could be tightened for more directness—for instance, the explanation of your DM coding criteria could be summarized more succinctly and referenced back to Schiffrin for those wanting more depth.
+
+### 4. **Integration of Examples**
+- The examples you provide are excellent, but at times you present several in succession with little interpretation. After each example, briefly analyze the conversational dynamics and link them to your claims.
+- Where you present short dialogue fragments (e.g., “Well, listen to this…”), briefly comment on intonation or pragmatic force if possible: did you notice heightened emphasis, excited tone, etc.?
+
+### 5. **Discussion of “Co-Construction”**
+- The paper assumes high involvement equals co-construction, but it could be helpful to clarify if you consider overlapping speech, collaborative completion, or correction as types of co-construction, or whether question/statement forms are sufficient.
+- In your findings, all co-constructed narratives started with a question, but is question format alone enough to guarantee co-construction throughout, or is there more to it?
+
+### 6. **Use of Quantitative Detail**
+- While your table is clear, small-N studies benefit from rich qualitative description as well. Consider describing one or two full narrative openings in detail. If you used any coding reliability checks, mention them.
+- Add percentages or more explicit numbers for the DM analysis (e.g., ‘So’ appeared X% of the time in proposals).
+
+### 7. **Conclusion and Future Directions**
+- Your conclusion is thoughtful but could be slightly stronger: briefly restate what your findings mean for narrative theory or conversational analysis. Reinforce the academic contribution beyond “further research is needed.”
+
+---
+
+## Minor Points
+
+- Proofread for small typos (with/without italics, extra line breaks, minor format issues).
+- In your citations and references, ensure consistency in style (capitalization, journal names, etc.).
+- Consider adding a brief appendix with an example transcript (with marked IUs/DMs) to aid replication.
+
+---
+
+## Overall Assessment
+
+This is a well-thought-out, clearly presented undergraduate research paper. It makes a concrete empirical contribution to the study of narrative initiation and involvement, is well-grounded in relevant literature, and demonstrates thoughtful engagement with methodology and limitations. With some deepening of interpretation and attention to detail, this could be a strong model for student analytic work in sociolinguistics or discourse analysis.
+
+**Grade: A- to A (depending on integration of suggestions above)**
+
+If you’d like feedback on specific sections (e.g., literature review, data analysis), or suggestions for publication or presentation, let me know!

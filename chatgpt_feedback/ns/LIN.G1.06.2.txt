@@ -1,0 +1,66 @@
+Absolutely! Here is detailed feedback on your paper, "Perceptions of author based on text style in computer-mediated communication," focusing on content, structure, clarity, strengths, and areas for improvement.
+
+---
+
+## Strengths
+
+### 1. **Timely and Relevant Topic**
+- Your focus on written style in CMC fills a clear gap in existing sociolinguistics research. The rationale for exploring text-based attitudes is convincing and well-grounded in recent technological and social changes.
+
+### 2. **Thorough Literature Review**
+- The background section provides a detailed survey of relevant studies from both language attitudes and CMC research. You connect prior findings directly to your own research questions, offering a foundational overview for your investigation.
+
+### 3. **Clearly Defined Research Questions and Method**
+- The goals, independent and dependent variables, and intended analyses are explicitly described.
+- The operationalization of variables and rationale for your experimental choices (e.g., constructed vs. naturalistic stimuli) is logical and precise.
+
+### 4. **Comprehensive Methodology**
+- The use of both quantitative and qualitative approaches (questionnaires plus open-ended responses) strengthens the study’s potential to yield nuanced insights.
+- The 2x2x2x4 design is robust, allowing for a range of analyses.
+
+### 5. **Critical Reflection**
+- You acknowledge limitations (e.g., use of artificial stimuli, internet user participant base) and discuss possible future research directions.
+
+---
+
+## Areas for Improvement
+
+### 1. **Clarity and Organization**
+- **Length/Density:** Certain sections, especially the background, are text-heavy and could be more concise. Consider synthesizing some material to focus more sharply on aspects that directly inform your hypotheses.
+- **Subheadings/Signposting:** The structure benefits from numbered sections but might be clearer with additional internal subheadings (especially in the literature review) and more use of topic sentences and summaries within each section.
+
+### 2. **Explicit Hypotheses**
+- While you rightly note a “paucity of prior experimental research,” you could articulate more explicit (even if broad) hypotheses. For instance, you might predict that nonstandard text features will be associated with perceptions of youth and lower education, or that female-associated features (per public discourse) will be rated differently.
+
+### 3. **Stimuli and Variable Details**
+- **Example Stimuli:** Include sample messages within the main text, not just as an appendix (or refer more clearly to them). This will help readers better grasp your manipulations.
+- **Letter Repetition:** You say this is exploratory, but a brief rationale (are there prior hints in the literature? what do you expect?) would help.
+
+### 4. **Measurement and Analysis Plans**
+- **Scales and Items:** For personality and demographic questions, clarify if you are using standard scales or creating your own, and mention examples.
+- **Qualitative Analysis:** The plan for open-ended responses could be fleshed out. Will you look for specific themes, or code for references to particular text features?
+- **Statistical Treatment:** Give a brief justification for your planned use of MANOVA and factor analysis—what kinds of patterns do you expect to emerge? Are you seeking main effects, interactions, or both?
+
+### 5. **Ethical and Recruitment Considerations**
+- The plan to recruit both teenagers and elderly participants is excellent, but consider mentioning more about informed consent, especially for minors, and potential access barriers for elderly participants unfamiliar with computers.
+
+### 6. **Writing Style**
+- **Grammar and Minor Errors:** There are a few minor typos (e.g., “for isntance” should be “for instance”), missing words, and some awkward sentences. A careful proofreading or peer review would help.
+- **Passive Voice:** Some procedural sections could be more concise with active voice.
+- **Citations:** Ensure all citations match the reference list and are consistently formatted.
+
+---
+
+## Summary and Recommendations
+
+Your project is well-motivated, methodologically sophisticated, and addresses interesting and underexplored questions. To further strengthen the paper:
+
+- Tighten and streamline the literature review.
+- Explicitly state predictions/hypotheses, even if exploratory.
+- Provide representative stimuli examples in the main text.
+- Clarify details on scales and coding for both quantitative and qualitative data.
+- Refine writing for clarity and flow.
+
+With these adjustments, your proposal will serve as an even stronger blueprint for the research and will be more accessible for readers and potential reviewers.
+
+If you’d like, I can provide a marked-up or edited excerpt, or help you with a specific section you’d like to revise further. Let me know how you’d like to proceed!

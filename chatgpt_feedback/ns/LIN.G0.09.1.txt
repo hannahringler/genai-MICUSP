@@ -1,0 +1,66 @@
+Certainly! Here’s detailed feedback on the paper “WRITING ABOUT PORTRAIT PAINTINGS: A Discourse Analysis”:
+
+---
+
+## **Strengths**
+
+**1. Clear Structure and Organization:**  
+The paper is well-organized, with a logical progression from introduction to conclusion. The three-part division (analysis of categories, application of the pattern, and discussion of description/evaluation) makes the argument and content easy to follow.
+
+**2. Effective Use of Examples:**  
+Numerous, well-chosen examples from art criticism substantiate each category, illustrating abstract points in a concrete manner. This both demonstrates knowledge of the field and aids reader comprehension.
+
+**3. Original Contribution:**  
+The paper fills a gap in the literature by analyzing actual discourse structure in art history writing, moving beyond the rather vague advice often found in student guides.
+
+**4. Practical Application:**  
+The illustrative example about Emshwiller’s portrait of Charles C. Fries is a great addition, showing exactly how one might apply the charted pattern to real writing.
+
+**5. Awareness of Complexity and Exceptions:**  
+The discussion of exceptions and ambiguous boundaries (e.g., blending of artist/sitter categories or the subjective element in description) anticipates reader objections and shows an advanced understanding of both art history and discourse analysis.
+
+**6. Useful Table and Visuals:**  
+The summary tables (organization chart, pattern application matrix) distill complex information and give the reader quick reference points.
+
+---
+
+## **Areas for Improvement / Suggestions**
+
+**1. Thesis and Signposting:**  
+- The thesis is implicit rather than explicit. A slightly stronger, more pointed thesis statement in the introduction would clarify the main argument for readers.
+- Consider adding a roadmap sentence outlining Parts I, II, and III in the introduction.
+
+**2. Literature Review Depth:**  
+- While the paper notes a lack of detailed analyses in the literature, it could briefly discuss any existing discourse-analytic or genre-analytic studies, even if in passing, to situate this analysis within a scholarly context.
+
+**3. Theoretical Framework and Terminology:**  
+- The paper identifies “categories” (GENERAL, ARTIST, SITTER, ANALYSIS), but doesn’t deeply connect these to established genre/move analysis theory (e.g., Swales, Bhatia), which might be useful given the linguistic/discourse analysis lens.
+- The section on description vs. evaluation could be expanded by engaging even more with existing art history theory or discourse analysis scholarship.
+
+**4. Scope and Limitations:**  
+- The paper is based on seven texts; it mentions this but could offer a more explicit acknowledgment of the sample’s limitations and its effect on generalizability.
+- There could be a sentence or two on how the template might differ for non-portrait artworks or for longer (scholarly) texts.
+
+**5. Transitions and Flow:**  
+- Some transitions, especially when moving from category descriptions to exceptions, could be smoother.
+- Occasionally, the language is a little dense (“divisions… are not exact”; “categorization tends to break down”); a little simplification might enhance readability.
+
+**6. Stylistic Notes:**  
+- While academic, the tone is occasionally more casual (“one might suppose…”). Consistent formality would strengthen the register.
+- A few sentences are long and could be broken up for clarity.
+
+**7. Minor Formatting & Citation Issues:**  
+- Make sure all citations are in a consistent format (some are 1999: 218, others are 2004: 11-12).
+- If possible, include section headings for Part III and the Conclusion for clearer demarcation.
+
+---
+
+## **Overall Assessment**
+
+This is a thoughtful, well-structured, and useful paper that bridges a gap between vague undergraduate art history writing advice and detailed genre/discourse analysis. With slight improvements in signposting, theoretical framing, and acknowledgment of sample limitations, this paper would serve both undergraduate students learning to write about art and instructors seeking a clear model for teaching art-historical writing.
+
+**Excellent work overall!**
+
+---
+
+**If you’d like specific feedback on any section (for example, the illustrative example in Part II), or on aspects like argumentation, depth, or use of sources, please specify!**

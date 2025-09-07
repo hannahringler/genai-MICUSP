@@ -1,0 +1,85 @@
+Certainly! Here’s detailed feedback on your paper, organized by **overall impressions, strengths, weaknesses, and specific suggestions for improvement**:
+
+---
+
+## Overall Impressions
+
+Your essay provides a thoughtful and ambitious comparative analysis of Marx’s notion of power with those of Foucault and Weber. The engagement with secondary literature (Brown, Janmohamed, Ollman, Postone, Sayer) demonstrates solid research and critical thinking. The structure is generally clear, leading the reader through definitions, key arguments, and distinctions.
+
+---
+
+## Strengths
+
+### 1. **Ambitious Scope and Originality**
+- You take on the nuanced argument that *capitalists, as well as workers, can be subject to suffering under capitalism*—an often overlooked perspective in Marxist discourse.
+- Your comparative framework (Marx, Weber, Foucault) is intellectually rich and enables fresh insights.
+
+### 2. **Use of Sources**
+- You reference a range of both primary (Marx, Weber, Foucault) and secondary literature, showing familiarity with the field.
+- Quoted material is relevant and well integrated.
+
+### 3. **Structure and Flow**
+- The introductory paragraph sets out your aims and theoretical framework clearly.
+- Each thinker’s view is addressed systematically, aiding reader understanding.
+
+---
+
+## Weaknesses & Areas for Improvement
+
+### 1. **Language and Expression**
+- There are recurrent grammatical errors and awkward phrasings that sometimes obscure your meaning.
+    - Example: “it cam be argued” should be “it can be argued”.
+    - Watch subject-verb agreement and verb tense consistency.
+- Some sentences are long and convoluted, making your points harder to follow.
+
+### 2. **Clarity and Precision**
+- Some concepts would benefit from clearer explanations, especially for readers less familiar with Marx, Foucault, and Weber.
+    - Explain “abstract structure” and “discursive power” more concretely, with brief examples.
+- At times, your comparative points are asserted rather than demonstrated with textual evidence or illustrative examples.
+
+### 3. **Argumentation**
+- The central argument—that Marx’s notion of power can better explain capitalist suffering than is often thought—could be emphasized and signposted more explicitly throughout.
+- The paper sometimes slips into description or summary; more critical analysis and direct claims would strengthen your position.
+- The role of discourse in Marx and Foucault, and the structure/agency question, could be more sharply delineated.
+
+### 4. **Paragraph Structure**
+- Paragraphs can be overly long and dense. Shorter paragraphs, each focused on a single key idea, will improve readability.
+
+### 5. **Use of Examples**
+- The initial anecdote about Japanese capitalists is impactful; more brief concrete examples (historical or hypothetical) throughout would help clarify and reinforce your arguments.
+
+---
+
+## Specific Suggestions
+
+1. **Clarify the Thesis**  
+   State very clearly, in the introduction and conclusion, what you are arguing about power in Marx, and how this modifies/enriches existing views.
+
+2. **Improve Grammar and Style**
+   - Proofread for grammatical/typographical errors.
+   - Consider using shorter, more direct sentences.
+   - Example: Instead of *“Marx’s notion of power means force, or energy, rather than control and command—however, it is a force which is hard to resist,”* try *“Marx sees power less as control or command and more as a force or energy that is difficult to resist.”*
+
+3. **Sharpen Comparative Analysis**
+   - When comparing theorists, specify both the similarities and the precise differences, using brief conceptual or real-world examples.
+   - For instance, how does Foucault’s refusal of overarching structure differ in practice from Marx’s abstract system?
+
+4. **Explain Key Terms**
+   Terms like “discursive power,” “abstract structure,” “alienation,” etc., should be succinctly explained for clarity.
+
+5. **Enhance the Conclusion**
+   The conclusion would benefit from a concise restatement of your main findings and their implications for the broader theory of power and capitalism.
+
+6. **Technical and Citation Practices**
+   - Indicate where direct citations come from, especially when referencing secondary literature not immediately familiar to the reader.
+   - Ensure all references are included in the bibliography.
+
+---
+
+## Summary of Feedback
+
+Your essay tackles a complex theoretical problem with sophistication and breadth. With improved clarity, more concrete examples, sharper argumentation, and careful editing for language issues, this paper would be much stronger. Your comparative approach is well chosen; just ensure that each thinker’s position is not only described but also critically engaged with, in service of your overarching thesis about power in Marxist thought.
+
+---
+
+**If you would like more detailed, line-by-line feedback on a particular section, or help rephrasing awkward passages, just ask!**

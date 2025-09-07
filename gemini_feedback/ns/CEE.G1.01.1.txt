@@ -1,0 +1,52 @@
+Okay, I've reviewed the paper "Oral Bioavailability Evaluation of Soil-Borne Chemicals Using In Vitro Bioavailability Tests." Here's a breakdown of my feedback, covering strengths, weaknesses, and suggestions for improvement:
+
+**Overall Impression:**
+
+This is a well-structured and informative review paper. It clearly defines the problem, explains the relevant concepts, summarizes existing research, and identifies future research directions. The writing is generally clear and concise, and the paper demonstrates a good understanding of the topic.
+
+**Strengths:**
+
+*   **Clear Introduction and Scope:** The abstract effectively summarizes the key points, and the introduction clearly defines the scope of the review (soil-borne, nonvolatile, immobile, and/or hydrophobic contaminants). The rationale for focusing on soil ingestion is well-explained.
+*   **Good Background Information:** The overview of the human gastrointestinal system is well-presented and provides the necessary context for understanding the bioavailability tests.
+*   **Comprehensive Literature Review:** The paper covers a wide range of relevant studies and methods. The tables summarizing the tests are very helpful.
+*   **Well-Organized:** The paper is logically organized, with clear headings and subheadings that make it easy to follow.
+*   **Identification of Challenges and Future Directions:** The discussion section effectively highlights the limitations of current bioavailability tests and suggests promising avenues for future research.
+
+**Weaknesses and Suggestions for Improvement:**
+
+1.  **Grammar and Typos:**
+    *   "Bioavailability students have been extended" - Should be "Bioavailability *studies* have been extended".
+    *   "While background toxicity tests often administer highly soluble salts to test organisms, a significant fraction of soil-borne chemicals are often not bioavailable, or absorbed in the human gastrointestinal (GI) system." - There is a better way to write this sentence.
+    *   There may be other issues, do a final proofread.
+
+2.  **Figures:**
+    *   Make the figure bigger and clearer
+
+3.  **Clarity and Specificity:**
+    *   Explain the difference between Bioavailability and Bioacessibility.
+    *   Avoid vague terms.
+
+4.  **Depth of Analysis:**
+    *   The section on "Bioavailability Research on Organic Contaminants" could be expanded to include more detailed information.
+    *   For each study, explain the results in detail.
+
+5.  **Critical Evaluation:**
+    *   The paper mainly summarizes existing research. While it does identify challenges, it could benefit from a more critical evaluation of the studies discussed.
+    *   For example, consider discussing the strengths and weaknesses of different in vitro tests, their limitations, and how well they correlate with in vivo results.
+
+6.  **In Vivo Animal selection:**
+    *   Explain in more detail, why swine or rat are being used.
+
+**Specific Suggestions for Improvement:**
+
+*   **Expand on Organic Contaminant Bioavailability:** In the "Bioavailability Research on Organic Contaminants" section, provide more details about the specific findings of the Ruby et al. (38) study. What were the key differences between the in vivo and in vitro results? What factors might explain these differences?
+*   **Address the Role of Soil Properties:** Discuss the complex interactions between soil properties (e.g., organic matter content, pH, particle size) and contaminant bioavailability in more detail. How do these factors influence the adsorption/desorption of contaminants in the GI tract?
+*   **Elaborate on Microparticulate Absorption:** The suggestion to assess the absorption of microparticulates is intriguing. Provide more background information on how microparticulates might be absorbed across the intestinal wall and why this could be a relevant pathway.
+*   **Consider the Regulatory Implications:** Discuss how incorporating bioavailability data into risk assessment models can impact site remediation goals and cleanup costs.
+*   **Improve the Conclusion:** The conclusion could be strengthened by summarizing the key findings of the review, reiterating the importance of bioavailability testing, and emphasizing the most promising directions for future research.
+
+**Overall:**
+
+This is a strong review paper that demonstrates a good understanding of the topic. By addressing the points outlined above, you can further enhance the quality and impact of your work.
+
+Good luck!

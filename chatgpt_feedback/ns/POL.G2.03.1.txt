@@ -1,0 +1,68 @@
+Certainly! Here’s a detailed critique and feedback on the paper, “Out of Sight, Out of Mind: Crime and the Consequences for Immigrants: Deportation Policy, Aggravated Felonies, and Judicial Review.” I’ll evaluate it based on structure, clarity, use of evidence, argumentation, style, and overall effectiveness.
+
+---
+
+## **Strengths**
+
+### 1. **Clarity and Organization**
+- **Structure**: The paper is very well organized with clear sections: Introduction, Background, Policy Issues, Data Tables, Policy Alternatives, and Conclusion. Each section logically builds on the previous one.
+- **Thesis Focus**: The thesis is evident early on—the author critiques the harshness and lack of nuance in U.S. deportation policy for immigrant offenders, especially regarding aggravated felonies.
+
+### 2. **Use of Evidence and Data**
+- The author supports their critique with numerous statistics, tables, and data from reputable sources including the Bureau of Justice Statistics, Department of Justice, and academic texts. The use of tables/graphs is especially effective in visualizing trends and giving weight to the arguments.
+- Citations to legislation (IIRIRA, IRCA, USSC) and academic sources (Weissbrodt, Borjas) are thorough, allowing the reader to verify claims.
+
+### 3. **Depth of Analysis**
+- The paper does an excellent job examining the **unintended consequences** and possible injustices emerging from current policies.
+- It identifies four key problems—lack of crime differentiation, ignoring prior criminal history, absence of judicial review, and disregard for economic contribution—and addresses each in detail.
+- Policy alternatives are not just suggested, but fleshed out with potential mechanisms for implementation.
+
+### 4. **Policy Recommendations**
+- The recommendations are concrete, actionable, and grounded in existing frameworks (e.g., USSC guidelines). This shows a good understanding of how policy reforms could be practically enacted.
+- There is a good balance between justice (public safety) and fairness to immigrants.
+
+---
+
+## **Areas for Improvement**
+
+### 1. **Thesis Statement and Roadmap**
+- While the introduction is strong, the thesis statement could be more explicit. The roadmap is present but might benefit from a clearer one-sentence indication of “what this paper will argue and how.”
+
+### 2. **Conciseness and Redundancy**
+- At times, particularly in the policy problem and alternative sections, the writing is somewhat redundant (e.g., repeatedly explaining what aggravated felonies are, restating that there is no distinction between crime types). Some sections could be streamlined.
+- The summary of aggravated felonies appears twice with similar wording; consider consolidating.
+
+### 3. **Voice and Tone**
+- The tone at times switches between academic critique and somewhat informal, rhetorical questioning (“one wonders how someone like Jane even qualifies…”). Aim for a consistent, academic voice.
+
+### 4. **Balance of Perspectives**
+- While the paper strongly critiques current policy, it could mention and more deeply engage with potential counterarguments. For example, reasons policymakers cite for not allowing judicial review, or possible negative consequences of policy alternatives.
+- The paper acknowledges the problem of federal case backlog, but the discussion on this could be expanded or balanced with why current “streamlining” is seen as attractive to policymakers.
+
+### 5. **Conclusion**
+- The conclusion summarizes the main thrust of the policy recommendations but could be more decisive. Consider ending with a stronger, broader statement about the implications for U.S. policy or immigrant rights.
+
+### 6. **Minor Points**
+- Some footnotes are repeated (see p. 14), and there are various in-text references that could be made more concise.
+- Formatting (especially in lists and tables) is clear, but sometimes the text following tables is disjointed—ensure all tables/figures are referenced and integrated smoothly.
+- Some terminology (e.g. “moral turpitude”) is defined late; define specialized terms at first mention.
+
+---
+
+# **Overall Assessment**
+
+This is a very strong upper-level graduate paper, distinguished by its research depth, use of data, and thoughtful policy suggestions. The analytical structure is logical and well-supported. To improve, focus on tightening prose to eliminate redundancy, formalize the tone, anticipate counterarguments, and strengthen the roadmap and conclusion.
+
+**If you’re revising:**
+- Tighten the main thesis and summary statements.
+- Eliminate repetitive explanations.
+- Ensure every section advances a new or deepened aspect of the overall argument.
+- Integrate tables/figures closely with the text.
+- Consider a paragraph explicitly considering policy tradeoffs.
+- End with a strong, memorable concluding statement.
+
+**Score (if this were graded):**  
+A- / A  
+(Excellent research and critique; some room for greater conciseness and engagement with counterarguments.)
+
+If you need a specific paragraph-by-paragraph edit, suggestions for sources, or help with citation formatting, let me know!

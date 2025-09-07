@@ -1,0 +1,52 @@
+Okay, I've read through the referee report on the paper "Country Size, Currency Unions, and International Asset Returns" by Tarek A. Hassan. Here's a breakdown of the feedback, organized for clarity:
+
+**Overall Strengths of the Report:**
+
+*   **Thorough and Detailed:** The report provides a comprehensive and in-depth analysis of the paper. It doesn't just skim the surface but dives into the nuances of the model, the assumptions, and the empirical strategy.
+*   **Well-Organized:** The report is structured logically, making it easy to follow the reviewer's line of reasoning. The sections on Motivation, Model, and Econometrics are clearly delineated.
+*   **Technical Expertise:** The reviewer demonstrates a strong understanding of international finance, asset pricing models, and econometric techniques. They are clearly familiar with the relevant literature (Backus & Smith, Tesar, etc.).
+*   **Constructive Criticism:** The report offers both positive feedback and specific suggestions for improvement. The reviewer doesn't just point out flaws but also proposes ways to address them.
+*   **Clear Explanations:** The reviewer does a good job of explaining complex concepts in a way that is accessible, even to someone who might not be an expert in the field.
+*   **Balanced Perspective:** The reviewer acknowledges the strengths of the paper (e.g., the theoretical derivation) while also highlighting its weaknesses (e.g., the econometric implementation).
+
+**Key Areas of Feedback (Organized by Category):**
+
+**1. Motivation:**
+
+*   **Weakness:** The reviewer argues that the motivation for the research question is not strong enough. The empirical findings cited (Campbell et al., Lustig & Verdelhan) don't necessarily justify the focus on country size as the primary driver of asset return differences.
+*   **Suggestion:** The reviewer suggests that the author needs to provide a more compelling theoretical rationale for why country size should matter, rather than just relying on empirical observations. The reviewer also mentions that the simple OLS regressions aren't necessarily capturing the assumptions of a UIP framework.
+
+**2. The Model:**
+
+*   **Connection to Existing Literature:** The reviewer notes that the model is similar to those of Backus & Smith (1993) and Tesar (1993). The reviewer questions whether the author is really improving upon existing research.
+*   **Functional Form:** A major point of concern is the sensitivity of the results to the choice of functional form. The reviewer argues that the author's conclusions depend on a specific condition (γε > 1), which may not always hold. The reviewer points out how earlier literature relies on different specifications and shows that the results can be dependent on the chosen form.
+*   **Intertemporal Substitution:** The report highlights that the author's two-period model struggles to address intertemporal substitution in the same way that previous models did and it seems to be lacking something since it is inconsistent with prior work.
+*   **Lack of Discussion:** The report highlights that the author does not bring these key differences up in the report and it is an issue that ought to be discussed.
+
+**3. Econometrics:**
+
+*   **UIP Concerns:** The reviewer questions the author's claim that the findings demonstrate a failure of Uncovered Interest Parity (UIP).
+*   **Serial Correlation:** A major concern is the potential for serial correlation in the error terms of the regressions, which could lead to inefficient estimates and miscalculated standard errors.
+*   **Econometric Implementation:** The reviewer is skeptical of the way the panel data is treated, effectively reducing it to a series of cross-sections.
+*   **Risk Premia:** The reviewer emphasizes the importance of accounting for exchange risk premia, which are not addressed in the current regressions.
+*   **Lack of Structural Estimation:** The reviewer implies that a more structural or reduced-form estimation method might be more convincing than the current approach.
+*   **Panel Concerns:** The two-period model isn't robust and it is not clear how it is justified.
+
+**4. Overall Contribution and Clarity:**
+
+*   **Weakness:** The reviewer feels the paper doesn't adequately highlight its contribution or link itself to the previous literature. The novelty is not clear.
+*   **Expository vs. Rigorous:** The report indicates that the econometric estimation is only done for expository purposes rather than a clear test of the implications of the paper.
+
+**Specific Suggestions from the Report:**
+
+*   Provide a stronger theoretical rationale for why country size should matter.
+*   Discuss the sensitivity of the results to different functional forms and parameter restrictions.
+*   Address the potential for serial correlation in the error terms.
+*   Account for exchange risk premia in the econometric analysis.
+*   Consider using a more structural or reduced-form estimation method.
+*   Clearly articulate the paper's contribution and how it builds upon or departs from existing literature.
+*   Revisit the validity of using a two-period framework for estimation.
+
+**In Summary:**
+
+This is a very insightful and critical referee report. The reviewer has clearly spent a significant amount of time analyzing the paper and has identified several key areas that need to be addressed. The author of the paper would be well-advised to take these comments seriously and revise the paper accordingly. The report is overall a very strong piece of writing and well thought out.

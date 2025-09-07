@@ -1,0 +1,52 @@
+Okay, I've reviewed the paper you provided and here's a breakdown of my feedback, covering its strengths and areas for improvement:
+
+**Overall Impression**
+
+The paper tackles a relevant and important topic – transitioning a university to 100% renewable electricity. The research question is clearly defined, and the paper presents a reasonable approach to address it. The structure is logical, and the writing is generally understandable, though some areas need polishing for clarity and conciseness.  The modeling approach is good in theory, but is hard to tell if it is truly accurate without being able to see the data.
+
+**Strengths:**
+
+*   **Relevant and Timely Topic:** The focus on renewable energy and reducing carbon emissions is highly relevant in today's context. The case study approach, focusing on a specific university, makes the research practical and potentially impactful.
+*   **Clear Research Question:** The aim of evaluating the feasibility of providing UM with 100% renewable energy is well-defined.
+*   **Logical Structure:** The paper follows a standard research paper structure (Introduction, Methods, Results, Discussion, Conclusion). This makes it easy to follow the line of reasoning.
+*   **Comprehensive Approach:** The paper considers various renewable energy sources (wind, solar, biomass, hydro) and addresses the challenge of intermittent renewable energy through the inclusion of energy storage.
+*   **Modeling:** The use of MATLAB for optimization and analysis of renewable energy combinations is a good step toward the paper's claims.
+
+**Areas for Improvement:**
+
+*   **Data Sources and Justification:** This is a critical area.
+    *   **Specificity:** While the paper mentions data sources, it often lacks specifics. For example: "Hourly demand data for UM central and medical campus buildings..."  Where *exactly* did this data come from? How was it collected? What time period does it cover?
+    *   **Data Validation:** It's important to acknowledge the limitations of the data. The paper mentions using wind speed data from UM's Atmospheric and Oceanic and Space Sciences building to extend a dataset. This needs justification. Is this data representative of the larger area?  What potential biases might be introduced?
+    *   **Data Gaps/Assumptions:** Clearly state any assumptions made due to data limitations. For example, the assumption that UM buildings are evenly distributed in North, South, East, and West regions.
+*   **Clarity and Conciseness:**
+    *   **Technical Language:** Ensure that technical terms are clearly defined, especially for a broader audience.
+    *   **Sentence Structure:** Some sentences are a bit long and convoluted. Break them down for better readability.
+    *   **Avoid Redundancy:** Eliminate unnecessary repetition of information.
+*   **Figures and Tables:**
+    *   **Figure Captions:** The captions are generally descriptive, but make sure they are self-explanatory. A reader should understand the figure without having to refer extensively to the text. Include units in axis labels.
+    *   **Table Presentation:** The table summarizing energy sources is useful.
+*   **Discussion and Conclusion:**
+    *   **Quantify Results:**  Instead of just stating trends ("total wind power potential dropped 60% during the summer months"), provide specific numbers or percentages related to the overall energy demand.
+    *   **Economic Considerations:** While the paper focuses on the technical feasibility, a brief discussion of the economic implications would strengthen the conclusion. What is the estimated cost of implementing this 100% renewable energy system? How does it compare to the current cost of electricity?
+
+**Specific Suggestions and Examples**
+
+*   **Abstract:** "A possible strategy..." could be more direct. "This paper presents a strategy..." Also, mention the main findings in the abstract.
+*   **Introduction:**
+    *   "The most important driver for this is the scepter of climate change."  Rephrase. "The increasing concern about climate change is a significant motivator..."
+    *   "However, conventional power plants...continue to be built and developed."  This sentence feels disconnected. Elaborate on the reasons for this. (e.g., cost, reliability)
+    *   Quantify the impact of UM's CO2 emissions. "puts a staggering 450 thousand Tonnes of CO2 emissions in the atmosphere." Compared to what? (e.g., city, state, country)
+*   **Methods:**
+    *   Elaborate on the method for generating a load curve for the university.
+    *   Explain why only one storage system was considered and justify its specifications (8 GWh, 45 MW).
+*   **Discussion:**
+    *   "Our findings reveal that a combination of renewable energy resources strategically distributed in the state of Michigan together with energy storage can provide UM's electricity demand around the clock." This is a very strong statement. You need to back it up with concrete data from your results.
+
+**Other Points**
+
+*   **Units:** Be consistent with units (e.g., kWh, MW).
+*   **Proofread Carefully:** Typos and grammatical errors detract from the paper's credibility.
+
+**In summary:**
+
+The paper presents a solid framework for analyzing the feasibility of 100% renewable energy for a university campus. By addressing the areas for improvement outlined above, particularly concerning data sources, clarity, and quantification of results, you can significantly strengthen the paper and increase its impact. Good luck!

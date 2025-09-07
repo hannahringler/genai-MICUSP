@@ -1,0 +1,78 @@
+Okay, here's some feedback on the paper "Malaria in the Twenty-first Century". I'll break it down into strengths, areas for improvement, and specific suggestions.
+
+**Overall Impression:**
+
+The paper provides a good overview of malaria, covering its transmission, the problems it causes, control methods, and the debate around US involvement.  It demonstrates research and an attempt to analyze different perspectives. However, it needs further refinement in terms of clarity, argumentation, and source integration.
+
+**Strengths:**
+
+*   **Comprehensive Coverage:** The paper addresses many key aspects of the malaria issue, from the biological mechanisms of transmission to the economic and political considerations of control programs.
+*   **Clear Structure:** The division into sections (Disease and Transmission, State of the Problem, Control of Malaria, US Involvement, Cost/Benefit Analysis) provides a logical framework.
+*   **Awareness of Complexities:** The paper acknowledges the complexities involved, such as the development of resistance to pesticides and drugs, and the ethical considerations of using DDT.
+*   **Advocacy for Action:** The paper clearly advocates for a proactive approach to malaria control, particularly with US involvement.
+
+**Areas for Improvement:**
+
+*   **Depth of Analysis and Argumentation:** While the paper presents information, it sometimes lacks in-depth analysis and strong argumentation.  Claims need to be supported by more robust evidence and logical reasoning.
+*   **Source Integration and Citation:**  The paper uses some sources, but the integration could be smoother, and the citation style needs attention. (See specific points below).
+*   **Clarity and Precision:** Some sentences and paragraphs are unclear or could be worded more precisely.
+*   **Balance and Objectivity:** While advocating for a particular position is fine, the paper should strive for a more balanced presentation of opposing arguments, even if only to refute them effectively.
+*   **Writing Style:** The writing style can be improved by focusing on stronger transitions between ideas and varying sentence structure.
+
+**Specific Suggestions:**
+
+**I. Malaria Disease and Transmission:**
+
+*   **Target Audience:** Adapt vocabulary to your target audience. This section presents a lot of information about the parasite, consider trimming the excess details.
+*   **Improve Flow:** The transition between describing uncomplicated vs. severe malaria could be smoother.
+*   **Clarity on Relapses:** Rephrase the sentence on relapses for better clarity. (e.g., "Relapses can occur in *P. vivax* and *P. ovale* infections due to dormant liver stage parasites, called hypnozoites, that can reactivate months or years later.  Treatment exists to prevent such occurrences, and individuals experiencing a relapse will not display symptoms beforehand.")
+
+**II. The State of the Problem:**
+
+*   **Data Presentation:** When presenting statistics (e.g., number of cases, percentage at risk), be sure to cite the sources immediately following.
+*   **Connection Between Resistance and Risk:** Explicitly state how mosquito resistance to pesticides and parasite resistance to treatment drugs led to the increased risk.
+*   **Explanation of Strategy Failure:** Explain *why* the new strategy in the 1990s caused higher rates of incidence. Was it a flawed strategy, or poorly implemented?
+*   **Concluding Statement:** Elaborate on how the problem has improved in recent years. Give numbers/statistics.
+
+**III. Control of Malaria:**
+
+*   **Justification for "Not Realistic":** Explain why permanent elimination of malaria is currently "not realistic."
+*   **Arguments against DDT:** Acknowledge the health and environmental concerns of using DDT (beyond just "it is known as a carcinogen"). Provide a more balanced view. If you still advocate for its use, explain *why* the benefits outweigh the risks in specific situations.
+*   **Effectiveness of Bed Nets:** Add some detail on *how* bed nets work and why they are effective, especially when treated with pyrethroids.
+
+**IV. Should the U.S. Government be Involved?**
+
+*   **Connect US Cases to International Situation:**  Explain more clearly *how* the incidence of malaria in other countries directly impacts the US (beyond just the possibility of it becoming prevalent again). This strengthens the justification for US involvement.
+*   **Elaborate on Decreased Funding:** Explain why the funding is decreasing.
+*   **Specificity of Country Decreases:**  Mention specifically which countries in Africa and South America decreased amount of spraying between 1993 and 1995.
+*   **More Justification:** Fully support the conclusion that vector control is the "most imperative element of malaria control."
+*   **Reasoning for the One Million Dollars Allocation:** Provide a rationale for allocating one million dollars per year to vector control, treatment, and prevention.
+*   **Transition:** Smoothly transition to the next section instead of using the short sentence "In order to protect the United States".
+
+**V. Cost/Benefit and Comparative Analysis:**
+
+*   **Elaborate Cost-Efficiency:** Explain *why* the proposed plan is more cost-efficient than the President's Malaria Initiative. Provide specific examples.
+*   **Why Only Certain Countries?** Explain why the President's plan only targets certain countries.
+*   **Justify No Involvement of US Agents:** Elaborate on why it is okay to not have US agents involved in using supplies and treatments. Mention that this is because of the increased cost of including US agents.
+*   **Balance and Acknowledge Limitations:** Acknowledge potential drawbacks or limitations of the proposed plan.
+*   **Connect to Bigger Issues:** The connection to the war in Iraq and Hurricane Katrina is a bit weak. While it's relevant to mention competing priorities, make a stronger connection to how malaria control specifically impacts these other issues (or vice versa).
+
+**Citation and Source Integration:**
+
+*   **Consistency:** Choose a consistent citation style (MLA, APA, Chicago, etc.) and adhere to it throughout the paper.
+*   **In-Text Citations:** Use in-text citations to give credit to sources for specific facts, figures, and ideas. (e.g., "According to the CDC, malaria is caused by..." (CDC, 2006)).
+*   **Direct Quotes:** Use direct quotes sparingly. Paraphrase and summarize whenever possible, but always cite the original source.
+*   **Complete Citations:** Ensure that all sources listed in the "References" section are actually cited in the text.
+*   **Tren and Bate:**  The source citation "(Tren and Bate, 2004)" is insufficient to demonstrate that South Africa spent $102,000 US dollars on a malaria control program.
+*   **Usaid**: The citation "usaid.org" is not acceptable. Use a more specific URL.
+
+**Other:**
+
+*   **Proofread Carefully:** Proofread the paper for any grammatical errors, typos, and inconsistencies in style.
+*   **Word Choice:** Be mindful of word choice. For example, "miniscule budget" should be "minuscule budget".
+*   **Sentence Variety:** Incorporate different types of sentences and transition words to make the writing more engaging.
+*   **Formatting:** Ensure consistent formatting throughout the paper.
+
+**In summary:**
+
+This paper has potential. By deepening the analysis, strengthening the argumentation, improving source integration, and refining the writing style, you can create a much more compelling and persuasive piece. Good luck!

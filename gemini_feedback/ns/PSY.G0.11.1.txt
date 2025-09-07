@@ -1,0 +1,64 @@
+Okay, here's some feedback on the paper "Psychology Underground of Power: Memo #1," considering its structure, content, clarity, and potential improvements:
+
+**Overall Impression:**
+
+The paper has an interesting premise: exploring power dynamics through the lens of cell phone interactions. It’s a relatable and potentially insightful area of observation. The author demonstrates an ability to observe and analyze everyday social behaviors, which is promising. However, the paper needs some refining to be more convincing and impactful.
+
+**Strengths:**
+
+*   **Intriguing Topic:** The concept is original and relatable. The idea of analyzing power dynamics through cell phone communication is a novel way to explore a common psychological phenomenon.
+*   **Specific Examples:** The author provides concrete examples from personal experience (e.g., being a student organization president, interactions with a boss). These examples help illustrate the points being made.
+*   **Clear Structure:** The paper is organized around specific aspects of cell phone interactions: answering the phone, conversation style, closing a conversation, and return call time. This provides a clear framework for the analysis.
+*   **Observational Skills:** The author displays a keen awareness of subtle social cues and behavioral differences.
+
+**Weaknesses and Areas for Improvement:**
+
+*   **Lack of Theoretical Grounding:** The paper feels largely anecdotal. It would be significantly strengthened by connecting the observations to established psychological theories of power, social dominance, communication styles, etc.  Consider incorporating concepts from:
+    *   **Social Exchange Theory:**  How do people weigh costs and benefits in these interactions?
+    *   **Communication Accommodation Theory:**  How do people adjust their communication style to signal power or affiliation?
+    *   **Expectation Violations Theory:** How do violations of typical cell phone etiquette (e.g., taking a long time to return a call) signal power?
+*   **Limited Scope/Depth:** While the observations are interesting, they are somewhat superficial.  The paper could benefit from a deeper exploration of *why* these behaviors reflect power dynamics.  Consider questions like:
+    *   What psychological needs are being met by asserting dominance in these ways?
+    *   How do these interactions contribute to larger social hierarchies?
+    *   Are there cultural variations in these behaviors?
+*   **Need for Nuance/Alternative Explanations:**  The paper sometimes presents a somewhat simplistic view of power.  Not all behaviors are necessarily about asserting dominance.  Consider alternative explanations for observed behaviors.  For example:
+    *   Maybe someone is genuinely busy and can't return a call immediately.
+    *   Maybe someone answers the phone in a certain way out of habit, not a deliberate attempt to establish power.
+*   **Overgeneralizations:** Avoid making broad statements without sufficient evidence. For example, "those with power...usually..." needs to be qualified.
+*   **Language and Style:** The writing is generally clear, but could be more polished and academic.
+    *   Avoid colloquialisms (e.g., "what's up?").
+    *   Use more precise language.
+    *   Vary sentence structure.
+    *   Proofread carefully for grammatical errors.
+*   **Evidence:** The paper relies heavily on personal observations. While these observations are important, they should be supplemented with evidence from scholarly sources.
+
+**Specific Suggestions:**
+
+*   **Introduction:**
+    *   Start with a hook that grabs the reader's attention.
+    *   Clearly state the thesis/main argument of the paper.
+    *   Briefly outline the structure of the paper.
+*   **Body Paragraphs:**
+    *   Start each paragraph with a clear topic sentence that introduces the main idea.
+    *   Provide specific examples to support your claims.
+    *   Explain the connection between your examples and the underlying power dynamics.
+    *   Incorporate relevant psychological theories and research.
+    *   Acknowledge alternative explanations for the observed behaviors.
+*   **Conclusion:**
+    *   Summarize the main points of the paper.
+    *   Discuss the implications of your findings.
+    *   Suggest directions for future research.
+*   **Research:**
+    *   Search for scholarly articles on power dynamics, communication styles, social dominance, and related topics.
+    *   Look for research that supports or challenges your observations.
+*   **References:** Include a properly formatted bibliography of all sources cited in the paper.
+
+**Example Revisions:**
+
+*   **Instead of:** "However, those with power, or those that want to exude more power, usually answer the phone first identifying the caller and asking the first question."
+*   **Try:** "Individuals seeking to establish a position of control may employ assertive communication strategies when answering the phone. For example, instead of a simple greeting, they might immediately acknowledge the caller by name and initiate questioning, potentially reflecting a desire to direct the conversation and control the exchange (Reference social dominance theory)."
+
+*   **Instead of:** "Finally, I've observed that the amount of time it takes for a person to call individuals back can be a telling sign of relational power on the phone."
+*   **Try:** "Response latency, the time elapsed before returning a phone call, can also be interpreted as a subtle indicator of power dynamics. A delayed response might signal that the caller's needs are not a high priority, potentially reinforcing a hierarchical relationship (cite relevant source on communication and power)."
+
+**In summary:** This paper has potential. By grounding it in psychological theory, providing more nuanced analysis, and strengthening the writing, it can become a more compelling and insightful exploration of power dynamics in everyday life. Good luck!

@@ -1,0 +1,66 @@
+Okay, I've read through the paper and can provide some feedback.  Here's a breakdown of strengths, weaknesses, and suggestions for improvement:
+
+**Overall Impression**
+
+This is a sophisticated and well-researched paper.  It demonstrates a strong command of the source texts (Dirae, Lydia, Vergil's Eclogues, and related poems), a clear understanding of critical scholarship (especially Watson and Fraenkel), and a willingness to challenge established interpretations. The argument about jealousy as a key interpretive lens is compelling. The analysis is detailed and specific, and you make good use of textual evidence.  The paper's strength lies in its nuanced understanding of the relationship between the Dirae and the Lydia, arguing for their interconnectedness as a complex response to Vergilian pastoral.
+
+**Strengths:**
+
+*   **Strong Argument:** The central claim that the Dirae and Lydia are best understood as a pair of poems that inverts and complicates Vergilian pastoral, with jealousy as a key thematic driver, is well-defined and consistently pursued.
+*   **Detailed Analysis:** The close readings of the poems are insightful and convincing. You effectively point out the thematic and verbal echoes of Vergil, demonstrating how the Dirae and Lydia both engage with and subvert the pastoral tradition.
+*   **Engagement with Scholarship:** The paper engages critically with existing scholarship, particularly the work of Watson and Fraenkel. You effectively summarize their arguments and then offer compelling counter-arguments based on your own analysis of the texts.
+*   **Command of Source Material:** Demonstrates a strong understanding and usage of the original Latin texts.
+*   **Clear Structure:** The paper is generally well-organized, moving logically from a discussion of curse poetry to the relationship between the Dirae and Lydia, and finally to an analysis of the themes of jealousy and inverted pastoral.
+
+**Weaknesses:**
+
+*   **Overly Dense Prose:** The writing style is often complex and dense, which can make it difficult for the reader to follow the argument. Some sentences are excessively long and convoluted.
+*   **Occasional Abruptness:** At times, the paper jumps between ideas or makes assertions without sufficient explanation or transition.
+*   **Some Argumentative Leaps:** In a few instances, the argument relies on somewhat speculative or interpretive leaps that could benefit from further support.
+*   **Uneven Tone:** While generally scholarly, the tone occasionally veers into being overly dismissive of other scholars (e.g., descriptions of Fraenkel's ideas as extreme).
+*   **Repetitive or Redundant Statements**: There are several places where you repeat the same ideas or rephrase things in a way that doesn't add value.
+
+**Suggestions for Improvement:**
+
+1.  **Improve Clarity and Conciseness:** This is the most important area for improvement.
+    *   **Simplify Sentences:** Break down long, complex sentences into shorter, more manageable units. Use active voice whenever possible.
+    *   **Define Terms:** While you demonstrate a good understanding of key terms (e.g., *adunata*, *lex talionis*), consider providing brief definitions or explanations when you first introduce them, especially for a wider audience.
+    *   **Stronger Transitions:** Use clear transitional phrases and sentences to guide the reader from one idea to the next.
+    *   **Example:** Instead of this: "In so much as all are curses, however, comparison is legitimate and necessary, and whatever formal differences there may be, the medium privileges other literary curses," you could write: "Because both poems are curses, comparison is valid. Despite formal differences, literary curses offer a relevant point of comparison."
+2.  **Strengthen Argumentative Support:**
+    *   **Expand Explanations:** When making a potentially controversial or interpretive claim, provide more evidence and reasoning to support it.
+    *   **Address Counterarguments:** Anticipate potential objections to your argument and address them directly. This can strengthen your credibility and demonstrate a thorough understanding of the topic.
+    *   **Example:** The claim that "his curses are as much a reflection of his fixation on what he has lost as a punishment of the soldier" is insightful but requires further development. How do specific curses reflect this fixation? What textual evidence supports this interpretation?
+3.  **Moderate Tone:**
+    *   **Respectful Engagement:** Engage with other scholars' work respectfully, even when you disagree with their conclusions. Focus on the arguments themselves rather than making personal judgments. Phrases like "curiously incongruous" or "extreme overstatement" could be softened.
+4.  **Reduce Redundancy:**
+    *   **Review for Repetition:** Carefully review the paper for instances where you repeat the same ideas or information. Condense or eliminate these redundancies.
+
+**Specific Comments by Page:**
+
+*   **Page 1:** Good introduction of the topic and central argument. The footnote feels like it could be integrated into the body of the text to some degree, or summarized more efficiently.
+*   **Page 2:** The transition from Watson's definition to your analysis of the Dirae could be smoother. State clearly why you think her classification is *too* rigid.
+*   **Page 3:** The discussion of *lex talionis* is important, but the connection to the *Dirae* is not immediately clear. Clarify how the speaker's curses reflect this principle.
+*   **Page 4:** The analysis of *cycneas voces* is insightful.
+*   **Page 5:** The shift to jealousy is a key move in the argument. Make this transition more explicit.
+*   **Page 6:** The point about the lack of mythological exempla is well-made.
+*   **Page 7:** Good point about shifting curses to the land instead of Lycurgus, it should be clarified why this matters to your argument.
+*   **Page 8:** Excellent discussion of the Vergilian echoes in the Dirae. The comparison to the Eclogues is very effective.
+*   **Page 9:** The connection of Battarus to Vergil's Tityrus is insightful.
+*   **Page 10:** Good contrast between Meliboeus' resignation and the Dirae's envy.
+*   **Page 11:** Good comparison on similar elements from the Eclogues.
+*   **Page 12:** Fine integration of Van der Graaf's information.
+*   **Page 13:** Good engagement with Frankel, it may be beneficial to mention that these ideas are a bit outdated, though, as the notion of what a "masculine" poem is has since evolved.
+*   **Page 14:** Good engagement with Frankel, particularly with his thought processes in the margins.
+*   **Page 15:** Excellent analysis of lines 95-6, line 102, and line 103.
+*   **Page 16:** Good synthesis of the argument and transition to the Lydia
+*   **Page 17:** Fine engagement with how Van Der Graaf ties Dirae and Lydia together
+*   **Page 18:** Good criticism of Van Der Graaf
+*   **Page 19:** Further great criticism of Van Der Graaf
+*   **Page 20:** Fine discussion on similarities
+*   **Page 21:** Excellent synthesis
+*   **Page 22:** Good conclusion, it is concise and brings the poem together nicely.
+
+**In Summary:**
+
+This is a strong and promising paper. By addressing the weaknesses outlined above and focusing on clarity, conciseness, and stronger argumentative support, you can elevate it to an even higher level. Good luck! Let me know if you'd like me to elaborate on any of these points or provide additional feedback.

@@ -1,0 +1,47 @@
+Okay, here's a breakdown of the paper and some constructive feedback:
+
+**Overall Impression:**
+
+The paper has a clear research question, builds on relevant literature, presents a well-defined methodology, and offers a thoughtful conclusion. It demonstrates a good understanding of discourse analysis, narrative theory, and sociolinguistics. However, the paper could benefit from some refinements in structure, analysis, and discussion of the results.
+
+**Strengths:**
+
+*   **Clear Research Question:** The paper clearly sets out to investigate whether speakers signal intended levels of involvement in narratives through discourse markers and proposal structures.
+*   **Literature Review:** The literature review is relevant and well-integrated. It introduces key concepts like "tellership," Cortazzi's narrative model, and the function of discourse markers.
+*   **Methodology:** The methodology is clearly explained, outlining the criteria for selecting narratives, defining personal vs. co-constructed narratives, and identifying discourse markers.
+*   **Analysis:** The analysis is well-organized, presenting specific examples from the data to support claims. The distinction between the proposal section, the IU preceding it, and the IU of the narrative proper is useful.
+*   **Conclusion:** The conclusion summarizes the findings, acknowledges limitations, and suggests directions for future research.
+*   **Academic Tone and Style:** The writing is generally formal and academic, using appropriate terminology.
+
+**Areas for Improvement:**
+
+1.  **Organization and Structure:**
+
+    *   **Introduction:** The introduction could be strengthened by explicitly stating the hypothesis you were testing.
+    *   **Literature Review:** While the literature review is solid, consider more clearly connecting each element to your specific research question. Show *why* each piece of literature is relevant to your study.
+    *   **Analysis:** The analysis could be structured more logically. Grouping findings by topic (e.g., proposals, then discourse markers) and presenting the data (examples) directly after the topic sentence would enhance flow and clarity.
+
+2.  **Data Analysis and Interpretation:**
+
+    *   **Deeper Analysis of Discourse Markers:** While you found no *significant* relationship between the presence of DMs and narrative type, consider exploring *qualitative* differences in the *types* of DMs used. For example, do personal narratives tend to use DMs that signal closure (like "anyway") while co-constructed narratives use DMs that invite participation (like "you know")? Even if the frequency isn't significantly different, the *function* of the DMs might be.
+    *   **Quantitative Analysis:** A more robust quantitative analysis could be helpful, even with a small dataset. Consider using a statistical test (e.g., chi-square) to assess whether the observed differences in DM usage (though not "significant" on the surface) might still suggest a trend.
+    *   **Negative Results:** Discuss the implications of your negative findings more thoroughly. What does it *mean* if DMs don't function as signals of involvement? Does this suggest alternative mechanisms for signaling involvement? Is it possible that certain patterns exist, but that the sample size was too small to detect?
+
+3.  **Discussion and Conclusion:**
+
+    *   **Expand on "Oh My God":** You noted the popularity of "Oh my god." Expand on this. Is it used to signal vulnerability, excitement, or something else? Explore its potential social meaning.
+    *   **Broader Implications:** Try to connect your findings (or lack thereof) to broader issues in sociolinguistics and narrative theory. What implications do your results have for understanding how people manage interaction and negotiate meaning in conversation?
+
+4.  **Specific Suggestions:**
+
+    *   **"Narrative Proper":** The term "narrative proper" is a bit awkward. Consider using a more standard term like "narrative body" or "narrative content."
+    *   **"Listeners" vs. "Participants":** Be consistent in your terminology. In co-constructed narratives, "listeners" are also active participants.
+
+**Example of how to strengthen an argument:**
+
+*   **Original:** "There did not appear to be an obvious difference between the two narrative types in the number of discourse markers used at any of the three positions."
+*   **Improved:** "While the *frequency* of discourse marker use did not significantly differ between personal and co-constructed narratives, it is possible that a *qualitative* analysis of the *types* of discourse markers employed would reveal distinct patterns. For example, perhaps co-constructed narratives disproportionately feature DMs that seek confirmation or invite collaboration, while personal narratives utilize DMs that signal a transition or emphasize a point."
+
+**In summary:**
+
+This is a good paper that shows potential. By refining the analysis, strengthening the argumentation, and considering broader implications, you can elevate it to an even higher level. Good luck!

@@ -1,0 +1,59 @@
+Okay, here's a breakdown of feedback on the paper, focusing on strengths, weaknesses, and areas for improvement:
+
+**Overall Impression:**
+
+This appears to be a well-written summary of a scientific paper.  The student clearly understands the experimental design, results, and main conclusions of the LeSauter and Silver (1999) paper.  The writing is generally clear and concise. The organization is logical.
+
+**Strengths:**
+
+*   **Clear Summary:** The paper effectively summarizes the research question, methods, results, and conclusions of the original study.  It isolates the key information.
+*   **Understanding of Experiment:**  The student demonstrates a strong understanding of the experimental design, including the lesion and transplant experiments. They correctly identify the control and experimental groups.
+*   **Accurate Reporting:** The paper accurately conveys the findings of the original study, including the importance of the CaBP cells in locomotor rhythms.
+*   **Logical Organization:** The paper follows a logical structure, starting with the research question, moving through the methods and results, and ending with the conclusions.
+*   **Concise Language:** The writing is generally to the point and avoids unnecessary jargon.
+
+**Weaknesses:**
+
+*   **Limited Critical Analysis:** While the summary is good, there's a lack of critical analysis. The student doesn't discuss any potential limitations of the study, alternative interpretations of the data, or how the study fits into the broader context of the field.
+*   **Lack of Introduction/Context:** The introduction jumps straight into the research question without providing much background or context about circadian rhythms or the SCN. A brief introduction setting the stage would be helpful.
+*   **Superficiality:** Given it is a final year undergraduate paper, more depth of understanding could be expected.
+
+**Areas for Improvement:**
+
+1.  **Expand Introduction and Provide Context:**
+    *   Briefly explain what circadian rhythms are and why they are important.
+    *   Provide a little more background on the SCN, its role in regulating circadian rhythms, and why it is a heterogeneous structure.
+    *   Mention any previous research that led to LeSauter and Silver's hypothesis.
+2.  **Add Critical Analysis:**
+    *   Discuss potential limitations of the LeSauter and Silver study. For example:
+        *   Were there any confounding variables that could have affected the results?
+        *   Was the sample size adequate?
+        *   Are the results generalizable to other species?
+    *   Discuss alternative interpretations of the data.
+    *   How does this study contribute to the broader understanding of circadian rhythms and the SCN?
+    *   Has there been any subsequent research that supports or contradicts these findings?
+3.  **Consider the Audience:**
+    *   Although the paper is well-written, it assumes the reader has some existing understanding of the topic. For a broader audience, defining terms like "free-running period" or "electrolytic lesions" more explicitly might be helpful (even though they are explained, more direct explanation could improve comprehensibility).
+4.  **Minor Edits:**
+    *   Ensure consistent use of tenses.
+    *   Proofread carefully for any typos or grammatical errors.
+
+**Specific Suggestions:**
+
+*   **Introduction Example:** "Circadian rhythms are approximately 24-hour cycles of biological activity that are found in most living organisms. These rhythms are regulated by a central pacemaker in the brain called the suprachiasmatic nucleus (SCN). The SCN is a complex structure containing various cell types, and researchers have been trying to determine which cells are responsible for regulating specific aspects of circadian rhythms, such as locomotor activity. LeSauter and Silver (1999) investigated the role of calcium-binding protein calbindin-D28K (CaBP) cells in controlling locomotor rhythms in mammals."
+*   **Critical Analysis Example:** "While the LeSauter and Silver study provides strong evidence for the role of CaBP cells in locomotor rhythms, it is important to consider some limitations. For example, the study only examined hamsters.  It is possible that the role of CaBP cells in locomotor rhythms differs in other species. Additionally, the electrolytic lesions may have affected other cell types in the SCN besides CaBP cells, which could have contributed to the observed effects."
+
+**Revised Example incorporating changes (Partial):**
+
+"Circadian rhythms, approximately 24-hour biological cycles, govern various physiological processes, including sleep-wake cycles and hormone secretion. These rhythms are orchestrated by the suprachiasmatic nucleus (SCN), a brain region located in the hypothalamus. Prior research has indicated the SCN's heterogeneity, with diverse cell populations potentially mediating distinct aspects of circadian function. LeSauter and Silver (1999) sought to identify the specific cell types within the SCN that control locomotor activity, a crucial component of circadian behavior. They hypothesized that calcium-binding protein calbindin-D28K (CaBP) cells, concentrated in a subnucleus of the SCN, are the key regulators of locomotor rhythms.
+
+In order to test whether the CaBP cells are responsible for locomotor rhythms, a lesion and transplant experiment was conducted. The study used wild-type hamsters with a free-running period of ~24 hours and mutant hamsters with a free-running period of ~22 and 20 hours. All animals were housed individually and each cage had a running wheel. At ~7 weeks of life, all animals were transferred from a LD to a DD cycle. In the lesion experiment, hamsters were given partial electrolytic lesions (lesions made by electrical current) in the SCN and locomotor activity (wheel running) was monitored for 4 weeks in animals that sustained rhythms and 12 weeks in animals that became arrhythmic after surgery. In the transplantation experiment, tau mutant hamsters were monitored for 1-3 weeks prior to partial electrolytic lesions and those that were arrhythmic after the SCN lesion received transplants. After transplantations, locomotor activity was monitored for 16-20 weeks. In addition to monitoring locomotor activity, histology (looking at SCN tissue under a microscope) tests, were done in order to determine the number and presence/absence of CaBP cells in SCN after the lesion and transplantation experiment.
+
+The results indicated that the hamsters that had a portion, or all, of the CaBP subnucleus in the SCN continued to have rhythms. However, animals with lesions that bilaterally destroyed the CaBP subnucleus were arrhythmic. In the transplantation experiment, hamsters that received grafts (donor tissue) with SCN CaBP cells present had the rhythms of the donor restored. Six hamsters lacking SCN CaBP cells in the graft were arrhythmic after transplantation.
+*One potential limitation of this study is the method of lesioning. Electrolytic lesions may not be specific to CaBP cells, and could have impacted surrounding neurons. This raises the possibility that the observed effects are due, in part, to disruption of these other neurons. Another limitation is that this research solely investigated hamster models, future research could explore the applicability of these findings in a variety of other species, including humans.*
+
+In general, the restoration and persisting locomotor rhythms were significantly correlated with the number of SCN CaBP cells remaining in SCN of hamsters after the partial lesion experiment and the number of SCN CaBP cells in the graft in the transplant experiment.
+
+The results indicate that the CaBP subnucleus located in the SCN of the hamster are controlling and maintaining the locomotor rhythms. Ablation of CaBP cells resulted in loss of locomotor rhythmicity and replacement of CaBP cells can reinstate locomotor rhythmicity. Additionally, even when 67% of the SCN tissue remained, without the presence of CaBP cells, these remaining regions were not sufficient in maintaining locomotor rhythms. Therefore, regional specialization of function are present in the SCN and this negates the former belief that as long as ~25% of the SCN survive ablation, circadian rhythms persist."
+
+By adding more context and critical analysis, the paper will be significantly strengthened. Good luck!

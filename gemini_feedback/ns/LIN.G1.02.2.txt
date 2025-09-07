@@ -1,0 +1,56 @@
+Okay, I've read through the paper and can provide some feedback. Here's a breakdown of strengths, areas for improvement, and some specific suggestions.
+
+**Overall Strengths:**
+
+*   **Thoroughness:** You demonstrate a strong understanding of the existing literature on the double object construction, particularly the work of Barss & Lasnik, and Larson. You engage with the key arguments and data in a detailed way.
+*   **Clear Presentation:** You do a good job of presenting complex syntactic concepts and arguments in a relatively clear manner. The examples are well-labeled and the tree diagrams are helpful in visualizing the structures.
+*   **Critical Engagement:** You don't just summarize the existing literature; you critically evaluate it. You identify weaknesses in Barss & Lasnik's proposals and offer a thoughtful critique of Larson's V' Reanalysis.
+*   **Original Thinking:** You propose your own alternative derivation and offer some interesting ideas about the productivity of the double object construction, suggesting a role for a null applicative morpheme.
+*   **Good Use of Examples:** The examples are well-chosen and used effectively to illustrate the theoretical points you're making.
+*   **Organization:** The paper is generally well-organized.
+
+**Areas for Improvement:**
+
+*   **Motivation for the Analysis:** While you clearly lay out the problems with existing analyses, a stronger *explicit* statement of the advantages your proposed analysis offers, especially early on, would be helpful. What specific problems does it solve *better* than previous approaches?
+*   **Elaboration of the Alternative Analysis:** Your alternative derivation of the Dative Shift construction and the idea of a null applicative morpheme are intriguing, but they need more development.
+*   **Addressing the Problems with V' Reanalysis:** You identify a significant problem with Larson's V' Reanalysis (binding in "Heavy NP Shift" constructions). While you acknowledge its impact on your own alternative derivation, you don't fully explore potential solutions or workarounds. This weakens the impact of your proposed analysis.
+*   **Clarity and Precision:** In a few places, the writing could be more precise and easier to follow. This is especially true when discussing complex theoretical concepts.
+*   **Concluding Remarks:** The conclusion is somewhat abrupt. It could be strengthened by summarizing the main arguments of the paper and reiterating the significance of your findings or proposed solutions.
+*   **Consistent Notation and Formatting:** There are a few inconsistencies in notation (e.g., the use of superscripts and subscripts) and formatting (e.g., the numbering of footnotes and diagrams).
+
+**Specific Suggestions:**
+
+*   **Introduction:**
+    *   Be more explicit about what you aim to achieve in the paper. What is the main question you're trying to answer? What is your central argument?
+    *   Briefly preview your alternative analysis and highlight its potential advantages.
+*   **"A Problem: Asymmetry":**
+    *   Define "domain" more clearly early on. While you eventually discuss c-command and m-command, a preliminary definition would be helpful.
+*   **(2) (a) (b)":**
+    *   The wording regarding the consultation and Microsoft Word can be removed. It's not entirely necessary to state as much.
+*   **Discussion: Precedence, Domain, and Branching:**
+    *   Expand on the implications of the subject NP not being in the same relation to the two object noun phrases.
+*   **"A Solution?: VP Shell":**
+    *   Be more explicit about *why* you assume that verbs like *give* assign three arguments. What is the evidence for this? (e.g., Theta Criterion)
+*   **(11):**
+    *   It may be useful to include the IP node in the diagram, to connect it to (10).
+*   **Adjuncts and V' Reanalysis:**
+    *   The phrase "The direct object in a Dative Shift construction differs from the semantic AGENT in the Passive in several important" does not feel natural, and should be reworded.
+*   **More V' Reanalysis and My Own Two Cents:**
+    *   Elaborate on the advantages of your alternative derivation. Why is it preferable to Larson's?
+    *   Thoroughly explore the problem with binding in "Heavy NP Shift" constructions and its implications for your analysis. Consider possible solutions or alternative assumptions that could mitigate the problem. For example:
+        *   Could the reanalyzed verb have some kind of internal structure that allows for binding?
+        *   Could you adopt a different theory of binding that would accommodate this case?
+        *   Could you argue that "Heavy NP Shift" constructions involve a different syntactic structure altogether?
+*   **Conclusion:**
+    *   Summarize your main arguments and findings.
+    *   Reiterate the significance of your contribution to the literature.
+    *   Mention potential avenues for future research.
+
+**Other Minor Points:**
+
+*   Carefully proofread the paper for typos and grammatical errors.
+*   Check for consistency in citation format.
+
+**In summary, this is a strong paper that demonstrates a solid understanding of the double object construction. By addressing the areas for improvement and elaborating on your own ideas, you can make it an even more compelling and impactful contribution to the field.**
+
+Let me know if you'd like me to elaborate on any of these points or provide more specific feedback on particular sections of the paper.

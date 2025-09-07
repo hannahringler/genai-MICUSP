@@ -1,0 +1,73 @@
+Certainly! Here’s a structured feedback on your paper, "A Multi-lingual Segmenter by Using Viterbi Algorithm." I’ll consider clarity, technical approach, structure, significance, and possible improvements.
+
+---
+
+### Strengths
+
+**1. Clear Motivation and Context**  
+You do an excellent job explaining why segmentation is important for both languages with and without explicit word boundaries. You also give concrete examples from Chinese and Korean, which effectively motivate your work.
+
+**2. Methodological Soundness & Integration**  
+The integration of the Viterbi Algorithm, inword probability, and automatic rule extraction is both original and well-articulated. You clearly describe how each component addresses specific weaknesses in the baseline approach.
+
+**3. Empirical Validation**  
+You evaluate your method on real-world datasets (PKU for Chinese, Korean news articles) and present precision, recall, and F-measure, which are appropriate metrics. You compare your system’s results to benchmarks from external bakeoffs, strengthening your claims about performance.
+
+**4. Attention to Linguistic Detail**  
+Your paper demonstrates strong linguistics knowledge, especially in morphological particulars (e.g., Korean Eojeol structure, Chinese personal names and suffixes).
+
+**5. Modular Evaluation**  
+The experiment section is well-structured, and you even assess the effect of each step (Viterbi, inword probability, rule application) separately, making your results transparent and reproducible.
+
+---
+
+### Areas for Improvement
+
+**1. Presentation and English Usage**  
+- There are several grammatical errors and awkward phrasings (e.g., "In Koreantexts," "putting off the decision on whether to combine") that can distract the reader. A thorough proofreading or review by a native speaker would improve readability.
+- Some technical explanations—especially around equations—could benefit from clearer formatting or typesetting, which might have been lost in the plain text extraction.
+
+**2. Clarity and Depth in Technical Sections**
+- While the Viterbi explanation is generally good, the pseudo-code or a step-by-step worked example (with input/output strings, matrices, etc.) could help readers unfamiliar with dynamic programming.
+- For the inword probability: an intuitive explanation, plus a visualization of thresholds and how they were determined, would strengthen this section.
+
+**3. Discussion of Limitations**  
+You mention some sources of errors, which is good, but a fuller "Discussion" section could include:
+  - How your approach handles highly ambiguous input or extremely out-of-domain data.
+  - Potential weaknesses (e.g., scalability, reliance on training data annotation quality).
+
+**4. Related Work**  
+You reference prior work, but a more systematic related work section (with more details on how your system compares/contrasts with others: e.g., CRF, HMM, neural approaches, rule-based) would help position your work in the broader landscape.
+
+**5. Tables and Examples**  
+- Some referenced tables and examples (such as Table 1, 2, etc.) are not visible. Try to ensure tables/figures are clearly reproduced and referenced.
+- More fully worked linguistic examples—showing before/after segmentation and possible common errors—would make your system’s strengths and limitations even clearer.
+
+**6. Generalization to More Languages**  
+- You claim the approach is multi-lingual by covering both word-delimited and non-delimited languages. A short discussion or experiment on other languages (e.g., Japanese, Thai, or even English text with noisy spacing) could make the claim stronger.
+- Alternatively, you could address what modifications would be necessary to extend the approach further.
+
+---
+
+### Summary
+
+This is a strong and well-motivated research paper with a clear technical contribution and meaningful experiments. Some improvements in language, clarity of exposition, and depth of discussion would elevate it further. With attention to presentation, a bit more related work synthesis, and enhanced examples, your work could be a valuable reference for both NLP and practical computational linguistics communities.
+
+**Overall:**
+- Contribution: High
+- Technical Soundness: High
+- Presentation/Language: Fair (needs improvement)
+- Experimental Validation: Good (could benefit from broader comparison)
+- Scope/Significance: Good
+
+**Next Steps:**  
+- Proofread for English clarity.
+- Add more technical detail (worked examples/figures/tables).
+- Expand the related work and limitations section.  
+- Consider making your code/datasets available for reproducibility (if possible and allowed).
+
+If you’re preparing this for publication or class submission, small changes in structure and style will make a big difference!
+
+---
+
+If you have particular sections you’re unsure about, or would like line edits or specific suggestions, let me know!

@@ -1,0 +1,44 @@
+Okay, I've read your paper and here's some feedback, focusing on strengths, areas for improvement, and specific suggestions.
+
+**Overall Impression**
+
+This is a thoughtful and well-structured critique of research on depression among Latino/a adolescents. You clearly identify the weaknesses of comparative/deviance approaches, and you propose alternative methodologies with a strong rationale. Your understanding of the relevant literature and your ability to apply it to the critique are evident. The paper demonstrates a good grasp of methodological issues in psychological research.
+
+**Strengths**
+
+*   **Clear Thesis and Structure:** The introduction clearly states the purpose of the paper and outlines the main arguments. The structure is logical and easy to follow.
+*   **Strong Critique:** You effectively critique the use of comparative/deviance approaches, highlighting the assumptions and potential biases embedded within them. Your references to Landrine, Hughes & DuMont, and Cauce, Coronado, & Watson effectively support your arguments.
+*   **Well-Supported Arguments:** You provide concrete examples of how these approaches can lead to misinterpretations and stereotypes.
+*   **Alternative Methodologies:** You thoughtfully propose qualitative methods (focus groups, in-depth interviews) and participatory research as potentially more fruitful avenues for research.
+*   **Critical Thinking:** You demonstrate critical thinking by not only identifying weaknesses but also by acknowledging the limitations of even your proposed alternative methodologies.
+*   **Clarity of Writing:** The writing is generally clear and easy to understand.
+
+**Areas for Improvement**
+
+*   **Specificity of Critique:** While you identify the weaknesses of the two articles in general, you could strengthen the critique by providing more *specific* examples from those articles to illustrate your points. For instance, pinpointing specific questions in the CES-D that might be culturally inappropriate for Latino/a adolescents would make your argument even more compelling.
+*   **Depth of Alternative Methodology Discussion:** While you introduce qualitative and participatory research, you could expand on the *practical* aspects of implementing these methodologies. For example, discussing specific strategies for building trust with the community in participatory research, or addressing potential challenges in conducting culturally sensitive interviews, would add depth.
+*   **Addressing Potential Counterarguments:** Consider briefly addressing potential counterarguments to your proposed alternative methodologies. For example, one could argue that qualitative research is more subjective or difficult to generalize. Acknowledging and responding to these concerns would strengthen your position.
+*   **Refine conclusion:**  The last two sentences are slightly repetitive.  You could conclude with a more powerful call to action or a summary of the key benefits of the alternative research approaches you've proposed.
+
+**Specific Suggestions**
+
+*   **In the Introduction:**
+    *   Briefly state the specific research questions or hypotheses from the two articles you're critiquing. This will provide context for your later criticisms.
+*   **When discussing the CES-D:**
+    *   Provide a specific example of a question on the CES-D and explain why it might be culturally inappropriate or misinterpreted by Latino/a adolescents. For example, you could discuss how somatic symptoms of depression might be expressed differently in different cultures.
+*   **Expanding on Qualitative Methods:**
+    *   Discuss the importance of reflexivity in qualitative research, where researchers acknowledge their own biases and assumptions and how these might influence the research process.
+    *   Mention specific techniques for ensuring cultural sensitivity in interviews, such as using bilingual interviewers, incorporating cultural brokers, and being mindful of power dynamics.
+*   **Elaborating on Participatory Research:**
+    *   Discuss the challenges of participatory research, such as the time commitment required, the potential for conflicting interests between researchers and community members, and the difficulty of ensuring that all voices are heard.
+    *   Provide examples of successful participatory research projects in similar contexts.
+*   **Conclusion:**
+    *   Instead of saying "It is time that researcher aimed at improving the lives of ethnic minority children and girls begin to ask meaningful research questions and to analyze and interpret data in meaningful ways." Try something like: "By embracing culturally responsive methodologies like participatory action research, we can move beyond deficit-based comparisons and work collaboratively with Latino/a communities to develop a more nuanced understanding of adolescent mental health, leading to more effective and equitable interventions."
+
+**Additional Comments**
+
+*   **Consider Ethical Implications:** You could briefly touch upon the ethical implications of using culturally insensitive research methods, such as perpetuating stereotypes or contributing to health disparities.
+*   **Terminology:** Be consistent with your terminology. You sometimes use "Latino/a" and sometimes "Latinos/as." Choose one and stick with it.
+*   **Proofread Carefully:** Give the paper a final proofread to catch any typos or grammatical errors.
+
+By incorporating these suggestions, you can further strengthen your already compelling critique and make an even more significant contribution to the discussion of culturally responsive research methodologies. Good job!

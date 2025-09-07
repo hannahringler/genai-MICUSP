@@ -1,0 +1,63 @@
+Absolutely! Here’s a detailed feedback on your paper, **“Relative Abundance of Myotis septentrionalis and Myotis lucifugus in Three Habitats in Northern Michigan”**. This feedback covers the main scientific components as well as presentation and clarity.
+
+---
+
+## Content & Structure
+
+### **Strengths**
+
+1. **Clear Research Questions & Hypotheses**
+   - The introduction does an excellent job of setting up the comparison between *M. lucifugus* and *M. septentrionalis*, including relevant ecological and morphological background.
+   - The rationale for expecting habitat and temporal segregation is well explained.
+
+2. **Methodology**
+   - Site selection and use of the Anabat detector are well documented.
+   - There is a good explanation of how calls were analyzed and identified, including use of discriminant function analysis for ambiguous calls.
+   - The control for extraneous variables (temperature, rainfall) is clear.
+
+3. **Results**
+   - The data is clearly presented, with quantified call numbers, significance values (p-values, U-values, etc.), and reference to clear figures.
+   - The inclusion of figures/graphs helps to visualize spatial and temporal patterns.
+
+4. **Discussion**
+   - You interpret the results sensibly, relating findings back to the hypothesis.
+   - Limitations are acknowledged, particularly regarding reliance on call counts and potential issues with the detection method.
+
+---
+
+### **Areas for Improvement**
+
+1. **Abstract**
+   - Condense slightly to focus only on the most important findings and methods. The abstract is a bit long and contains more detail than necessary. Try to keep it to 2–3 sentences on background, 2–3 on methods, and the rest on the main results and their implications.
+
+2. **Introduction**
+   - While informative, the introduction could benefit from a synthesis/summary paragraph before stating the hypotheses, highlighting why understanding this habitat/temporal partitioning matters.
+   - Briefly introduce the broader ecological or conservation value of studying habitat preferences in bats.
+
+3. **Methods**
+   - Clarify whether sites were sampled in a randomized order and if all habitats were sampled equally (the text says two sites per night—does this rotate so all receive equal effort?).
+   - Consider mentioning any limitations regarding call identification more explicitly (could species with overlapping call frequencies be confused?).
+
+4. **Results**
+   - The figures are good, but make sure each one is explicitly referenced and discussed in the body of the results, not just placed together at the end.
+   - Always state the sample sizes (n) in the written results for clarity, especially for statistics.
+
+5. **Discussion**
+   - There is only a brief mention of alternative explanations for patterns observed (e.g., observer placement, detector range, or prey distribution). A little more discussion on *why* the bats prefer certain habitats (beyond just call adaptation) would add depth.
+   - When discussing limitations (e.g., one bat making multiple passes), suggest how future studies might address this (e.g., simultaneous mist netting, radio telemetry).
+
+6. **Literature/Citations**
+   - The literature cited is solid and up-to-date for the time. Ensure all works cited are referenced in the main text.
+   - If possible, integrate more synthesis from the most relevant recent studies (if any exist).
+
+7. **Presentation**
+   - Proofread for minor typos, grammatical errors, and consistency (e.g., species names are italicized, and ensure all scientific notations—*P*, *n*, etc.—are consistently formatted).
+   - Figures and tables should have fully descriptive legends so they are understandable without reference to the main text.
+
+---
+
+## **Summary Feedback**
+
+**Overall, this is a well-designed and clearly written undergraduate research paper, with strong methods, justified hypotheses, and careful interpretation. You demonstrate a good understanding of bat ecology and acoustic monitoring. A little tightening up of the structure, minor improvements to clarity, and a bit more depth in the discussion would take it to the next level. Well done!**
+
+If you want, I can also provide sample rewrite/edits for any section, suggestions for stronger conclusions, or advice on submitting to undergraduate journals. Just let me know!

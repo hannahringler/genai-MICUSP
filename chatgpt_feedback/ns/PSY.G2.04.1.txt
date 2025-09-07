@@ -1,0 +1,73 @@
+Certainly! Here’s a detailed feedback on your paper, **"Early Predictors of Reading Development":**
+
+---
+
+## **Strengths**
+
+### 1. **Thorough Literature Review**
+- Your paper demonstrates an extensive review of the theoretical and empirical literature related to dyslexia, phonological processing, and early predictors of reading difficulties. The breadth of citations is impressive and indicates solid engagement with academic sources.
+- You explain the major theoretical frameworks succinctly, making complex ideas accessible without oversimplifying.
+
+### 2. **Clear Rationale and Significance**
+- You articulate the importance of early identification and the drawbacks of late diagnosis very well.
+- The reason for focusing on pre-preschool children is clearly justified, filling a noted gap in the literature.
+
+### 3. **Innovative Study Design**
+- The proposed longitudinal design, using previously assessed two-year-olds, is both innovative and feasible.
+- The strategy to investigate not just *whether* early language skills predict later reading, but also *which components* (e.g., mapping abilities vs. lexical organization), is particularly well thought out.
+
+### 4. **Balanced and Critical Approach**
+- You do an excellent job acknowledging the methodological limitations in the existing literature, as well as those in your own study.
+- There’s appropriate caution about causality, which enhances the scientific rigor.
+
+### 5. **Hypotheses and Expected Outcomes**
+- The breakdown of expected group trajectories (Groups 1-3) is logical and useful for later analysis.
+- Your predictions are grounded in the literature review, making your research questions clear and justifiable.
+
+---
+
+## **Areas for Improvement**
+
+### 1. **Focus and Organization**
+- The literature review, while thorough, is at times dense and could benefit from more subheadings or sectional breaks. For example, clear subheadings such as “Phonological Awareness,” “Speech Perception,” “Working Memory,” and “Rapid Naming” would guide the reader more effectively.
+- The transition between discussing existing theories/frameworks and proposing your study could be smoother; consider a brief summary paragraph before launching into your study aims.
+
+### 2. **Methods Section**
+- Some details (such as the mean age, grade breakdown, and precise N) appear to be missing or marked as "X." Make sure these are filled in for submission.
+- Expand on the recruitment and consent process for your child subjects, particularly regarding ethical considerations for this vulnerable population.
+- The description of measures is detailed, but could be made more concise by using a table for tasks/tests and their descriptions.
+
+### 3. **Clarity and Language**
+- At times, sentences are quite long and structurally complex, which may hinder comprehension. Consider breaking these down for clarity.
+- There is some redundancy (e.g., repeated explanations of phonological awareness components in several places). Streamline for conciseness.
+- Define technical terms (e.g., “elision,” “grapheme-phoneme mapping”) briefly at first mention.
+
+### 4. **Integration of the "Word to Word" Study**
+- The link between the Shatz & Backscheider (word-word mapping) studies and your study’s aims is fascinating. However, you could clarify earlier in the paper why this paradigm is uniquely suited to probing the underlying skills relevant for reading.
+- More explicit rationale as to why distinguishing between mapping and lexical organization matters for intervention could strengthen this section.
+
+### 5. **Conclusions and Future Directions**
+- The conclusion is brief given the theoretical and practical significance of your work. Consider expanding to:
+  - Summarize what *would* be demonstrated if your hypotheses are correct.
+  - Discuss practical applications (e.g., screening tools, intervention timing).
+  - Suggest concrete next steps if your findings (when analyzed) are promising.
+
+### 6. **Formatting and Citations**
+- Double-check citation formatting for consistency with the required style (APA, etc.).
+- Ensure that all in-text citations are included in the references and vice versa.
+
+---
+
+## **Minor Points**
+
+- The sections titled “Attachment A” or “Attachment B” are referenced but not included. Make sure all attachments, tables, or figures are present and clearly labeled.
+- Check for minor typographical errors and consistency in tense use.
+- “Socio-economic status was not assessed, but…”—if this is a limitation, consider including SES measures in future research.
+
+---
+
+## **Overall Assessment**
+
+This is an ambitious, sophisticated, and critical piece of work that makes a meaningful contribution to the understanding of the early roots of reading difficulties. With some organizational tightening, language editing, and methodological clarifications, it would be publication-ready or suitable for a graduate-level submission.
+
+**Great job overall!** If you’d like help revising specific sections (e.g., condensing or rewording), just ask!

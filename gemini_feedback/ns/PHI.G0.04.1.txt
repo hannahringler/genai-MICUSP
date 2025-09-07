@@ -1,0 +1,52 @@
+Okay, I've reviewed the paper. Here's a breakdown of feedback, covering strengths, weaknesses, and suggestions for improvement:
+
+**Overall Impression:**
+
+The paper tackles a complex ethical problem with some sophistication.  It demonstrates a good understanding of utilitarianism (both act and rule) and engages with the arguments of prominent philosophers like Hospers, Foot, Scheffler, Thompson, and Williams. The structure is logical, and the writing is generally clear. However, the arguments can be more tightly focused and developed.
+
+**Strengths:**
+
+*   **Engagement with Key Texts:** The paper demonstrates a clear understanding of the arguments of the philosophers cited. You're not just name-dropping; you're using their ideas to build your own case.
+*   **Clear Explanation of Utilitarianism:** The initial explanation of act and rule utilitarianism is well-articulated.
+*   **Logical Structure:** The paper follows a reasonable structure, starting with the basics and moving towards your own argument.
+*   **Insightful Questions:** The paper raises important questions about the application of utilitarianism in complex situations. The points about the relativity of "better" and "worse" states of affairs are good.
+*   **Good Choice of Example:** The Martha case is an effective tool for illustrating the complexities of the ethical dilemma.
+
+**Weaknesses:**
+
+*   **Lack of a Clear Thesis Statement:** The introduction lacks a strong, explicit thesis statement. While the paper explores the "Morality of Commonality and Agent-Specific Restrictions," it doesn't clearly state *what* position you will be arguing for.  A thesis would sharpen the focus and guide the reader.
+*   **Insufficient Development of Argument:** While the paper touches on many relevant points, some arguments feel underdeveloped. For example, the discussion of negative and positive rights is a crucial element, but it could be fleshed out with more examples and a clearer explanation of how it directly relates to the Martha case.
+*   **Jumping Between Concepts:** The paper sometimes jumps between different concepts and arguments without fully connecting them. This can make it difficult for the reader to follow the line of reasoning.
+*   **Over-Reliance on Summary:** At times, the paper seems to summarize the views of the philosophers cited without sufficiently analyzing or critiquing them. Need more "you" in the analysis.
+*   **Need For More Nuance:** Complex ethical problems rarely have simple solutions. While the paper ultimately arrives at a conclusion, it could benefit from acknowledging the complexities and potential counterarguments more thoroughly.
+*   **Clarity in Application:** Ensure that all claims about rights are clearly applied to the ethical dilemma that Martha is facing.
+
+**Suggestions for Improvement:**
+
+1.  **Develop a Strong Thesis Statement:** In the introduction, clearly state your position on the morality of Martha's actions. For example: *"This paper argues that while act-utilitarianism might initially suggest that Martha should embezzle funds to prevent greater harm, a consideration of the negative rights of her coworkers, and the agent-specific obligation she has to them, overrides this utilitarian calculation and renders her actions immoral."*
+
+2.  **Strengthen Argument Development:**
+    *   **Expand on the Negative/Positive Rights Argument:**  Provide more detailed explanations of these concepts and how they apply to the Martha case. Explain why negative rights should take precedence. Give clearer examples to illustrate the difference in claims.
+    *   **Analyze and Critique, Don't Just Summarize:** When discussing the views of other philosophers, move beyond simply summarizing their arguments. Analyze their strengths and weaknesses, and explain how their ideas support or challenge your own position.
+    *   **Address Counterarguments:** Anticipate potential objections to your argument and address them directly. For example, acknowledge that failing to act also has negative consequences, but explain why those consequences are less morally problematic than actively harming her coworkers.
+
+3.  **Improve Transitions and Connections:** Use clearer transitions between paragraphs and ideas. Explicitly state how each point relates to your overall thesis.
+
+4.  **Refine the Conclusion:** Summarize your main arguments and restate your thesis in a clear and concise way. Consider ending with a thoughtful reflection on the implications of your argument.
+
+5.  **Consider these points of clarification:**
+
+    *   What is meant by "commonality" in the title? Clarify the meaning of the word and make a point to explain the "commonality" of the problem.
+    *   "agent specific restrictions" - Clarify what these restrictions mean and provide more content on their importance in making these kinds of decisions.
+
+6.  **Specific Edits to Consider:**
+
+    *   **Page 1:** The discussion of Hospers' universality principle could be connected more explicitly to the Martha case. Explain why Martha's action would violate this principle.
+    *   **Page 2:** The phrase "dubious behavior" is vague. Be more specific about what makes the behavior dubious.
+    *   **Page 3:** The discussion of gambling seems somewhat disconnected. Make the connection to the Martha case more explicit. Perhaps focus on the element of consent.
+    *   **Page 4:** When writing "Philippa Foot finds utilitarianism attractively haunting because “it can never be right to prefer a worse state of affairs to a better.”" - clarify how utilitarianism can be haunting. Is the intention of utilitarianism to create a state of haunting as this sentence may imply?
+    *   **Page 7:** In the sentence "To say I have a negative right is to say that I have a claim over each actor, for *that* actor to refrain from violating my right." - Change *that* to *each*.
+
+**In summary:**
+
+This is a promising paper that demonstrates a good understanding of the relevant ethical concepts. By strengthening the thesis statement, developing the arguments more fully, improving the transitions, and addressing potential counterarguments, you can elevate this paper to a higher level. Good luck!

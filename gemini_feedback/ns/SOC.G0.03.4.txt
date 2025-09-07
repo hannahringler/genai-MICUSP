@@ -1,0 +1,46 @@
+Here are some feedback points for the paper, focusing on clarity, argumentation, and potential areas for further development:
+
+**Overall Impressions:**
+
+The paper tackles a complex and important topic. The central argument – that the early construction of domestic violence as a social problem was shaped by the experiences of white, middle-class, heterosexual women, and that this has influenced the accessibility and effectiveness of subsequent institutions – is a compelling and potentially insightful one. The paper demonstrates a solid grasp of sociological theory and research on social problems and social movements.
+
+However, the paper could benefit from greater clarity in its theoretical framework, more specific evidence, and a clearer explanation of the implications of the argument.
+
+**Strengths:**
+
+*   **Important Topic:** The paper addresses a crucial issue with significant social implications.
+*   **Clear Thesis Statement:** The central argument about the historical construction of domestic violence and its impact on current institutions is clearly stated.
+*   **Theoretical Grounding:** The paper effectively uses sociological concepts like social constructionism, claims-making, and institutionalism to support its arguments.
+*   **Engagement with Literature:** The paper demonstrates familiarity with relevant scholarship.
+*   **Defined Research Question:** The research question is specifically formulated.
+
+**Areas for Improvement:**
+
+1.  **Clarity and Specificity of Theoretical Framework:**
+    *   The paper introduces several theoretical perspectives (strict constructionism, contextual constructionism, institutionalism) but doesn't fully integrate them into a cohesive framework.  How *specifically* does each theoretical perspective help you understand the issue at hand? How do they relate to each other within *your* analysis?  Make the connections between theory and your argument more explicit.
+    *   Consider choosing one theoretical lens as the primary guide for analysis to make the reading more focused.
+2.  **Strengthen the Evidence:**
+    *   The paper relies heavily on general descriptions of the feminist movement. You need more concrete evidence to support the claim that definitions and services were tailored specifically to white, middle-class, heterosexual women.
+    *   Include some examples of how current domestic violence institutions reflect these early definitions. What specific aspects of their structure, services, or approach cater to a particular demographic and potentially exclude or marginalize others?
+    *   Elaborate on the diversity in the experience of women that you note. For example, provide detail of the issues faced by women of color that were not given focus during the early feminist movement.
+    *   Your research design states that you will compare "typical" DV shelters with those specifically designed for non-white, non-middle class and/or non-heterosexual women. This is a great starting point, but specify what characteristics you will examine.
+3.  **Clarify the Implications and Future Research:**
+
+    *   Expand on the implications of your findings. What are the consequences of this historical legacy for domestic violence services today?
+    *   What specific steps can be taken to address these shortcomings?
+    *   What kind of future research would be valuable to help address this problem? How will your research contribute to this broader understanding?
+4.  **More Explicit Intersectionality:**
+    * The paper mentions an "Intersectionality Approach" but its integration into the paper is limited. Define what intersectionality means in your context, and explicitly analyze how different social categories (race, class, sexuality) intersect to shape women's experiences of domestic violence.
+5.  **Potential for a Stronger Argument:**
+
+    *   Consider explicitly addressing counterarguments. Are there any reasons to believe that current services *are* adequately serving a diverse population? Acknowledge and refute these alternative viewpoints to strengthen your own.
+
+**Specific Suggestions:**
+
+*   **Introduction:** Make the link between the opening quotes and the overall argument more explicit. Consider a more specific and compelling hook.
+*   **Literature Review:** While the literature review is comprehensive, consider reorganizing it to focus more directly on the specific theoretical perspectives you will use to analyze the issue. Prioritize theories that you utilize most and explain how this research is relevant to your goals.
+*   **The Feminist Revolution Section:** This section is important, but could be more concise. Focus on the elements of the movement that are most relevant to your argument (e.g., the social background of key figures and the dominant discourses they promoted).
+*   **Research Design:** Provide more detail on the specific methods you plan to use to analyze your data. How will you identify themes in media coverage? How will you compare the mission statements and organization of different types of shelters?
+*   **Conclusion:** Reinforce your main argument, summarizing the key findings from your analysis and highlighting the significance of your research.
+
+By strengthening the evidence, refining the theoretical framework, and clarifying the implications of your argument, you can elevate the paper to a higher level of analysis and make a more significant contribution to the understanding of domestic violence as a social problem.

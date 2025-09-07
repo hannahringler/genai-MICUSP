@@ -1,0 +1,67 @@
+Absolutely! Here’s a detailed review and feedback on your paper, **“Crime, Criminal Justice Policy and Space: Thoughts on the Rise of a Rural Prison Economy.”** My comments include what works well, what could be improved, and some larger structural suggestions typical of academic feedback.
+
+---
+
+## Strengths
+
+1. **Ambitious Scope and Relevance**  
+   Your paper tackles a sweeping but urgent topic—the intersection of criminal justice policy, spatial inequality, political history, and economic restructuring in the US. The examination of rural prison economies and their spatial relationship to urban decline is original and compelling.
+
+2. **Engagement with Historiography**  
+   You situate your argument well within the existing historiography, making clear why the field has often neglected questions about the rise of mass incarceration. Your engagement with the “spatial turn” in historical scholarship is both up-to-date and thoughtfully applied.
+
+3. **Synthesis of Interdisciplinary Scholarship**  
+   The way you integrate work by historians (Wilson, Sugrue, Schulman), sociologists, criminologists, and political scientists illustrates breadth and depth in your research and makes your argument more persuasive.
+
+4. **Clarity of Structure**
+   The division into two parts (“Disappearance of the Obvious” and “Spatial Inequality and the Rural Prison Economy”) is logical and helps the reader follow your line of reasoning.
+
+5. **Use of Case Studies and Examples**
+   Detailed references to Beeville, Ionia, Calipatria, and other prison towns, as well as the discussion of census politics, make your narrative concrete and credible.
+
+---
+
+## Areas for Improvement
+
+### 1. **Thesis Statement and Throughline**
+**Strength:** The paper’s introduction clearly sets out major themes.
+**Improvement:** Your central thesis could be stated more explicitly. The (implicit) claim that “criminal justice policy must be re-examined as a socio-economic, political, and racial contest mediated and constituted by ‘space’” might be better foregrounded in the introduction as the guiding claim.
+
+### 2. **Transitions and Flow**
+**Strength:** You summarize and synthesize several works impressively.
+**Improvement:** Sometimes transitions between authors/themes feel abrupt. For example, the move from Sugrue to Schulman to Davis reads like a summary rather than an integrated argument. Consider adding more connective discussion about *how* these perspectives interrelate and collectively illuminate your main argument.
+
+### 3. **Balance of Summary vs. Argument**
+You devote a lot of space to summarizing key books and major theorists (especially in Part I). While this demonstrates knowledge of the field, it can sometimes overwhelm your own voice. Make sure each summary is tied explicitly back to your argument (e.g., after each author, a line that says “This is important for understanding the rural prison economy because…”)
+
+### 4. **Analysis of Economic Benefits (or Lack Thereof)**
+The section examining whether rural prisons deliver promised economic benefits is well-researched, but could use (a) more of your analysis, and (b) a clearer link to the earlier literature review—is this a new kind of “preferential investment” (Schulman), or a false solution, or something else?
+
+### 5. **Contemporary Implications / Conclusion**
+The conclusion could be stronger in articulating the stakes of your findings. For example, what do your findings suggest for current debates about prison policy, criminal justice reform, and regional inequality? Are there possible policy lessons? Are there currently emerging trends (e.g., prison closures, decarceration campaigns) that offer a counterpoint?
+
+---
+
+## Stylistic/Technical Points
+
+- **Proofreading:** There are a few small typos and grammatical issues (e.g., “Untied States” instead of “United States”, “cholars” instead of “scholars”)—proofreading with spellcheck or reading aloud can help.
+- **Citation Consistency:** Your footnotes and bibliography are comprehensive and mostly consistent. Just double-check to make sure page number citations are included where applicable.
+- **Paragraph Structure:** Some paragraphs are quite long and could be subdivided for readability.
+
+---
+
+## Questions to Consider
+
+- Could you offer a clearer definition of what you mean by “spatial inequality” earlier in the paper?
+- Is there a way to further historicize the “rural prison economy”—e.g., comparison with earlier forms of spatially-driven carceral policy (chain gangs, convict leasing, etc.)?
+- Can you say more about the racial politics *within* rural prison towns (as opposed to just between inner city incarcerated populations and rural communities)?
+
+---
+
+## Overall Assessment
+
+This is a rigorous, well-researched paper that makes a genuine interdisciplinary contribution. Your argument—that the geography of prison expansion is integral to understanding the reproduction of economic and racial inequality—is persuasively articulated, even if at times overwhelmed by the wealth of summarized material. Strengthening your voice and tightening the synthesis will make your paper even stronger.
+
+**Grade prediction (if for a graduate seminar):** A- to A
+
+If you’d like specific help with re-drafting sections or have questions about parts of your argument, feel free to ask!

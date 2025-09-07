@@ -1,0 +1,88 @@
+Absolutely! Below is detailed feedback on the essay **"Sexual Harassment... Not So Sexual???"** by a third-year graduate psychology student. I’ll focus on content, structure, clarity, critical thinking, use of evidence, and style.
+
+---
+
+## **Overall Feedback**
+
+### **Strengths**
+
+**1. Topic Significance & Originality**
+- The paper tackles a very important but often under-discussed aspect of workplace discrimination: nonsexual sexist/gender harassment. The exploration of how legal and academic frameworks often sexualize harassment and thus miss broader gender-based discrimination is highly relevant.
+
+**2. Organization & Structure**
+- The structure is logical and clear, moving from legal history to psychological theory, empirical research, and then to implications in both fields.
+- The use of headings and subheadings (“Legal History,” “The Academy,” etc.) makes it easy to follow.
+
+**3. Use of Evidence**
+- The literature review is thorough. The author draws on both legal scholarship and psychological research, referencing key authors and landmark cases (e.g., MacKinnon, Schultz, Franke; Price Waterhouse v. Hopkins).
+- The use of real court cases provides concrete examples to support theoretical points.
+
+**4. Critical Thinking**
+- The paper does well in critiquing the limitations of both legal and academic approaches.
+- There is effective synthesis between legal and psychological perspectives, highlighting gaps and offering direction for future research.
+
+**5. Language**
+- The writing is generally clear, formal, and appropriate for an academic audience.
+- The referencing is consistent and adheres to scholarly standards.
+
+---
+
+### **Areas for Improvement & Suggestions**
+
+#### **1. Thesis Clarity**
+- The thesis statement could be more direct. The introduction asks questions (e.g., “Who benefits…?”, “What are the implications…?”) but doesn’t state an explicit claim for what the essay aims to demonstrate or argue.
+  
+  **Suggestion:** End the introductory section with a clear thesis. For example:
+  
+  > This paper argues that current legal and psychological conceptions of workplace sex discrimination are overly focused on sexualized conduct, and that expanded recognition of nonsexual gender-based harassment is necessary for broader protection and justice.
+
+#### **2. Depth of Analysis**
+- While the summary of legal cases is good, the analysis sometimes remains on the surface—especially regarding *why* the legal system resists recognizing nonsexualized harassment.
+  
+  **Suggestion:** Offer more commentary on the broader social or institutional reasons for legal reluctance (e.g., gender norms, patriarchal values in law, institutional inertia).
+
+#### **3. Integration & Synthesis**
+- The paper presents legal history, theory, and research, but could more actively synthesize these threads, especially in the discussion and conclusion.
+  
+  **Suggestion:** In the conclusion, spell out concrete implications (e.g., “If the EEOC updated its guidelines to include nonsexualized harassment, X legal and workplace changes might follow.”).
+
+#### **4. Addressing Counterarguments**
+- The paper acknowledges why sexual harassment is often seen as “just biology” but doesn’t fully address counterarguments (e.g., concerns over legal “overreach,” or the difficulty in operationalizing gender-based harassment in the courts).
+  
+  **Suggestion:** Briefly mention potential concerns or critiques of expanding legal definitions (e.g., line-drawing issues, subjectivity) and offer responses.
+
+#### **5. Writing Style**
+- The tone is mostly appropriate, but sometimes rhetorical questions at the outset make the introduction less assertive.
+- There are minor repetitive phrases and a need for occasional tightening.
+- “Over the past three decades the ‘sexualization’...” would read better as “Over the past three decades, the ‘sexualization’...”
+
+#### **6. APA Style & Formatting**
+- Make sure all in-text citations match the reference list (e.g., publication years, page numbers).
+- *Running head* should be formatted per current APA guidelines (now: flush left, all caps).
+
+#### **7. Abstract**
+- There is no abstract. An abstract succinctly summarizing the paper’s argument, methods (if any), and main findings would strengthen it, if this is an assignment expectation.
+
+#### **8. Future Directions**
+- While you mention the need for future research, be more specific: What questions should be studied? What methods might overcome current blind spots?
+
+---
+
+### **Summary & Final Tips**
+
+This is a strong graduate paper, well-informed by both law and psychology scholarship, and offering a valuable critical perspective. With a bit more assertiveness in thesis development, deeper analysis/synthesis, and improvement of writing mechanics, it could be publishable in an advanced graduate seminar.
+
+---
+
+**Quick Edits Checklist:**
+- Add a thesis sentence to the introduction.
+- Tighten prose; reduce rhetorical questions.
+- Add a summary paragraph clearly stating implications for law, organizations, and research.
+- Briefly address possible objections or difficulties in broadening the legal definition.
+- Ensure full APA compliance.
+
+---
+
+**Overall Score:** ***A- (with specific improvements, could be even higher)***
+
+Let me know if you’d like more focused feedback on any section, or suggestions for a revised thesis or conclusion!

@@ -1,0 +1,60 @@
+Certainly! Below is detailed feedback on the paper **“Sports Literacy and Rhetoric as Power: The Privilege of the Literate and Who’s Warming the Bench.”**
+
+---
+
+## Overall Evaluation
+
+**Strengths:**
+- **Thorough Research & Citations:** The essay is impressively researched with extensive citation of foundational theorists (e.g., Bourdieu, Foucault), contemporary authors, and recent statistics/media studies.
+- **Clear Central Argument:** You articulate a sophisticated argument about sports literacy functioning as cultural capital, and how its rhetoric is gendered and exclusionary, maintaining male privilege in sports.
+- **Intersection of Theory and Example:** The interplay between theory (e.g., cultural capital, media-commercial-sports complex) and detailed real-world examples (media representation, Title IX data, advertisements) is effective.
+- **Critical Engagement with Title IX:** The analysis of Title IX is nuanced and goes beyond common celebratory narratives, recognizing both progress and persistent inequalities.
+- **Strong Structural Coherence:** The transitions between topics (literacy/rhetoric theory, sports as capital, empirical evidence, and legislative analysis) are logical and coherent.
+- **Reflexive Voice:** The preface with personal anecdote powerfully sets up the stakes of the inquiry, and the conclusion reflects critically on the implications and future research directions.
+
+---
+
+## Areas for Improvement
+
+1. **Clarity and Conciseness:**
+   - Some sentences are quite dense, theoretical, or repetitive. For example, restating the relationship between capitalism, sports, and cultural capital occurs a few times in similar language.
+   - **Suggestion:** Revise for conciseness. Consider shorter paragraphs, especially in theoretical sections, and ensure that every repetition adds something new.
+
+2. **Definition of Key Terms:**
+   - While you do define “sports literacy” and “sports rhetoric,” the definitions appear somewhat late (~p.8). The nuanced distinction between the two could be clearer.
+   - **Suggestion:** Give concise, operational definitions of “sports literacy” and “sports rhetoric” early in the paper to help your reader anchor subsequent arguments.
+
+3. **Use of Evidence:**
+   - Many statistics are cited, but some (particularly media coverage numbers) are from early 2000s or late 1990s, which may not reflect current trends.
+   - **Suggestion:** If possible, add more recent sources to show whether trends have changed, or explicitly note the date limitations when interpreting the data.
+
+4. **Intersectionality:**
+   - Although briefly discussed (e.g., footnote on sexuality), there is relatively little sustained analysis of how race, class, or sexuality intersect with the exclusion of women from sports literacy/rhetoric.
+   - **Suggestion:** Even a short paragraph elaborating on these intersections would strengthen the nuance of your argument.
+
+5. **Balance Between Theory and Example:**
+   - While the engagement with theory is strong, the writing sometimes leans into jargon (e.g., “technologies of the self,” “hegemonic reproduction”) at the expense of accessibility.
+   - **Suggestion:** When introducing key theoretical concepts, ensure they are followed by tangible examples or explanations in plain language.
+
+6. **Concluding Section:**
+   - The conclusion is thoughtful and looks toward continuing research, but a more explicit statement of what practical steps or recommendations might help disrupt the status quo would be helpful.
+   - **Suggestion:** End with specific ideas for future action, policy changes, or research priorities.
+
+7. **Citation/In-text Referencing:**
+   - Some claims or quotations (especially when using statistics or direct participant quotes) could benefit from more direct in-text citation or clearer attribution.
+
+---
+
+## Minor Comments
+
+- **Grammar/Style:** Occasional small typos or inconsistencies (e.g., “sport-media-commercial complex ,” extra spaces) can be corrected.
+- **Footnotes:** Consider whether lengthy clarifying content (e.g., about sexuality and sports) can be integrated into the main text for impact, rather than in small font/footnote.
+- **Representation:** When listing women athletes as rare exceptions, still underscore their achievements (vs. only framing them as exceptions within a male-dominated list).
+
+---
+
+## Summary
+
+**This is a high-level, critically engaged, and well-organized paper that meaningfully synthesizes social theory and empirical reality. It offers a strong, intersectional critique of sports as a site of gendered exclusion under the guise of merit and literacy. To further refine the work, make early definitions clearer, streamline dense sections, update examples where possible, and consider more actionable conclusions.**
+
+If you’d like line edits on particular sections or help with a revised outline, let me know!

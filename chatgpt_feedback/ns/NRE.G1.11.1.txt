@@ -1,0 +1,68 @@
+Absolutely! Here’s detailed, constructive feedback on the “Comparison of Five Michigan Streams” report, considering structure, content, clarity, scientific rigor, visuals, and overall presentation.
+
+---
+
+### **Strengths:**
+
+**1. Organization & Structure**
+- The paper is well-organized, logically progressing from an introduction and background to key findings and implications. 
+- Use of sectioned paragraphs makes it easy to follow your argument and observations.
+- An appendix with clearly labeled figures and tables supports the findings.
+
+**2. Clarity & Depth of Analysis**
+- The introduction clearly sets up the rationale for comparing streams.
+- The paper systematically analyzes the differences in discharge, chemistry, geology, and biology.
+- Each observed pattern is well linked to an ecological or hydrological principle (e.g., impact of forest cover on baseflow, effects of runoff on nutrient concentrations).
+- Good use of technical language appropriate for graduate-level work.
+
+**3. Use of Data**
+- Tables and figures are referenced appropriately to illustrate major points. 
+- The results are interpreted in the context of both quantitative (e.g., discharge values, HBI, EPT richness) and qualitative (e.g., “flashiness” of a stream) data.
+
+**4. Integration of Results**
+- The discussion connects physical, chemical, and biological stream characteristics and emphasizes their interdependence.
+- The implications for stream biology are clearly articulated and supported by data.
+
+---
+
+### **Areas for Improvement:**
+
+**1. Hypothesis/Research Questions**
+- The introductory paragraphs could benefit from a clearly stated hypothesis or research question. While the reasoning for selecting each stream is clear, explicitly stating anticipated outcomes (e.g., "We hypothesize that more forested watersheds will exhibit higher baseflows and better water quality index values...") would strengthen focus.
+
+**2. Methods Section**
+- The methodology is mostly implied (e.g., sampling different streams, types of data collected), but you do not detail exactly **how** data was collected, at what intervals, or any protocols followed (season, frequency, type of instruments, etc.). Briefly summarizing methods would add scientific rigor and reproducibility.
+
+**3. Use of Visuals**
+- Figures and tables are helpful, but some could use:
+    - More descriptive captions for standalone clarity (e.g., Figure 2: “Hydrograph for two sites studied in 2006, showing higher peak flows for Mill Creek and stable baseflows for Pigeon River.”)
+    - Consistent formatting and axis labels.
+- Reference all figures and tables in the main text (you do this well, but make sure every table is referred to).
+
+**4. Deeper Statistical Analysis**
+- While you interpret trends, there’s little mention of the degree of statistical difference or significance. If statistical analyses (e.g., t-tests, ANOVA) were not performed, consider this as a way to strengthen claims, especially when discussing differences between streams.
+
+**5. Alternative Explanations and Confounding Factors**
+- You do an excellent job linking land use and geology to stream characteristics. However, consider briefly discussing possible confounding factors (e.g., local weather events, upstream point sources, history of land use change, management practices).
+
+**6. Citations and Literature Comparison**
+- While the paper references core hydrology/ecology concepts, it would be strengthened by referring to peer-reviewed literature to support some claims (e.g., citing studies on forested vs. agricultural catchments).
+
+**7. Conclusion**
+- The final paragraph is solid, but a stronger conclusion could briefly summarize main findings, restate their importance, and possibly suggest future research directions or management implications.
+
+---
+
+### **Minor Edits:**
+
+- Proofread for minor typos/grammar (e.g., “it is had rid itself of these nutrients” should likely be “it has rid itself of these nutrients”).
+- Ensure consistent use of units and abbreviations (e.g., always define D50, EPT, HBI the first time).
+- Clarify the timeline for data collection (all in 2006, but some fish diversity data from 2004—explain why).
+
+---
+
+### **Overall Impression**
+
+This is a well-structured, thoughtful, and informative report that demonstrates a solid understanding of watershed processes and their effects on stream ecosystems. With minor adjustments—principally, a clearer methods section, a statement of hypothesis, and a more statistically rigorous comparison—this paper would be even stronger and ready for submission in an academic setting.
+
+**Great job!** If you would like more detailed feedback on specific sections or suggestions for rewording, just let me know!

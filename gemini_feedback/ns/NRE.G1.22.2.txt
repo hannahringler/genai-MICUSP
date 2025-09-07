@@ -1,0 +1,43 @@
+Okay, here's some feedback on the paper, focusing on strengths, weaknesses, and suggestions for improvement.
+
+**Overall Impression:**
+
+The paper is a well-structured and thoughtful critique of the Bunn and Arthington (2002) literature review.  It demonstrates a good understanding of the reviewed paper, its strengths, and its limitations. The writing is clear and generally concise. The overall tone is balanced, offering both praise and constructive criticism.
+
+**Strengths:**
+
+*   **Clear Thesis and Organization:** The introduction clearly states the paper's purpose: to evaluate the Bunn and Arthington review. The structure follows a logical progression, addressing the paper's purpose, scope, methods, and conclusions.
+*   **Specific and Supported Claims:** The critiques are well-supported with explanations and examples.  For example, the point about the potential for author bias in literature reviews is clearly articulated.
+*   **Understanding of Literature Reviews:** You demonstrate a good grasp of the nature of literature reviews, their inherent limitations, and ways to improve their rigor (e.g., mentioning meta-analysis and systematic review methods).
+*   **Insightful Observations:** You identify valid limitations of the reviewed paper, such as the lack of explicit argument for biodiversity preservation, the potential for bias due to selective literature, and the limited exploration of all influences of flow regime change (specifically mentioning sediment dynamics).
+*   **Balanced Critique:** The paper doesn't just criticize; it also acknowledges the strengths of the reviewed paper, such as its clear objectives, well-organized structure, and comprehensive overview of impacts.
+*   **Practical Suggestions:** You offer concrete suggestions for improvement, such as using systematic review methods and comparing anthropocentric flow change with natural flow change.
+*   **Proper Citation:** The citations are correctly formatted and included in a reference list.
+
+**Weaknesses and Suggestions for Improvement:**
+
+*   **Elaboration on "Limited Scope":** The introduction mentions the "somewhat limited scope" of the Bunn and Arthington paper. It would be helpful to briefly elaborate on what aspects are limited in scope to provide more context for the reader.
+*   **Explicit Connection of Biodiversity Argument:** The comment that the argument for biodiversity preservation is "less explicit" could be strengthened by briefly explaining why a stronger argument is important. Does the lack of a clear argument weaken the paper's overall impact?
+*   **Strengthen the Argument for Sediment Dynamics:** When mentioning the lack of consideration for changes in natural equilibrium between water and sediment, elaborate on why this is a significant omission. Explain the specific consequences of neglecting this factor on biological diversity (e.g., habitat degradation, altered nutrient cycles).
+*   **Develop the Point about Anthropocentric vs. Natural Flow Change:** The suggestion to compare anthropocentric flow change with naturally occurring flow change is a good one. Explain further the *benefits* of such a comparison. What insights could this comparison offer? Why are these insights important for management?
+*   **Sentence Structure/Word Choice:** A few sentences could be slightly tightened for clarity:
+    *   "Although it can be difficult to quantify literature review methods, this characteristic lends itself to criticism because it circumvents the basic scientific requisite of study repeatability." Could be rephrased as: "The inherent difficulty in quantifying literature review methods can make it challenging to ensure study repeatability, a fundamental principle of scientific research."
+    *   "Overall the paper gives a good background of flow change and its impact on biological diversity, providing an important tool for management and research." This sentence could be split into two for better flow.
+*   **Minor grammatical errors:**
+    * "literature's results" should read "literature results"
+
+**Specific Suggestions:**
+
+*   **Introduction:** Add 1-2 sentences expanding on the "limited scope" of the Bunn and Arthington paper. What specific aspects are not covered in depth?
+*   **Biodiversity Argument:** After stating that the argument for biodiversity is "less explicit," add a brief sentence explaining why this is problematic.
+*   **Sediment Dynamics:** Elaborate on the consequences of neglecting the changes in sediment dynamics. Give specific examples of how this could affect biodiversity.
+*   **Anthropocentric vs. Natural Flow Change:** Explain the potential benefits of comparing these two types of flow change. What insights could this comparison offer for understanding and managing the effects on community structure?
+*   **Conclusion:** Briefly reiterate the overall assessment of the Bunn and Arthington paper and its usefulness as a resource.
+
+**Revised example of paragraphs in the text:**
+
+"However, by using a limited selection of literature it is possible that the authors have not explored every influence of flow regime change on biological diversity, limiting the breadth of their review. For instance, they did not look at the fact that there is often a change in natural equilibrium between moving water and moving sediment due to human induced flow change (Dunne and Leopold, 1978) which could potentially influence success of organisms and thus the biological diversity of an altered system. *Changes in sediment transport can lead to habitat degradation, altered nutrient cycles, and reduced spawning success for many aquatic species.* Also, it would have been helpful to compare anthropocentric flow change with naturally occurring flow change and its broad effects on community structure (Poff and Ward, 1989.) *By comparing the changes, scientists can get a better idea of how to mitigate the impacts of human changes to flow.*"
+
+**In Summary:**
+
+This is a strong critique that demonstrates a good understanding of the reviewed paper and the relevant concepts. By addressing the minor weaknesses and suggestions, you can further enhance the paper's clarity, impact, and persuasiveness. Good job!

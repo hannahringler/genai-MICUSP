@@ -1,0 +1,59 @@
+Okay, I've reviewed the paper and here's some feedback, covering aspects from content and argumentation to style and clarity.
+
+**Overall Impression**
+
+The paper tackles a complex topic: question operators in Chinese wh-multiple questions. The author demonstrates a good understanding of the relevant literature, particularly the work of Baker, Aoun & Li, and Boskovic. The paper is ambitious in its attempt to propose an alternative analysis.  However, the paper needs substantial revisions to improve its clarity, organization, and argumentation.
+
+**Major Areas for Improvement:**
+
+1.  **Clarity and Definitions:**
+
+    *   **Define Key Terms Early:**  The paper uses terms like "question operator," "Wh-element," "+Qu feature," etc., without sufficient explicit definitions at the beginning.  Assume the reader is familiar with syntactic theory but not necessarily with the specifics of Chinese linguistics. A glossary of the terms used throughout the text would be helpful.
+    *   **Consistency:** Ensure consistent use of terminology throughout the paper.
+    *   **Examples in Chinese:** Throughout the text, use Chinese examples that are easy to follow by someone with a passing knowledge of Chinese (or explain it in a way that doesn't require that knowledge). Use glosses and translations consistently, and format them clearly. (e.g., morpheme-by-morpheme glossing).
+    *   **Illustrative Tree Diagrams:** The tree diagrams are crucial for understanding the proposed analyses. Ensure they are accurate, well-labeled, and visually clear. They need to match the analysis you are arguing for. Make sure your analysis can support these trees.
+
+2.  **Organization and Structure:**
+
+    *   **Clear Thesis Statement:** State your central argument (thesis) explicitly in the introduction. This should be a concise summary of what you are arguing for regarding question operators in Chinese.
+    *   **Logical Flow:** The paper sometimes jumps between topics without clear transitions. Use transitional phrases and sentences to guide the reader through the argument.
+    *   **Section Headings:** Use more descriptive section and subsection headings to clearly indicate the content of each section.
+    *   **Outline:** Creating a detailed outline before writing (or revising) will help improve the overall structure.
+
+3.  **Argumentation:**
+
+    *   **Strengthen Justifications:** The paper proposes an alternative analysis, but the motivations for this analysis need to be strengthened. Why is your proposal superior to existing analyses? Provide more concrete evidence and arguments.
+    *   **Address Counterarguments:**  Acknowledge potential weaknesses of your proposal and address them. Anticipate objections that others might raise.
+    *   **Empirical Support:** Provide more empirical evidence from Chinese to support your claims. Are there specific constructions or patterns that your analysis can explain better than existing accounts?
+    *   **Explanation of Judgements:** Explain in more detail why you consider certain sentences acceptable or unacceptable. What grammatical principles are being violated or satisfied? Native speaker judgments need to be clear.
+
+4.  **Specific Comments and Questions:**
+
+    *   **Footnote 1:** Clarify the distinction between the two types of features.
+    *   **Baker's Q-morpheme:** Re-examine how Baker's Q-morpheme proposal works. Make sure that you understand the assumptions and implications of the proposal clearly.
+    *   **"I consulted different native speakers..." (Footnote 4):** This is not a standard way to provide linguistic data. Specify the number of speakers, the exact question that was posed, and the range of responses. This needs to be more rigorous.
+    *   **Aoun and Li's Analysis:**
+        *   Address the issue of the ECP (Empty Category Principle) more explicitly. It's a crucial part of the argument.
+        *   Clarify the absorption idea and how it interacts with your proposal.
+    *   **The "Government" Constraint:** The proposal that question operators can only move if their wh-elements are in government relations needs more explanation and justification. Provide more examples to illustrate this constraint and explain why it works.
+    *   **Island Constraints:** Your claim that wh-in-situ at an adjunct position can appear within an island needs stronger support. The judgments about sentences (13)-(17) need to be carefully considered and justified.
+    *   **Superiority:** Re-examine Superiority effects in Chinese. If Superiority Filter does not exist in Chinese, give data and arguments to support the claim.
+    *   **Embedded Questions:** Your observation about embedded questions is interesting, but needs more analysis. What are the implications of this for your proposal?
+    *   **Alternative Explanations:** Is it possible that the unacceptability of those sentences is due to semantic or pragmatic reasons, rather than syntactic violations?
+
+5.  **Style and Grammar:**
+
+    *   **Proofread Carefully:** There are numerous grammatical errors and typos throughout the paper. Proofread carefully before submitting. Consider using a grammar checker.
+    *   **Formal Tone:** Maintain a formal and academic tone throughout the paper.
+    *   **Word Choice:** Be precise in your word choice. Avoid vague or ambiguous language.
+
+**Suggestions for Revision:**
+
+1.  **Start with a Clear Thesis:** Refine your thesis statement.
+2.  **Restructure the Paper:** Reorganize the paper to create a more logical and coherent flow.
+3.  **Provide More Data:** Include more examples from Chinese to support your claims.
+4.  **Strengthen the Argumentation:** Provide stronger justifications for your proposal and address potential counterarguments.
+5.  **Revise the Examples:** Polish your Chinese examples, ensure they're consistent, and that they support the points that you are trying to make.
+6.  **Focus:** Consider narrowing the scope of the paper to focus on a more specific aspect of question operators in Chinese. This will allow you to delve deeper into the analysis and provide more compelling evidence.
+
+This paper has the potential to make a valuable contribution to the field, but it requires significant revision to improve its clarity, organization, and argumentation. By addressing the points above, you can strengthen your analysis and make your paper more convincing. Good luck!

@@ -1,0 +1,34 @@
+Okay, I've read the paper and can provide some feedback.  Overall, it's a strong and ambitious piece of philosophical writing.  It engages directly with complex Rawlsian ideas, offers a detailed critique of several possible justifications for the priority of Fair Equality of Opportunity (FEO), and proposes an alternative approach. However, the language is unnecessarily wordy. This makes the reading difficult. There are several minor grammatical errors as well.
+**Strengths:**
+
+*   **Clear Structure and Argument:** The paper is well-organized. It clearly lays out the problem (the potential complaint of the untalented poor), examines and rejects two common justifications (morally irrelevant contingencies and exercise of moral powers), and proposes a third (paradigms of justice), which it then problematizes.
+*   **Depth of Engagement with Rawls:** The paper demonstrates a solid understanding of Rawls's work. It correctly cites specific passages and engages with the nuances of his theory.
+*   **Critical Thinking:** The paper offers insightful critiques of Rawls's arguments and related interpretations. The author doesn't simply accept Rawls's claims at face value but critically examines their implications and potential weaknesses. The discussion of Pogge's critique of the distinction between natural and social contingencies is particularly strong.
+*   **Original Contribution:** The exploration of the third justification (paradigms of justice) and the associated problems is a novel and interesting contribution. The idea of FEO potentially turning the talented poor into tools for achieving relational justice is thought-provoking.
+*   **Ambitious Scope:** The paper tackles a difficult and important question in political philosophy, demonstrating intellectual ambition and a willingness to engage with complex ideas.
+
+**Areas for Improvement:**
+
+*   **Clarity and Conciseness:** This is the most significant area for improvement. The writing style is often dense and convoluted. Sentences are unnecessarily long, and the vocabulary is sometimes overly technical or obscure. This makes it difficult for the reader to follow the argument, even for someone familiar with Rawlsian philosophy.
+    *   **Recommendation:** Strive for simpler sentence structures and more direct language. Break down long sentences into shorter ones. Use vocabulary precisely and avoid jargon when a simpler term will suffice. Read each sentence carefully and ask yourself if it could be expressed more clearly and concisely. Use the Hemingway editor, or other writing tools to identify complex sentences, and passive voice constructions.
+    *   **Examples:**
+        *   **Original:** "We complain when we deem ourselves disadvantaged, and when we deem this disadvantage wrong."
+        *   **Revised:** "We complain when we believe we are wrongly disadvantaged." (This version is more direct and avoids unnecessary repetition.)
+        *   **Original:** "However, I shall raise separate problems for the third account. Thus, I shall conclude that the untalented poor have a just complaint if the third account is unable to deal with the problems I raise for it."
+        *   **Revised:** "However, I will identify problems with the third account, leading to the conclusion that the untalented poor have a valid complaint if this account fails."
+*   **Minor Grammatical Errors:**
+    *   **Examples:**
+        *   "either they enjoy less investment in their education than they would have enjoyed in the absence of the lexicographical priority, or they enjoy less income and wealth than they would otherwise have enjoyed." (Missing a comma before "or").
+*   **Engagement with Counterarguments:** While the paper offers strong critiques, it could benefit from a more thorough engagement with potential counterarguments to its own claims. For example, how might a Rawlsian respond to the argument that the third justification treats the talented poor as mere tools? Are there ways to mitigate this concern?
+*   **Clarify the Novel Approach:** Expand on what is truly novel about the approach. More explicitly relate to the broader literature on equality of opportunity and relational justice.
+
+**Specific Suggestions:**
+
+*   **Introduction:** The introduction is clear and concise.
+*   **Section on Contingencies:** The critique of the first justification (morally irrelevant contingencies) is well-reasoned and effectively dismantles the distinction between natural and social contingencies. However, this section could be streamlined for greater clarity.
+*   **Section on Moral Powers:** This section is well-structured but could benefit from simplification. The discussion of the Aristotelian principle and the *ad hominem* criticism is clear but could be more concisely presented.
+*   **Section on Paradigms of Justice:** This is the most original and interesting part of the paper. However, the discussion of the "losses today" and "gains tomorrow" could be more concretely illustrated with examples.
+    * The section on how that FEO would need the expectation of the talented poor and untalented poor to be closely tied should be more explicit. Currently it is difficult to understand why that is important.
+    * How does an integrated elite mitigate the loss of equality from the talented poor not giving back?
+
+**In summary:** This is a strong philosophical paper that demonstrates a deep understanding of Rawls and offers a novel critique of FEO. The primary area for improvement is clarity and conciseness of writing. By simplifying sentence structures, using precise language, and engaging more directly with potential counterarguments, the author can make the paper even more persuasive and impactful. Remember, philosophical writing is about making complex ideas understandable. Good luck with your revisions!

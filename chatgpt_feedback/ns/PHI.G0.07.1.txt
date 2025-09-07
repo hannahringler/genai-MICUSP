@@ -1,0 +1,74 @@
+Certainly! Here's a detailed feedback on your paper, focusing on **strengths**, **areas for improvement**, and some **specific suggestions** for enhancing clarity, argumentation, and style.
+
+---
+
+## **Strengths**
+
+1. **Engagement with Primary Sources:**  
+   You show a clear understanding of Mackie’s error theory and engage thoughtfully with secondary sources like Harrison and Warnock. You accurately present Mackie’s and Harrison's positions and directly reference their works.
+
+2. **Clear Structure and Logical Flow:**  
+   The paper follows a logical structure:
+   - Outlining Mackie’s claim and the categorical/hypothetical imperative distinction.
+   - Addressing Harrison’s criticism.
+   - Exploring if and how objective values might exist in a hypothetical sense.
+   - Reflecting on how moral discourse could be reoriented.
+
+3. **Critical Analysis:**  
+   Your analysis is balanced—you not only critique but also attempt to give charitable interpretations to Mackie, considering why he might say what he says, and you question the implications of his views.
+
+4. **Good Use of Philosophical Reasoning:**  
+   You analyze abstract concepts (like “wrongness” and “objectivity”) with care, and make nuanced distinctions that are important in metaethics—for example, distinguishing different senses of objectivity.
+
+---
+
+## **Areas for Improvement**
+
+1. **Thesis Statement & Focus:**
+   - Your thesis is somewhat buried. The claim that Mackie may be wrong to deny all objective value is present, but not sharply articulated at the outset. Consider stating **explicitly and early** in the introduction what your main claim is, e.g., “While Mackie rejects objective values in the categorical sense, I will argue that a form of objective value remains possible and is implicitly endorsed by Mackie himself.”
+
+2. **Definitions & Signposting:**
+   - Early paragraphs could benefit from more **explicit definitions**. For example, state precisely what you mean by "objective value" and "categorical" vs. "hypothetical" imperatives right away.
+   - Sometimes, longer paragraphs could be broken up for easier reading and clearer transitions.
+
+3. **Engagement with Opposing Views:**
+   - While you discuss Harrison’s criticism, it would strengthen your paper to develop potential **objections** to your view, or to Mackie’s, more explicitly, and then respond to those objections.
+   - For example: What might Mackie say in reply to your claim about hypothetical imperatives/objective values? Is there a risk of reducing morality to prudence or mere convention?
+
+4. **Use of Examples:**
+   - The chess example is helpful, but consider more **moral** examples to anchor your abstract points (e.g., lying to save a life—are such actions “objectively right” relative to human welfare?).
+
+5. **Conclusion:**
+   - The paper ends a bit abruptly. Strengthen your **conclusion** by summarizing your argument and drawing out the significance: What would it mean for moral philosophy if we adopted your conception of hypothetical/objective values? Does this resolve the sense of “queerness” that Mackie worries about?
+
+6. **Clarity and Style:**
+   - **Some sentences are long and could be clearer.** For example:
+     > “But were one to say this, I don’t think one would be committed to positing that some mysterious quality of ‘goodness’ therefore adheres to my not believing in patriotism as a duty."
+     - Try to break up such sentences for readability.
+
+   - **Watch for hedging and unnecessary qualifiers:**  
+     E.g., “Now, I’m inclined to agree with Mackie that...” could be more assertively stated. If you agree, say so; if you reserve judgment, make that clear and explain why.
+
+7. **References and Citations:**
+   - You cite authors and page numbers within the text, which is good. Make sure that your citations conform to the specific style guide (APA, MLA, Chicago, etc.) required by your course.
+
+---
+
+## **Specific Suggestions & Edits**
+
+- **Introduction** (more direct):  
+  > In this paper, I argue that while Mackie convincingly refutes the existence of objective values in the categorical sense, he overlooks or implicitly endorses a form of objective value that is hypothetical in nature—rooted in shared human ends such as the amelioration of the human condition.
+
+- **Clarification of Terms:**  
+  > Categorical imperatives are commands that apply universally, regardless of one's desires (e.g., "Do not murder, no matter what"). Hypothetical imperatives, by contrast, are conditional: "If you want X, you ought to do Y." Mackie argues that morality is typically thought of in the categorical mode, and he rejects such moral facts as "queer" and metaphysically dubious.
+
+- **Conclusion** (sample revision):  
+  > In sum, Mackie's skepticism toward categorical objective values is well-founded; however, his own arguments and moral pronouncements suggest a tacit reliance on hypothetical objective values—moral truths relative to the broadly shared human goal of improving the human condition. If we reconceive moral objectivity in this way, we avoid Mackie's "queerness" objection while retaining a sense in which some actions are indeed better than others, objectively, given agreed-upon aims.
+
+---
+
+## **Overall Assessment**
+
+**This is a strong and thoughtful undergraduate philosophy essay.** Your understanding of the material is clear, and you engage with the texts meaningfully. With tighter focus, clearer statements of your main theses, and a bit more engagement with counterarguments and concrete examples, your essay could become even more persuasive and effective.
+
+If you’d like, I can help you revise a particular section—just let me know!

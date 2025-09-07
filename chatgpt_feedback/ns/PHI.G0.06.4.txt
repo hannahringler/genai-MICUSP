@@ -1,0 +1,60 @@
+Absolutely! Here’s some detailed feedback on your paper, **“The Embezzlement Problem.”** This feedback covers overall structure, argument clarity, engagement with ethical theories, and writing mechanics.
+
+---
+
+## Strengths
+
+### 1. **Clear Structure**
+- **Introduction:** The paper opens with a clear introduction to the moral question at hand and outlines how you will approach the analysis (i.e., through act-utilitarianism, rule-utilitarianism, Kantian ethics, and a rights-based view).
+- **Body:** Each section is neatly organized, with a clear explanation of how each ethical framework would approach the embezzlement scenario.
+- **Conclusion:** The conclusion ties your arguments together well and articulates a clear final position.
+
+### 2. **Engagement with Ethical Theories**
+- **Act-Utilitarianism:** You carefully consider the possible outcomes and give reasonable hypothetical numbers to ground your argument.
+- **Rule-Utilitarianism:** You go beyond act-utilitarianism and raise objections about possible rule formulation and consequences for society.
+- **Kantian Ethics:** You accurately frame the necessity of universalizability and personal motivation with respect to Kant's ethics.
+- **Rights-Based View:** This section is well-thought-out; you develop a strong argument about rights violations and make clear distinctions.
+
+### 3. **Critical Reasoning**
+- You anticipate and address counter-arguments, such as the possible rights of victims of widespread fraud, and you make distinctions regarding duties (e.g., duty not to violate rights vs. duty to promote rights).
+- You acknowledge potential objections to your assumptions (e.g., the rights of the employees).
+
+### 4. **Academic Tone and Citation**
+- The tone is measured and appropriate for a philosophy paper.
+- You cite philosophical sources (Pojman), which gives your argument credibility.
+
+---
+
+## Suggestions for Improvement
+
+### 1. **Clarifying Assumptions**
+- At times, you ask the reader to “assume for the sake of argument,” particularly in the act-utilitarian section. It might be helpful to specify at the start which assumptions are being made for hypothetical clarity, and which are empirical assumptions that might actually be questionable.
+- The scenario assumes that Eleanor’s embezzlement leads directly to the prevention of widespread fraud. In reality, the effectiveness of her action could be addressed (even if briefly) to acknowledge the complexity.
+
+### 2. **Balancing Detail**
+- The act-utilitarian and rule-utilitarian sections could benefit from a little more symmetry in depth. Act-utilitarianism is given a relatively quick treatment, while rule-utilitarianism is more exhaustively examined.
+- For Kantian ethics, consider discussing the notion of “ends vs. means” or “treating humanity as an end in itself” (the second formulation of the Categorical Imperative). This would reinforce the argument against using employees/owners as mere means to an end.
+
+### 3. **Engaging Alternative Perspectives**
+- In the rights-based section, you briefly address the rights of those affected by widespread fraud but could go further: Is there any case where the urgency of preventing massive rights-violations elsewhere could override local rights?
+- What about whistleblowing as an alternative? Could Eleanor take a legal or ethical stand without resorting to embezzlement?
+
+### 4. **Writing and Style**
+- Overall, the writing is clear and grammatical, but there are moments where sentence structure can be tightened for clarity and conciseness.
+    - Example: “It seems that a rule against embezzling and engaging in fraud would be one of the rules in a system like this; it is difficult to see how a rule allowing embezzlement and fraud would contribute to the best possible state of affairs.” → You can simplify for clarity.
+- Some sentences are very long and could be broken up to aid readability.
+
+### 5. **Personal Voice**
+- The paper concludes with “I, too, think…” which is fine, but introducing your own evaluative stance a little earlier can help orient the reader.
+
+---
+
+## Summary
+
+**This is a well-structured, intelligent, and thoughtful argumentative essay.** You clearly understand the ethical theories you discuss and apply them rigorously to a nuanced case. With modest improvements—more engagement with counterexamples, slightly tighter writing, and a bit more development of the Kantian and rights-based sections—this would be an outstanding undergraduate philosophy paper.
+
+**Overall impression: Excellent work with strong ethical analysis and clear writing!**
+
+---
+
+If you’d like specific line edits or suggestions for rewording particular passages, let me know!

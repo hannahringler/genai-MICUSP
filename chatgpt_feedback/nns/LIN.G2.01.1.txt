@@ -1,0 +1,90 @@
+Absolutely! Here’s a detailed feedback for your paper, **"On Question Operators in Chinese Wh-multiple Questions"**. I’ll cover **structure, argumentation, use of literature, clarity, and linguistics content**. I’ll also suggest **actionable improvements**.
+
+---
+
+## Strengths
+
+### 1. **Ambitious Scope & Depth**
+- Your paper tackles a complex and underexplored area—wh-operator theory as applied to Chinese multiple wh-questions. You engage with foundational works and recent debates, demonstrating strong familiarity with syntactic theory.
+
+### 2. **Comparison Across Languages**
+- The contrast between English and Chinese is handled thoughtfully. You show awareness of both universalist perspectives and language-specific phenomena.
+
+### 3. **Critical Engagement**
+- You critically assess existing proposals (Baker; Aoun & Li; Boskovic), not just summarizing them but pointing out problems and proposing alternative analyses.
+
+### 4. **Original Proposal**
+- The idea of **base-generated question operators tightly linked to wh-elements** and their movement as a form of feature checking is clearly articulated, and you work through consequences for constraints like ECP, Subjacency, Superiority, etc.
+
+### 5. **Use of Examples**
+- The paper benefits from many clear, relevant data examples (Chinese sentences + translations), illustrating your points and allowing the reader to follow the argument.
+
+---
+
+## Areas for Improvement & Suggestions
+
+### 1. **Organization and Clarity**
+- **Issue**: Sometimes the exposition is overly dense, and the flow between proposals, examples, and conclusions can be hard to track.
+- **Suggestions**:
+    - Include an **explicit outline** at the end of your introduction, clarifying section aims.
+    - Use section and subsection headers more liberally for easier navigation.
+    - Summarize key points before moving to new arguments (“What have we shown so far, and why does it matter?”).
+
+### 2. **Literature Engagement**
+- **Issue**: Some key references are mentioned, but you could engage more deeply with recent work beyond the 1990s (if available), including more discussion of feature theory and recent minimalist literature on wh-in-situ/wh-movement.
+- **Suggestions**:
+    - Briefly state how your proposal relates to, or improves upon, other alternatives (e.g., Cheng’s unselective binding, Shimoyama 2006, Cable 2010).
+    - Discuss recent generative approaches and their “feature architecture” for East Asian languages if space allows.
+
+### 3. **Theoretical Assumptions**
+- **Issue**: While you reference Minimalism and feature checking, some underlying assumptions are not fully spelled out—e.g., how exactly feature checking takes place, or what kind of syntactic representation is assumed (bare phrase structure, etc.).
+- **Suggestions**:
+    - Clarify what your account assumes about the narrow syntax: How are question operators base-generated? Are features strong/weak, and how is “movement” realized in Chinese?
+    - A simple diagram comparing your proposal with those of Aoun & Li and Baker would help.
+
+### 4. **Empirical Coverage**
+- **Issue**: The rule in 4.2 (that only operators related to the same lexical head can move together) is intriguing but could benefit from more empirical testing, especially negative examples and contrasts.
+- **Suggestions**:
+    - Offer more systematic tests/examples to clearly illustrate which combinations are predicted grammatical/ungrammatical under your proposal.
+    - Address more counterarguments or problematic data (e.g., scope ambiguity, pair-list vs. single-pair interpretations).
+
+### 5. **Stylistic/Formatting Issues**
+- **Issue**: There are numerous typographical errors (e.g., "Subjancency" should be "Subjacency"), awkward phrasings, and formatting inconsistencies that distract from the excellent content.
+- **Suggestions**:
+    - Proofread carefully for English grammar, formatting, and technical terms.
+    - Consider breaking up very long paragraphs for readability.
+    - Move inline citations to a uniform format and clarify when you are paraphrasing versus quoting.
+
+### 6. **Conclusion and Further Questions**
+- **Issue**: Your summary is good, but the “further questions” are somewhat rushed.
+- **Suggestions**:
+    - Reflect more systematically on the implications of your proposal (e.g., for language acquisition, typology, or broader theory).
+    - Suggest concrete next steps for research or unresolved problems.
+
+---
+
+## Minor Points
+
+- Some technical terminology is not introduced ('PF', 'LF', 'Spec,CP', etc.); consider defining them on first use.
+- The text sometimes slips into “we” (should this be singular or plural?).
+- The formatting of trees and examples may need adjustment for publication/presentation.
+
+---
+
+## **Overall Evaluation**
+
+**This is a strong, theoretically aware, and critical paper that offers an original contribution to the field of Chinese syntax and the theory of wh-questions.** With improvements to organization, exposition, detail, and broader connection to the literature, it could make an excellent seminar or journal paper.
+
+---
+
+### **Checklist for Revision**
+- [ ] Clarify theoretical assumptions.
+- [ ] Structure and signpost arguments more clearly.
+- [ ] Deepen literature review and recent scholarship.
+- [ ] Sharpen and test empirical predictions.
+- [ ] Proofread for grammar and format.
+- [ ] Highlight implications for broader theory and further research.
+
+---
+
+**If you have a particular section or argument you’d like feedback on, let me know! I can give more detailed language-level suggestions if desired.**

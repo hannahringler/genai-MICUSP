@@ -1,0 +1,69 @@
+Okay, here's a breakdown of the paper and some suggestions for improvement. I'll focus on clarity, argumentation, analysis, and structure.
+
+**Overall Impressions**
+
+*   **Solid Understanding:** The paper demonstrates a good understanding of both Hume and Smith's theories of justice. You accurately summarize their key arguments and concepts.
+*   **Clear Structure:** The organization is logical: Introduction, Hume's theory, Smith's theory, Comparison, and conclusion. This makes it relatively easy to follow.
+*   **Good Use of Quotes:** You appropriately integrate quotes from the philosophers to support your claims.
+*   **Generally Well-Written:** The writing is generally clear and grammatically sound.
+
+**Areas for Improvement and Specific Suggestions**
+
+1.  **Thesis Statement and Introduction:**
+
+    *   **Strengthen the Thesis:** The introduction states that Hume and Smith agree on the necessity of justice but differ in their approaches. While true, this thesis could be more specific and analytical. What *exactly* is at stake in these differences? What are the *implications* of their different approaches?
+
+    *   **Example:** Instead of "Their approaches to justice differ, however," try something like: "While both Hume and Smith recognize justice as foundational for a thriving society, their divergent theories, particularly Hume's emphasis on convention versus Smith's on impartial spectatorship, lead to contrasting understandings of the role of resentment, the foundations of moral obligation, and the relative importance of economic incentives within the social fabric."
+
+    *   **Roadmap:** Briefly indicate *how* you will demonstrate your thesis in the paper.
+        *   *Example*:  "This paper will analyze Hume's justice theory, then discuss Smith's perspective, and ultimately contrast the two to reveal [your main argument]."
+
+2.  **Analysis of Hume's Theory:**
+
+    *   **Deeper Dive into Motivation:** Your discussion of Hume's focus on motivation is accurate, but you could expand on the *reasons* Hume prioritizes motivation over outcome. How does this relate to his broader philosophical commitments (e.g., his empiricism, his skepticism)?
+
+    *   **Explain the "Roadblocks" in More Detail:** You mention the three roadblocks that prevent a natural affinity of justice for public interest. Elaborate on *why* these roadblocks exist and how they function within Hume's framework. What is the connection of these roadblocks with *human nature*?
+
+    *   **Convention - Why Is It Necessary?** While you explain that Hume believes justice arises artificially, you can strengthen your argument by highlighting *why* an artificial convention is necessary *because of human nature*. This connection is central to understanding Hume's view.
+
+    *   **Address Potential Objections/Counterarguments:**  Briefly address possible criticisms of Hume's theory.  For example, does reliance on convention make justice too arbitrary or fragile?  Does Hume adequately account for cases where people act justly from genuine benevolence?
+3.  **Analysis of Smith's Theory:**
+
+    *   **"Impartial Spectator"**: You mention Smith proposes an impartial projectionist theory based upon warranted resentment, but this requires more explanation for the reader. What is the impartial spectator and how does it function within his ethical system? How does our ability to imagine our perspective being someone elses determine right and wrong?
+    *   **Elaborate on Resentment**: You need to more explicitly explain that resentment is not mere anger, it's morally justifiable anger based on violation of rights.
+
+    *   **Explore the Relationship Between Self-Interest and Social Good:** Smith is often associated with the idea that self-interest can unintentionally lead to positive social outcomes (the "invisible hand"). How does this concept relate to his theory of justice?
+
+    *   **Address potential objections:** What are potential objections to Smiths perspective? How might Smith respond to the concern that his theory may be too dependent on shared sentiments that may not exist?
+
+4.  **Comparison of Hume and Smith:**
+
+    *   **Focus on Key Points of Divergence:** Instead of just stating the difference, analyze *why* they differ and the *consequences* of these differences. Consider:
+        *   **Role of Reason vs. Sentiment:** How do Hume and Smith differ in their understanding of the role of reason and sentiment (feeling) in moral judgment and the establishment of justice?
+        *   **Economic Implications:** How do their theories relate to their economic thought? (Smith is famous for *The Wealth of Nations*).
+        *   **The Role of the State:**  How do Hume and Smith implicitly view the role of government in enforcing justice, given their different foundations?
+
+    *   **Avoid Redundancy:** In the final section "Hume and Smith have similar thoughts about whether an action is virtuous," you end up repeating a lot of the points already made with a lot of quotes. I suggest you scrap this entire section or drastically reduce it to a statement or two.
+5.  **Conclusion:**
+
+    *   **Summarize Main Points:** Briefly recap the key differences and similarities between Hume and Smith.
+    *   **Answer "So What?"** What is the *significance* of the differences you've identified? Why does it matter that Hume and Smith have different theories of justice?  What are the broader implications for our understanding of morality, society, or politics?
+
+    *   **Suggest Further Research:** You could suggest areas for further exploration, such as the application of their theories to contemporary issues or a comparison with other philosophers.
+
+**Specific Edits and Suggestions:**
+
+*   **Page 1:**
+    *   "The key difference is Hume proposes an artificial, observer based theory based upon a convention, while Smith proposes an impartial projectionist theory based upon warranted resentment." Change to "The key difference is that Hume's theory is based on a mutually advantageous convention for man's limited generosity, while Smith's theory is based upon impartial projectionist principles regarding our resentment towards others."
+*   **Page 2:**
+    *   "What if a man has given me just cause to hate him or what if the guy is an overall jerk, who deserves the hatred of society?" Formalize this as an example of the contrast between the moral sentiment vs how we should behave.
+*   **Page 3:**
+    *   "Society provides a remedy...'Tis by this additional force, ability, and security, that society becomes advantageous.” This quote is a bit long, cut it off after the world remedy.
+*   **Page 4:**
+    *   "Hume compares it thus, “Two men, who pull the oars of a boat, do it by an agreement or convention, tho' they have never given promises to each other.”" Is there a better, shorter way to rephrase this example in your own words? Try to avoid block quoting too much, use it only when the direct writing would lose meaning if rephrased.
+*   **Page 7:**
+    *   "Adam Smith defines justice as a virtue. However, distinctions are drawn between justice and other virtues." Rephrase this as, "Unlike other virtues such as benevolence, Smith defines justice as a virtue where observation is not up to the individual."
+*   **Page 8:**
+    *   "Consider now the purpose of resentment- “Resentment seems to have been given us by nature for defense, and for defense only”." This quote can be rephrased in your own words.
+
+**In summary:**  This is a good paper that demonstrates a solid understanding of complex philosophical ideas. By strengthening your thesis, providing more in-depth analysis, and sharpening your comparison, you can elevate it to an even higher level. Good luck!

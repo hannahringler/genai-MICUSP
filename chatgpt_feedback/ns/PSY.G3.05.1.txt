@@ -1,0 +1,77 @@
+Absolutely! Here’s some detailed feedback on your paper “An optimistic origin for naïve causal theories of attributions.” I’ll focus on the structure, clarity, theoretical grounding, argumentation, use of evidence, and overall writing quality, followed by targeted suggestions.
+
+---
+
+## **Overall Assessment**
+This paper is clearly written, generally well-structured, and demonstrates a strong understanding of attribution theory and the biases underlying social perception. You thoughtfully present a novel alternative to Ybarra’s “pessimism hypothesis”—the “optimism hypothesis”—and convincingly reinterpret a range of studies to illustrate its plausibility. Your writing flows logically and is well-supported by evidence from the literature.
+
+---
+
+## **Strengths**
+
+### **1. Clear Structure**
+- The introduction provides a solid overview, establishes the problem, and effectively contrasts the two competing hypotheses.
+- The body sections are clearly laid out, with subheadings that guide the reader through key theoretical and empirical points.
+- The “Re-evaluating Ybarra’s evidence” section is especially effective: you systematically address key studies and reinterpret them via your optimism hypothesis.
+
+### **2. Theoretical Grounding**
+- You display deep familiarity with classic and current attribution research (e.g., Heider, Ross, Ybarra).
+- You critically use models like Reeder & Brewer’s hierarchical schemata, the concept of diagnosticity, and expectancy violation literature.
+- The comparison of Western and Eastern perspectives on trust is a nice touch.
+
+### **3. Balanced Interpretation**
+- You consistently acknowledge alternative interpretations and limitations.
+- The openness to dual-process/conditional models (e.g., optimistic for ingroup, pessimistic for outgroup) is sophisticated and shows maturity.
+
+### **4. Good Use of Empirical Evidence**
+- The paper incorporates a range of studies and explains how both the pessimism and optimism hypotheses could account for the findings.
+
+### **5. Writing Quality**
+- The prose is clear, grammatically correct, and appropriately academic.
+- Terminology is used accurately and with minimal jargon.
+
+---
+
+## **Areas for Improvement**
+
+### **1. More Explicit Hypothesis Articulation**
+- Although you contrast the “optimism” and “pessimism” hypotheses early on, it would be helpful to clearly enumerate the testable predictions of each in a quick summary table or bullet points before diving into evidence.
+- For instance: “If the optimism hypothesis is true, we should observe X; if pessimism, we should observe Y.”
+
+### **2. Empirical Test Section Needs More Specifics**
+- The section on empirical testing is thoughtful, but could be strengthened with a more concrete proposal for an experiment (or two), including independent and dependent variables, manipulations, and what results would support or disconfirm the optimism hypothesis.
+
+### **3. Discussion of Counterexamples or Limits**
+- Are there contexts (cultures, age groups, clinical populations) where the optimism hypothesis would not apply? Addressing these could strengthen your case.
+- Consider referencing literature on “negativity dominance” in impression formation that isn’t solely rooted in expectations/norms.
+
+### **4. Integration of Dual-Process or Moderation Models**
+- You briefly mention at the end that both pessimism and optimism might operate under different circumstances (e.g., in-group/out-group). Bring this possibility earlier, perhaps as a third “conditional hypothesis,” as it could offer a more nuanced framework.
+
+### **5. Citation and Literature Review**
+- There are a lot of citations, which is good, but you can sometimes go further in synthesizing across them rather than presenting studies in a list-like fashion. What themes cut across these findings?
+
+### **6. Abstract, Conclusion, and Title**
+- There seems to be no abstract; if this is for a class or journal, add one.
+- The title is clear, but could be more specific (e.g., “…: Reconsidering the Negativity Bias in Attribution”).
+- The conclusion could more explicitly restate main takeaways, the significance of the optimism hypothesis, and a clearer call to action for future research.
+
+### **7. Flow and Concision**
+- The paper is occasionally wordy—tightening up some sentences and paragraphs would enhance readability.
+
+---
+
+## **Minor Points**
+
+- Watch for technical terms that might need a definition for non-experts (e.g., “hierarchically restrictive schema”).
+- Some references use a different citation style for names (sometimes “and,” sometimes “&”)—make this consistent.
+- Consider adding a visual abstract or flowchart if allowed.
+
+---
+
+## **Summary Sentence**
+This is an insightful, well-argued, and well-referenced paper that offers an original and plausible alternative to a prevailing theory in attribution research. With clearer hypothesis statements, more concrete proposals for empirical testing, and a little tightening, it could be ready for advanced undergraduate or even graduate-level work.
+
+---
+
+If you have a specific grading rubric, journal style, or instructor’s requirements, let me know and I can tailor this feedback further!

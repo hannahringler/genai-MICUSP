@@ -1,0 +1,91 @@
+Okay, I've reviewed the paper and have feedback for you, focusing on clarity, organization, technical soundness, and areas for improvement.
+
+**Overall Impression:**
+
+The paper tackles an interesting and practical problem: reducing impact vibrations in wood flooring. The use of MEMS accelerometers is a reasonable approach. However, the paper needs significant work to improve its clarity, rigor, and presentation. The experimental design is flawed and it is difficult to understand the relationship between vibration and sound. The equations presented in the paper also are not defined well.
+
+**Specific Feedback:**
+
+**1. Abstract:**
+
+*   **Too general:** The abstract doesn't clearly state the methodology, key findings, or the magnitude of the damping ratios. Quantify the reduction in vibration achieved with the best material.
+*   **"Fleece alone was sufficient"**: This statement needs to be backed up with more data. What was the improvement of the fleece alone compared to no damping material?
+*   Mention the key limitations that caused significant errors in the results.
+
+**2. Introduction:**
+
+*   **More background:** Provide more context. Why is this problem important? Briefly discuss existing solutions and their limitations.
+*   **Clearer objectives:** Explicitly state the research questions you are trying to answer.
+*   **Connect vibrations to sound:** Explain the relationship between impact vibrations and radiated sound more clearly. What is the theory behind this relationship?
+*   Define what you meant by sound vibrations causing sleep loss, emotional and physical response, annoyance and activity disturbance.
+
+**3. Nomenclature:**
+
+*   **Complete:** Add units to all the variables.
+*   **Consistency:** Some variables seem to be introduced in the equations but not defined in the nomenclature. Make sure all variables are defined.
+*   Verify the definition of the absorbed sound intensity because the sound power should be divided by the surface area for W/m^2.
+
+**4. Methods:**
+
+*   **Experimental setup:**
+    *   **Lack of detail:** Provide a detailed description of the joist system, platform material, and wood flooring material. Dimensions are essential. Specify the size of flooring used in the study.
+    *   **Damping Material Configurations:** Describe the thickness of each damping material used.
+    *   **Accelerometer Mounting:** Why was tape used? It is a very unreliable form of mounting that will certainly affect readings.
+    *   **Impact Location:** Be precise about where the basketball/softball was dropped and where the accelerometer was located.
+    *   **Inconsistencies:** You mention using both ADXL103 and ADXL203 accelerometers. Which one was used for which experiments?
+    *   How does the Brazilian wood act as the spring? Was this Brazilian cherry wood a separate component attached to the existing floorboard.
+
+*   **Theoretical Model:**
+    *   **Justification:** Explain why the mass-spring-damper model is appropriate. Are the assumptions valid (rigid body, etc.)? What are the limitations?
+    *   **Equation Explanation:** Explain what *x* represents. Define B clearly (damping coefficient, damping constant?) and how you intended to measure or determine it.
+    *   How was the spring constant found?
+
+*   **Data Analysis:**
+    *   **Wave Magnitudes and Period**: Which wave magnitudes were you measuring, first and second wave? Explain it better and add labels or figures
+    *   **Damping Ratio Calculations:** Explain *how* you calculated the damping ratio from the wave magnitudes and period, step-by-step. How are equations 5 and 6 used? The current explanation is insufficient.
+    *   **Uncertainty Analysis:** Be explicit about how you calculated the uncertainty in the damping ratio. "Taking two times the standard deviation" is unusual. Justify this approach. How do you take two times the standard deviation and calculate the uncertainty? This isn't clear.
+
+**5. Results:**
+
+*   **Table Presentation:** Use consistent formatting (decimal places, etc.).
+*   **Error Analysis**: What do the errors on the damping ratios actually mean? The error is often larger than the damping ratio itself which would imply that the experiments have a significant amount of error and the equipment wasn't sensitive enough to test the values. What conclusions can you draw from values that have large error values?
+*   **Discussion of Results:** Focus on meaningful comparisons and trends. Avoid statements like "its error is so high" without explaining the underlying cause.
+*   What is the resolution error of the equipment? Did this cause any problems with the sensitivity of the data collection?
+*   Why was the accelerometer moved from on top and on bottom? Did the vibrations that you were measuring vary enough to have the accelerometer in these positions?
+
+**6. Discussion:**
+
+*   **Connect to theory:** Discuss how your experimental findings relate to the theoretical model you presented.
+*   **Limitations:** Acknowledge the limitations of your experimental setup and data analysis. What are the possible sources of error?
+*   **Implications:** Discuss the practical implications of your findings.
+
+**7. Conclusions and Recommendations:**
+
+*   **Concise:** Summarize the main findings and recommendations.
+*   **Future Work:** The future work section is generally good, but prioritize the most important areas for future investigation.
+
+**8. Equations:**
+
+*   Number equations sequentially.
+*   Define all variables the first time they are used.
+*   Double-check equations for accuracy.
+
+**9. Figures and Appendices:**
+
+*   **Labeling:** All figures must have clear and descriptive captions.
+*   **Appendix A, B, C**: Describe the experimental setup shown in each appendix with more detail.
+*   **Appendix F and G**: What do the voltages shown in these appendices actually represent?
+*   **Appendix D**: What does mass spring damper represent? Label the components more clearly.
+*   **Appendix K**: Clarify your variables from the diagram that are being represented.
+
+**Specific Recommendations:**
+
+*   **Improve Experimental Design:** Use a more robust method for attaching the accelerometer (e.g., screws, adhesive). Control the impact force more precisely (e.g., use a drop tower or pendulum).
+*   **Refine Data Analysis:** Use signal processing techniques (e.g., Fourier analysis) to extract more information from the accelerometer data.
+*   **Validate Results:** Compare your experimental results with analytical solutions or numerical simulations.
+
+**Overall:**
+
+This paper has potential, but it needs significant revision to address the issues outlined above. Focus on improving the clarity, rigor, and technical soundness of your work. Remember that a well-written scientific paper should be reproducible and verifiable.
+
+I hope this feedback is helpful! Let me know if you have any specific questions.

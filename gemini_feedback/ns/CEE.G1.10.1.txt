@@ -1,0 +1,92 @@
+Okay, I can provide feedback on this paper based on the OCR text you provided. Please keep in mind that without seeing the actual formatting and figures inline, my feedback is somewhat limited. However, I can address the content, structure, and clarity based on the text.
+
+**Overall Impressions:**
+
+*   The paper tackles an important and relevant topic in civil engineering: seismic design for tunnels and underground infrastructure. This is especially crucial in seismically active regions.
+*   The paper appears to be well-researched, citing a variety of sources.
+*   The structure is generally logical, proceeding from a broad introduction to specific design considerations and a case study.
+*   The inclusion of an original contribution (comparing analytical and numerical solutions) is a significant strength.
+
+**Specific Feedback:**
+
+**1. Abstract:**
+
+*   The abstract provides a good overview of the paper's scope and key findings.
+*   Consider adding a brief sentence about the results of your original contribution (the comparison of analytical and numerical solutions). This would make the abstract more impactful.
+
+**2. Introduction:**
+
+*   The introduction clearly establishes the importance of tunnels and underground infrastructure.
+*   The discussion of the relatively good performance of tunnels in past earthquakes is a good starting point.
+*   The statement about the increasing consequences of tunnel failure is well-made.
+*   The last sentence in the introduction seems to cut off abruptly. Maybe elaborate on tunnels designed as lifeline?
+
+**3. Overview of Tunnels:**
+
+*   The classification of tunnels (bored/mined, cut-and-cover, immersed tube) is helpful for readers.
+*   The descriptions of each tunnel type are clear and concise.
+*   Consider briefly mentioning the relative seismic vulnerability of each type (e.g., cut-and-cover tunnels may be more susceptible to ground deformation).
+
+**4. Performance of Tunnels during Earthquakes:**
+
+*   The quote from St. John and Zarah (1987) effectively highlights the historical development of seismic design for underground structures.
+*   The summary of Hashash et al.'s (2001) observations is very valuable.
+*   It might be helpful to prioritize or group the ten observations based on their importance or relevance to specific design aspects.
+
+**5. Case Studies (BART, Daikai Subway, LA Metro, Taiwan):**
+
+*   The case studies provide concrete examples of tunnel performance in past earthquakes.
+*   The contrasting examples (BART vs. Daikai Subway) are particularly effective in demonstrating the importance of seismic design.
+*   For each case study, try to emphasize the specific design lessons learned or the factors that contributed to either success or failure.
+
+**6. Earthquake Hazard and Seismic Design Procedures:**
+
+*   The explanation of MDE and ODE is clear and well-justified.
+*   The discussion of ground failure (liquefaction, slope instability, fault displacement) is comprehensive.
+*   The distinction between ground failure (large deformations) and ground shaking (small deformations) is important.
+*   The description of the design loading criteria (Eq. 1-4) is somewhat dense. Consider breaking it down into smaller paragraphs or using bullet points to highlight the key elements.
+
+**7. Free Field Deformation Approach:**
+
+*   The explanation of the free-field deformation approach is clear and concise.
+*   Figure 1 (Tunnel Deformation Modes) is essential for understanding this section.
+*   Figure 2 (Simple Harmonic Wave and Tunnel) is also very important for understanding the input for seismic design.
+*   The equations for longitudinal strain, normal strain, shear strain, and curvature (Eq. 5-23) are presented, but without a lot of explanation.
+*   Consider adding a brief discussion of the limitations of the free-field assumption.
+*   Consider providing a table that gives the typical values used in calculations based on Eq. 5 through Eq. 23.
+
+**8. Case Study: Alaskan Way Viaduct Tunnel Option:**
+
+*   The background information on the AWV is well-presented.
+*   The figures (5, 6, 7) illustrating the proposed tunnel sections are crucial.
+*   The discussion of the seismic design criteria (MDE, ODE) is relevant.
+
+**9. Original Contribution:**
+
+*   This is a key part of the paper.
+*   Figure 8 (FE Model Parameters) is helpful in understanding the model setup.
+*   Figure 9 (Shear Stress Contours) provides a visual representation of the results.
+*   The comparison of the analytical and numerical solutions is interesting. Elaborate on why the free field calculations are greater than the numerical solutions.
+*   Consider explaining more clearly what specific design implications result from this comparison.
+*   If possible, include a table summarizing the key results (maximum shear stress, diametric deflection, etc.) from both the analytical and numerical solutions.
+
+**10. Conclusion:**
+
+*   The conclusion effectively summarizes the key points of the paper.
+*   Emphasize the importance of site-specific analysis and advanced computer modeling, as demonstrated by the Alaskan Way Viaduct case study.
+*   Reiterate the significance of your original contribution and its implications for tunnel design.
+
+**11. References:**
+
+*   The list of references is extensive, which indicates thorough research.
+*   Pay close attention to the citations marked "Unable to verify reference." Try to locate these sources or remove them if they cannot be found. The consistent citation format of other research papers should be followed.
+
+**Overall Recommendations:**
+
+*   **Clarity:** Focus on improving the clarity of the technical descriptions, especially in the sections on design loading criteria and the free-field deformation approach. Use more concise language and provide more explanation of the equations and assumptions.
+*   **Organization:** Consider using headings and subheadings more strategically to break up long sections of text. This will make the paper easier to read and navigate.
+*   **Original Contribution:** Strengthen the discussion of your original contribution by providing more detailed results and analysis. Clearly state the design implications of your findings.
+*   **Figures:** Make sure all figures are properly labeled and referenced in the text. Provide clear captions that explain the key information presented in each figure.
+*   **Proofreading:** Carefully proofread the paper for any typos, grammatical errors, or inconsistencies in formatting.
+
+By addressing these points, you can significantly improve the clarity, impact, and overall quality of your paper. Good luck!

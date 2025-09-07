@@ -1,0 +1,107 @@
+Absolutely! Here is a detailed feedback on your research proposal: **"Institutional Investor Activism on Climate Risk Disclosure: Frame Negotiation in an Organizational Field"**.
+
+---
+
+## Overall Impressions
+
+**Strengths:**  
+- The proposal is highly ambitious and well-structured.  
+- Research questions are clearly articulated.  
+- Shows a strong command of relevant literature/theories and places the research in an important, emerging field.  
+- The outlined methodology is thorough and demonstrates understanding of qualitative methods.  
+- Selection of sites and samples is logical.  
+- The proposal displays awareness of both theoretical and practical significance.
+
+**Weaknesses / Areas for Improvement:**  
+- The research design, while rich, may over-promise in terms of breadth and depth (feasibility concerns given number of interviews, archival work, and breadth of perspectives).
+- The proposal would be strengthened by further clarifying some concepts and anticipated analytical approaches.
+- More explicit mention of potential limitations, obstacles (e.g., access, response bias, etc.), and how these will be dealt with would be helpful.
+- Some framing is a bit dense for a proposal; consider briefly simplifying or clarifying dense theoretical sections for accessibility.
+- The narrative could benefit from signposting and tighter summaries at the ends of major sections to keep the reader oriented.
+
+---
+
+## Detailed Feedback
+
+### Title & Introduction
+
+**Strengths:** Clear and reads like an academic article. Research questions are introduced up front.
+
+**Suggestions:**  
+- Consider a one-to-two sentence summary at the outset explaining why climate risk disclosure is a timely and important topic for sociology and/or organizational research.
+
+### Literature Review/Theoretical Justification
+
+**Strengths:**  
+- Sophisticated engagement with theories: corporate control, organization theory, framing, and social movement theory.
+- Does well to justify "why institutional investors?" and signal the field's diversity.
+
+**Suggestions:**  
+- The distinction between frames could be presented more concisely.
+- Brief explanations of core terms like "organizational fields," "frames," and "enabling mechanisms" would help readers less familiar with the literature.
+- Consider a paragraph that connects these theoretical approaches more explicitly (e.g., how does framing link to field theory, and what does this bring to the question that prior work misses?).
+
+### Research Questions
+
+**Strengths:**  
+- Two central and well-articulated questions.
+- Sub-questions provide helpful structure.
+
+**Suggestions:**  
+- Make research questions stand out visually (e.g., enumerating or italicizing) for easier reference.
+
+### Methodology/Site/Sample
+
+**Strengths:**  
+- Clear explanation of site choice and how interviews will be selected.
+- Good diversity in sampling (participants, non-participants, counter-movement).
+- Practical dimensions (e.g., telephone interviews as backup) are thoughtfully considered.
+
+**Suggestions:**  
+- 55 interviews is a large number for a lone researcher, especially if also engaging in archival work. Consider whether a more focused sample would allow for greater depth (especially if data saturation occurs earlier).
+- What is your backup plan if access is limited? How will non-response or refusals be handled?
+- Anticipate and discuss challenges of self-presentation, gatekeeping, or access to sensitive archival materials.
+
+### Potential Analytic Approaches
+
+**Strengths:**  
+- Questions suggest a framework for data analysis (frames, enabling mechanisms, field-level negotiations).
+
+**Suggestions:**  
+- Outline in a paragraph or two how collected data will be coded/analyzed—are you doing grounded theory, discourse analysis, frame analysis, etc.?
+- How will you triangulate archival materials and interviews?
+
+### Contribution, Limitations, and Implications
+
+**Strengths:**  
+- Ends with strong claims for practical and theoretical significance.
+
+**Suggestions:**  
+- Add explicit discussion of anticipated limitations (e.g., generalizability, selection bias, roadblocks in data access).
+- Consider specifying how findings might be useful to practitioners, not just for oral history but also for influencing policy or organizational practice.
+
+---
+
+## Additional Minor Suggestions
+
+- Double-check for typographical/grammatical issues; overall very clean, but since this is a proposal, clarity and readability are especially important.
+- Consider organizing appendices and references in a standard style (APA, Chicago, etc.) for consistency.
+
+---
+
+## Summary Table
+
+| Section                | Strengths                                    | Suggestions                                        |
+|------------------------|----------------------------------------------|----------------------------------------------------|
+| Introduction           | Clear research questions                     | Add "why now/why important?" summary               |
+| Literature Review      | Strong scholarship, theoretical depth        | Clarify dense theory, connect frameworks directly   |
+| Research Questions     | Well-defined, structured                     | Make visually distinct                             |
+| Methods/Site/Sample    | Logical, diverse, well-justified             | Address feasibility, response, and access issues    |
+| Analysis Plan          | Implied framework                            | Make analytic approach explicit                    |
+| Conclusion/Contribution| Clear significance, broad vision             | Add concrete limitations/impacts                    |
+
+---
+
+## Overall Evaluation
+
+**Excellent proposal** with a sophisticated command of theory and methodology. With some tightening up (particularly regarding scope, analytic plan, and limitations), this could become a very strong dissertation or article-length study. Good luck with your research! If you have a revised version or particular section you'd like more targeted feedback on, feel free to ask.

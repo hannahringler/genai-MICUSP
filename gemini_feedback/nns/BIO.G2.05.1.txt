@@ -1,0 +1,58 @@
+Okay, here's feedback on the paper "Application of Microarray Analysis in *Drosophila*," considering it as a literature survey:
+
+**Overall Strengths:**
+
+*   **Clear Introduction:** The introduction effectively defines microarray technology, explains its basic principles, and connects it to its historical roots (Southern blotting).  It clearly lays out the central premise: the power of microarray to measure expression on a large scale.
+*   **Good Explanation of Applications:**  The paper clearly outlines some of the main uses of microarray technology in *Drosophila* research, including studying gene expression profiles during development, comparing expression in healthy and diseased cells, and investigating transcriptional networks.
+*   **Specific Examples:**  Referencing specific papers (White et al., Zou et al., Beltran et al., Sun et al.) strengthens the discussion and provides concrete examples of how microarray analysis is applied. This is crucial for a literature survey.
+*   **Critical Discussion:**  The paper doesn't just present microarray as a perfect solution. It acknowledges its limitations, specifically the potential for false-positive results and the importance of proper data analysis.  It also mentions the cost factor.
+*   **Up-to-Date References:**  The references are relatively modern (from 1999-2003, which is a decent range for showcasing the impact of the techinque in *Drosophila*).
+*   **Clear Conclusion:**  The conclusion re-emphasizes the power of the method and its limitations, which is a fair conclusion.
+*   **Proper Citation:** The citation is done using the 'Author, year' style, which is useful.
+
+**Areas for Improvement:**
+
+*   **Deeper Discussion of Limitations:** While you mention false positives and data analysis, a deeper discussion would be beneficial. For example:
+    *   *Cross-hybridization:* Explain why cross-hybridization can be problematic and what measures can be taken to mitigate it.
+    *   *Normalization Methods:* Briefly mention the different types of normalization methods used in microarray analysis (e.g., quantile normalization, Loess normalization) and how they address biases.
+    *   *Statistical Significance:*  Discuss the challenges of determining statistical significance when analyzing thousands of genes simultaneously and the importance of multiple hypothesis correction (e.g., Bonferroni correction, FDR).
+*   **More on Experimental Design:** You mention the importance of proper experimental design, but elaborate further.  Consider discussing factors like:
+    *   *Replicates:*  The importance of biological and technical replicates.
+    *   *Controls:* The use of appropriate controls (e.g., wild-type, untreated) to ensure accurate comparisons.
+    *   *Randomization:*  The need for randomization to minimize bias.
+*   **Expand on Alternative Approaches:**  You briefly mention protein arrays and tissue arrays. Expand on how those are different. It could be beneficial to add other techniques used in the field:
+    *   *RNA-seq:* This became widely used after the publications listed. Discuss the main advantages/disadvantages of RNA-seq compared to microarray.
+*   **Structure and Flow:**
+    *   Consider grouping applications by theme or biological process (e.g., development, stress response, gene regulation).
+    *   Ensure consistent language (e.g., "down side" could be rephrased as "disadvantages" or "limitations").
+*   **Add More recent references:** Add some recent references to show the current usage of this technique.
+
+**Specific Suggestions:**
+
+*   **"ash2¹¹":**  Explain the superscript numbering (presumably an allele number).
+*   **"Southern blotting in parallel":** While this is a catchy phrase, elaborate further. Briefly mention how this allows for high-throughput analysis.
+*   **"a Swiss group":** It would be better to mention the institution.
+*   **Proofread Carefully:** There are a few minor grammatical errors throughout (e.g., "be care of").
+
+**Revised structure:**
+
+1.  **Introduction:** Define microarray principles and comparison to Southern blotting.
+2.  **Applications:**
+    *   Developmental Biology (White et al.)
+    *   Stress Response and Aging (Zou et al.)
+    *   Transcriptional Network Analysis (Beltran et al.)
+    *   Protein-DNA Interaction (Sun et al.)
+3.  **Other techniques and comparison:**
+    *   RNA-seq
+    *   Protein array
+4.  **Limitations:**
+    *   Cross-hybridization
+    *   Normalization
+    *   Statistical Analysis
+    *   Experimental Design
+    *   Cost
+5.  **Conclusion:** Summary of applications, limitations, and future directions.
+
+**Overall:**
+
+This is a good start to a literature survey on microarray analysis in *Drosophila*. By addressing the points above, you can significantly strengthen the paper and provide a more comprehensive and critical overview of the field. Remember that the key to a good literature survey is not just describing what others have done, but also critically evaluating the methods, findings, and implications of their work.

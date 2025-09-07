@@ -1,0 +1,60 @@
+Okay, I can provide feedback on your paper based on the OCR text you provided.  Here's a breakdown of my feedback, focusing on potential areas for improvement regarding content, structure, clarity, and style:
+
+**Overall Impression:**
+
+The paper explores an interesting topic: the distribution and use of anaphoric "so" in the MICASE corpus.  It's a focused study that attempts to identify patterns and characteristics of this specific linguistic feature in a real-world dataset. The research methodology seems sound (using MICASE for data collection, comparing against theoretical analyses like Huddleston's, etc.).
+
+**Areas for Improvement (Based on OCR):**
+
+1.  **Introduction:**
+
+    *   While the introduction provides context about MICASE and the research question, it could benefit from a more explicit statement of the hypothesis or expected findings. What were you anticipating to find regarding the use of anaphoric "so"?
+    *   Clearly state the paper's goals and scope. Make it very clear what you are *not* investigating. For example, "While this paper will touch on deictic 'so' and discourse marker 'so', these will not be the focus of this research".
+    *   The sentence "English as a Second Language (ESL) instructors can use this information to identify common speech patterns..." feels a bit tacked on. If you can connect this idea more directly to the rest of the paper's argument, it would be stronger. Otherwise, consider removing it.
+
+2.  **Definitions:**
+
+    *   The "Defining So" section feels a bit disjointed. Ensure smooth transitions between deictic, discourse marker, and anaphoric uses.
+    *   For the discourse marker example, consider adding a brief explanation of *why* it creates a sense of casualness.
+    *   When you define "Anaphoric 'so'", provide a concise definition before jumping into the examples. This will help the reader understand the core concept before seeing specific instances.
+
+3.  **Analysis of Anaphoric "So":**
+
+    *   **Verb Choice:** The analysis of which verbs take anaphoric "so" is central to the paper.
+        *   Clarify *why* you're focusing on "mental state" verbs. Is there a theoretical reason, or is it based on Huddleston's categorization?
+        *   Explain more clearly why some mental state verbs (like "like" or "want") don't work with anaphoric "so". What is the difference in meaning or grammatical structure?
+        *   The explanation for why some verbs are absent from MICASE ("imagine," "suspect," "suppose") feels speculative. Is there any data (beyond the corpus) that supports the claim that these verbs are less common in on-campus settings?
+    *   **Negation and Speaker Position:** The analysis of "think so" is interesting, but you need to *interpret* the findings more thoroughly.
+        *   Why is it significant that negated and non-negated forms of "think so" are roughly equal? What does this tell us about the function of "think so" in conversation?
+        *   Explain *why* you think 2nd person singular occurs more in questions.
+
+4.  **Speech Events:**
+
+    *   Again, provide a more robust explanation *why* you expected to find anaphoric "so" in specific speech events. Make the connection between casual speech/uncertainty and the use of anaphoric "so" more explicit.
+    *   When presenting the findings (SGR, LES, LAB, SEM), connect these to your initial expectations. Did the data confirm your hypothesis?
+
+5.  **Language Background:**
+
+    *   The cross-linguistic comparison is a strong point. However:
+        *   Expand on the discussion of how the concepts expressed by "think so" are conveyed in other languages. Are there differences in politeness or directness?
+        *   The analysis of native vs. non-native speaker usage is critical. Again, you need to provide more interpretation of your results.
+        * Why is it the case that non-native english speakers don't use "so" as much? Are there any linguistic reasons that this occurs?
+        * Is it something about the language itself, or is it something about the culture of non-native english speakers?
+
+6.  **Conclusion:**
+
+    *   The conclusion summarizes the key findings, which is good.
+    *   Strengthen the argument that anaphoric "so" should be considered a "local grammar." What are the practical implications of this classification?
+    *   The final sentence about developing teaching materials is a bit weak. Consider a more compelling concluding statement.
+
+7.  **Figures and Tables:**
+
+    *   All figures and tables MUST have captions. Number them ("Figure 1:...", "Table 1:...") and provide a short description of what the figure shows.
+
+8. **General Tips**
+
+    * Back up any claims with citations. For instance, when you mention discourse marker uses of "so" leading to casualness, cite a source that discusses that effect.
+    *   Strive for greater conciseness.
+    *   Carefully proofread for grammatical errors and typos.
+
+**In summary, your paper has a solid foundation, but it needs more in-depth analysis, interpretation, and clear connections between the data and your arguments. By strengthening these areas, you can create a more compelling and insightful study of anaphoric "so."**

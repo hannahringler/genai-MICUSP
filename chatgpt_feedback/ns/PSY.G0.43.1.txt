@@ -1,0 +1,79 @@
+Absolutely! Here’s a detailed feedback on the paper “Sleep Patterns in Infancy as a Predictor of Insomnia in College Students.” The feedback is structured in terms of **overall strengths**, **areas for improvement**, and **specific suggestions** related to content, organization, methods, style, and technical aspects.
+
+---
+
+## Overall Strengths
+
+**1. Clarity of Purpose:**  
+The purpose and hypothesis are clearly outlined in the introduction. It’s evident what the study aims to explore and why it’s important.
+
+**2. Literature Integration:**  
+You integrate relevant literature on sleep in infancy and adulthood, as well as insomnia and its consequences, to set up the rationale for your study. It helps anchor your research in existing knowledge.
+
+**3. Methodological Clarity:**  
+The proposed methodology is described step-by-step, including participant recruitment, compensation, use of surveys, and data analysis. The inclusion of actual survey materials and the scoring method in the appendices adds transparency.
+
+**4. Thoughtful Data Analysis Plan:**  
+You present a straightforward plan for correlating infancy and college sleep scores, and you explain expected outcomes clearly with a scatterplot illustration.
+
+**5. Appropriate Acknowledgment of Limitations:**  
+You note the likely socio-economic status of participants and the need for broader research in other populations.
+
+---
+
+## Areas for Improvement
+
+### 1. **Literature Review Depth and Balance**
+- **Current Literature:** Much of the cited research is from the 1980s–early 2000s. If possible, include more recent studies on sleep continuity, sleep disorders, and early development.
+- **Theoretical Framework:** You mention developmental psychology, but the theoretical basis could be stated more explicitly (e.g., attachment theory, self-regulation development).
+
+### 2. **Study Design and Validity**
+- **Retrospective Bias:** Relying on caregivers to recall infant sleep patterns can introduce recall bias. Address this limitation directly.
+- **Generalizability:** The sample is from a single university, likely skewed by SES and possibly by culture. Again, acknowledge the sample limitation and perhaps suggest directions for future research.
+
+### 3. **Measurement Tools**
+- **Infant Sleep Survey:** Your custom survey for caregivers may lack established validity or reliability. How did you develop or pilot these questions? Provide a short justification or describe any piloting.
+- **Scoring:** Put briefly in the main text how infant and college sleep scores will be interpreted (are higher scores always bad?).
+
+### 4. **Statistical Analysis**
+- **Analysis Details:** The plan is to use a correlational analysis, but specify which correlation coefficient you intend to use (Pearson’s r? Spearman’s rho?). Add rationale for this choice depending on your data scale.
+- **Control Variables:** Consider mentioning other variables (e.g., current stress, health) that might confound results.
+
+### 5. **Style and Formatting**
+- **Consistency:** Minor inconsistencies such as “there children” (should be “their children”) should be fixed.
+- **APA Citations:** Some in-text references and listing in the bibliography need revising for complete APA conformity.
+- **Headings:** Add clear section headings (e.g., Introduction, Literature Review, Methods, Results [anticipated], Discussion [anticipated], Appendix) to improve organization and navigation.
+
+### 6. **Ethical Considerations**
+- **Ethics and Privacy:** Briefly mention data privacy (handling parental info, de-identifying student data), even though you already mention informed consent.
+
+---
+
+## Specific Suggestions
+
+- **Introduction:** Briefly preview your methods and anticipated results in the last paragraph of your introduction.
+- **Methods:** Add a sub-heading on “Limitations” or mention them in a concluding paragraph of the methods section.
+- **Results/Discussion (Prospective):** Since this is a proposal, add a short paragraph predicting possible implications and what negative findings might mean.
+- **Figure:** In the figure legend, clarify which variable is on each axis.
+
+---
+
+## Summary Table
+
+| Area                 | Strengths                                      | Suggestions                        |
+|----------------------|------------------------------------------------|------------------------------------|
+| Introduction         | Clear statement of purpose and rationale       | Add theoretical framework          |
+| Literature Review    | Covers key studies                             | Update with recent studies         |
+| Methodology          | Detailed, transparent                         | Address retrospective bias, clarify measurement reliability |
+| Data Analysis        | Basic correlation approach explained           | Specify statistical test, consider confounders |
+| Organization         | Logical sequence                               | Use consistent section headings    |
+| Technical/Formatting | Appendices and survey included                 | Revise for APA and grammar         |
+| Ethics               | Consent explained                              | Add privacy/data handling          |
+
+---
+
+## Conclusion
+
+This paper is very solid for a final-year undergraduate proposal: the research is motivated, methods are sound, and the scientific writing is largely clear and professional. With some further attention to detail, updated literature, and acknowledgment of design limitations, your research proposal would reach an even higher standard.
+
+If you need help with editing language for clarity or integrating references, let me know!

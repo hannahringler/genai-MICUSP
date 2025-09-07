@@ -1,0 +1,61 @@
+Okay, here's some feedback on the paper, covering strengths, weaknesses, and suggestions for improvement.  I'll focus on aspects relevant to a research paper and not just general writing.
+
+**Overall Assessment**
+
+The paper addresses an interesting and relevant research question. The author demonstrates an understanding of basic sociological concepts (variables, hypothesis, sample, bias, etc.). The honesty about the limitations of the study is commendable. However, the study itself has significant methodological weaknesses that need to be addressed. The writing is generally clear, although it could be more concise in places.
+
+**Strengths**
+
+*   **Clear Research Question and Hypothesis:** The research question (Are religious people more likely to be against abortion than non-religious people?) is clearly stated and the hypothesis is testable.
+*   **Understanding of Key Concepts:** The author demonstrates a grasp of concepts like independent and dependent variables, units of analysis, and confounding variables.
+*   **Honest Acknowledgment of Limitations:** The author is upfront about the weaknesses of the sample, the potential for bias, and the limitations of the data collection method. This is important for transparency and scholarly integrity.
+*   **Interesting Findings:** The initial finding of a -.066 correlation coefficient shows a minor relationship between the religious affiliation and abortion opinions
+
+**Weaknesses**
+
+*   **Major Sampling Issues:** This is the *most significant* weakness. The sampling method is highly problematic.
+    *   **Convenience Sampling:** The reliance on approaching students on campus creates a highly non-representative sample. University students are not representative of the general US population.
+    *   **Selection Bias:** The author admits to hand-selecting individuals who were alone, appeared open to disruption, and willing to participate. This introduces significant bias.
+    *   **Small Sample Size:** A sample size of 25 is far too small to draw any meaningful conclusions.
+    *   **Location Bias:** Targeting specific locations (e.g., the League, Beanster's) because of perceived demographics introduces further bias.
+*   **Data Collection Method:**
+    *   **Semi-structured Interviews:** While potentially useful, the author acknowledges inconsistent application of the interview guide, which reduces reliability.
+    *   **Leading Questions:** The phrasing of questions (e.g., suggesting "rape" as a possible exception) could influence responses.
+    *   **Subjective Interpretation:** The author's interpretation of religiosity and feelings on abortion is subjective and potentially biased. The codebook definitions, while provided, may not capture the full nuance of individual beliefs.
+*   **Data Analysis:**
+    *   **Weak Correlations:** The correlation coefficients are very low, indicating a very weak relationship between the variables.
+    *   **Crosstab Interpretations:** The interpretations of the crosstabs are somewhat superficial.
+*   **Lack of Literature Review:** The paper lacks a proper literature review. A brief overview of existing research on the relationship between religion and attitudes towards abortion would provide context and justification for the study.
+
+**Suggestions for Improvement**
+
+1.  **Acknowledge the Limits (More Strongly):** Emphasize even *more* strongly that the findings *cannot* be generalized beyond the specific people interviewed. The paper gives the impression that the results have even the slightest bit of significance, but they do not.
+2.  **Refine the Research Question (or Scale it Back):**
+    *   Given the limitations, consider reframing the research question to be more exploratory. For example: "How do a *small group* of University of Michigan students express their attitudes toward abortion in relation to their self-identified religiosity?"
+    *   A much more defensible study given the sample size would be a **qualitative** study.
+3.  **Sampling (This needs a major overhaul, but it will be limited by constraints):**
+    *   **Clearly state the limitations:** Acknowledge that the sample is *not* representative and explain *why* this is a problem for drawing broader conclusions.
+    *   **Explain the rationale:** Provide a stronger justification for the sampling strategy. Why focus on university students? What specific theoretical reasons justify targeting certain locations on campus?
+4.  **Data Collection:**
+    *   **Standardize the Interview Guide:** Ensure that all questions are asked consistently across all interviews.
+    *   **Avoid Leading Questions:** Rephrase questions to be more neutral and open-ended.
+    *   **Inter-coder Reliability:** If possible, have another person code a subset of the interviews to assess inter-coder reliability. This helps to reduce subjective bias in interpretation.
+    *   **Be more aware of the potential for confirmation bias**. You had the belief that Muslim and Jewish students would be more liberal, yet the sample size did not allow for that to occur.
+5.  **Data Analysis:**
+    *   **More In-depth Analysis:** If possible, explore the data in more detail. Are there any interesting patterns or nuances in the responses?
+6.  **Discuss the Limitations of Statistical Analysis:** Explain what the correlation coefficient means in simple terms and why a low correlation suggests a weak relationship between the variables.
+7.  **Literature Review:**
+    *   **Add a brief literature review:** Provide context for the study by summarizing existing research on the relationship between religion and attitudes towards abortion. This will strengthen the introduction and provide a stronger justification for the research question.
+
+**Specific Comments on Sections**
+
+*   **Introduction:** Good start, but needs a bit of refinement with a stronger literature review.
+*   **Research Design:** This is where the sampling and data collection issues need to be addressed most directly.
+*   **Sample:** Be brutally honest about the limitations.
+*   **Ethical Issues:** Well handled.
+*   **Data Collection Instrument:** Discuss the limitations of this method.
+*   **Problems/Surprises in the Field:** Good reflection on the challenges faced.
+*   **Results:** Present the data clearly, but avoid overstating the significance of the findings.
+*   **Conclusions:** Temper the conclusions based on the limitations of the study.
+
+**In summary, this paper demonstrates potential, but it needs significant methodological improvements to be a strong piece of research. Focus on acknowledging and addressing the limitations of the study, refining the research question, and providing a stronger theoretical and empirical context.** Good luck!

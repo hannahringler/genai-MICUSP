@@ -1,0 +1,72 @@
+Okay, here's a breakdown of feedback on the paper, covering strengths, weaknesses, and suggestions for improvement.  I'll focus on clarity, organization, content, and mechanics.
+
+**Overall Impression**
+
+The paper presents a good comparative analysis of the five Michigan streams. It demonstrates a solid understanding of the factors influencing water quality and ecosystem health. However, the writing could be more concise and structured for better clarity and impact.
+
+**Strengths:**
+
+*   **Clear Objective:** The paper clearly states its purpose: to compare the physical, chemical, and biotic profiles of five Michigan streams.
+*   **Good Use of Data:** It references data collected from surveys, including habitat assessment scores, fish and macroinvertebrate sampling, and water chemistry.
+*   **Identification of Key Factors:** It identifies and discusses important factors influencing stream health, such as geology, land use, riparian vegetation, and pollution sources.
+*   **Comparative Analysis:** The paper effectively compares and contrasts the streams based on these factors.
+*   **Awareness of Limitations:** It acknowledges limitations, such as the use of older data for fish shocking surveys and potential bias in the assessment of the Oden stream.
+*   **Contextual Awareness:** The paper acknowledges that the characteristics of the river systems depend on their geology.
+
+**Weaknesses:**
+
+*   **Organization:** The paper could benefit from a more structured organization, with clearer topic sentences and transitions between paragraphs.
+*   **Clarity and Conciseness:** The writing can be wordy and repetitive in places. Sentences can be streamlined for better clarity.
+*   **Depth of Analysis:** While the paper identifies factors, some areas could benefit from deeper analysis and more specific examples.
+*   **Figure References:** The paper mentions figures (e.g., "fig. 4, 5") but they are not included. This makes it difficult to fully evaluate the support for some claims.
+*   **Mechanical Issues:** There are a few minor grammar and spelling errors.
+
+**Specific Suggestions for Improvement:**
+
+1.  **Organization and Structure:**
+
+    *   **Introduction:** The introduction is adequate, but could be stronger. Consider adding a sentence that previews the main findings or the overall conclusion of the study.
+    *   **Topic Sentences:** Ensure each paragraph has a clear topic sentence that introduces the main point.
+    *   **Transitions:** Use transition words and phrases to connect ideas between paragraphs and create a smoother flow (e.g., "In contrast," "Similarly," "Furthermore," "However").
+    *   **Subheadings:** Consider using subheadings to break up the text into logical sections (e.g., "Geological Influences," "Habitat Assessment," "Biological Indicators," "Water Chemistry").
+
+2.  **Clarity and Conciseness:**
+
+    *   **Wordiness:** Eliminate unnecessary words and phrases. For example, instead of "Throughout the course of this lab," use "During this lab."
+    *   **Active Voice:** Use active voice whenever possible for more direct and concise writing.
+    *   **Repetition:** Avoid repeating information. If a point has already been made, refer back to it instead of restating it in full.
+    *   **Specificity:** Replace vague language with more specific details. For example, instead of "human activity," specify the type of human activity (e.g., "agricultural runoff," "urban development").
+    *   **Example:**
+        *   **Original:** "The assessment of the northern streams show quality habitat for both fish and macroinvertebrates (table 3)."
+        *   **Revised:** "Habitat assessments (Table 3) indicate high-quality habitat for fish and macroinvertebrates in the northern streams."
+
+3.  **Depth of Analysis:**
+
+    *   **Elaborate on Impacts:** When discussing the impact of a factor, provide more specific examples. For example, instead of just saying "sedimentation can have adverse effects on spawning success," explain *how* sedimentation affects spawning.
+    *   **Connect Findings:** Explicitly connect the different types of data (habitat assessment, fish sampling, macroinvertebrates, water chemistry) to support your conclusions. Show how the data converge to tell a consistent story.
+    *   **Discuss Interactions:** Explore the interactions between different factors. For example, how does geology influence the impact of land use on water quality?
+    *   **Provide more context on the numbers:** It would be useful to see more connection between the meaning of numbers, and specific impact on streams. For example, what level of nitrates is considered pollution? What species are most sensitive to water quality?
+
+4.  **Figure References:**
+
+    *   **Include Figures:** The most important thing is to include the figures and tables that you reference in the text. If you are unable to include them, remove the references.
+    *   **Refer Specifically:** When referencing figures, be specific about what the figure shows and how it supports your point.
+
+5.  **Mechanical Issues:**
+
+    *   **Proofread Carefully:** Proofread the paper carefully for grammar, spelling, and punctuation errors. Pay attention to subject-verb agreement, pronoun agreement, and correct use of commas.
+    *   **Consistency:** Ensure consistency in formatting (e.g., use of abbreviations, citation style).
+
+**Example of Revision:**
+
+**Original:**
+
+"A strong connection was observed between location of the streams and habitat assessment scores. The northern streams are located in less populated regions where development does not have a strong presence. The sample locations for the Maple and Pigeon rivers are surrounded by a forested landscape, although several farms are located in the near vicinity of the Maple River."
+
+**Revised:**
+
+"Habitat assessment scores were strongly correlated with stream location. The northern streams (Maple and Pigeon Rivers), located in less populated and primarily forested regions, generally scored higher than the southern streams."
+
+**In Summary:**
+
+This is a solid paper with a good foundation. By focusing on improving organization, clarity, depth of analysis, and mechanics, you can significantly enhance the quality and impact of your work. Good luck!

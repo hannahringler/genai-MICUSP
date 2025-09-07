@@ -1,0 +1,49 @@
+Okay, here's some feedback on the paper "The Modern State: Imagined or Real?":
+
+**Overall Impression:**
+
+This paper demonstrates a good grasp of sociological theory and engages with complex arguments. The author shows familiarity with Marx, Weber, Bourdieu, Anderson, and Sayer, and attempts to synthesize their ideas into a coherent perspective on the nature of the modern state. However, the paper suffers from some clarity issues, organizational problems, and occasionally dense prose.
+
+**Strengths:**
+
+*   **Strong Theoretical Foundation:** The paper displays a solid understanding of key sociological concepts related to the state. The author understands the nuances and relationships between Marxian and Weberian perspectives.
+*   **Ambitious Scope:** The paper attempts to tackle a significant question in sociology, drawing on a range of theoretical perspectives.
+*   **Critical Engagement:** The author doesn't simply summarize theorists but attempts to critically evaluate their arguments and identify their limitations.
+*   **Original Thought:** The paper includes the development of new terminology such as nominal state.
+*   **Understanding of Literature**: The paper appears to understand the complex aspects of each paper cited.
+*   **Analysis**: The paper provides an analysis of each paper that is cited.
+
+**Areas for Improvement:**
+
+*   **Clarity and Conciseness:** The writing style is often dense and abstract, making it difficult to follow the argument. Simplify sentences, define key terms clearly, and use more concrete examples.
+*   **Organization:** The structure of the paper could be improved. The introduction is adequate, but each section doesn't have a clearly defined purpose or transition smoothly into the next. Consider using headings and subheadings to improve readability.
+*   **Argumentative Focus:** The paper sometimes reads more like a review of different theoretical perspectives than a focused argument. While it's important to present the theories, ensure that your own thesis remains central.
+*   **Evidence and Examples:** While the paper engages with theory, it would be strengthened by the inclusion of more empirical evidence and real-world examples to illustrate the points being made. The example of the Korean football team is good but could be more developed.
+*   **Critical Analysis:** The analysis of theoretical issues needs more development. While the paper identifies issues, some of the critical analysis could be strengthened.
+*   **Proofreading:** Proofread the paper carefully for grammatical errors and typos.
+*   **Conclusion:** The paper can have a more solid conclusion.
+
+**Specific Suggestions:**
+
+*   **Introduction:** State your thesis more explicitly. What is your main argument about the nature of the modern state, and how will you support it?
+*   **"Nominal State" Section:** This section is interesting, but it could be clearer. Explain what you mean by "nominal state" in more accessible language. Provide examples of how the state appears to be "nominal" in practice.
+*   **Connecting Marx and Weber:** You argue that Marx and Weber are not mutually exclusive. Explain *how* their perspectives can be reconciled. What specific aspects of each theory complement the other?
+*   **Bourdieu and Symbolic Violence:** Connect Bourdieu's concept of symbolic violence more directly to the idea of the state as "imagined" or "real." How does symbolic violence contribute to the construction of national identity and the legitimacy of the state?
+*   **Nationalism:** Your discussion of nationalism is insightful, but it could be more integrated into the overall argument. How does the concept of "imagined communities" relate to the idea of the state as "imagined"?
+*   **Bureaucracy:** Deepen your analysis of bureaucracy. How does bureaucracy contribute to the "self-perpetuation" of the state? Are there any negative consequences of this process?
+*   **Conclusion:** Summarize your main argument and reiterate your thesis in a clear and concise manner. Consider offering some concluding thoughts on the implications of your analysis for understanding the modern state.
+
+**Specific Feedback:**
+
+*   **Page 1:** "Rethinking Marx and Weber, I will argue that there is no contradiction between them, although each had a different emphasis. Thus I treat them not as mutually exclusive but as two sides of the same coin." This is a good starting point, but develop this idea throughout the paper.
+*   **Page 1:** "Marx(ian): the nominal State" - Consider whether "Marxian" is necessary. Perhaps "Marx: the nominal State" would be more concise.
+*   **Page 2:** The term "misrepresentation" in the second paragraph can be unpacked more thoroughly. What specific aspects of citizenship are misrepresented?
+*   **Page 3:** Clarify the distinction between the "selfish" individual in civil society and the "moral" citizen in the state. Provide examples to illustrate this contrast.
+*   **Page 4:** The critique of Marx's underestimation of cultural power is well-taken. Expand on this point and explain why cultural factors are so important.
+*   **Page 7:** The anecdote about your father is interesting, but make sure it serves a clear purpose in your argument. Explain how this example illustrates the concept of "bureaucratized field."
+*   **Page 8:** Explain how international sports games contribute to the feeling of nation. The final sentence in this paragraph can be more developed.
+*   **Page 9:** Explain what you mean by "the democracy of unfreedom".
+*   **Page 10:** Explain how you would rewrite tax collecting using the concepts discussed.
+*   **Page 11:** Explain the "Effect of Universality" that Bourdieu refers to.
+
+**In summary:** This paper shows potential, but it needs to be refined in terms of clarity, organization, and argumentative focus. By addressing the points outlined above, you can strengthen your argument and make your paper more persuasive. Good luck!

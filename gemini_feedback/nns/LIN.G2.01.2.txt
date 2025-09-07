@@ -1,0 +1,62 @@
+Okay, here's some feedback on the paper, focusing on aspects that can be improved.
+
+**Overall Impressions:**
+
+*   **Promising Idea:** The concept of leveraging POS tagging to improve Chinese Word Sense Disambiguation (WSD) is interesting and potentially valuable. Chinese presents unique challenges for WSD, and this approach directly addresses those challenges.
+*   **Needs More Depth and Clarity:** The paper reads more like a proposal or overview than a fully developed research paper. It needs more in-depth explanation of the methodology, stronger justification for design choices, and concrete examples. The analysis is also shallow and the paper feels incomplete.
+*   **Language Issues:** The English usage needs improvement. There are grammatical errors and awkward phrasing throughout, which detract from the readability and credibility of the work.
+
+**Specific Feedback and Suggestions:**
+
+**1. Introduction:**
+
+*   **Define WSD more thoroughly:** While the initial definition is present, elaborate on the challenges of WSD in general, and specifically in Chinese. What makes it difficult? What are the common issues faced?
+*   **Clearly State the Contribution:** What is the novel aspect of your approach? The introduction should highlight the unique contributions of this proposed method and how it improves upon existing techniques.
+*   **Motivation for Chinese:** Briefly highlight the specific characteristics of Chinese (e.g., lack of morphological marking, reliance on context) that make POS-tagging especially useful for WSD in this language.
+
+**2. Related Work (Implicit in Section 1.2):**
+
+*   **Expand and Formalize Related Work:** Section 1.2 touches upon different WSD methodologies, but it needs to be expanded into a dedicated "Related Work" section.
+*   **More Recent Research:**  The citations in Section 1.2 are a bit dated. Research has progressed significantly since the 1990s. Include more recent work in both general WSD and Chinese WSD.
+*   **Critique Existing Work:**  Don't just describe the different approaches; also critically analyze their strengths and weaknesses. What are the limitations of these methods that your approach aims to overcome?
+*   **Position your approach in context of existing research:** Explain exactly how your method differs.
+
+**3. Proposed Approach:**
+
+*   **Detailed Explanation:** This is the core of the paper, and it requires the most attention. Provide a step-by-step, detailed explanation of your algorithm. How exactly does the POS information influence the WSD process?
+*   **Clear Justification:** Explain *why* the chosen method is appropriate for dealing with the ambiguities and issues mentioned for the Chinese language.
+*   **Dynamic aspect:** Elaborate on the "Dynamic" part in "A Dynamic POS-Tagging-Learned Approach of Chinese WSD." Is the system continuously learning from new data or adapting its POS-WSD associations?
+*   **Data Structures:** The explanation of the link structure is good, but it needs to be integrated better into the overall algorithm description.
+*   **Rules:** Add a specific description of how you derive correspondence rules. Give a worked-out example with a sentence that demonstrates all the steps in your approach. What is the method to get the correlation in the correspondence matrix between the POS tagging and word sense?
+*   **Handling Null Results:** Elaborate on the strategy for handling cases where the correspondence list is null. What are the possible reasons for this?
+*   **Clarify "cross out" or "original":** Are you removing senses if POS matches the rule? If so, give a worked-out example. The description is difficult to understand.
+*   **Pseudocode:** Consider adding pseudocode to make the algorithm more precise and easier to understand.
+
+**4. Evaluation:**
+
+*   **More Rigorous Evaluation:**  The manual testing on one news article is insufficient. You need a more systematic and quantitative evaluation using a standard dataset for Chinese WSD. You can start with datasets:
+    *   SIGHAN Bakeoff datasets
+    *   Chinese SemEval datasets
+*   **Evaluation Metrics:**  Clearly define the evaluation metrics you will use (e.g., precision, recall, F1-score).
+*   **Baseline Comparison:**  Compare your approach to existing WSD methods (ideally state-of-the-art approaches) to demonstrate its effectiveness.
+*   **Error Analysis:** Analyze the types of errors your system makes. Why does it fail in certain cases? What are the limitations of your approach?
+*   **Discussion:** Discuss the results, including their significance and implications, as well as the limitations of your approach.
+
+**5. Other Improvements:**
+
+*   **English Language Editing:**  The paper requires careful editing by a native English speaker or someone with strong writing skills.
+*   **Consistency:** Ensure consistency in terminology and notation throughout the paper.
+*   **Figures and Tables:** Use figures and tables to illustrate key concepts and results.
+
+**Specific Line-by-Line Examples (Illustrative):**
+
+*   **"There is still long way to go for WSD to reach the present level of POS tagging."**  -> "WSD still lags significantly behind POS tagging in terms of accuracy and robustness."
+*   **"In order to make the computer have the same word sense discrimination ability as human..."** -> "To enable computers to discriminate word senses as effectively as humans..."
+*   **"What it needs is large quantity of regular parallel sentences."** -> "This method requires a large quantity of parallel sentences for training."
+*   **"The method combines a variety of methods to get better WSD performance."** -> "Combining multiple methods can lead to improved WSD performance."
+
+**In Summary:**
+
+This is a promising start, but the paper needs significant development to become a strong research contribution. Focus on providing a detailed and well-justified explanation of your algorithm, conducting a rigorous evaluation, and improving the clarity and accuracy of the writing.
+
+Good luck!

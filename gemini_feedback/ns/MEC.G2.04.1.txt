@@ -1,0 +1,71 @@
+Okay, here's some feedback on the paper, covering various aspects:
+
+**Overall Impression:**
+
+The paper appears to be a solid piece of work on a challenging robotics problem. It's well-structured, clearly explains the background and methodology, and presents simulation results to support its claims. The use of virtual constraints and stability analysis based on the Poincaré map is a strong approach.
+
+**Strengths:**
+
+*   **Clear Structure:** The paper follows a logical flow, starting with the introduction of the problem, explanation of related methods, the proposed approach, simulation results, and conclusions. This makes it easy to follow the argument.
+*   **Technical Depth:** The paper demonstrates a good understanding of robotics concepts (Lagrangian Dynamics, Poincaré maps, hybrid systems, zero dynamics, feedback linearization).
+*   **Problem Motivation:** The paper makes a convincing argument for studying point-foot robots, highlighting the challenges of underactuation and the limitations of traditional ZMP methods.
+*   **Simulation Results:** The simulation results are presented clearly, with graphs illustrating the joint angles, convergence, and output functions. The side-by-side comparison of finite-time and exponential controllers is valuable.
+*   **Theoretical Justification:** The inclusion of stability proofs, particularly the use of the Poincaré map theorem, adds rigor to the analysis.
+*   **Use of Theorems:** The paper correctly uses theorems from other research work.
+*   **References:** Appropriate citations are used.
+*   **Addresses and compares two different walking gaits:** This shows a deeper understanding of the material.
+
+**Areas for Improvement:**
+
+*   **Abstract:** Consider adding a brief abstract at the beginning of the paper summarizing the key contributions, methods, and results. It would help readers quickly grasp the essence of the work.
+*   **Introduction:** Could be more engaging. Consider including a real-world application of bipedal robots (search and rescue, elderly assistance, etc.) to highlight the impact of this research. Consider stating the key problems or limitations of the field that the paper solves.
+*   **Clarity:** The paper, while understandable, could benefit from further simplification of language and reduction of jargon.
+*   **Figures:**
+    *   Consider making the graphs larger and ensuring that the axes labels are easily readable.
+    *   Figure 4 could benefit from a more descriptive caption that explains the mapping, stable manifold, and convergence.
+*   **Impact of Gait:** Try to quantify the energy efficiency increase with the optimized gait.
+*   **Discussion of Limitations:** Briefly discuss any limitations of the approach, such as the reliance on accurate models, sensitivity to disturbances, or computational complexity.
+*   **Formatting:** Ensure that the equations and mathematical notation are correctly formatted.
+*   **Conclusion:** could be more conclusive. What is the next step in this research? What are the broader implications of the research?
+
+**Specific Comments and Suggestions:**
+
+*   **"Various methods are used; one of the easiest to implement in practice is a robot with 4-6 legs to solve the balancing problem."** This could be improved. It sounds like multi-legged robots make bipedal walking easier, which isn't true. Rephrase it to say that multi-legged robots solve the locomotion problem with static stability easier than the dynamic balance of bipedal robots.
+*   **"All theorems and methods presented here can be found in [2]."** Add context here to make clear that the paper applies research from other sources to the 3-link walker.
+*   **"Zero Moment Point Heuristic"** More information would be helpful.
+*   **Figure 1 Caption:** add the words "the Zero Moment Point" to the text of the caption for greater clarity.
+*   **"Lagrange's equation is"**: Change the spelling of Lagrange
+*   **(Equation 5)** This equation has mixed font sizes. Make the fonts match.
+*   **Section 14:** Consider elaborating on *how* the complicated gait is more energy efficient. Where does the energy savings come from?
+
+**Typos and Grammar:**
+
+*   **"The goal of this project is to study the bipedal locomotion problem using nonlinear control techniques in a systematic way."**: remove "a"
+*   **"(Equation 15)** "D_(e)(q)qe + -D_(e)(q)qe − = F_(ext)." There is a missing parenthesis in "D_(e)(q)qe + -"
+*   **"Figure 10: Stable Walking Gait with convergence from an initial condition for exponential controller. The discontinuities are caused by the reset map."**: Remove "Stable Walking Gait with convergence from an initial condition for exponential controller. The discontinuities are caused by the reset map."
+
+**Revised Paper with the Edits Integrated:**
+
+**Abstract**
+
+Bipedal walking is a challenging robotics problem due to its complex dynamics and inherent underactuation. The zero-moment point heuristic presents limitations when dealing with the dynamic nature of bipedal walking. This paper explores using virtual constraints as a solution to define walking gaits. With this approach, stability analysis can occur on the zero dynamics manifold instead of the dynamics as a whole. Simulations of a 3-link bipedal robot were performed to validate this approach using both finite-time and exponential controllers. Results of two gait patterns are shown, a simple periodic gait, and a modified gait optimized for energy efficiency.
+
+**Introduction**
+
+Walking robots have been a popular science fiction fantasy since the mid 20th century. Bipedal robots solve problems that include search and rescue, and elderly assistance. The control community has been actively working on this problem for several decades. Various methods are used; one of the easiest to implement in practice is a robot with 4-6 legs to solve the balancing problem. Bipedal, human-like walking is much more difficult.
+
+Human walking is fundamentally difficult to emulate because it is a highly dynamic process with many states and little static stability. Many existing bipedal robots get around this problem by altering the gait properties to eliminate the dynamic balancing problem; Honda's Asimo is perhaps the most famous example. This method is termed the "Zero Moment Point" method and is discussed in Section 2.
+
+The goal of this project is to study the bipedal locomotion problem using nonlinear control techniques in a systematic way. Stable walking gaits correspond to stable periodic orbits in the state space. By using a variety of techniques, control is applied to create these orbits, specific orbits are identified, and their stability can be proven. These controllers are then simulated on the full-dimensional robot model and shown to create the desired walking gait.
+
+These methods have been extensively developed and applied to complicated robots [2], including hardware testing on a 5-link robot. The work presented here applies the methods of [2] to a simple 3-link walker; All theorems and methods presented here can be found in [2]. The main techniques used are Lagrangian Dynamics, Poincaré maps, hybrid systems, zero dynamics, and feedback linearization.
+
+The outline of this report is as follows: The robot continuous dynamics and impact map are derived. A simple walking gait is chosen. A periodic orbit is found and proved stable for two different types of controllers. The zero dynamics are studied. Finally, a more complicated, energy-efficient gait is studied.
+
+**Figure Captions**
+
+Figure 1: The Zero Moment Point Heuristic. The arrow shows the location of the Zero Moment Point, where the forces on the foot sum to zero moment.
+
+Equation 15: D_(e)(q)qe^+ -D_(e)(q)qe^− = F_(ext).
+
+These changes will lead to an increased understanding of the document.

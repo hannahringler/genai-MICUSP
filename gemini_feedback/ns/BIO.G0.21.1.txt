@@ -1,0 +1,70 @@
+Okay, here's some feedback on the paper, focusing on areas for improvement and highlighting strengths.  I'll address the following aspects:
+
+*   **Overall Impression**
+*   **Clarity and Organization**
+*   **Content and Analysis**
+*   **Writing Style and Grammar**
+*   **Data Presentation**
+*   **Specific Comments (by section)**
+*   **Overall Impression**
+
+The paper presents an interesting study on the prevalence of Haemosporidians in birds in Northern Michigan. It shows effort in data collection and analysis. However, the paper could be significantly strengthened by improving clarity, refining the analysis, and tightening the writing. It appears to be a good start, but needs more polish to reach its full potential.
+
+**Clarity and Organization**
+
+*   **Abstract:** The abstract is a good start, but could be more concise and impactful. Quantify the sample sizes, and clearly state the implications of the findings in a single sentence.
+*   **Introduction:** The introduction is adequate but could be more focused. It's good to provide background on avian malaria and its relevance to human malaria, but the link could be made more explicit. Define key terms. Why is this research important? What gaps in knowledge does it address?
+*   **Methods:** The methods section is generally clear, but more details are needed. The sampling scheme should be explained and justified. What were the criteria for selecting the mist-netting locations? How were the birds handled to minimize stress and potential bias? How were the parasites identified? What quality controls were in place to ensure the accuracy of parasite identification?
+*   **Results:** The results section needs better organization and presentation. The tables should be integrated more seamlessly into the text. Clearly state the key findings, using descriptive sentences. Focus on trends and significant results. Avoid simply restating the table values.
+*   **Discussion:** The discussion is a decent start but could be more insightful. The discussion should primarily focus on the main findings. What are the potential implications of these findings in the context of bird health and conservation?
+*   **Conclusion:** A conclusion is missing. A conclusion should summarize the main findings, discuss their implications, and suggest directions for future research.
+
+**Content and Analysis**
+
+*   **Sample Size:** The sample size, while not explicitly stated in the abstract, is mentioned within the methods. A larger sample size is always desirable.
+*   **Statistical Analysis:** The use of Mann-Whitney and Kruskal-Wallis tests is appropriate, but the justification for choosing these specific tests should be stated. Were assumptions of normality tested? What corrections were applied for multiple comparisons (e.g., Bonferroni)? A statistician could help refine the analysis.
+*   **Haemosporidian Identification:** Which species of Haemosporidian were identified? What was the distribution of different species among the birds sampled?
+*   **Ecological Factors:** The discussion about habitat preference is good, but could be expanded. What other ecological factors might influence infection rates (e.g., elevation, forest type, proximity to agricultural areas)?
+*   **Limitations:** The paper acknowledges the limitation of small sample size. Other limitations should be considered. Did weather conditions affect mist-netting success? Were all birds equally susceptible to infection?
+
+**Writing Style and Grammar**
+
+*   **Clarity and Conciseness:** The writing style could be more concise and direct. Avoid unnecessary words and phrases.
+*   **Scientific Tone:** Maintain a formal and objective tone throughout the paper.
+*   **Proofreading:** Thoroughly proofread the paper for grammatical errors, spelling mistakes, and typos. There are some minor errors that detract from the paper's credibility.
+
+**Data Presentation**
+
+*   **Tables:** The tables are generally well-formatted, but need more descriptive captions. Clearly label the columns and rows.
+*   **Figures:** The figures are adequate, but could be improved. The axes should be clearly labeled, and the captions should provide more context. Error bars should be included on the graphs to show the uncertainty in the estimates.
+*   **Integration:** The tables and figures should be integrated more effectively into the text. Refer to them explicitly and explain their relevance to the overall findings.
+
+**Specific Comments (by section)**
+
+*   **Page 1:** The title is concise and appropriate. The keywords at the top are relevant.
+*   **Page 2:** The abstract could be more concise. Remove the sentence "Birds caught and banded by mist-netters were sampled for blood and recorded by species, net number, sex, age, and swab number."
+*   **Page 3:** Define "Haemosporidian" and "Plasmodium" early in the introduction. The last sentence of the first paragraph is redundant.
+*   **Page 4:** Describe the mist-netting process in more detail. How were the nets positioned? What were the mesh sizes? How often were the nets checked? How were the birds handled to minimize stress?
+*   **Page 5:** The tables are generally well-formatted. The caption for Table 1 should be more descriptive. Clearly state the units of measurement (e.g., percentage).
+*   **Page 6:** Provide scientific names for all bird species mentioned in the text.
+*   **Page 7:** The axes in Figure 1 should be clearly labeled. Correct "Fringillidae" to "Emberizidae" in the figure caption.
+*   **Page 8:** The axes in Figure 2 should be clearly labeled.
+*   **Page 9:** The axes in Figures 3 and 4 should be clearly labeled.
+*   **Pages 10-12:** These pages contain tables of statistical results. It's important to explain the significance of these results in the text.
+*   **Page 13:** The discussion should be more focused on the main findings. The connection between habitat preference and infection rates should be further developed.
+*   **Page 14:** The limitations of the study should be acknowledged.
+*   **Page 15:** There are only 3 sentences on this page, which seems to suggest the discussion should be longer.
+*   **Page 16:** The acknowledgements are appropriate.
+*   **Page 17-18:** The literature cited is well-formatted.
+
+**Recommendations**
+
+1.  **Revise the introduction:** Clearly state the research question, objectives, and significance of the study.
+2.  **Improve the methods section:** Provide more details about the sampling scheme, bird handling, parasite identification, and quality control procedures.
+3.  **Organize the results section:** Present the findings in a logical and coherent manner. Use descriptive sentences to highlight the key trends and significant results.
+4.  **Refine the discussion section:** Interpret the findings in the context of previous research and ecological factors. Address the limitations of the study.
+5.  **Strengthen the conclusion:** Summarize the main findings, discuss their implications, and suggest directions for future research.
+6.  **Improve the data presentation:** Ensure that the tables and figures are clear, informative, and well-integrated into the text.
+7.  **Proofread the paper carefully:** Correct any grammatical errors, spelling mistakes, and typos.
+
+By addressing these recommendations, you can significantly improve the clarity, rigor, and impact of your paper.

@@ -1,0 +1,59 @@
+Okay, here's a breakdown of feedback on the paper, covering its strengths, weaknesses, and suggestions for improvement.
+
+**Overall Impression**
+
+The paper presents a decent argument about the distribution and dynamics of power within cities. It identifies the key players (government, businesses, citizens), discusses their respective sources of power, and explores how governmental structures impact these power relationships.  The paper demonstrates understanding of some relevant concepts (Dillon's Rule, different city government structures).
+
+**Strengths**
+
+*   **Clear Thesis (Implied):** The paper has a discernible central argument: power in cities is a complex interplay between government, businesses, and citizens, influenced by legal structures and economic factors.
+*   **Identifies Key Players:** The paper correctly identifies the main power sources: local government, businesses, and citizens.
+*   **Discusses Sources of Power:** It highlights the different sources of power each entity possesses: legal authority, economic influence, and the ability to shape agendas.
+*   **Explores Different City Government Structures:** The discussion of mayor-council and council-manager systems is relevant to the argument, showing how different structures impact power dynamics.
+*   **Real-World Examples:** The inclusion of Consumers Energy and the wind generator example helps ground the argument in reality. The steel mill in Gary example is also effective.
+
+**Weaknesses**
+
+*   **Lack of Clear Thesis Statement (explicit):** While the argument is discernible, it's missing a strong, upfront thesis statement that explicitly lays out the main points.  This makes the introduction feel somewhat meandering.
+*   **Organization:** While there is a logical flow, the transitions between points could be smoother. The paper could benefit from clearer topic sentences at the beginning of each paragraph, indicating the paragraph's specific focus.
+*   **Depth of Analysis:** Some of the analysis feels a bit superficial. For example, the discussion of Dillon's Rule could be more detailed, explaining its practical implications. Similarly, the explanation of how each government system is affected can be more developed.
+*   **Support for Claims:** Some claims could use more supporting evidence or examples. For instance, when the paper says "Ross and Levine contend that in each system the mayor has relatively little power," it would be beneficial to cite them again or provide a brief explanation of their reasoning.
+*   **Citation Formatting:** The citation ("Ross and Levine pg 144") at the end is informal and should be converted to a standard citation.
+*   **Concluding Paragraph:** The conclusion feels a bit abrupt. It summarizes the main points, but it could be more impactful by offering a final thought, a call to action, or a prediction about the future of power dynamics in cities.
+*   **Grammar/Word Choice:** A careful proofread would likely catch some minor grammar and word choice issues to improve clarity and conciseness.
+
+**Suggestions for Improvement**
+
+1.  **Craft a Strong Thesis Statement:** Develop a concise and direct thesis statement that clearly states the main argument of the paper. Place this statement at the end of the introduction.  For example: "Power within cities is a dynamic interplay between local government, businesses, and citizens, shaped by legal frameworks like Dillon's Rule, varying governmental structures, and the ability to control economic resources and public opinion."
+
+2.  **Strengthen Paragraph Structure:**
+
+    *   **Topic Sentences:** Begin each paragraph with a clear topic sentence that introduces the paragraph's main point and connects it to the overall thesis.
+    *   **Transitions:** Use transition words and phrases to create smoother connections between paragraphs and ideas. For example, "In addition to...", "However...", "Furthermore...", "In contrast...".
+
+3.  **Deepen the Analysis:**
+
+    *   **Dillon's Rule:** Explain the practical consequences of Dillon's Rule. How does it affect a city's ability to respond to local needs?
+    *   **Government Structures:** Expand the analysis of the mayor-council and council-manager systems. Discuss the advantages and disadvantages of each in terms of accountability, responsiveness to citizens, and ability to negotiate with businesses.
+    *   **Commission Government:** Elaborate slightly more on the commission system.
+
+4.  **Provide More Evidence and Support:**
+
+    *   Back up claims with specific examples, data, or additional citations where appropriate.
+    *   If you are using Ross and Levine, cite them more thoroughly to explain their point of view.
+
+5.  **Refine the Conclusion:**
+
+    *   Summarize the main points of the paper.
+    *   Offer a final thought or insight about the implications of the power dynamics discussed.
+    *   Consider adding a "call to action" (e.g., suggesting what citizens or policymakers should do to address power imbalances).
+
+6.  **Revise Citation Format** Change the in-text citation to a proper format.
+
+7.  **Proofread Carefully:**  Thoroughly proofread the paper for grammar, spelling, punctuation, and word choice errors.
+
+**Example of Revised Introduction (with Thesis):**
+
+"Having, maintaining, and controlling power is critical for governments, businesses, and citizens to achieve their political goals. For example, without zoning power, cities would have a hard time regulating where businesses locate within their city. Businesses might also have trouble getting a pro-business agenda passed if they did not significantly contribute to the tax base in a city. While power in a city is normally concentrated between local government, businesses and citizens, these three power sources normally hold very different types of power. Furthermore, the degree to which these hold power and their method of obtaining power vary distinctly. This paper argues that power within cities is a dynamic interplay between local government, businesses, and citizens, shaped by legal frameworks like Dillon's Rule, varying governmental structures, and the ability to control economic resources and public opinion."
+
+By addressing these weaknesses and implementing the suggestions, you can significantly strengthen your paper and create a more compelling and persuasive argument. Good luck!

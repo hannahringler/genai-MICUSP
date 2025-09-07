@@ -1,0 +1,42 @@
+Okay, here's some feedback on the paper, focusing on its strengths, weaknesses, and potential areas for improvement.
+
+**Overall Impression**
+
+The paper presents a well-defined problem and proposes a research study to investigate the intersection of student attitudes, social networking (specifically Facebook), and collaborative writing in academic settings. The author demonstrates a strong understanding of relevant theories (activity theory, space theory) and literature in composition studies. The research questions are clearly stated and the proposed methodology is reasonably detailed.
+
+**Strengths:**
+
+*   **Clear Problem Statement:** The "PROBLEM" section effectively outlines the conflict between the perceived separation of social and academic spaces online and in classrooms. The author convincingly argues that instructors may be missing opportunities to leverage students' familiarity with social networking for academic collaboration.
+*   **Strong Theoretical Framework:** The paper draws on well-established theories (activity theory, space theory) and connects them thoughtfully to the research questions. This theoretical grounding adds depth and credibility to the proposal.
+*   **Focused Research Questions:** The research questions are specific and directly address the problem statement. They provide a clear direction for the proposed study.
+*   **Detailed Methodology:** The "METHODS/DESIGN/DATA" section provides a good overview of the proposed research design, including the use of surveys, classroom observation, and collaborative projects. The sample questions included in the survey are relevant to the research questions.
+*   **Comprehensive Literature Review:** The "References" section includes a wide range of relevant scholarly sources, demonstrating the author's familiarity with the existing literature in composition studies, technology, and social networking.
+*   **Well Written:** The paper is generally well-written and easy to understand. The author uses appropriate academic language and effectively communicates complex ideas.
+
+**Weaknesses and Areas for Improvement:**
+
+*   **Specificity of Methodology:**
+    *   **Survey Instruments:** While sample questions are provided, more detail about the actual survey instruments would strengthen the proposal. Consider discussing the types of questions (e.g., Likert scales, open-ended questions) and the rationale for choosing those types.
+    *   **Data Analysis:** Provide more detail about how the survey data will be analyzed. Will you be using statistical analysis? Qualitative coding? A mixed-methods approach?
+    *   **Timeline:** The timeline is a bit vague. Provide a more detailed schedule for data collection, analysis, and write-up.
+*   **Elaboration on the Intervention:** While the paper mentions using *Facebook* in the classroom, further clarification is needed. How exactly will *Facebook* be integrated into the collaborative assignment? Will there be specific activities or tasks that involve the platform? Will the students be required to use *Facebook* or will it be optional?
+*   **Reflexivity:** As the researcher, it would be beneficial to acknowledge your own potential biases or assumptions about technology, collaboration, and *Facebook*. How might these influence your interpretation of the data?
+*   **Ethical Considerations:** Include a brief discussion of ethical considerations, such as informed consent, privacy, and data security.
+*   **Limitations of the Study:** It would be helpful to acknowledge the limitations of the study, such as the small sample size and the specific context of the English 125 classroom. How might these limitations affect the generalizability of the findings?
+
+**Specific Suggestions:**
+
+*   **Methodology Section:**
+    *   **Expand on Survey Design:** Instead of simply listing potential questions, describe the overall structure of the survey and the types of questions you plan to use.
+    *   **Clarify the Role of Facebook:** Be more specific about how Facebook will be used in the collaborative project.
+    *   **Outline Data Analysis Methods:** Provide a clear explanation of how you will analyze the survey data.
+*   **Conceptual Framework:**
+    *   **Deepen Space Theory Discussion:** Explore the connection between virtual spaces and student identities. How do students construct their identities on platforms like *Facebook*, and how might this influence their attitudes towards academic collaboration?
+*   **"PROJECTED DATA ANALYSIS" Section:**
+    *   **Clarify Analytical Focus:** Will you look for correlations between *Facebook* usage, collaboration attitudes, and academic performance? Will you be analyzing qualitative data from open-ended survey responses?
+    *   **Anticipate Potential Findings:** Hypothesize about what you might find. What potential trends or patterns do you anticipate observing in the data?
+*   **General:**
+    *   **Proofread Carefully:** Ensure that the paper is free of grammatical errors and typos.
+    *   **Ensure consistent style for citations:** There appear to be two citation styles used.
+
+**In summary:** This is a well-conceived and well-written research proposal. By addressing the weaknesses and incorporating the specific suggestions outlined above, the author can further strengthen the proposal and increase its potential for success.  Good luck!

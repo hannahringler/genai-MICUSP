@@ -1,0 +1,73 @@
+Okay, I've read the paper and here's some feedback, focusing on strengths, weaknesses, and suggestions for improvement:
+
+**Overall Impression**
+
+The paper presents a well-structured argument that challenges Nathaniel Leff's interpretation of Brazil's economic performance in the 19th century. You clearly understand Leff's argument and present a reasonable alternative hypothesis. The paper demonstrates research and critical thinking.
+
+**Strengths:**
+
+*   **Clear Argument:** You clearly state Leff's thesis and your counter-argument in the introduction. The thesis is maintained throughout the paper.
+*   **Strong Literature Review:** You effectively summarize Leff's article and explain its relevance to your research.
+*   **Good Organization:** The paper follows a logical structure with a clear introduction, literature review, methodology, analysis, and conclusion.
+*   **Solid Research:** You cite a good range of sources to support your claims, including primary and secondary historical works. The sources are properly documented.
+*   **Critical Thinking:** You effectively challenge Leff's assumptions and present alternative interpretations based on your research.
+*   **Good Use of Evidence:** You use data from censuses and other sources to support your arguments about the size of the non-agricultural sector.
+*   **Well Written:** The paper is generally well-written and easy to follow, with clear sentences and paragraphs.
+
+**Weaknesses:**
+
+*   **Depth of Analysis:** While you present a strong counter-argument, the analysis could be deepened in some areas.
+
+    *   **Transportation Costs:** You could provide more specific examples of the challenges of river transportation (other than waterfalls) and road conditions in different regions. What kind of goods were transported, and what were the estimated costs compared to other countries?
+*   **Limited Empirical Data:** While you do provide census data and information on occupation, the data is limited and may not be fully representative.
+*   **The "Poverty" Argument:**
+
+    *   It sounds like you are suggesting this theoretical "poverty" argument is the most significant impact and that is your thesis. However, it is not as substantiated as your other points.
+*   **Lack of Counter Evidence for Transportation Costs:**
+
+    *   You argue the transportation argument is founded, but you don't clearly suggest this is a flaw.
+
+**Suggestions for Improvement:**
+
+*   **Transportation Analysis:**
+
+    *   Look into case studies or specific examples of transportation issues.
+    *   Discuss alternative forms of transportation.
+*   **Deepen the Poverty Analysis:**
+
+    *   Explore the social and economic conditions of the non-agricultural sector. What was the nature of their work? How were they paid?
+    *   You might consider comparing the living standards of agricultural workers and non-agricultural workers.
+    *   Are there accounts of the "impoverished" conditions, or would it be worth suggesting other alternatives besides that condition being the reason for the poor economic sector?
+*   **Acknowledge Limitations:**
+
+    *   The data you use has limitations. Address them. Acknowledge that your findings are based on limited data and that further research is needed to confirm your conclusions.
+*   **Refine the Conclusion:**
+
+    *   Strongly state your overall conclusion and emphasize the significance of your findings.
+
+**Specific Comments and Edits:**
+
+*   **Introduction:**
+
+    *   Consider adding a sentence or two in the introduction that states your central argument or hypothesis. This will provide a clearer roadmap for the reader.
+*   **Review of Literature:**
+*   **"In order to demonstrate the size of the domestic agriculture sector Leff explains that at 1820, 70 percent of the population were free people, and that free labor was seldom employed in export activities.":** What does this tell us about size? This isn't clear to me.
+*   **Transportation Analysis:**
+
+    *   It would be worthwhile to include a discussion of mule trains (tropas) and their role in transporting goods. How costly were they?
+
+*   **Census Data (São Paulo and Minas Gerais):**
+
+    *   Consider presenting the data in a clearer way, perhaps using percentages or ratios. This will make it easier for the reader to compare the relative sizes of the agricultural and non-agricultural sectors.
+*   **Conclusion:**
+
+    *   The conclusion is good, but it could be strengthened by summarizing the key findings and reiterating your counter-argument.
+*   **Citations and Bibliography:**
+
+    *   Double-check all citations to ensure they are complete and accurate.
+    *   Ensure that all works cited in the paper are included in the bibliography.
+    *   The citations in the bibliography are not consistent in terms of spacing and format (e.g., "Brazil." vs. "Brazil").
+
+**In summary:**
+
+This is a well-researched and well-written paper that presents a strong challenge to Leff's interpretation of Brazil's economic history. By addressing the weaknesses outlined above, you can further strengthen your argument and make your paper even more compelling. Good luck!

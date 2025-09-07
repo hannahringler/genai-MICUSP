@@ -1,0 +1,66 @@
+Absolutely! Here is a detailed feedback for your paper “Emotion and the Ultimatum Game: How Rumination and Negative Affect in Depression May Affect Decision-Making Behavior.”
+
+---
+
+## Overall Impressions
+
+This is a well-structured and thoughtful paper that demonstrates an impressive command of the literature on the Ultimatum Game, emotion, and depression. The writing is clear and engaging, the arguments are logically presented, and references are appropriate and well-integrated. The focus on rumination and depression as potentially modulating factors in economic decision making is interesting and novel.
+
+---
+
+## Strengths
+
+### 1. **Introduction and Framing**
+- The paper provides a succinct yet thorough explanation of the Ultimatum Game and highlights the contradiction between rational economic theory and observed human behaviors.
+- Your framing of the research question is clear and relevant, especially in focusing on underexamined populations (people with depression) in this context.
+
+### 2. **Use of Literature**
+- Excellent integration of diverse sources, ranging from behavioral economics to neuroscience.
+- Strong summary of key studies relevant to fairness, neurology, and emotion in decision-making, including classic and more recent research.
+- Good attention to both laboratory findings (e.g., neuroimaging, TMS) and theoretical models.
+
+### 3. **Critical Engagement**
+- The critical synthesis of theories (e.g., Nowak’s reputation model, the spite model, neurology studies) is well-executed.
+- The consideration of rumination as a differentiator between transient sadness and depressive symptomatology is insightful.
+
+### 4. **Clarity and Structure**
+- The writing is generally clear, with effective organization into logical sections (fairness, emotion, depression).
+- The transitions between sections are smooth.
+- The abstract and summary synthesize the main arguments effectively.
+
+---
+
+## Suggestions for Improvement
+
+### 1. **Original Hypothesis/Predictions**
+- **Development:** The prediction that people with depression will reject fewer unfair offers due to rumination is presented, but could be made more explicit and revisited in the conclusion for emphasis.
+- **Alternative Explanations:** Consider alternative predictions or possible moderating variables (e.g., the role of anhedonia, severity/type of depressive symptoms, presence of comorbid anxiety).
+
+### 2. **Depth of Discussion**
+- **Rumination Mechanism:** The section on rumination might be expanded to describe exactly **how** rumination would disrupt “fairness-based” rejections in the game. For example, cite more extensively how self-directed negative thoughts could override anger responses.
+- **Competing Frameworks:** Acknowledge opposing views or unexpected findings (e.g., the possibility that some depressed individuals, depending on their symptom profile, may be more sensitive to perceived unfairness).
+
+### 3. **Connection to Broader Significance**
+- While the paper concludes with the importance of researching MDD’s effect on decision-making, you could further elaborate on **why** this matters: e.g., implications for workplace negotiations, vulnerability to exploitation, or clinical interventions.
+
+### 4. **Specificity in Methods/Future Research**
+- Suggest brief specific experimental paradigms for testing your hypothesis (such as a suggestion for how a future Ultimatum Game study with depressed vs. non-depressed participants might be structured; how would you account for medication, mood induction, etc.?).
+- Discuss possible self-report or behavioral measures for rumination during the game.
+
+### 5. **Minor Writing Points**
+- **Typos/Formatting:** There are a few small typos (e.g., “phsyiological” → “physiological”) and some formatting glitches ("depressin" instead of "depression" and a random number split in half). Review for minor spelling/grammar issues.
+- **Reference Consistency:** Ensure that all in-text citations and references are formatted per the appropriate style guide (APA, likely) and that all are listed in the references section.
+
+---
+
+## Summary
+
+**Strengths:** Well-researched, clearly written, thoughtfully argued, innovative topic focus.
+
+**Suggestions:** Emphasize and revisit your hypothesis, deepen the mechanistic/alternative explanation discussion, flesh out real-world/clinical significance, and suggest concrete research methodologies for future work.
+
+Overall, this is an impressive graduate-level paper that demonstrates real insight into both the Ultimatum Game paradigm and the psychology of affective disorders. With a bit more focus on mechanism and application, it would be quite strong for publication or a thesis chapter.
+
+---
+
+If you want more focused feedback (e.g., on structure, writing style, APA formatting, or any particular section), let me know!

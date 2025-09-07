@@ -1,0 +1,45 @@
+Okay, here's some feedback on the paper, focusing on strengths, weaknesses, and suggestions for improvement.
+
+**Overall Impression**
+
+This is a solid piece of work that demonstrates a good understanding of the factors influencing stream ecosystems. You have clearly applied concepts learned in the lab to analyze and compare the different streams. The organization is logical, and you use data to support your claims.
+
+**Strengths:**
+
+*   **Clear Introduction and Purpose:** The introduction clearly states the purpose of the lab and sets the stage for the comparison of the streams.
+*   **Logical Organization:** The paper is well-organized, progressing from land use to discharge, water chemistry, surficial geology, and finally, biological indicators. This structure helps the reader follow your reasoning.
+*   **Data-Driven Analysis:** You effectively use the figures and tables to support your claims. You refer to specific data points to justify your interpretations.
+*   **Connections Between Factors:** You make good connections between the various factors (land use, geology, water chemistry) and their influence on stream characteristics and biota.
+*   **Understanding of Ecological Principles:** You demonstrate a solid understanding of concepts like baseflow, runoff, nutrient loading, pollution tolerance, and biodiversity.
+*   **Good Use of Terminology:** You use appropriate scientific terminology throughout the paper.
+
+**Areas for Improvement:**
+
+*   **Expand on Underlying Geology (Minor):**
+    *   You briefly mention the limitation of not knowing the underlying geology. Expanding on the potential influence of limestone and bedrock on stream chemistry would give your paper greater depth.
+    *    You could discuss the difference between dolomite and limestone.
+
+*   **Address Anomalies and Unexpected Results:**
+    *   **Alkalinity:** You observed higher alkalinity in Fleming Creek and Mill Creek than expected. While you acknowledge that differences in underlying geology could be the reason, explore this further. Were there other potential sources of carbonates in those watersheds (e.g., industrial discharge, agricultural practices)?
+    *    Did you observe the Maple River and the Pigeon River as having similar alkalinity measurements?
+
+*   **Differentiate between natural and human effects:**
+    *   How much of an influence does the actual water chemistry have?
+
+*   **More Precise Language:** While your language is generally good, there are a few places where it could be more precise and avoid ambiguity. For example:
+    *   Instead of "rainwater that falls on agricultural or urban landscapes picks up nutrients from farm fields and lawns," be more specific: "Runoff from agricultural land often contains fertilizers..."
+
+**Specific Suggestions:**
+
+*   **Abstract:** Consider adding a brief abstract at the beginning of the paper to summarize the key findings and conclusions.
+*   **Expand the Discussion of Surficial Geology:** Provide a bit more explanation of why different surficial geologies lead to different discharge patterns. How does particle size affect infiltration rates?
+*   **Consider Error:** Briefly mention the possibility of error in the measurements and how this might influence your conclusions.
+*   **Conclusion:** The conclusion should summarize the main points and perhaps suggest future research or management implications. What are the broader implications of your findings?
+*   **Proofread Carefully:** Give the paper a thorough proofread to catch any minor grammatical or spelling errors.
+
+**Example Edits/Additions:**
+
+*   **For Alkalinity:** "Although we expected higher alkalinity in the Maple and Pigeon Rivers due to their groundwater-dominated flow and potential interaction with limestone bedrock, we observed higher alkalinity in Fleming and Mill Creeks (Figure 5). This unexpected result could be due to localized sources of carbonates in those watersheds, such as..."
+*   **For Conclusion:** "In summary, our analysis demonstrates how land use and surficial geology profoundly influence stream discharge, water chemistry, and biological communities. These findings highlight the importance of watershed management practices that minimize runoff, reduce nutrient loading, and protect the integrity of stream ecosystems. Future research could focus on quantifying the specific contributions of different land use types to nutrient levels and on assessing the long-term impacts of land use change on stream health."
+
+**In summary, you've done a commendable job. By addressing the areas for improvement and incorporating the specific suggestions, you can further strengthen your paper and make it even more compelling.**

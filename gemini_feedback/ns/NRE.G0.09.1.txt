@@ -1,0 +1,51 @@
+Okay, I can provide feedback on this paper based on the OCR text you've provided.  Keep in mind that I'm limited by not seeing the figures directly, but I'll do my best to assess the content and structure.
+
+**Overall Impressions**
+
+The paper presents a reasonable structural analysis of the Bear Valley Strip Mine. It follows a logical progression, from introduction and methods to results and conclusions. The integration of field observations, stereonet analysis, and regional context is a strong point.  The paper shows an understanding of basic structural geology principles.
+
+**Strengths**
+
+*   **Clear Structure:** The paper is well-organized with clear sections (Introduction, Methods, Fold Geometry, Joint Orientations, Conclusions).
+*   **Integration of Data:** The paper attempts to integrate field observations (bedding attitudes, joint orientations, slickensides) with stereonet analysis to derive a structural history.
+*   **Regional Context:**  The paper places the study area within the broader context of the Valley and Ridge province and the Appalachian foreland fold and thrust belt.
+*   **Use of Visuals (Figures):** The presence of figures (even without seeing them) is crucial for a structural geology paper. References to stereonets and a cross-section are appropriate.
+
+**Areas for Improvement**
+
+*   **Methods Section - Expand:** The methods section is brief. More detail is needed about:
+    *   *Specifics of Data Collection:* How many measurements were taken for each feature (bedding, joints, slickensides)? How were locations chosen for measurement?
+    *   *Stereonet Analysis Details:* Briefly explain the stereonet projection used (equal area is mentioned, which is good). Explain how fold axes were determined from bedding attitudes on the stereonet. Briefly explain how joints were "unfolded."
+    *   *Air Photo Use:* How was the air photo used? Was it used to map structures, plan field work, etc.?
+*   **Fold Geometry - More Descriptive, Quantitative:**
+    *   *Description of Folds:* Provide more detailed descriptions of the folds observed in the field. What are the wavelengths and amplitudes? Are the folds symmetric or asymmetric?
+    *   *Quantitative Data:*  Mention specific dip angles of the fold limbs.  Even better would be to include dip isogon analysis, which would show the fold class more clearly.
+    *   *Vergence:* Be more specific about the evidence for vergence. How does the relative steepness of fold limbs relate to vergence?
+*   **Joint Orientations - Strengthen the Argument:**
+    *   *Unfolding Explanation:* The process of "unfolding" joints needs a clearer explanation. How exactly was this done on the stereonet?
+    *   *Comparison to Regional Joints:*  Table 1 is good, but discuss the implications of the comparison more fully.  Do the similarities suggest a common origin, or just a similar stress regime? What are the potential sources of error in comparing your data to the data from Nickelsen and Hough?
+*   **Slickensides - More Information:**
+    *   *Slickenside Details:* Describe the slickensides more fully. What is the orientation of the slickenside lineations? What does this indicate about the direction of movement along the fault?
+    *   *Interpretation:* The interpretation of pre-folding vs. post-folding faulting needs more justification. How does the clustering or dispersion of rotated slickensides support these interpretations?
+*   **Conclusions - More Specific:**
+    *   *Causal Relations:* Use words that relate the relationships between processes. "Resulted in" or "led to" makes a sentence more persuasive.
+*   **Figures - Critical Importance (Need to see them):**
+    *   *Stereonets:* Make sure the stereonets are properly labeled (poles to bedding, great circles, fold axes, etc.).
+    *   *Cross-Section:* The schematic cross-section (Fig. 6) should be drawn to scale (if possible) and should accurately reflect the fold geometries observed in the field and in the stereonet analysis. Include the slickenside data.
+    *   *Figure Captions:* Make the figure captions more descriptive. They should summarize the key observations or interpretations presented in the figure.
+
+**Specific Comments on Sections**
+
+*   **Abstract:** The abstract is a good summary, but could be slightly more specific about the main findings.
+*   **Introduction:** Well-written, providing context for the study.
+*   **Methods:** Needs more detail (see above).
+*   **Fold Geometry:** Good start, but needs more quantitative data and more detailed descriptions of the folds.
+*   **Joint Orientations:** The most challenging section. Requires a clearer explanation of the unfolding process and a more nuanced interpretation of the results.
+*   **Conclusions:** Summarizes the findings, but could be more specific and emphasize the key contributions of the study.
+
+**Additional Suggestions**
+
+*   **Consider Error:** Briefly discuss potential sources of error in the measurements and analysis.
+*   **Tectonic Setting:** Expand the discussion of the tectonic setting. What was the regional stress field during the Alleghanian orogeny? How does this relate to the observed structures?
+
+I hope this feedback is helpful. If you can provide more details about the figures or specific aspects of the paper, I can offer more targeted advice. Good luck with your revisions!

@@ -1,0 +1,71 @@
+Certainly! Here is detailed feedback on your paper, focusing on **structure**, **argumentation**, **use of evidence**, **clarity**, and **style**:
+
+### Strengths
+
+#### 1. **Clear Thesis and Position**
+You clearly state your position: while national security is important, the measures discussed (Japanese-American internment and the USA Patriot Act) went too far in curtailing civil liberties. Your stance against unchecked government authority comes through consistently.
+
+#### 2. **Historical Context**
+You effectively use historical examples—the internment of Japanese Americans in WWII and the post-9/11 USA Patriot Act—to ground your argument. This approach helps the reader see how rights have been curtailed during perceived national emergencies.
+
+#### 3. **Legal References**
+You reference Supreme Court cases (“Korematsu v. United States,” “Ex Parte Merryman”) and constitutional provisions. This strengthens your paper by showing familiarity with legal frameworks.
+
+#### 4. **Acknowledgement of Complexity**
+You acknowledge that there is a difficult balance between security and liberty and that the stakes are high on both sides. This nuance gives your paper intellectual credibility.
+
+#### 5. **Prescriptive Suggestions**
+You make recommendations on what would constitute appropriate government action (such as increased security in public places rather than suspension of constitutional rights), which moves the essay beyond mere critique.
+
+---
+
+### Areas for Improvement
+
+#### 1. **Organization & Flow**
+- **Transitions:** Some paragraphs could more smoothly connect. For example, when moving from WWII internment to the Patriot Act, add transitional sentences to reinforce the continuity of your argument.
+- **Structure:** The essay jumps between specific historical examples, legal arguments, and personal opinion. Consider a structure such as:  
+    1) Historical context  
+    2) Legal and constitutional analysis  
+    3) Specific examples  
+    4) Policy suggestions  
+    5) Conclusion
+
+#### 2. **Depth of Analysis**
+- **Comparative analysis:** When comparing the internment to the Patriot Act, you could dig a little deeper into what made the responses constitutionally problematic—e.g., discuss the reasoning behind the Supreme Court upholding these measures at the time, and what has changed since.
+- **Counterarguments:** While you mention you "appreciate the thinking" behind security laws, you could briefly explain common arguments in favor of them, then rebut them. This would demonstrate awareness of opposing viewpoints and strengthen your essay.
+
+#### 3. **Use of Evidence**
+- **Quotes/Paraphrasing:** You cite sources, but specific details or quotes from the cited laws or Supreme Court decisions would add authority.
+- **Data:** For example, you mention 120,000 Japanese relocated and that 62% were citizens. Similarly concrete facts for post-9/11 measures could help.
+
+#### 4. **Precision & Clarity**
+- **Terms:** Sometimes terms like “Native American terrorists” are used when you likely mean “domestic terrorists who were U.S. citizens” (e.g., the Oklahoma City bombing). Be precise to avoid confusion and insensitive language.
+- **Residency/Citizenship distinction:** Sometimes, you discuss “citizens and resident aliens” together, later shift to "aliens outside the United States" (Guantanamo), but the legal distinctions are more complex than presented. Clarify the basis for different levels of rights.
+
+#### 5. **Conclusion**
+- Your paper ends somewhat abruptly with the issue of Guantanamo and legal challenges. Add a short concluding paragraph to reinforce your position, summarize your argument, and perhaps point to a path forward (e.g., advocating vigilant oversight of government powers).
+
+---
+
+### Minor Stylistic Points
+
+- **Mechanical:** There are a few minor surface-level errors (e.g., “interment” should be “internment”; “usurpation” is used correctly, but might be clearer as “overreach”).
+- **Repetition:** There is some repetition of ideas (e.g., constitutional rights must be protected), which could be tightened for conciseness.
+
+---
+
+### Summary Table
+
+| Criterion                | Strengths                                | Suggestions                                 |  
+|--------------------------|------------------------------------------|---------------------------------------------|  
+| Thesis/Position          | Clear, consistent                        | Add concise conclusion                      |  
+| Organization             | Historical, legal, and policy coverage   | Improve paragraph transitions/flow          |  
+| Evidence/Support         | Relevant historical/legal examples       | Use more specifics, direct quotes where apt |  
+| Depth of Analysis        | Good constitutional/legal context        | Include counterarguments, deeper analysis   |  
+| Clarity/Style            | Mostly clear, logical                    | Clarify terminology, condense repetition    |
+
+---
+
+### Final Overall Feedback
+
+Your paper capably addresses the tension between civil liberties and national security. With improved structure, additional depth, clarity around legal distinctions, and a strong conclusion, your argument would be even more persuasive and polished. Keep engaging thoughtfully with the material, tying in evidence, and anticipating counterpoints—these skills are key to excellent political analysis writing.

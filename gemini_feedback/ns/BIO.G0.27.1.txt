@@ -1,0 +1,69 @@
+Okay, here's a breakdown of feedback on the research paper draft you provided. I'll focus on several key areas:
+
+**Overall Impression**
+
+The paper presents a well-structured and clearly written study on the effects of post-fire succession on small mammal communities. It demonstrates a good understanding of ecological principles and uses appropriate methods for data collection and analysis. The paper has a clear objective, well-defined methodology, and presents results logically.  The discussion section attempts to explain the observed results.
+
+**Strengths:**
+
+*   **Clear Research Question:** The paper clearly states the research question and objectives.
+*   **Well-Defined Methods:** The methods section provides sufficient detail for replication. The rationale behind the methods is clear.
+*   **Organized Results:** The results section is well-organized and presents the key findings effectively. Figures and tables are appropriately used to summarize data.
+*   **Statistical Analysis:** Appropriate statistical tests are used.
+*   **Literature Review:** The introduction provides adequate background and citations to relevant literature.
+*   **Readable:** Generally, the writing is clear and concise.
+*   **Figures:** The figures are helpful in visualizing the data.
+
+**Areas for Improvement:**
+
+1.  **Abstract:**
+    *   Consider adding the P-value for each correlation.
+    *   Highlight the significant findings in the abstract more explicitly.
+
+2.  **Introduction:**
+
+    *   Provide more specific information on the study area. Is it a specific forest type?
+    *   Explain the significance of the 1917 plot burning naturally, or the specific objectives of those experimental burns. This would help justify why those particular plots were chosen.
+    *   The last sentence of the second paragraph is vague and somewhat confusing. Consider elaborating or rephrasing.
+    *   Briefly mention the specific species of small mammals expected to be found in the area.
+
+3.  **Materials and Methods:**
+
+    *   **Study Site:** Clarify if the 1948 plot was clear cut.
+    *   **Vegetation and Coarse Woody Debris:** You mention four transects, 50 meters long. How far apart were sample points on these transects?
+    *   **Grids:** What was the purpose for clipping a small portion of fur of the individuals and returning them to their trapping stations?
+    *   **Grids:** What was the average interval between each trap.
+    *   **Trapping and Processing:** Explain the rationale for the chosen trapping dates. Were they based on specific life cycle stages of the target species?
+
+4.  **Results:**
+
+    *   **Vegetation & Coarse Woody Debris:**  The meaning of some of the R values is ambiguous. Consider rephrasing for clarity.
+    *   **Captured animals:** The significance (or lack thereof) of these recaptures should be stated explicitly.
+
+5.  **Discussion:**
+
+    *   The discussion section could be expanded by elaborating on the ecological implications of the findings. How do the observed changes in small mammal communities affect the broader ecosystem?
+    *   **Alternative explanations:** The discussion does address the impact of predator population; however, it fails to address how seasonal variation of vegetation could impact the distribution and abundance of small mammals.
+    *   **Comparisons:** Consider comparing your findings to those of other studies on post-fire succession and small mammal communities. This would provide context and strengthen your conclusions.
+    *   **General:** the discussion section seems to only focus on what could have impacted P. leucopus abundance, or distribution. It should also address the impact of forest fire on T. striatus and B. brevicauda.
+    *   It would be useful to mention specific insect groups associated with coarse woody debris and eaten by P. leucopus.
+
+6.  **Tables and Figures:**
+
+    *   Ensure that all figures and tables are clearly labeled and have informative captions.
+    *   The 1952 Clear-Cut and 1932 Clear-cut in the plot should be excluded from the map in the study site.
+
+7.  **Grammar and Style:**
+
+    *   The paper is generally well-written, but proofread carefully for typos, grammatical errors, and inconsistencies in style.
+
+**Specific Suggestions & Questions:**
+
+*   **Source-Sink Dynamics:** You mention the possibility of a source-sink scenario. Could you provide more evidence to support or refute this hypothesis based on your data?
+*   **CWD:** You found a correlation between CWD and scrotal males. Can you speculate on the mechanisms driving this relationship (e.g., shelter, food, etc.)?
+*   **Predation:** You mention potential predators based on trap disturbance. Is there any way to quantify predation risk directly in your study area (e.g., camera traps, scat surveys)?
+*   **Limitations:** Acknowledge the limitations of your study (e.g., limited sample size, short study duration).
+
+**Overall Recommendation**
+
+This is a strong paper that effectively addresses an important ecological question. By addressing the points outlined above, you can further refine the paper and increase its impact. I recommend a thorough revision based on this feedback. Good luck!

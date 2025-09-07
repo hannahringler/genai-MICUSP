@@ -1,0 +1,81 @@
+Absolutely! Here’s a detailed feedback broken down into strengths, suggestions for improvement, and overall impressions. Your paper, "Attitudes towards and Frequency of Multiple Hedging in Written Academic English," is clearly well-researched and demonstrates a thoughtful engagement with the topic. My comments are based on the content, structure, clarity, research engagement, and academic writing conventions as seen in your parsed text.
+
+---
+
+## Strengths
+
+### 1. **Thorough Engagement with Literature**
+You demonstrate a strong command of existing research, offering a nuanced overview of hedging, its definitions, and its historical treatment in academic writing. The inclusion of theorists like Lakoff, Skelton, Hyland, Salager-Meyer, and others provides a solid theoretical base for your arguments.
+
+### 2. **Clear Research Focus**
+The paper does an excellent job of identifying a gap—namely, the lack of focused research on multiple hedging—and sets out concrete research questions relating to frequency, acceptability, and influencing factors (e.g., education level, native vs. non-native speakers).
+
+### 3. **Methodological Transparency**
+You explain your methodological choices well: what corpora you used, how you operationalized “hedge,” and how you conducted your survey. Your efforts to be precise in relying only on well-attested hedging forms are appreciated.
+
+### 4. **Balance and Criticality**
+Rather than accept literature uncritically, you question definitions, taxonomies, and claims. For instance, you interrogate why Salager-Meyer lists “compound hedges” as a distinct category and consider the implications.
+
+### 5. **Original Research**
+The corpus study and survey both give your paper an original, empirical contribution, not merely a theoretical review.
+
+---
+
+## Suggestions for Improvement
+
+### 1. **Clarity and Conciseness**
+
+- **Paragraph Structure:** Some paragraphs are quite long, mixing several points. Consider breaking them into smaller, topic-focused paragraphs for easier reading.
+- **Too Many Parentheticals/Asides:** There are many asides (in parentheses or as afterthoughts); try reworking these into the main flow, or omitting if not necessary for understanding.
+- **Overly Dense Literature Review:** The first half is *very* literature-heavy. While comprehensive, it can overwhelm the main research focus. Consider summarizing repetitive points and keeping close to what’s most relevant for your central research question.
+
+### 2. **Organization and Focus**
+
+- **Explicit Research Questions:** You set out your intentions but do not clearly state your research questions as such. Consider listing research questions in the introduction for clarity, e.g.: "This paper investigates: (1) How frequent is multiple hedging in academic writing? (2) What are academic attitudes towards it? (3) Are there discernible differences by education level or nativeness?"
+- **Roadmap:** Early in the introduction, provide a brief roadmap ("Section II reviews literature, Section III discusses...").
+- **Separation of Concepts:** Sometimes the discussion blurs vagueness and hedging; clarify their intersection and difference.
+
+### 3. **Methods Section**
+
+- **Sampling & Limitations:** There is some mention of sample size and methodological constraints, but you could be clearer and more systematic about limitations (e.g., small survey size, representativeness, reliance on only some discipline data in the corpus).
+- **Operationalization:** While you discuss which hedges are counted, you could provide clearer criteria or examples (perhaps a table of what counts and what doesn’t).
+
+### 4. **Results and Analysis**
+
+- **Clarity of Reporting:** The results are detailed but could benefit from clearer tables or figures showing, for example, how many double/triple hedges were found, or how the groups selected hedges in the survey.
+- **Interpretation:** Some of the interpretation is speculative ("may indicate," "perhaps"), which is fine but could be strengthened by acknowledging uncertainty and offering suggestions for further research.
+
+### 5. **Writing Style/Tone**
+
+- **Occasional Informality:** Phrases like "I of course acknowledge..." or "no great damage has been done" are slightly informal and could be made more academically neutral.
+- **Reduce Redundancy:** Some points are repeated (e.g., the importance of hedging in academic writing). Aim for more economy of expression.
+- **Summary/Conclusion:** Your conclusion nicely ties things together. You might explicitly revisit your research questions one last time and summarize how your findings answer them.
+
+### 6. **References/Formatting**
+
+- **Citation Style:** Ensure you consistently apply a citation style (APA, MLA, etc.). E.g., when referencing articles/books, check for uniformity.
+- **Formatting:** The parsed text includes various document footers/headers (e.g., copyright notices from the Michigan corpus)—be sure these are not present in a formal submission.
+
+---
+
+## Overall Impression
+
+This is a **strong, ambitious undergraduate research paper** exhibiting a high level of criticality and engagement with the literature. It makes a useful empirical contribution to the study of hedging and multiple hedging in academic writing. With a tighter focus, greater explicitness in methods and research questions, and some stylistic polish, this paper would not be out of place at a conference or in an undergraduate journal.
+
+---
+
+## **Summary Table of Key Points**
+
+| Strengths                                      | Suggestions/Improvements                    |
+|------------------------------------------------|---------------------------------------------|
+| Wide, critical literature review               | More focused, concise lit review            |
+| Original empirical study (corpus + survey)     | Clearer research questions and methods      |
+| Transparent methodology                        | Data tables/figures for clarity             |
+| Recognizes nuance and context in academic norms| Reduce informality, parentheticals, redundancy|
+| Practical pedagogical suggestions offered      | Explicit limitations, clarify interpretations|
+
+---
+
+**Recommendation**: Revise for organization, clarity, and succinctness. Consider making the research questions more prominent and separating results from analysis for easier reading. Your work is very promising—well done!
+
+If you have a specific area you want more detailed comments on (e.g., analysis, literature review, survey method), let me know.

@@ -1,0 +1,59 @@
+Absolutely! Here’s a detailed feedback on your paper, **"The Meaning of ‘Wrong’"**, by structure, clarity, argumentation, engagement with the material, and writing style:
+
+---
+
+### **Strengths**
+
+1. **Clear Purpose and Structure**
+   - The paper clearly introduces its central question—“What is meant when we call an act ‘wrong’?”—and outlines that it will address three influential philosophers (Moore, Ayer, Hare) before offering your own perspective. This roadmap is helpful to the reader.
+
+2. **Accurate Summary of Philosophers**
+   - You accurately and concisely summarize the major positions:
+     - **Moore:** Wrongness as a non-natural property tied to badness, accessible via intuition.
+     - **Ayer:** Emotivism—moral statements are expressions of emotional attitudes, not statements of fact.
+     - **Hare:** Prescriptivism—moral statements as prescriptions or recommendations, including a universalizability component.
+   - Use of citations is appropriate, and you distinguish between where the primary sources end and your commentary begins.
+
+3. **Thoughtful Critical Evaluation**
+   - The transition into your own view is well-motivated. You do not simply summarize but also respond thoughtfully, particularly in considering the complexities of moral judgment (e.g., subject-specific vs. general moral claims, the role of circumstances).
+
+4. **Nuanced and Sophisticated Approach**
+   - You acknowledge that people may mean different things when calling an act “wrong,” resisting a simplistic or dogmatic answer.
+   - The discussion of "technically wrong" acts (Jean Valjean example) shows an ability to grapple with real-world moral ambiguity.
+
+---
+
+### **Areas for Improvement**
+
+1. **Engagement with Moore**
+   - You note that Moore doesn’t explicitly address “wrong,” but more could be said about whether Moore’s framework is adequately captured by just pairing “badness” with “wrongness.” Are there criticisms of this extrapolation, or is more justification needed?
+
+2. **Clarity and Flow**
+   - Some sentences become structurally complex or ambiguous. For instance, “It could be that the things I think are wrong for me to do, I do not think are not necessarily wrong for someone else in my circumstances to do.” This could be simplified for readability.
+   - Consider breaking up longer paragraphs, particularly where you shift from one philosopher to another or from summary to critique.
+
+3. **Engagement with Counter-Arguments**
+   - While you preempt some objections (e.g., inconsistency in moral judgments), it might enhance the rigor to more directly engage potential challenges—for instance, the worry that subjectivist accounts make moral disagreement impossible or incoherent.
+   - How do your observations interact with more recent literature, if any? Perhaps briefly indicating the relevance or limits of your chosen theorists—are there contemporary philosophers who make similar points?
+
+4. **Further Examples**
+   - The Valjean example is effective. Additional real-world or hypothetical examples could illustrate your own position even more clearly, especially around subject-specificity or universalizability.
+
+5. **Conclusion**
+   - The paper closes by questioning whether a “neat, accurate, philosophically acceptable definition” is possible. This is a fine philosophical stance, but can you say a little more about what follows from this? Is this a call for philosophical humility, or do you see implications for moral theory/practice?
+   - Summarize explicitly what your own account is (i.e., pluralistic, context-sensitive, etc.), so the reader is left with a clear take-away.
+
+6. **References**
+   - While you cite sources, ensure consistent citation formatting (if this is for a class, follow the instructor’s preferred style). Consider moving footnotes to endnotes if required, and double-check that all attributions are clear (some are currently embedded in the text itself).
+
+---
+
+### **Overall Evaluation**
+
+This is a **thoughtful, well-structured, and philosophically mature paper** that demonstrates both understanding and independent reflection. It effectively synthesizes positions and examines the subtlety of actual moral language and thought. With some polishing for clarity and depth, as well as a stronger conclusion, this would be excellent undergraduate work.
+
+**Score (if required):** High B+ to A-, with revisions possibly pushing it to a solid A.
+
+---
+
+**If you have any specific area you would like more feedback on (argumentation, writing style, logic, use of sources, etc.), let me know!**

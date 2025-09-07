@@ -1,0 +1,62 @@
+Okay, here's some feedback on the paper, focusing on clarity, argumentation, and potential areas for improvement:
+
+**Overall Impression**
+
+The paper tackles a complex and important topic: the limitations of the South African Truth and Reconciliation Commission (TRC) in addressing socio-economic rights.  It argues that the TRC's focus on individual, politically-motivated human rights violations, coupled with the political and economic maneuvering of the National Party and the ANC, resulted in a failure to adequately address the deep-seated economic inequalities perpetuated by apartheid. The core argument is strong and supported by relevant sources. However, there's room to refine the arguments and provide even more concrete examples.
+
+**Strengths**
+
+*   **Clear Argument:** The central thesis, that the TRC failed to adequately address socio-economic rights violations due to political factors, is clearly stated in the introduction.
+*   **Relevant Sources:** The paper draws on scholarly sources and reports from organizations like Human Rights Watch to support its claims. Using sources like Naomi Klein's *The Shock Doctrine* and specific pieces from experts like Asmal and Stanley gives your argument more depth.
+*   **Critical Analysis:** The paper critically analyzes the TRC's structure and function, highlighting its limitations and the political context in which it operated.
+*   **Identifies Key Actors:** It correctly identifies the key actors (National Party, ANC) and their motivations during the transition.
+*   **Strong Conclusion:** The conclusion reiterates the central argument and proposes potential avenues for future progress.
+
+**Areas for Improvement**
+
+1.  **Specificity and Concrete Examples:**
+
+    *   While the paper discusses socio-economic rights violations, it could benefit from more specific examples. Mention specific policies that were not addressed or laws that were never implemented that would have promoted socio-economic equality.
+    *   Instead of just stating that "many South Africans live in shacks," provide statistics or details about the extent of housing inequality. How did that compare to pre-TRC days? How did specific groups fare?
+    *   Give specific examples of economic negotiations and their outcomes, referencing how it helped ensure financial protection for certain groups, solidifying inequality.
+2.  **Developing the Argument:**
+
+    *   **Go deeper into the specific constraints the TRC faced.** Expand on *how* the National Party and the ANC politically pressured them. Mention the specific deals that were struck that held the TRC back.
+    *   Discuss the specific elements that would have addressed the violations. Expand on why those violations are the legacy of apartheid.
+    *   Consider addressing counterarguments. Acknowledge that the TRC may have had some positive impacts, even if limited, or that there may have been genuine challenges in addressing socio-economic rights immediately after apartheid.
+3.  **Connecting the TRC directly to outcomes:**
+    *   You mention a need for "grassroots pressure" in your conclusion. How does the failure of the TRC affect that now? Does that failure give more (or less) credibility to present economic reforms?
+
+4.  **Structure and Flow:**
+    *   Consider re-ordering some sections for improved flow.
+    *   Ensure smooth transitions between paragraphs. Use transition words and phrases to connect ideas and guide the reader through your argument.
+    *   Instead of jumping into the details of the "Institutionalized Inequalities" section, you can introduce the challenges of addressing those issues in the aftermath of Apartheid.
+
+5.  **Minor Points:**
+
+    *   **Formatting/Citations:** Ensure all citations are in a consistent format (e.g., Chicago, MLA).
+    *   **Proofread Carefully:** Look for any minor grammatical errors or typos.
+
+**Specific Suggestions**
+
+*   **In the "Institutionalized Inequalities" section:** Provide comparative statistics. For example, what was the unemployment rate for blacks vs. whites before and after the TRC? What percentage of black households had access to clean water/electricity before and after?
+*   **In the "The Politics of Truth Commissions" section:** Strengthen this section by including more specific details about the negotiations between the National Party and the ANC and the specific economic policies that were agreed upon. This will help to demonstrate how these negotiations directly impacted the TRC's ability to address socio-economic rights violations.
+*   **In the "Conclusions" section:** The call for "massive grassroots pressure and social unrest" is a bit vague. Provide more specific suggestions for how socio-economic rights can be ensured in South Africa. What kind of policies should be implemented? What specific actions can be taken by the government, civil society organizations, or individuals?
+
+**Revised sections (examples):**
+
+***
+
+**Example Revision 1: Adding Specificity (Inequalities Section)**
+
+> "Many South Africans live in shacks or have no home at all while others are continually evicted from their “homes” as corporations buy up open land. This endemic poverty is overwhelmingly located in rural areas, a fact that can be traced back to the apartheid regime's policies to keep blacks from owning property inside certain city boundaries.  In 1995, shortly after the end of apartheid, nearly 60% of black South Africans lived below the poverty line, compared to just 1% of white South Africans.  While some progress has been made, as of 2008, over half of black South Africans remained in poverty, highlighting the slow pace of change and the perpetuation of apartheid-era inequalities."
+
+***
+
+**Example Revision 2: Connecting TRC to Economic Factors**
+
+> The National Party ensured the construction of a truth commission that only revealed partial truths about the regime in order to maintain the legitimacy necessary to continue to hold some political power. The lack of a forum for the discussion of socio-economic rights violations reflects this need to reveal only partial truths. *Specifically, the National Party insisted on retaining control over the Reserve Bank, limiting the new government's ability to implement redistributive policies.* "
+
+**In summary:**
+
+This is a well-researched and thoughtful paper with a clear argument. By adding more specific examples, further developing the analysis of political influences, and strengthening the connections between the TRC and the perpetuation of economic inequality, you can significantly enhance the impact of your work.

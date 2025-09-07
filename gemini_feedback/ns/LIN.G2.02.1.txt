@@ -1,0 +1,66 @@
+Okay, I can provide some feedback on the paper. To give you the most helpful feedback, I'll focus on several areas:
+
+**Overall Impressions:**
+
+*   **Strengths:**
+    *   **Clear Structure:** The paper is well-organized, with a logical progression of arguments. The section headings and subheadings make it easy to follow.
+    *   **Detailed Summary:** The paper provides a thorough summary of Cole & Hermon's (C&H) proposal.
+    *   **Critical Engagement:** The paper engages critically with C&H's assumptions and diagnostics, identifying potential weaknesses and inconsistencies.
+    *   **Relevant Background:** The paper provides relevant background information on the Minimalist Program and alternative analyses (e.g., Pesetsky, Postman, Voskuil) to contextualize the critique.
+    *   **Understanding of Indonesian/Malay:** The paper shows an understanding of the relevant facts of Indonesian/Malay grammar, particularly with respect to `meng-` and voice constructions.
+    *   **Use of Examples:** The paper effectively uses examples to illustrate the points being made.
+
+*   **Areas for Improvement:**
+    *   **Clarity and Precision:** While generally clear, some of the arguments could be made more precise and explicit. There are points where the reader needs to infer the connection between claims.
+    *   **Depth of Analysis:** While the paper identifies problems with C&H's analysis, it could go deeper in exploring alternative solutions or developing a more comprehensive account.
+    *   **Organization: The argument of meng-**: While the criticism about meng- is essential, it dominates the paper.
+
+**Specific Comments:**
+
+*   **Introduction:** The introduction clearly outlines the scope and organization of the paper.
+*   **Summary of Cole & Hermon:** The summary of C&H's proposal in Section 2 is well done.
+*   **Section 2.3 (Universally Strong Q):**
+    *   The criticism of C&H's assumption of a universally strong Q feature is well-argued. The comparison to Chomsky's 1995 statement is effective.
+    *   Make sure that the semantic features of Q are mentioned.
+*   **Section 2.4 (Pesetsky on Wh-in Situ):**
+    *   The discussion of Pesetsky's analysis provides a valuable alternative perspective on wh-in situ.
+    *   The paper mentions that Malay does not appear to display superiority effects, but does not go into a high degree of detail.
+*   **Section 2.5 (Empirical Support):**
+    *   The issue of `meng-` and why some Wh-phrases display it is not explicit.
+*   **Section 3 (Trouble with Meng-):**
+    *   This section is the core of the critique, and it's well-developed.
+    *   The questions raised about the "loss" of `meng-` and its nature are crucial.
+    *   The discussion of Sneddon's description of `meng-` in Standard Indonesian provides valuable context.
+*   **Section 4 (Indonesian Clause Structure):**
+    *   The discussion of Postman's analysis and its implications for C&H's account of `meng-` is insightful.
+    *   This can be reduced to give more organization to the overall paper.
+*   **Section 4.2 (Verb Raising):**
+    *   There needs to be more reasoning given for Voskuil's proposal and some of his examples shown.
+    *   Here it would be helpful to show the relationship between the verbal prefix that they use, or any evidence for that claim.
+*   **Section 5 (Distribution of Wh-Questions):**
+    *   The discussion of the discrepancy between the `meng-` diagnostic and islandhood facts is important.
+    *   The mention of Voskuil's proposal as an alternative is helpful.
+*   **Section 6 (Conclusion):**
+    *   The conclusion effectively summarizes the main points of the critique.
+
+**Suggestions for Improvement:**
+
+1.  **Strengthen the Argument about Alternatives to Meng-**: Develop this argument more. Give reasons for why Meng- is more consistent with existing data, even if that means more literature review.
+
+2.  **Balance the "Meng-" Criticism:** It is critical to have in the paper, but at times it overshadows other criticisms. Either integrate it more smoothly into other criticisms or consider streamlining the length to increase focus.
+
+3.  **Address Potential Counterarguments:** For each criticism you raise, consider and address potential counterarguments that C&H or other proponents of their approach might offer.
+
+4.  **Consider Alternative Accounts More Deeply:** While you mention alternative accounts, explore them in more depth. Could these alternatives provide a better explanation for the data?
+
+**Specific Example Comments and Questions:**
+
+*   **Page 2**: There is a need to show the importance of the partial/full Wh-movement difference.
+
+*   **Page 3, ex. 5**: What happens if both move overtly? Is it because 'where' and 'what' need to be distinct to have a proper relationship?
+
+*   **Page 6**: Why do languages differ in what feature is present? How is the Minimalist Program able to account for this?
+
+*   **Pages 22-23**: What reasons can be used to better allow for the Wh-movement to be more clearly seen?
+
+By addressing these points, you can strengthen the paper's arguments and make it a more compelling and insightful critique of Cole & Hermon's proposal. Good luck!

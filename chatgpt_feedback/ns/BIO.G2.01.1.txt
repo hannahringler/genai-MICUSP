@@ -1,0 +1,71 @@
+Certainly! Here’s a detailed feedback on your paper **“Relationships and Biogeography of Antillean Cichlids”**. I break down the feedback into key areas: strengths, areas for improvement, and some specific actionable advice.
+
+---
+
+## Strengths
+
+### 1. **Thorough Background and Context**
+- The paper provides an extensive introduction to cichlid biogeography and reviews major hypotheses.
+- You situate your work well in the context of both older and recent literature and geological hypotheses, making it clear why the study is relevant.
+
+### 2. **Clarity and Breadth of Literature Review**
+- The literature review is well-integrated, referencing many key authors (Rosen, Myers, Iturralde-Vinent & MacPhee, etc.).
+- You provide balanced coverage of both vicariance and dispersal hypotheses.
+
+### 3. **Methodological Description**
+- The molecular and analytical methods are described in good detail (including PCR conditions, primers used, and analytical software).
+- Your approach to choosing between biogeographic scenarios through cladistic biogeography and parsimony is logically sound and explained clearly.
+
+### 4. **Critical Thinking and Synthesis**
+- You critically analyze previous works, pointing out weaknesses (e.g., Rauchenberger’s area cladogram, limitations in sampling, etc.)
+- Your discussion of phylogenetic results is nuanced, acknowledging the limits of your data (bootstraps, polytomies, etc.).
+
+### 5. **Comprehensive Reference List**
+- The references are up-to-date (for 2009) and comprehensive, spanning both biogeography and molecular systematics.
+
+---
+
+## Areas for Improvement
+
+### 1. **Organization and Flow**
+- **Density and Section Breaks:** Some sections (esp. the Introduction and background) are dense and run several topics together. Using more subheadings could improve navigability (e.g., separate "Vicariance vs Dispersal," "The Greater Antilles," "Previous Phylogenetic Analyses").
+- **Figures/Table Placement:** Repeated references to "Figure X" would benefit from embedded figures/tables (even as placeholders with captions, if submitted in print).
+
+### 2. **Arguments/Logic**
+- **More Explicit Hypothesis Statements:** The paper would be improved by a sharper statement of hypotheses/research questions early in the Introduction—something like, "This study tests whether the Antillean cichlid fauna is more closely allied to Central or South American lineages..."
+- **Summarize the Major Competing Hypotheses in a Table:** This would help clarify for the reader the key differences (timing, geography, predicted phylogenetic relationships).
+- **Results/Discussion Integration:** The Results section has descriptive text, but parts of the Discussion could better tie your findings directly back to the hypotheses. For example, a clearer, point-by-point refutation/support of GAARlandia vs. Rosen’s vicariance hypothesis.
+
+### 3. **Data Limitations**
+- **Acknowledgement of Low Resolution:** While you note low bootstrap support and poor resolution in some clades, more emphasis on the consequences of these (e.g., whether further sequencing or nuclear markers might help) would bolster your conclusions.
+- **Sampling Scope:** Sampling only two out of five Antillean cichlid species (and only two genes) limits the power of your phylogenetic inferences. Outline concrete next steps more specifically (e.g., “Future work should sequence X and Y markers for all Antillean taxa, and aim to include morphological data from Cichlasoma woodringi...”)
+
+### 4. **Figures and Tables**
+- There are frequent references to figures (e.g., Figure 2, 3, 4) and a Table 1; these are necessary to fully understand the structure and support of the phylogenetic trees, but they are missing in your submission.
+- Ensure all figures/tables are included, clearly labeled, and referenced in the text at appropriate points.
+
+### 5. **Language and Style**
+- **Proofreading:** There are a few typographical and grammatical errors (e.g., "manufactures protocol" should be "manufacturer’s protocol," and “ramsedeni” likely refers to “ramsdeni”).
+- **Jargon and Accessibility:** The paper is written for a specialist audience, but strive for sentences that are concise and direct. Some lengthy sentences could be shortened for clarity.
+
+### 6. **Conclusion**
+- The conclusion is appropriately cautious, but could be more assertive in summarizing what your data most strongly support and what remains most uncertain.
+
+---
+
+## Actionable Suggestions
+
+1. **Add Subheadings:** Improve paper structure for readability.
+2. **Clarify Hypotheses:** State competing hypotheses clearly upfront.
+3. **Insert All Figures/Tables:** These are crucial for the reader.
+4. **More Explicit Discussion:** Stress implications and limitations of your results.
+5. **Highlight Future Directions:** End with a summary table of what would be needed to resolve remaining ambiguities.
+6. **Proofread:** Fix typographical and grammatical issues throughout.
+
+---
+
+## Summary Statement
+
+This is a well-researched, thoughtful, and timely exploration of Antillean cichlid biogeography, clearly built on current debates in the field. With some restructuring and clarification—especially a sharper focus on how your findings address the alternative hypotheses and making the figures/tables available—this would be a strong contribution. Most limitations are data-driven, which you acknowledge. Addressing these in your writing (and, for future work, in your research plan) will sharpen both your arguments and the paper’s impact.
+
+If you need help editing specific sections or want a model paragraph, let me know!

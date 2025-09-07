@@ -1,0 +1,60 @@
+Absolutely! Here is some feedback on your proposal, focusing on strengths, areas for improvement, and overall clarity and organization:
+
+---
+
+## Strengths
+
+**1. Relevance and Timeliness**  
+Your topic—the intersection of textual production, student collaboration, and social networking sites like Facebook—is not only relevant but continues to be meaningful as digital platforms become ever more integrated into education. You ground your argument well in current trends (e.g., WiFi proliferation, high Facebook usage among students).
+
+**2. Scholarship and Theoretical Framework**  
+The paper demonstrates a strong grounding in relevant literature, drawing on key scholars in composition studies (Roskelly, Howard, Bruffee), new media, and space theory (Lefebvre, Keith & Pile). You also integrate activity theory effectively to frame your inquiry.
+
+**3. Clear Research Questions**  
+Your research questions are well formulated and target the specific attitudes and perceptions underlying your hypothesis. They're concise and guide the reader to the core of your investigation.
+
+**4. Detailed Methodology**  
+The methods section is specific and practical. You outline your survey questions, phases of the study, and anticipated data analysis clearly, making it easy for a reader to understand how you will collect and interpret your data.
+
+---
+
+## Areas for Improvement
+
+**1. Organization and Flow**  
+While your paper is logically structured, some sections feel dense because they interweave theoretical background with the rationale for your research. Where possible, try to separate the **literature review/theoretical framework** more clearly from your **rationale/problem statement**, providing more signposting for the reader (e.g., "In summary, the literature suggests...")
+
+**2. Justification of Facebook**  
+You focus on Facebook, but given changing technologies (and possible shifts even by 2009), it would strengthen your argument to briefly justify why Facebook is particularly relevant, as opposed to other emerging or established platforms. Is it student familiarity, technical features, social capital, or something else?
+
+**3. Clarity and Conciseness**  
+Some paragraphs, particularly in the conceptual framework and space theory sections, are overly long and complex. Consider breaking them into shorter paragraphs and simplifying sentences to enhance readability.
+
+*Example:*  
+Original:  
+_"When considering using technology in academic spaces, and social sites like Facebook, this comprehensive view becomes more important as instructors realize that a social networking site is an actual space that users can virtually visit and inhabit in much the same ways users, or students, populate classrooms."_
+
+Suggested:  
+_"When instructors consider integrating technology into academic spaces, it is important to recognize that social networking sites like Facebook function as virtual spaces. Students can 'visit' and 'inhabit' these online environments similarly to how they occupy physical classrooms."_
+
+**4. Potential Bias/Self-Selection**  
+Your method allows students to self-select whether to use Facebook or traditional methods for collaboration. This could introduce bias—perhaps only those already comfortable with Facebook will opt in. You should acknowledge this as a limitation or consider random assignment for stronger validity.
+
+**5. Expand on Implications and Significance**  
+In your projected data analysis, spend a little more time considering the *so what*—how exactly might your findings influence classroom practice, instructor training, or the design of collaborative assignments? You hint at this, but a stronger final paragraph would leave the reader with a clearer sense of impact.
+
+---
+
+## Minor/Mechanical Suggestions
+
+- Proofread for a few small typographical errors and inconsistencies (e.g., capitalizing “Facebook” uniformly, removing stray formatting like "frontal" instead of "face-to-face").
+- Your references are solid and current (for the date). Double-check citation formatting for consistency.
+
+---
+
+## Overall
+
+This is a thoughtful, well-researched, and organized research proposal on a timely subject. Editing for conciseness and organization, and attending explicitly to possible methodological limitations will help ensure its impact. Most importantly, clarifying the potential implications will help underscore the significance of your research in the broader pedagogical context.
+
+If you’d like, I can provide line-by-line edits or help you draft a revised section!
+
+Would you like specific suggestions for your introduction, literature review, methods, or another section?

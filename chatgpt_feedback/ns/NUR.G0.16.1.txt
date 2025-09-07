@@ -1,0 +1,63 @@
+Absolutely! Here is some detailed feedback on the paper, **"A Call For Change: Racial Disparities in Infant Mortality Rates":**
+
+---
+
+## **Strengths:**
+
+1. **Clear Focus and Relevance:**
+   - The paper tackles an urgent and important public health issue: racial disparities in infant mortality rates (IMR) in the United States.
+   - It successfully highlights how these disparities are unique to Black women and children, and not merely attributable to genetics, but to broader social determinants.
+
+2. **Historical and Sociopolitical Context:**
+   - The introduction connects historical roots of racism and inequality to modern health disparities, helping readers understand the depth of the issue.
+
+3. **Use of Evidence and Literature:**
+   - The report draws from a wide range of sources, including peer-reviewed studies and statistical data, lending credibility.
+   - There’s discussion of multiple studies showing the IMR gap, and the refutation of biological determinism is well articulated.
+
+4. **Intersectional/Feminist Perspective:**
+   - The inclusion of both race and gender as intersecting axes of disadvantage is strong, emphasizing the complexity of factors behind IMR disparities.
+   - The call for a feminist approach by healthcare professionals is notable and provides a thought-provoking angle.
+
+5. **Critical Analysis:**
+   - The paper critiques the healthcare system for its role in perpetuating inequality and goes beyond just describing the problem to considering why it persists.
+
+---
+
+## **Areas for Improvement & Suggestions:**
+
+1. **Thesis Clarity and Strength:**
+   - While the main argument is evident, the thesis statement could be made stronger and more explicit in the introduction. Try a clear, one-sentence statement at the end of the first paragraph summarizing the paper's main claim and approach.
+
+2. **Organization and Flow:**
+   - Some sections could benefit from smoother transitions. For instance, moving from statistical evidence to social theory sometimes feels abrupt—connecting these sections with clearer topic sentences or signposting would help.
+   - Consider adding subheadings to guide the reader through sections such as "Historical Background," "Current Disparities," "Role of Racism and Gender," "Research Critique," "Case Studies/Interventions," and "Recommendations."
+
+3. **Depth of Analysis:**
+   - The critique of the literature is insightful, but you might add even more analysis of the limitations of existing interventions or studies. For example, discuss why so few papers aim to solve the problem rather than just document it.
+   - The paper references the "feminist perspective"—it would be helpful to be more precise about what this entails and how it could concretely impact policy or practice.
+
+4. **Clarity and Precision:**
+   - There are a few moments where word choice or sentence structure could be clearer. For example, “the life long stress could certainly be in reference to financial struggles…” could be made more direct.
+   - Avoid sentences that begin with "It does not necessary matter what these obstacles are…" as this seems at odds with the rest of the analytical approach.
+
+5. **Formatting and Citations:**
+   - Some citations are missing page numbers, and source formatting is inconsistent. Ensure all in-text citations and references follow a consistent citation style (APA, in this case).
+   - The use of block quotes for definitions and key points (e.g., Jones’ definition of institutional racism) would help emphasize major theoretical frameworks.
+
+6. **Conclusion:**
+   - The conclusion summarizes the need for a healthcare-led response but could be more powerful if it outlined *specific* recommendations, or suggested directions for future research, policy change, or advocacy.
+
+7. **Mechanics and Typos:**
+   - There are occasional typographical errors (e.g., “Consitution” instead of “Constitution,” “sat the core” instead of “sat at the core”).
+   - Be sure to proofread for minor grammatical issues and redundancy.
+
+---
+
+## **Summary statement for instructor/peer review:**
+
+**This is a well-researched, thoughtful exploration of racial disparities in infant mortality rates, with a commendable focus on the intersectionality of race, gender, and socioeconomic status. With some improvements to organization, clarity, thesis articulation, and the conclusion, this would be an excellent undergraduate report for a nursing or public health course.**
+
+---
+
+Let me know if you’d like help reworking a specific section or if you need examples of rewording or restructuring!

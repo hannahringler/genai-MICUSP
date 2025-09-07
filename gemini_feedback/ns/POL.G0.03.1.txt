@@ -1,0 +1,54 @@
+Okay, I've reviewed the paper and here's some feedback, focusing on areas where it could be strengthened:
+
+**Overall Impression:**
+
+The paper presents a well-defined research question and outlines a solid literature review. The introduction is engaging and clearly sets out the purpose of the research. The literature review demonstrates a good understanding of existing theories on political participation, mobilization, and the impact of the internet. However, it is important to show the impact of online activities on the 2006 election. 
+
+**Strengths:**
+
+*   **Clear Research Question:** The central research question is clearly stated in the introduction.
+*   **Engaging Introduction:** The introduction effectively hooks the reader and explains the significance of the research.
+*   **Solid Literature Review:** The literature review is comprehensive and covers relevant theories and perspectives.
+*   **Good Structure:** The paper is well-organized, with clear headings and subheadings that make it easy to follow.
+*   **Insightful Connections:** The paper makes insightful connections between traditional political participation theories and the impact of the internet, particularly in the context of "Web 2.0."
+*   **Identifies Gaps in Literature:** The paper effectively identifies gaps in existing scholarship, justifying the need for the research.
+
+**Areas for Improvement:**
+
+1.  **Elaborate on Research Design/Methodology:** This is currently missing.
+
+    *   *How* are you going to answer your research question? The literature review establishes the theoretical framework, but the paper needs to outline the specific methods you will use to investigate the impact of the Internet on the 2006 elections.
+    *   **Potential Methods:**
+        *   **Case Studies:** You mention Daily Kos and the Ned Lamont campaign. These could be developed into mini-case studies. Consider analyzing website traffic data, fundraising amounts, or the content of online discussions.
+        *   **Quantitative Analysis:** If data is available, consider a quantitative analysis of the relationship between internet usage/online activity and election outcomes.
+        *   **Content Analysis:** Analyze the content of left-wing political websites to understand their strategies for fundraising and voter mobilization.
+
+2.  **Clarify Argument:** The paper outlines the components of how the Internet's affect on political participation theory but never actually creates an argument. The aim of the paper should be clear and concise.
+
+3.  **Link Literature to 2006 Election More Explicitly:**
+
+    *   While the literature review is strong, it could benefit from more explicit connections to the specific context of the 2006 elections. For instance, when discussing the reduced costs of participation, mention specific examples of how left-wing websites lowered the barriers to political involvement in that election cycle.
+    *   When talking about "Web 2.0," provide specific evidence of how the interactive and collaborative aspects of these websites influenced the Democratic victories in 2006.
+
+4.  **Tighten Up Writing:**
+
+    *   While generally well-written, there are a few instances where the writing could be more concise and direct. For example, some sentences could be shortened, and some paragraphs could be more focused.
+
+5.  **Address Potential Limitations:**
+
+    *   Acknowledge any potential limitations of your research design. For example, if you are relying on publicly available data, acknowledge the potential for biases or incomplete information.
+
+**Specific Suggestions:**
+
+*   **Introduction:** Add a sentence or two at the end of the introduction that briefly previews the methods you will use in your research. (e.g., "To investigate this question, this research will employ a case study approach, focusing on the fundraising and mobilization strategies of key left-wing websites during the 2006 election cycle.")
+*   **Literature Review:** When discussing Rosenstone and Hansen's work, explicitly state how their findings relate to your research on the Internet and the 2006 elections. For example, "Rosenstone and Hansen's emphasis on external mobilization is particularly relevant to understanding the role of left-wing websites in the 2006 elections, as these websites actively sought to mobilize voters and raise funds for Democratic candidates."
+*   **Connectors, Mavens, and Salesmen:** It may be necessary to expand a bit on the theory of Connectors, Mavens, and Salesmen as its relation to the Internet might not be fully understood by the audience.
+*   **Conclusion:** Acknowledge any limitations, and provide a brief call for future research.
+
+**Revised Example Paragraph (Connecting Literature to 2006 Election):**
+
+"The Internet presents a serious challenge to accepted theories of political participation. By dramatically reducing the costs of political action, the Internet may have rendered notions of participation which rely on an individual weighing costs and benefits outdated. *This was particularly evident in the 2006 elections, where websites like ActBlue lowered financial barriers to donating to Democratic candidates, allowing individuals to contribute small amounts that collectively had a significant impact.* Financial costs to participation have been diminished in a number of significant ways. Firstly, the system of political donations has been somewhat democratized..."
+
+**In summary:**
+
+This is a promising paper with a well-defined research question and a strong foundation in the literature. By adding a methodology section, elaborating on your argument, tightening up your writing, and further emphasizing the connection between the literature and the 2006 elections, you can significantly strengthen your work. Good luck!

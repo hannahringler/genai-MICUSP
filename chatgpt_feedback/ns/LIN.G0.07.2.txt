@@ -1,0 +1,70 @@
+Certainly! Here is detailed feedback on your paper "Age and Input: Which is More Important in Language Learning?" based on content, structure, clarity, analysis, and style:
+
+---
+
+### **Strengths**
+
+1. **Clear Focus and Thesis**
+   - The paper clearly sets out to compare the relative importance of age versus input consistency in language acquisition, and the thesis is strong and explicit from the introduction.
+  
+2. **Use of Case Studies**
+   - The paper effectively leverages two well-chosen case studies (Genie and Simon), which neatly illustrate the concepts of the Critical Period and input quality.
+   - The use of Genie as a case for delayed first-language exposure and Simon as a case for inconsistent input gives a vivid contrast.
+
+3. **Integration of Research**
+   - The discussion incorporates a good selection of primary literature and expert opinions (Curtiss, Singleton, Francis, Jones), supporting your arguments well.
+   - You provide precise statistics and findings from these studies, which substantiates your claims.
+
+4. **Depth of Analysis**
+   - The analysis goes beyond simple summarization: you highlight subtleties such as Genie’s vocabulary vs. grammar split, and Simon’s phenomenon of frequency boosting.
+
+5. **Clear Conclusion**
+   - Your conclusion is well-articulated, directly answering your research question and summarizing implications for language teaching and acquisition.
+
+---
+
+### **Areas for Improvement**
+
+1. **Organization and Flow**
+   - While the paper generally follows a logical sequence, occasionally the narrative gets bogged down in detail or loses track of the main argument.
+   - **Suggestion**: Use more topic sentences and transitional phrases to clearly signpost the beginning and end of sections, and more often tie observations back to the main research question.
+
+2. **Depth of Critical Discussion**
+   - Some sections (especially those summarizing other researchers’ viewpoints) could benefit from more critical engagement—is there any debate or controversy about these findings? Are there possible limitations to the case studies or the conclusions drawn?
+   - For instance, Genie’s case has always been contested due to the confounding effects of abuse and trauma, not just late exposure; mentioning these caveats would strengthen your analysis.
+
+3. **Breadth of Context**
+   - The focus is heavily on extreme cases. A brief nod to more typical language learners (for instance, young children learning a second language, or typical immigrant experiences) could make your conclusions more generalizable.
+   - Are there studies that show the limits of the critical period, or cases where adults have achieved native-like proficiency?
+
+4. **Clarity and Conciseness**
+   - Some sentences are long and complex, which can obscure your point. 
+   - **Suggestion**: Edit for concision and clarity. For example, instead of:  
+     > “Francis’ (1999) study finds a disparity between those who acquired ASL between ages 3 and 7 and those who first learned it between ages 8 and 10 (431).”  
+     Try:  
+     > “Francis (1999) found that children who learned ASL before age 7 achieved higher proficiency than those exposed after age 8.”
+
+5. **APA or Other Formatting**
+   - While you provide a references list, there are some inconsistencies (such as missing italics for journal names, incomplete citations, or inconsistent application of citation style). 
+   - **Suggestion**: Double-check and standardize referencing throughout, according to APA, MLA, or your required style.
+
+6. **Use of Passive Voice**
+   - The paper could be more lively and direct by reducing passive constructions. 
+   - Example: “Many linguists and psychologists have studied the Critical Period...”  
+     Try: “Researchers have extensively studied the Critical Period...”
+
+7. **Potential Counterarguments**
+   - Consider adding a brief discussion of studies that challenge or nuance the Critical Period Hypothesis, or cases where rich input does help late learners more than expected.
+
+---
+
+### **Summary**
+
+Your paper is sophisticated, well-researched, and demonstrates strong understanding of linguistic theory and evidence. With some attention to organization, critical discussion, clarity, and referencing, it could be even more compelling and well-rounded. Your handling of the data and synthesis of the case studies make a strong argument for the determining power of age in language acquisition over input consistency.
+
+**Score Estimate (if applicable):**  
+A- to A (with revisions as outlined above, solid A or even A+)
+
+---
+
+Would you like sample edits of particular paragraphs, or help with reformatting citations?

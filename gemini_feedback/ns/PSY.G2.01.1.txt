@@ -1,0 +1,82 @@
+Okay, I can provide feedback on this research paper.  To give you the most useful feedback, I'll focus on several key areas:
+
+**Overall Impression & Structure**
+
+*   **Clarity of Purpose:** The paper clearly states its purpose: to examine the relationship between explanatory style (ES), blood pressure, preventative health behaviors, and compliance with medical regimes in hypertensive women. The hypotheses are also clearly presented.
+
+*   **Logical Flow:** The paper generally follows a logical progression: introduction, theoretical framework, methods, results, and discussion. However, there are areas where the flow could be improved (see specific comments below).
+
+*   **Depth of Analysis:** The theoretical framework is reasonably well-developed, providing a good overview of attribution theory and explanatory style. The discussion of the findings, however, could be more in-depth, exploring the implications more thoroughly.
+
+*   **Writing Style:** The writing is generally formal and academic, appropriate for a research paper. However, some sentences are a bit convoluted and could be simplified for clarity.  Also, pay attention to consistency in tense.
+
+**Specific Comments & Suggestions**
+
+**A. Introduction**
+
+*   **Hook:** The first sentence is strong.
+
+*   **Significance:** Emphasize the importance of this research more. Why is understanding the role of explanatory style in managing hypertension particularly important for African-American women?
+*   **Paper Organization:** Briefly outline the structure of the paper.
+
+**B. Theoretical Framework**
+
+*   **Attribution Theory Explanation:** Good overview of Heider, Jones & Davis, and Kelley's work.
+
+*   **Explanatory Style Detail:** The definition of explanatory style is clear.
+
+*   **Connection to Health Behavior:** Strengthen the link between explanatory style and health behaviors/compliance.  While you mention this, elaborate on how ES directly impacts motivation, perceived control, and ultimately, actions related to managing hypertension.
+
+*   **Literature Support:** Provide more recent citations where appropriate. While some classic works are essential, referencing more recent studies can demonstrate awareness of current research in the field.
+
+**C. Methods**
+
+*   **Study Design Justification:** A good justification for using a stratified sampling approach with Solomon-four groups.
+*   **Participant Characteristics:** Add more demographic details.
+
+*   **Procedures Clarity:** Be clearer about when the questionnaires were administered in relation to the MEMS bottle use.
+
+*   **Measures:** Provide more detail on the health promotion lifestyle profile measures. What specific behaviors does it assess?
+
+*   **Data Analysis:** The description of the statistical analyses is appropriate.
+
+**D. Results**
+
+*   **Succinctness:** Present the results concisely and objectively.
+
+*   **Graph References:** Refer to graphs by number.
+*   **The line with "Steve, I really can't do this until I have data to put into an excel file!" needs to be removed.**
+
+**E. Discussion**
+
+*   **Interpretation:** Discuss the findings in relation to the hypotheses. Did the results support or contradict the hypotheses?
+
+*   **Link to Theory:** Relate the findings back to the theoretical framework. How do the results support or challenge existing theories of attribution and health behavior?
+
+*   **Limitations:** Acknowledge the limitations of the study. For example, consider the limitations of self-reported data, the specific population studied, and the relatively short duration of the intervention.
+
+*   **Future Research:** Suggest directions for future research. What questions remain unanswered? What interventions could be developed based on these findings?
+
+*   **Clinical Implications:** Expand on the practical implications of the findings for healthcare providers. How can knowledge of a patient's explanatory style be used to improve treatment adherence and health outcomes?
+
+**F. Bibliography**
+
+*   **Consistency:** Double-check the bibliography for consistency in formatting and completeness of information.
+
+**Specific Edits to Consider**
+
+Here are a few examples of sentences that could be improved:
+
+*   **Original:** "Inducing people to adhere to public health recommendations purports to put the patients in a submissive position relative to health professionals, but this is not really the case."
+    *   **Revised:** "Although public health recommendations might seem to place patients in a passive role, patients are active participants in their healthcare."
+
+*   **Original:** "It becomes especially difficult at times because deciding to partake in ‘healthy behaviors,' may entail a temporary increase in deprivations or physical suffering."
+    *   **Revised:** "Adopting healthy behaviors can be challenging, as it may initially involve sacrifices or physical discomfort."
+
+**General Suggestions**
+
+*   **Proofread Carefully:** Before submitting the paper, proofread it carefully for grammatical errors, typos, and inconsistencies in style.
+
+*   **Seek Feedback:** Ask colleagues or mentors to review your paper and provide feedback. A fresh perspective can help you identify areas for improvement.
+
+**In summary:** This paper has a solid foundation and addresses an important research question. By strengthening the connections between theory and findings, expanding on the discussion of implications, and refining the writing style, you can significantly enhance the overall quality of the paper. Good luck!

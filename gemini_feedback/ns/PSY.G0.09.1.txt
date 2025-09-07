@@ -1,0 +1,64 @@
+Okay, I've reviewed the paper. Here's a breakdown of feedback, covering strengths, weaknesses, and areas for improvement:
+
+**Overall Impression**
+
+The paper tackles an interesting and relevant topic: how perceptual fluency (or the lack thereof) influences decision-making, particularly regarding status-quo bias. The paper is well-structured and the introduction provides a good background on the existing literature and the rationale for the research. The research attempts to distinguish between processing-fluency and ego-depletion. However, due to experimental difficulties, the studies are unable to fully support the original hypothesis.
+
+**Strengths:**
+
+*   **Clear Introduction and Background:** The introduction clearly outlines the existing literature on decision-making heuristics, particularly processing fluency. The Riis study and its limitations are well-explained, setting the stage for the current research.
+*   **Well-Defined Research Question:** The paper explicitly states the research question and the goal of distinguishing between processing fluency and resource depletion.
+*   **Logical Structure:** The paper follows a standard structure (Introduction, Methods, Results, Discussion), making it easy to follow the research process.
+*   **Multiple Studies:** Conducting three studies demonstrates a commitment to investigating the research question and attempting to address limitations encountered in earlier attempts.
+*   **Discussion of Limitations:** The paper acknowledges the limitations of the study design and discusses potential reasons for the unexpected results. This shows critical thinking and intellectual honesty.
+*   **Good Use of Citations:** The paper effectively cites relevant literature to support claims and provide context.
+*   **Tables of Data**: Results are clearly presented with well organized tables
+
+**Weaknesses:**
+
+*   **Manipulation Check Issues:** The brow manipulation consistently failed to induce the intended feeling of difficulty. This is a major problem, as it undermines the core manipulation of the study.
+*   **Attribution Problems:** The studies struggled to isolate the feeling of difficulty and attribute it to the moral dilemmas rather than the computer or the cover story. The cover story may have been too plausible.
+*   **Limited Statistical Power:** The sample sizes in each study might be relatively small, which could limit the statistical power to detect significant effects, even if they exist.
+*   **Lack of Strong Conclusions:** Due to the manipulation failures, the paper is unable to draw strong conclusions about the relationship between processing fluency and status-quo bias.
+*   **Repetitive Explanations**: The same explanations are repeated through each section of the paper
+
+**Areas for Improvement:**
+
+*   **Address the Manipulation Check Problem:**
+
+    *   **Pilot Testing:** Before running the main studies, conduct thorough pilot testing of the brow manipulation and cover story to ensure they are effective in inducing the intended feeling of difficulty and attributing it to the correct source. Use a pre-test with similar populations.
+    *   **Alternative Manipulations:** Consider exploring alternative manipulations to induce processing fluency or difficulty. For example, you could manipulate the font size, the clarity of the text, or the complexity of the wording of the moral dilemmas.
+    *   **More Direct Measures of Fluency:** Include more direct measures of subjective fluency, such as asking participants how easy or difficult they found the dilemmas to understand and process.
+
+*   **Strengthen the Attribution Manipulation:**
+
+    *   **Refine the Cover Story:** Carefully revise the cover story to minimize the likelihood that participants will attribute their feelings of difficulty to the computer or other external factors. Perhaps a less believable (or more ambiguous) cover story would be better.
+    *   **Consider a No-Computer Condition:** If possible, run a condition where participants complete the study without being near a computer to eliminate this potential source of attribution.
+    *   **Post-Manipulation Attribution Questions:** Include questions that directly assess where participants attributed their feelings of difficulty.
+
+*   **Increase Statistical Power:**
+
+    *   **Increase Sample Size:** Aim for larger sample sizes in future studies to increase the statistical power to detect significant effects. A power analysis can help determine the appropriate sample size.
+
+*   **Strengthen the Discussion:**
+
+    *   **More In-Depth Discussion of the Difficulty-Moderation Effect:** Although the main manipulation failed, the finding that perceived difficulty moderated status-quo responses is interesting and should be explored in more detail. Discuss possible reasons for this effect and its implications for understanding decision-making.
+    *   **Explore Alternative Explanations:** Consider and discuss alternative explanations for the findings. Are there other psychological processes that could be influencing the results?
+    *   **Focus on What Was Learned:** Even though the original hypothesis was not supported, emphasize what *was* learned from the research. What did the studies reveal about the challenges of manipulating processing fluency and controlling for attribution biases?
+    *   **Avoid Repetition**: The paper goes over the same points multiple times, leading to unnecessary length and a lack of new insights.
+
+*   **Statistical Rigor**: Make sure the correct statistical tests were applied.
+
+**Specific Suggestions:**
+
+*   **Abstract:** Briefly mention the unexpected results and the main limitations of the study.
+*   **Introduction:** Add a sentence or two about the specific hypotheses being tested.
+*   **Methods:** Provide more details about the specific procedures used to administer the brow manipulation and the manipulation check.
+*   **Results:** Be more cautious in interpreting non-significant results. Avoid stating that there is "no effect" when the p-value is above the significance level. Instead, say that the results "did not reach statistical significance."
+*   **Discussion:** End with a clear statement of the main findings and their implications, even if they are not what was originally expected.
+
+**Revised Conclusion (Example):**
+
+"While the brow manipulation proved ineffective in inducing the intended feeling of difficulty, this research highlights the sensitive nature of attribution processes in psychological experiments. The findings also provide suggestive evidence that perceived difficulty may moderate status-quo responses in moral dilemmas, warranting further investigation with more robust and controlled manipulations. Future research should focus on refining methods for manipulating processing fluency and carefully controlling for attribution biases to better understand the relationship between fluency and decision-making."
+
+By addressing these areas, you can significantly strengthen the paper and contribute more meaningfully to the understanding of processing fluency and decision-making. Good luck!

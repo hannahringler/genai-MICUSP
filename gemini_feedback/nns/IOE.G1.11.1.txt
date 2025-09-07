@@ -1,0 +1,44 @@
+Here's some feedback on the paper, covering strengths, weaknesses, and suggestions for improvement:
+
+**Overall Impression:**
+
+The paper tackles a practical problem (revenue sharing in a sports league) using a quantitative method (Data Envelopment Analysis). It demonstrates an understanding of DEA and its application.  The paper is generally well-structured and clearly presents the methodology and results.  However, it lacks some depth in justification and explanation, particularly regarding the assumptions and implications of the chosen models.
+
+**Strengths:**
+
+*   **Clear Problem Definition:** The background section clearly outlines the problem: unequal distribution of revenue in the league, motivating the need for a fair and efficient allocation system.
+*   **Appropriate Methodology:**  The choice of DEA and the specific models (BCC-O and Categorical Variables) is reasonable and justified based on the characteristics of the data (variable returns to scale, categorical variables).
+*   **Structured Presentation:** The paper follows a logical structure, with a clear introduction, methodology section, results section, and conclusion. Tables are used effectively to present the DEA results.
+*   **Practical Application:** The paper concludes with a concrete recommendation for revenue sharing, which demonstrates the practical applicability of the analysis.
+
+**Weaknesses:**
+
+*   **Limited Justification for Model Choice:** While the paper states *why* the BCC-O model was chosen (variable returns to scale), it doesn't deeply explain *how* or *why* variable returns to scale are relevant to the problem. For example, are there diminishing returns to investment in the teams?
+*   **Assumption Examination:** A critical part of DEA is acknowledging and addressing the assumptions. The paper mentions one assumption about the luxury tax, but it is worthwhile to mention others, such as, are all the teams operating at their most efficient scale?
+*   **Interpretation and Discussion of Results:** The paper primarily presents the DEA results in tables.  More in-depth discussion on the *meaning* of these efficiencies, and implications of the suggested funds needs to be conducted.
+*   **Clarity on Categorical Variable Implementation:** The paper discusses using categorical variables but could be clearer about *how* these variables are implemented in the DEA model (how do category 1 and category 2 interact with the analysis).
+*   **Limited Exploration of Alternatives:** There is no discussion of why other methods (e.g., simple regression analysis, fixed percentages) were not considered. A brief discussion of alternative approaches would strengthen the paper.
+*   **Lack of Sensitivity Analysis:** A brief consideration of the sensitivity of the results to different assumptions (e.g., different escrow fund size, different definitions of "effort") would increase the robustness of the analysis.
+
+**Specific Suggestions for Improvement:**
+
+*   **Elaborate on the Rationale for BCC-O:** Justify why variable returns to scale are relevant to the problem, connecting it to the context of the teams and their operations.
+*   **Discuss Assumptions More Thoroughly:**
+    *   Acknowledge and discuss the main assumptions of DEA (e.g., homogeneity of units, input/output orientation, etc.).
+    *   Discuss how these assumptions might affect the results. Are they reasonable in the context of the league?
+*   **Provide a Deeper Interpretation of Efficiency Scores:**
+    *   Explain what a low efficiency score *means* for a particular team.  Is it primarily due to low revenue, or is it due to inefficiency?
+    *   Discuss possible reasons why some teams are less efficient.
+*   **Clarify Categorical Variable Usage:** Be specific about how the categorical variables are incorporated into the DEA model. Does it affect the frontier or something else?
+*   **Justify Escrow Fund Distribution Methodology:**
+    *   Explain why allocating funds proportionally to efficiency is the most appropriate and fair method. Are there other potential allocation strategies?
+    *   What are the implications of only distributing funds among non-luxury tax teams?
+*   **Consider Sensitivity Analysis:** Briefly explore how the results might change if the assumptions are slightly altered.
+*   **Consider other Models:** Would any of the super-efficiency models be useful here?
+
+**Minor Comments:**
+
+*   **Grammar and Style:** The writing is generally clear, but careful proofreading could eliminate minor grammatical errors and improve sentence flow. For example, "Data Envelopment Analysis has been made" could be improved to "A Data Envelopment Analysis has been performed".
+*   **Presentation of Tables:** Consider adding units to the table (dollars, people).
+
+By addressing these weaknesses and incorporating the suggestions, you can significantly strengthen the paper and demonstrate a more complete understanding of DEA and its application to this problem.

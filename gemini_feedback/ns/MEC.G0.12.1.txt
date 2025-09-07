@@ -1,0 +1,60 @@
+Okay, here's some feedback on the paper "Attitude Control Algorithms Selection," focusing on clarity, technical depth, and overall presentation:
+
+**Overall Impressions**
+
+*   **Good Start:** The paper provides a decent overview of attitude control for CubeSats using magnetic torquers. It covers essential concepts like attitude determination, control actuators, and common control algorithms.
+*   **Target Audience:** Clarify your intended audience. If you're writing for other engineering students, you can assume a certain level of understanding. If it's for a more general audience, you'll need to explain concepts more thoroughly.
+*   **More technical detail:** The paper could go deeper into the underlying mathematical/algorithmic details.
+
+**Specific Feedback**
+
+**1. Introduction and Background**
+
+*   **Motivation:** Briefly explain *why* attitude control is so critical for CubeSats. What are some common mission objectives that require precise attitude?
+*   **ADACS Functions:** Include a brief explanation of each function. What does "attitude determination" *involve* (e.g., sensor data processing, filtering)?
+
+**2. ADACS Hardware and Picosat**
+
+*   **Picosat Description:** Elaborate more on the Picosat platform being considered. Specifics will make it more convincing.
+*   **Actuator Trade-off:** Expand on the trade-off between weight, power, and available power that led to the selection of magnetic torque coils. What are the alternatives? What are their pros and cons?
+*   **2-Axis Control:** Further explain the limitation of controlling only two axes at a time with magnetic torquers. The current explanation is a bit vague. Relate it more directly to the Earth's magnetic field vector and how the torque can only be applied perpendicular to it.
+
+**3. Control Algorithms**
+
+*   **General:**
+    *   Explain what each term means.
+    *   The paper lacks sufficient depth when describing control algorithms.
+*   **B-Dot Controller:**
+    *   Explain the formula of the B-Dot controller.
+    *   Explain how the B-dot controller works in more detail. Provide the basic equations. What is the relationship between the measured rate of change of the magnetic field (B-dot) and the torque applied by the coils?
+    *   Include the block diagram.
+*   **Linear Quadratic Controller:**
+    *   Expand on what "linearizing the systems dynamics" means in this context. What are the state variables? What are the control inputs?
+    *   Give the general form of the cost function being minimized. How are the weighting matrices (Q and R) chosen?
+    *   How is the gain matrix generated?
+*   **Constant Gain Controller vs. LMI:**
+    *   Table-1 (mentioned but not included). Include the table for the comparison. Be specific in the advantages and disadvantages.
+
+**4. Recommendations**
+
+*   **Simulations:** This is a good recommendation.
+*   **Reference Satellites:** Mention the attitude control systems and mission objectives of the reference satellites (Norway's NCUBE, AAU Cubesat, GURWIN-techsat) *briefly*.
+
+**5. Appendix (Mentioned but not Included)**
+
+*   **Appendix-A:** Include it.
+*   Ensure any figures are properly referenced.
+
+**General Style and Clarity**
+
+*   **Technical Vocabulary:** Use precise technical terms.
+*   **Equations:** Include equations where appropriate to provide a more rigorous explanation of concepts and algorithms.
+*   **Figures/Diagrams:** The inclusion of figures and diagrams enhances understanding. Make sure they are clearly labeled and referenced in the text.
+
+**Suggestions for Improvement**
+
+1.  **Add more detail on the algorithms.**
+2.  **Provide numerical results, if possible.** Consider including simulation results. This would make the paper much more convincing.
+3.  **Add diagrams.**
+
+Let me know if you'd like more details on any specific areas!

@@ -1,0 +1,74 @@
+Certainly! Here is detailed feedback on the referee report for “Country Size, Currency Unions, and International Asset Returns” by Tarek A. Hassan. I’ll organize the feedback by strengths, weaknesses, and suggestions for improvement.
+
+---
+
+### Strengths
+
+**1. Depth of Analysis:**
+- The report demonstrates an impressive understanding of both the theoretical and empirical aspects of the paper under review. The writer engages rigorously with the modeling assumptions, derivations, and even references foundational papers (e.g., Backus & Smith, Tesar).
+
+**2. Clarity and Structure:**
+- The structure is logical, walking the reader through motivation, theoretical model, and empirical strategy, followed by an overarching assessment. The use of subheadings and step-by-step exposition helps readers follow complex arguments.
+
+**3. Critical Engagement:**
+- The report does not simply summarize but engages in meaningful critique with both the theoretical approaches (e.g. utility function assumptions, contrast with prior literature) and the empirical strategy (econometric issues, possible omitted variables).
+
+**4. Constructive Suggestions:**
+- The report includes several actionable suggestions:
+  - Importance of addressing risk premia when testing UIP.
+  - Suggestions for more robust econometric tests (e.g., checking and correcting for autocorrelation; using HAC standard errors).
+  - Highlighting the need for discussion on functional form robustness and connection to prior literature.
+
+**5. Reference to Literature:**
+- The reviewer places the paper in academic context by discussing where and how it aligns or diverges from well-cited literature (Backus & Smith, Tesar, Lustig & Verdelhan, Campbell et al.).
+
+---
+
+### Weaknesses
+
+**1. Tone and Balance:**
+- While critical, at times the tone borders on dismissive, especially regarding the empirical work (“done only for expository purposes”). More balance between critique and acknowledgement of the paper's contributions would be ideal for a referee report.
+
+**2. Overemphasis of Theoretical Flaws:**
+- The report spends significant time detailing theoretical limitations and parameter assumptions. While important, it could be more concise—emphasizing the most critical theoretical issues for the audience (authors/editors) rather than exhaustively replicating earlier literature’s derivations.
+
+**3. Minor Issues with Clarity:**
+- In places, the technical critique could benefit from more explanation for readers less familiar with the field. For example, explaining why certain conditions on parameters matter for utility specification, or what multiplicative separability entails in layman’s terms.
+
+**4. Limited Discussion of Empirical Results:**
+- The report critiques the empirical implementation, but doesn’t summarize what the author did find, or whether the empirical patterns seem robust or interesting despite methodological weaknesses.
+
+**5. Lacks Final Recommendation:**
+- The report would benefit from a clear summary recommendation at the end (e.g., major revision, minor revision, rejection, or acceptance), tied explicitly to the critique.
+
+---
+
+### Suggestions for Improvement
+
+**1. Broaden the Summary of the Paper’s Contributions:**
+- Before launching into critique, more clearly state what the main contribution(s) are—especially as perceived positives—even if the execution is not perfect.
+
+**2. Strengthen the Connection with Literature:**
+- Instead of just pointing out what is missing, encourage the author to explicitly position the work in relation to earlier complete markets/ non-tradable goods models.
+
+**3. Guide Instead of Criticize:**
+- Offer more guidance on how the author could best address the criticisms. For instance, if robustness to functional forms is lacking, suggest specific robustness checks or simulations rather than just highlighting the issue.
+
+**4. Comment on Empirical Results:**
+- Briefly discuss the empirical findings, their consistency with the theory, and whether they are interesting or surprising—even if the methods are imperfect.
+
+**5. Add a Recommendation:**
+- End with a clear statement: **“I recommend revision/rejection/acceptance”**—and summarize the main reasons.
+
+**6. Check for Redundancy and Length:**
+- Consider condensing the detailed walkthrough of theory—summarize where possible unless specific mathematical errors are present.
+
+---
+
+### Example Conclusion
+
+> **In summary, this paper offers an interesting and novel theoretical perspective on the relationship between country size and international asset returns, contributing to our understanding of deviations from UIP and the role of non-tradable goods. The theoretical analysis is rigorous, but the author needs to situate the findings more clearly within the existing literature and be transparent about the sensitivity of results to underlying parameter choices. On the empirical side, the analysis could be strengthened by addressing potential issues related to risk premia, functional form robustness, and serial correlation in the data. I recommend a major revision, with particular attention to both theoretical robustness and a more careful econometric implementation.**
+
+---
+
+If you’d like, I can help rewrite specific sections or provide more focused advice on theoretical or empirical critique. Let me know your needs!

@@ -1,0 +1,63 @@
+Okay, here's a breakdown of the paper's strengths and weaknesses, along with suggestions for improvement.  I'll focus on aspects like clarity, organization, technical depth, and overall impact.
+
+**Overall Impression:**
+
+This paper presents a solid introduction to the topic of contaminant transport in constructed wetlands for urban stormwater management. It's well-structured and demonstrates a good understanding of the relevant literature. The West Park case study provides a practical context for the theoretical discussion. However, the paper could benefit from a more in-depth analysis of the model results, a clearer justification for the model selection, and a more thorough discussion of the limitations of the chosen approach.
+
+**Strengths:**
+
+*   **Clear Introduction and Problem Statement:** The paper clearly articulates the problem of increased urban runoff and the potential of constructed wetlands as a solution. The objectives are clearly defined.
+*   **Good Literature Review:** The literature review is comprehensive, covering relevant aspects of wetland design, contaminant removal mechanisms, and existing modeling approaches. The citations are appropriately used to support the arguments.
+*   **Well-Structured:** The paper follows a logical structure, progressing from general background to specific case study and model analysis. The sections are well-defined and easy to follow.
+*   **Case Study Application:** The West Park case study adds significant value by providing a concrete example of the challenges and considerations involved in designing a constructed wetland for stormwater management.
+*   **Model Implementation:** The implementation of the 1D advection-diffusion-reaction model is a good starting point and demonstrates an understanding of the underlying principles.
+*   **Parametric Analysis:** The parametric analysis is valuable for exploring the sensitivity of the model results to different parameters.
+
+**Weaknesses and Suggestions for Improvement:**
+
+*   **Model Justification:**
+    *   **Weakness:** The rationale for choosing the 1D advection-diffusion-reaction equation over other, more complex models (e.g., the 2D model mentioned in the literature review) is not fully justified.
+    *   **Suggestion:** Elaborate on the trade-offs between model complexity and computational cost. Clearly explain why the 1D model is sufficient for the specific objectives of this study. Discuss the key assumptions and limitations associated with this simplification.
+*   **Model Validation:**
+    *   **Weakness:** There is no direct validation of the model against field data or experimental results for the West Park site or a similar wetland.
+    *   **Suggestion:** Ideally, you would validate the model using actual data from the West Park site (if available) or a similar wetland. At a minimum, discuss the potential sources of error and uncertainty in the model results due to the lack of validation.  Consider comparing the model's predictions to published removal efficiencies for similar wetland designs and pollutant types.
+*   **Analysis of Model Results:**
+    *   **Weakness:** The discussion of the model results is somewhat superficial. The figures are presented, but the implications of the different parameter values on the overall treatment efficacy are not fully explored.
+    *   **Suggestion:** Provide a more detailed interpretation of the model results. Quantify the impact of different decay rates and diffusion coefficients on the effluent concentration. Discuss the implications of these findings for the design and operation of the West Park wetland. For example, what is the optimal combination of parameters to achieve a desired level of pollutant removal? How sensitive is the treatment efficacy to changes in flow rate or inlet concentration?
+*   **Clarity and Detail in Methodology:**
+    *   **Weakness:** Some aspects of the methodology are not described in sufficient detail. For example, how were the decay rate and diffusion coefficient values tuned using the Johengen [20] data? What specific criteria were used to determine the appropriate values?
+    *   **Suggestion:** Provide more detailed information on the model calibration process. Explain how the Johengen [20] data were used to tune the decay rate and diffusion coefficient values. Include a sensitivity analysis to assess the impact of uncertainty in these parameters on the model results.
+*   **Limitations of the Study:**
+    *   **Weakness:** The paper does not explicitly discuss the limitations of the study.
+    *   **Suggestion:** Include a section that discusses the limitations of the model, the assumptions made in the analysis, and the potential sources of error. This will help to provide a more balanced and realistic assessment of the results.
+*   **Future Work:**
+    *   **Suggestion:** Expand the future work section to include specific recommendations for further research. For example, suggest incorporating more complex hydrological models, conducting field experiments to validate the model, or investigating the role of vegetation in pollutant removal.  Also, address the spatial distribution of pollutants entering the wetland system.
+*   **Figures and Tables:**
+    *   **Suggestion:** The figures are generally clear, but consider increasing the font size on the axes labels to improve readability. Ensure all axes are clearly labeled.
+
+**Specific Comments by Section:**
+
+*   **Abstract:** Good overview, but could be more specific about the main findings. Quantify the effect of the parameters on treatment efficacy (if possible).
+*   **Introduction:** Excellent problem statement and clear objectives.
+*   **Wetland Overview:** Comprehensive overview of wetland types and their functions.
+*   **Constructed Treatment Wetlands:** Good discussion of the benefits and design considerations for constructed wetlands.
+*   **West Park Case Study:** Good description of the site and the proposed wetland design.
+*   **Wetland Model Development:**
+    *   **Model Justification:** As mentioned above, strengthen the rationale for choosing the 1D model.
+    *   **Model Description:** The model is well-described, but provide more detail on the numerical solution method (e.g., the specific parameters used in the "pdepe" solver in Matlab).
+    *   **Boundary Conditions:** Good discussion of the boundary conditions.
+*   **Model Results:**
+    *   **Analysis:** Provide a more in-depth analysis of the results and their implications for wetland design.
+    *   **Visualization:** Consider adding additional figures to illustrate the sensitivity of the treatment efficacy to different parameters.
+*   **Conclusions and Future Work:** Good summary of the main findings. Expand the future work section to include more specific recommendations.
+*   **References:** The references are comprehensive and well-formatted.
+
+**Specific Edits:**
+
+*   In the Abstract, instead of saying "compares these models by analyzing the effect of the model parameters on treatment efficacy," be more direct. For example: "The study analyzes the impact of wetland length, diffusion coefficient, and contaminant decay rate on treatment efficacy, providing insights into optimal design parameters."
+*   Throughout the paper, pay attention to consistency in units.
+*   In the Conclusion, add a statement about the potential benefits of a spatially varying reaction rate.
+
+**In Summary:**
+
+This is a well-written and informative paper that provides a good introduction to the topic of contaminant transport in constructed wetlands. By addressing the weaknesses outlined above, you can significantly enhance the paper's technical depth, analytical rigor, and overall impact. The key areas to focus on are strengthening the model justification, providing a more in-depth analysis of the model results, and clearly discussing the limitations of the study. Good luck!

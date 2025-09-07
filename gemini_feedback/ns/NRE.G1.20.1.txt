@@ -1,0 +1,75 @@
+Okay, I've reviewed your paper and will provide feedback, focusing on clarity, argumentation, organization, and adherence to academic conventions.
+
+**Overall Impression:**
+
+The paper demonstrates a good understanding of GIS principles and multi-criteria land allocation. You clearly outline the steps taken in your analysis and the software used. However, the paper could benefit from more detailed explanations and a more robust discussion of the results and their implications.  The writing is generally clear, but some areas could be more concise and precise.
+
+**Specific Feedback:**
+
+*   **Abstract:**
+
+    *   The abstract is missing. An abstract would provide a concise overview of the problem, methods, results, and conclusion.
+
+*   **Introduction:**
+
+    *   Good background on habitat loss and its importance.
+    *   "Upon the observance of a 1995 land use map, I decided..." This sounds somewhat subjective. Consider reframing this to be more objective, stating that the decision was based on specific problems of the land allocation.
+    *   The land use goals are stated but perhaps the reasoning behind the percentage targets could be further explored. Are the targets based on best practices or ecological science?
+    *   Good to mention the minimization of habitat fragmentation, connecting back to your initial concerns.
+
+*   **Methods:**
+
+    *   Clear description of the six-step process.
+    *   Explain what ModelBuilder is and why it's useful. Assume the reader isn't intimately familiar.
+    *   "Each criterion involved a model that produced a score (1-100) to be used for suitability mapping." Clarify that all raster map cells were scored 1-100.
+    *   "Each criterion was assigned a weight through the website provided in the lab handout." Be more specific about how the weighting was determined. Was it based on literature review, expert opinion, or a pre-defined method in the lab handout (e.g., Analytical Hierarchy Process)? This is crucial for the rigor of the analysis. If it's subjective, acknowledge that and the limitations.
+    *  Provide more detail about the selection and justification of the criteria used.
+
+*   **Results:**
+
+    *   The tables are clearly presented and labeled.
+    *   Explain C.I. in the table captions (Consistency Index).
+    *   "Table 4 illustrates the negative correlation..." Good to point out this key finding. Elaborate on what this negative correlation implies in practical terms.
+    *   "Figure 1 shows two land use maps..." The figure caption is adequate, but consider adding a sentence that highlights the key visual changes/differences apparent between the two maps.
+    *   The report states the nature preserve land went down 4.6% but the graphic shows a change from 38.8% to 34.6% (-4.2%). The same is true for the change in agriculture (-7.8% in text, -7.8% graphic).
+
+*   **Discussion:**
+
+    *   "Land for natural preservation was short by 13.5% of overall land, while development was 4.6% steep and agriculture was 8.8% steep." Should this be "short" or something else? Is the land area "over" the target allocation? Also, make sure the percentages in this paragraph match the figures and tables.
+    *   "I stumbled across a more appropriate allocation when I neglected to rescale the agricultural score..." This anecdote is problematic. It suggests a lack of rigor in the method. Either omit it or fully explore *why* the unscaled score gave a better result. If it's ecologically more sound, it would be a valid observation, but the paper needs to explore the reasons.
+    *   The Discussion section is strong in pointing out the patterns in the results. However, it needs more critical analysis. For instance:
+        *   Why did the model fail to meet the target allocation? Discuss potential reasons (e.g., weighting scheme, data limitations, model constraints).
+        *   What are the potential consequences of the changes in land use (both positive and negative)? How might the changes affect biodiversity, water resources, or other ecological processes?
+        *   How sensitive are the results to changes in the weighting scheme?
+    *   The section discussing the importance of easy editing with ArcGIS is good, but consider focusing on the *ecological* implications of being able to adjust the model.
+
+*   **Conclusion:**
+
+    *   The conclusion is too brief. It should summarize the main findings, reiterate the significance of the work, and suggest future research directions.
+
+*   **Citations:**
+
+    *   Correctly formatted.
+
+*   **Figures and Tables:**
+
+    *   All figures and tables need descriptive captions.
+    *   Consider improving the visual clarity of the map in Figure 1.
+
+**Recommendations:**
+
+1.  **Add an Abstract:** Provide a concise summary of the paper's key elements.
+
+2.  **Clarify Methods:** Provide justification for criteria and weighting schemes. Explain any assumptions or limitations.
+
+3.  **Strengthen Discussion:** Analyze the results more critically, exploring reasons for unexpected outcomes and potential implications.
+
+4.  **Expand Conclusion:** Summarize findings, highlight significance, and suggest future research.
+
+5.  **Address Accuracy:** Ensure all percentages and figures are consistent throughout the paper.
+
+6.  **Refine Writing:** Be more concise and precise in language.
+
+7.  **Cite Sources:** Ensure you cite all sources appropriately, including the lab handout if you used it as a primary source.
+
+By addressing these points, you can significantly strengthen your paper and demonstrate a deeper understanding of the concepts and techniques involved in multi-criteria land allocation. Good luck!

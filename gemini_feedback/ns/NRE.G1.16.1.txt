@@ -1,0 +1,43 @@
+Okay, I've reviewed the paper and can provide feedback.  To give you the most helpful feedback, I'll break it down into several areas:
+
+**Overall Impression:**
+
+The paper presents a well-researched and detailed case study of the Jamaica Plain Arborway Streetcar Service controversy. It effectively outlines the history of the issue, the key stakeholders, and the various perspectives involved.  The writing is generally clear and organized. The use of sources appears thorough.
+
+**Strengths:**
+
+*   **Thorough Research:** The paper demonstrates extensive research into the history of the Arborway Streetcar issue, citing a variety of sources including news articles, government documents, legal filings, and websites.
+*   **Clear Organization:** The paper follows a logical structure, starting with the background of the CA/T project, then introducing the Arborway Streetcar controversy, identifying the key players, and examining the collaborative efforts and their eventual failure.
+*   **Balanced Perspective:** The paper strives to present a balanced view of the issue, outlining the arguments of both proponents and opponents of the streetcar restoration.
+*   **Detailed Account of Collaboration:** The section on the ARRPAC provides a valuable and detailed account of the collaborative process, its goals, and its eventual breakdown.
+*   **Relevant Appendices:** The appendices help illustrate some key points (map, rail conditions, ARRPAC tour)
+
+**Areas for Improvement:**
+
+*   **Analytical Depth:** While the paper provides a good overview of the events, it could benefit from deeper analytical insights. Consider exploring the underlying power dynamics, political motivations, and social justice implications in more detail. For example:
+    *   Why did certain groups form and why did they take their respective stances?
+    *   How did the different frames of the problem (environmental, economic, social justice) affect the debate?
+    *   What were the specific strategies used by different stakeholders to influence the outcome?
+*   **Connecting to Broader Theories:** Consider linking the case study to broader theories or concepts in urban planning, public policy, environmental justice, or conflict resolution. This would elevate the paper beyond a descriptive account and provide a more theoretical framework. This could include things like:
+    *   The Tragedy of the Commons - many parties, diverse needs.
+    *   NIMBYism
+
+*   **Clarity and conciseness:** While generally clear, some paragraphs get bogged down in details. Consider streamlining the writing to focus on the most important information. For example:
+
+    *   Can facts be omitted without damaging the meaning?
+    *   Are the sentences written in the active rather than passive voice?
+    *   Are there words that can be omitted without damaging the meaning?
+*   **Conclusion:** The conclusion could be strengthened by offering more specific insights or recommendations. What are the key lessons learned from this case study? What are the implications for future transportation planning projects?
+*   **Formatting and consistency:** There are formatting issues. For example, the appendices do not have page numbers. Also, "Annendix A. MRTA man of Green Line service" should be "Appendix A: MBTA map of Green Line service." All appendices should have similar naming conventions, with brief descriptors.
+
+**Specific Suggestions:**
+
+*   **Elaborate on Environmental Justice:** In the section on Jamaica Plain and Environmental Justice, delve deeper into the specific environmental burdens faced by the community and how the lack of transportation options exacerbates these problems.
+*   **Analyze the Failure of ARRPAC:** Explore the reasons for the ARRPAC's failure in more depth. What were the specific political pressures that led to its demise? How could the process have been designed differently to increase its chances of success?
+*   **Strengthen the Conclusion:** Provide a stronger concluding statement that summarizes the key findings of the case study and offers insights or recommendations for future transportation planning projects.
+
+**In summary:**
+
+This is a strong paper with a solid foundation of research. By adding more analytical depth, connecting the case study to broader theories, and strengthening the conclusion, you can elevate it to an even higher level.
+
+Good luck!

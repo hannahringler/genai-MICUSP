@@ -1,0 +1,97 @@
+Absolutely! Here’s some detailed feedback on the paper, **“The Role of Pitch in the Perception of Vlach Stressed Syllables”**. I’ll address **strengths, weaknesses, clarity, methodology, and areas for improvement**, both major and minor.
+
+---
+
+## **Overall Evaluation**
+
+This paper outlines a perceptual experiment examining whether pitch alone can influence the perception of stress in Vlach disyllabic words, while controlling for other relevant factors (vowel quality, intensity, duration). The experiment yielded negative results, and the discussion thoughtfully analyzes potential reasons for these findings, centering on experimental design and participant behavior.
+
+---
+
+## **Strengths**
+
+1. **Clear Motivation and Hypothesis:**
+   - The introduction clearly motivates the experiment, relating it to prior work and highlighting the importance of teasing apart factors influencing stress perception.
+
+2. **Comprehensive Methodological Description:**
+   - The methods section is thorough, openly discussing difficulties encountered in controlling variables and justifying experimental choices with data and visualizations (charts, figures).
+
+3. **Critical Self-Reflection:**
+   - The author exhibits a commendable level of self-critique, addressing plausible flaws in the experimental set-up and being honest about the unsatisfactory results. This transparency increases the credibility of the work.
+
+4. **Discussion of Participant Behavior:**
+   - Including the participant’s comments and speculations provides real insight into the experimental process and interpretation of results.
+
+5. **Useful Appendices:**
+   - The appendix and exhaustive response data display transparency and would be valuable for anyone wanting to understand or replicate the study.
+
+---
+
+## **Weaknesses and Areas for Improvement**
+
+### **Experimental Design and Analysis**
+
+1. **Single-Participant Limitation:**
+   - **Major Flaw:** All conclusions are based on a single subject’s responses. This renders the experiment anecdotal rather than truly experimental; speaker variability is highly likely in perception studies.
+   - *Suggestion:* Recruit at least 5–10 native speakers to gain more generalizable results.
+
+2. **Assumption of “Neutral” Tokens:**
+   - The basis for defining “neutral” tokens is somewhat circular—the experiment depends on them, yet results suggest they weren’t neutral (as nearly all tokens were judged by the participant as second-syllable stress).
+   - *Suggestion:* Pre-test neutrality by having multiple participants rate the tokens, or develop an objective acoustic criterion for neutrality prior to modification.
+
+3. **Stimulus Naturalness:**
+   - The decision to splice syllables from different words and create “artificial tokens” likely resulted in less natural stimuli. The experiment acknowledges this, and the participant may have been cued by unnaturalness rather than pitch.
+   - *Suggestion:* Consider using synthesized speech or training speakers to produce truly ambiguous tokens, then verify their naturalness/perception as “unstressed” in a pre-test.
+
+4. **Single-Factor Manipulation (Pitch Only):**
+   - The experiment only manipulated pitch, but the participant’s stress judgments may have been influenced by intensity or duration that wasn’t sufficiently neutralized.
+   - *Suggestion:* Either implement more rigorous control (or even randomization) of non-target f0 cues or structure the study to systematically explore the interaction between cues—not just pitch in isolation.
+
+5. **Analysis of Results:**
+   - The discussion is speculative and lacks statistical or quantitative analysis of the limited perception data. No figures or tables summarize the few non-default responses.
+   - *Suggestion:* Even for single-subject data, brief tables/graphs showing stress perception as a function of pitch difference could clarify patterns.
+
+---
+
+### **Presentation and Clarity**
+
+1. **Overly Dense in Methods:**
+   - Some paragraphs, particularly about duration/intensity manipulation and formant chart discussion, are dense and difficult to follow.
+   - *Suggestion:* Consider breaking up long paragraphs and summarizing key findings in bullet points or concise statements for clarity.
+
+2. **Figures and Visual Aids:**
+   - While figures are included, more labeling and explicit interpretation would help. E.g., the pitch contour figures could clearly indicate the expected/observed stress perception for those tokens.
+
+3. **Conclusion Could Be Stronger:**
+   - The conclusion is appropriately cautious but could propose more concrete next steps (“If I were to repeat the experiment, I would do X...”) and summarize what the experiment, despite flaws, teaches us about the process.
+
+4. **Typographical and Formatting Details:**
+   - Occasional line breaks and footnotes get in the way of the reading flow (e.g., “1” superscript referencing a note in the methods), and jargon like “token 16” requires repeated reference back to earlier sections. A table of token properties early on might help.
+
+---
+
+## **Minor Points**
+
+- **Participant’s Strategy:** The participant’s comment about always choosing one option in ambiguous cases is a warning sign—this suggests experimental fatigue, unclear instructions, or lack of engagement; future studies should monitor for and mitigate this.
+- **Literature Context:** Incorporating more prior work on cue weighting in stress perception (in Vlach or typologically similar languages) could strengthen the framing.
+- **Order Effects:** There’s some suggestion that once “token 16” was heard, responses changed; a randomized token order and breaks during the task may help.
+
+---
+
+## **Summary**
+
+This paper honestly reports a null result due to design limitations. The author’s transparency and willingness to critique their own methodology are commendable, which is a sign of scientific maturity. The main weaknesses involve reliance on a single participant, questionable neutrality/naturalness of stimuli, and insufficient control of non-pitch variables.
+
+### **Recommendations for Revision or Future Work**
+
+- **Recruit multiple participants for perceptual judgment.**
+- **Verify true “neutrality” and “naturalness” of base tokens with a pretest.**
+- **Use synthesized or carefully recorded natural tokens to avoid artifacts introduced by splicing.**
+- **Consider manipulating/controlling multiple cues simultaneously, not in isolation.**
+- **Frame the study more explicitly within existing literature on stress cue weighting and pitch perception.**
+
+---
+
+### **In Short**
+
+With some methodological corrections and scaling up, this line of research could yield valuable insights into the perceptual importance of pitch versus other stress cues in Vlach. The thoughtful reflections on the experiment’s failures and the process of learning from “what didn’t work” are the greatest strengths of this paper.

@@ -1,0 +1,72 @@
+Certainly! Here’s a detailed feedback on the paper “Findings from Lab Two, Multi-Criteria / Multi Objective Land Allocation” based on common academic criteria for scientific and technical writing:
+
+---
+
+### **Strengths**
+
+1. **Clear Objective and Introduction:**
+   - The paper opens with a concise statement of the objectives and provides relevant context about the importance of biodiversity and the impacts of land use change.
+   - The references to credible sources (Wilson 2002, Collinge 1996) set a strong scientific foundation.
+
+2. **Organization and Structure:**
+   - The report follows a logical academic structure: Objective, Introduction, Methods, Results, Discussion, Conclusion, Citations, Appendix.
+   - Tables and figures are used to clearly present data and model results.
+
+3. **Methodological Transparency:**
+   - The methods section is thorough, providing enough detail about the steps followed in arcGIS for replicability.
+   - Weights for each criterion are justified, and the rationale behind model decisions is explained.
+
+4. **Critical Reflection:**
+   - The author acknowledges the limitations of the model and suggests refinements, demonstrating critical thinking.
+   - Unexpected outcomes, such as the benefit of habitat corridors, are discussed insightfully.
+
+5. **Use of Visuals:**
+   - Figures and tables (e.g., correlation matrix, land use maps, and suitability models) enhance the reader’s understanding of results and analytical processes.
+
+---
+
+### **Areas for Improvement**
+
+1. **Clarity and Conciseness:**
+   - Some sentences are complex and could be more concise. Example:
+     > “Upon the observance of a 1995 land use map, I decided that an allotment of land conserving natural areas with fair distance from the urban growth of Ann Arbor should be a priority in land allocation.”
+     
+     Can be reworded as:
+     > “Reviewing the 1995 land use map, I prioritized allocating natural areas away from Ann Arbor’s urban growth.”
+   
+   - Consider breaking down longer paragraphs for readability.
+
+2. **Quantitative Results and Analysis:**
+   - While the tables and results are clear, the paper could benefit from a deeper numerical comparison between the initial targets and final allocations, perhaps with a chart for quick visualization.
+   - Some percentages in the introduction (10%, 36%, 54%) and results (31.5% developed, 48.1% natural, 20.4% agriculture versus 34.6%, 29.2%, 36.1% on the maps) could be explained with more clarity. Which figures are actual results, and which are targets?
+
+3. **Discussion Depth:**
+   - The discussion on why targets were missed could be expanded, especially regarding the implications for real-world planning. For example, what would be the ecological or social consequences of having more development and less natural area than targeted?
+   - The effects of model choices (like rescaling suitability scores) could be analyzed further in terms of their practical impact.
+
+4. **Integration of Figures and Tables:**
+   - It is good that figures are included, but reference them more explicitly in the text (e.g., “As seen in Figure 1…” or “Table 4 shows…”).
+   - Consider adding figure/table captions that succinctly describe what the reader should notice.
+
+5. **References and Formatting:**
+   - Ensure all in-text citations are accurately reflected in the bibliography. E.g., format Wilson (2002) and Collinge (1996) uniformly.
+   - Follow a consistent style for tables/figures and ensure all are titled and numbered properly.
+
+6. **Language and Grammar:**
+   - There are a few minor grammatical errors and awkward phrases. Proofread for sentence structure and agreement.
+   - For instance, “would have been closer to the target **were** more of the agricultural areas allotted for natural preservation” could be rephrased for clarity.
+
+---
+
+### **Overall Impression**
+This is a strong technical report, demonstrating solid understanding of spatial analysis techniques and environmental planning. With improved clarity in writing, more detailed quantitative analysis, and a deeper discussion of the real-world implications of the modeling choices, it would be an excellent graduate-level paper.
+
+---
+
+**Recommendations for Revision:**
+- Tighten sentences for clarity.
+- Include a table or graph comparing target versus actual land use allocations.
+- Expand discussion of model limitations and their ecological or planning consequences.
+- Proofread for style, grammar, and formatting consistency.
+
+If you have a specific aspect you want more feedback on (methods, results, writing style, etc.), let me know!

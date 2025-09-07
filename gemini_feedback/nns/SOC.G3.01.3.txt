@@ -1,0 +1,62 @@
+Okay, here's some feedback on the paper, focusing on clarity, argumentation, structure, and mechanics.
+
+**Overall Impression:**
+
+The paper tackles a complex topic – the nature of power in Marx, Foucault, and Weber – and demonstrates a good understanding of these thinkers. The attempt to compare and contrast their views is ambitious and shows intellectual engagement. However, the paper suffers from clarity issues, somewhat dense prose, and a few structural weaknesses.
+
+**Strengths:**
+
+*   **Ambitious Topic:** The comparison of Marx, Foucault, and Weber on power is a sophisticated undertaking.
+*   **Demonstrated Knowledge:** You clearly have read and engaged with the relevant texts. You cite specific works and attempt to summarize their key arguments.
+*   **Original Observation:** The initial anecdote about Japanese capitalists and the idea that they too suffer under capitalism provides a compelling starting point and frames your central argument.
+*   **Clear Argumentative Goal:** The paper explicitly states its aim to compare Marx's notion of power with Foucault and Weber.
+
+**Weaknesses and Suggestions for Improvement:**
+
+1.  **Clarity and Conciseness:**
+
+    *   **Dense Prose:** The writing is often dense and could be more accessible. Aim for simpler sentence structures and clearer explanations of complex concepts. Imagine you are explaining these ideas to a knowledgeable but not specialist audience.
+    *   **Jargon:** While some jargon is necessary, overusing it can obscure your meaning. Define key terms when you first introduce them.
+    *   **Specific Examples:**  When discussing abstract concepts, provide concrete examples to illustrate your points.  For instance, when talking about "abstract labor," a short illustration would greatly help.
+
+2.  **Argumentation:**
+
+    *   **Develop the Initial Anecdote:** The opening anecdote is compelling, but it feels somewhat disconnected from the main argument.  Explicitly connect it to your analysis of Marx, Weber, and Foucault. Explain how your reading of these theorists helps to understand the suffering of Japanese capitalists.
+    *   **Nuance the Comparisons:** While highlighting similarities and differences is good, avoid oversimplification.  Acknowledge the complexities and internal contradictions within each theorist's work.
+    *   **Strengthen your claims:** Many sentences state your opinion as fact and aren't backed up. For example, the line "Power is not a thing that subjects can posses at their will." should be followed up with a sentence explaining how that idea is apparent.
+    *   **Address Counterarguments:** Consider possible objections to your argument and address them. For example, if you're arguing that Marx is closer to Weber than Foucault, what arguments could be made for the opposite view?
+    *   **Specificity in Critique:** You say Janmohamed's point is "not valid." Why? What specifically is wrong with Janmohamed's argument?
+
+3.  **Structure:**
+
+    *   **Clearer Thesis Statement:** While the paper states its aim, the thesis statement could be more precise and focused. What is the *specific* argument you are making about the relationship between Marx, Foucault, and Weber's conceptions of power?
+    *   **Stronger Transitions:** Use transitional phrases to connect ideas and paragraphs more smoothly.
+    *   **Concluding Summary:** The conclusion could be more impactful. Briefly restate your main argument and its significance. Reiterate the connection to the opening anecdote.
+
+4.  **Mechanics:**
+
+    *   **Proofread Carefully:** There are a few grammatical errors and typos (e.g., "It cam be argued"). Proofread thoroughly before submitting the paper.
+    *   **Citation Consistency:** Ensure consistent formatting of citations.
+    *   **Clarity on Notes:** Note 2 is confusing as it is incorporated into the body of the paper. Consider moving this into a footnote or removing it altogether. The first note in the paper is similarly confusing and breaks the flow.
+
+**Specific Suggestions (Based on the Text):**
+
+*   **Page 1:**
+    *   "Marx's notion of power gives sufficient explanation why not only workers but also capitalists severely suffered in a capitalist society." This is a good start to your thesis. Make it stronger by stating more definitively the type of suffering and why Marx helps explain it.
+    *   "It cam be argued..." Correct to "It can be argued..."
+    *   "...close to Weber's argument, Marx's logic of power resides in an abstract structure that governs the subjects, while Foucault refuses to presuppose any overall structure." This is a key point. Develop it further. What are the implications of this difference?
+*   **Page 2:**
+    *   Explain "discursive power" more clearly.
+    *   The footnote on page 2 is long and breaks the flow of the text. Consider integrating the relevant information into the main body of the paper or shortening the footnote.
+*   **Page 3:**
+    *   "However, in my reading, this point is not valid." Explain why *your* reading differs and provide evidence for your interpretation.
+*   **Page 4:**
+    *   "In Marx's theory, both capitalists and workers can be considered as the agents of capitalism." This is a crucial point. Develop it.
+    *   Explain what you mean by "power exists in the nexus of knowledge/power."
+*   **Page 5:**
+    *   Clarify your use of the term "structure." Footnote 4 is not placed in the correct position.
+    *   "Overall, Marx, like Foucault, sees that power is discursive..." This statement needs to be supported with more detail from your analysis.
+
+**In Summary:**
+
+This paper has the potential to be a strong piece of work. By focusing on clarity, strengthening your argumentation, refining the structure, and polishing the mechanics, you can significantly improve its impact and persuasiveness. Good luck!

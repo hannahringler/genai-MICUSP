@@ -1,0 +1,82 @@
+Absolutely! Here’s some detailed feedback on your paper, “Transportation Costs and the Non-Agricultural Sector in 19th Century Brazil: A Response to Nathaniel Leff’s, ‘Economic Development in Brazil, 1822-1913.’” I’ll divide feedback into sections: **Argument & Structure, Use of Evidence, Engagement with Literature, Style & Clarity, and Suggestions for Improvement**.
+
+---
+
+## Argument & Structure
+
+**Strengths:**
+- You clearly identify Leff’s central argument and articulate your dissent—namely, that he underestimates the size/importance of the non-agricultural sector, and does not sufficiently explain why Brazil’s rivers could not alleviate transport costs.
+- Hypothesis and goals are well-stated, and you map out a plan to test them, centering on urbanization and sector size in São Paulo and Minas Gerais.
+- The paper's structure is logical: literature review → critique & research question → sources → evidence → analysis → conclusion.
+
+**Areas for Improvement:**
+- The introduction is comprehensive, but could be more concise. Consider summarizing Leff’s arguments a bit more briskly and dedicating more space early on to your thesis and plan.
+- The transition between issues (e.g., from transportation to sector size, from São Paulo to Minas Gerais) could be smoothed with stronger signposting sentences.
+- The conclusion restates your findings effectively, but could go further in anticipating counterarguments or discussing implications for further study.
+
+---
+
+## Use of Evidence
+
+**Strengths:**
+- You make effective use of both qualitative and quantitative evidence (census data, occupational breakdowns, river geography, etc.).
+- Your inclusion of tables from secondary sources makes your argument more tangible and concrete.
+- The engagement with a variety of sources (encyclopedias for river facts, scholarly works for economic and demographic information) demonstrates good research skills.
+
+**Areas for Improvement:**
+- Some claims (e.g. the relative poverty of non-agricultural workers) could use more direct evidence or examples.
+- While you critique Leff on rivers, you ultimately agree with him about the transportation constraints. Could you highlight more clearly the *value added* of your sources in strengthening this point where Leff is vague?
+- Tables are great, but make sure to explain their significance for your argument in plain language immediately after presenting them. For instance, spell out exactly how the figures undercut Leff, rather than leaving it for the reader to interpret.
+
+---
+
+## Engagement with Literature
+
+**Strengths:**
+- You offer a thoughtful, critical response to Leff rather than taking his arguments at face value.
+- There is an impressive depth of scholarship displayed, with well-chosen secondary sources and some primary data.
+- You bring in relevant counterpoints and contextual information (e.g. about urbanization, export vs. domestic agriculture).
+
+**Areas for Improvement:**
+- Occasionally your paper feels more like a literature summary than a sustained argument. Try to weave your critique more consistently throughout, instead of reviewing each source in isolation.
+- Consider critically engaging with even your “supporting” sources (e.g., Luna & Klein): do they have methodological limits, or do they interpret data differently than you do?
+
+---
+
+## Style & Clarity
+
+**Strengths:**
+- The writing is generally clear, direct, and formal—appropriate for academic work.
+- Well-organized sections and proper citation throughout.
+
+**Areas for Improvement:**
+- Watch for some repetitive phrasing, especially in transitions (“As discussed earlier…”/“Now to turn to…”).
+- Some long sentences could be broken for clarity, especially when explaining complex economic relationships.
+- Watch for minor typos (“São Paul” instead of “São Paulo” in a couple places).
+
+---
+
+## Suggestions for Improvement
+
+1. **Sharpen Your Thesis**  
+   Condense the overview of Leff and foreground your disagreement earlier in the introduction.
+   
+2. **Integrate Evidence More Actively**  
+   After each new data point or table, explicitly state how it supports (or undermines) the argument under discussion.
+
+3. **Strengthen Analysis**  
+   Go beyond “Leff was wrong about X percentage; here’s the real number.” Ask *why* he got it wrong, or *what it means* for other scholarly interpretations or policy implications.
+
+4. **Anticipate Counterarguments**  
+   For example, could there be reasons why even a large non-agricultural sector was not dynamic enough to drive growth? Address other potential data limitations.
+
+5. **Polish Presentation**  
+   Carefully proofread for minor typos, sentence structure, and paragraph flow. Make sure all tables/figures are directly discussed in the text.
+
+---
+
+## Summary
+
+**Overall, this is a strong, well-researched undergraduate paper that demonstrates initiative in questioning the scholarly consensus and doing your own careful analysis.** With a bit more focus on synthesis and tighter argumentation, this could go from very good to excellent. Great job taking on a substantial historiographical debate and adding meaningful new insight!
+
+If you’d like, I can help you tighten specific paragraphs, or provide sample revised sections—just let me know!
